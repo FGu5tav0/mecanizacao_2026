@@ -1,7 +1,64 @@
 ---
-title: "Mecanização"
+title: "Mecanização agrícola - IFPR 2026/02"
+subtitle: "Material de aulas"
+author: "Professor"
+format:
+  html:
+    page-layout: full
+    css: styles.css
 ---
 
-This is a Quarto website.
+```{=html}
+<div class="aulas-layout">
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+  <!-- Painel lateral com os cards -->
+  <div class="aulas-sidebar">
+    <div class="aulas-grid">
+
+      <a class="card" onclick="carregarAula('aula_1/aula_1.html', this)" href="#">
+        <div class="card-num">Aula 1</div>
+        <div class="card-title">História e desenvolvimento</div>
+        <div class="card-desc"></div>
+      </a>
+
+      <a class="card em-breve" href="#">
+        <div class="card-num">Aula 3</div>
+        <div class="card-title">Em breve</div>
+        <div class="card-desc">Conteúdo será disponibilizado em breve.</div>
+      </a>
+
+    </div>
+  </div>
+
+  <!-- Painel principal com o iframe -->
+  <div class="aulas-viewer" id="aulas-viewer">
+    <div class="viewer-placeholder" id="viewer-placeholder">
+      <div class="placeholder-icon">📖</div>
+      <p>Selecione uma aula ao lado para visualizá-la aqui.</p>
+    </div>
+    <iframe
+      id="aula-frame"
+      src=""
+      style="display:none; width:100%; height:100%; border:none;"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+</div>
+
+<script>
+function carregarAula(url, cardClicado) {
+  // Remove classe ativa de todos os cards
+  document.querySelectorAll('.card').forEach(c => c.classList.remove('ativo'));
+
+  // Adiciona classe ativa no card clicado
+  if (cardClicado) cardClicado.classList.add('ativo');
+
+  // Esconde placeholder e mostra iframe
+  document.getElementById('viewer-placeholder').style.display = 'none';
+  var frame = document.getElementById('aula-frame');
+  frame.style.display = 'block';
+  frame.src = url;
+}
+</script>
+```

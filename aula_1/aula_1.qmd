@@ -1,0 +1,909 @@
+---
+title: "Mecanização agrícola:"
+subtitle: História e desenvolvimento
+format: clean-revealjs
+institute: Instituto Federal do Paraná <br> Curso Superior em Engenharia Agronômica
+author:
+  - name: Gustavo Frosi
+    # orcid: 0000-0000-0000-0000
+    email: gustavofrosi@hotmail.com
+    # affiliations: UFRGS
+filters:
+  - timeline
+  # - move-abs-elems
+title-slide-attributes:
+  data-background-image: fundo.jpg
+  data-background-size: 50%
+  data-background-opacity: "0.9"
+  data-background-position: right 3% top 52%
+logo: logo.png
+image: true
+date: today
+date-format: long
+lang: pt-BR
+---
+
+## Uso de ferramentas
+<hr>
+
+<!-- ligar modo speaker com a tecla s -->
+
+Humanos possuem dois sistemas parientais envolvidos no comportamento das ferramentas.
+
+::: {.incremental}
+- Circuito biológico que permite agarrar objetos;
+
+- Sistema artifático dedicado ao uso das ferramentas.
+  - Permite a compreensão a relação __causal__ entre uso da ferramenta e obtenção de objetivo.
+:::
+
+::: {.fragment}
+Humanos criam ferramentas ou ferramentas criam humanos?
+:::
+
+## Modelo em espiral expansiva
+
+J. Navarro e P. A. Hancock criam o "Modelo em espiral expansiva" para descrever o caminho evolutivo da simbiose humano-ferramenta
+<!-- https://www.tandfonline.com/doi/abs/10.1080/1463922X.2022.2076954 -->
+
+::: {.fragment}
+
+Rotações sucessivas da espiral denotam um "progresso" acumulado ao longo do tempo
+
+
+![J. Navarro](imagens/modelo_espiral.png){width=50%}
+
+:::
+
+::: {.notes}
+Aqui, não vemos os humanos como os criadores iniciais das ferramentas. Na verdade, a presença a priori de ferramentas no ambiente ambiente explica, ab initio, por que a espécie homo sapiens evoluiu da forma que a história registra. Assim, propomos que as ferramentas criem os humanos. A simbiose subsequente entre humanos e essas ferramentas, retratada como uma estrutura espiral cumulativa, serve para enquadrar essa evolução de tecnologias elaborativas que foram usadas ao longo do tempo para alcançar objetivos socialmente desejados. A partir de nossa premissa, imaginamos linhas evidentes de progresso que podem ser antecipadas para o futuro dessa díade humano-ferramenta.
+:::
+
+## Modelo em espiral expansiva
+
+O término de cada ciclo corresponde a uma etapa no desenvolvimento pontual das ferramentas associadas. Isso é marcado por um ponto vermelho
+
+![J. Navarro](imagens/modelo_espiral.png){width=70%}
+
+## Modelo em espiral expansiva
+
+1 - O primeiro ciclo vai dos pés descalços, caminhando (ou correndo), até o uso de calçados.
+
+::: {.notes}
+Os calçados podem ser feitos de peles de animais, folhagens ou outros materiais não manufaturados. Cada um desses materiais diferentes pode oferecer proteção aos pés. Ao final desse ciclo inicial, os pés estão protegidos de forma eficiente. As solas dos calçados oferecem a vantagem adicional de evitar escorregões, quedas e lesões nos pés. No entanto, o uso prolongado de calçados tem um preço. A eficácia do amortecimento natural do calcanhar é reduzida e A biomecânica da caminhada e da corrida sofre algumas modificações. Isso resulta em certa perda de eficiência energética em comparação com a caminhada descalça.
+:::
+
+![J. Navarro](imagens/modelo_espiral.png){width=70%}
+
+## Modelo em espiral expansiva
+
+2 - O segundo ciclo de mobilidade vai do uso de calçados à montaria em animais.
+
+::: {.notes}
+ Montar a cavalo melhora a eficiência da mobilidade, principalmente em termos de velocidade de deslocamento e gasto energético pessoal. No entanto, também acarreta o potencial de redução das capacidades físicas humanas (por exemplo, capacidade aeróbica de longa duração, etc.).
+:::
+
+![J. Navarro](imagens/modelo_espiral.png){width=70%}
+
+## Modelo em espiral expansiva
+
+3 - O terceiro ciclo emerge do transporte animal para bicicletas e, posteriormente, para veículos motorizados.
+
+::: {.notes}
+Os veículos motorizados aprimoram ainda mais a mobilidade, mas também têm o potencial de diminuir a utilidade inerente e comparativa da locomoção física humana, caso esta não seja praticada com a mesma frequência de antes.
+:::
+
+![J. Navarro](imagens/modelo_espiral.png){width=70%}
+
+## Modelo em espiral expansiva
+
+4 - O quarto ciclo, e atualmente o último, vai de veículos motorizados controlados manualmente a veículos autônomos.
+
+::: {.notes}
+ Este ciclo também inclui o desenvolvimento de veículos terrestres, aéreos e marítimos, juntamente com diferentes soluções de automação associadas (por exemplo, controle parcial e compartilhado). Os veículos autônomos prometem aprimorar ainda mais a mobilidade social, que eventualmente se tornará quase sem esforço, tanto em termos físicos quanto cognitivos. No entanto, isso também tem um preço, com a redução da habilidade de direção e de outras habilidades, como capacidade de navegação, leitura de mapas e consciência espacial.
+:::
+
+![J. Navarro](imagens/modelo_espiral.png){width=70%}
+
+## Modelo em espiral expansiva
+
+5 - Um quinto ciclo de mobilidade pode ser facilmente concebido. Ele começaria com a [__automação parcial__]{.fg style="--col: #e64173"} e evoluiria para um [__sistema de transporte totalmente autônomo__]{.fg style="--col: #e64173"}, que opera [__sem motoristas humanos__]{.fg style="--col: #e64173"}. No entanto, as questões de mobilidade não serão resolvidas apenas por esses veículos autônomos. Novos problemas serão identificados, já que a mobilidade ainda poderá ser considerada limitada. Consequentemente, outras opções de mobilidade poderão ser previstas.
+
+::: {.notes}
+Nosso modelo em espiral desenvolve uma série de previsões. Primeiro, os humanos continuarão a criar novas ferramentas para gerar melhorias, alterando a natureza do trabalho mais uma vez. Segundo, nosso modelo em espiral prevê que as ferramentas não apenas nos empoderam, como também necessariamente alteram o problema inicial para o qual foram criadas; e, por sua vez, nos transformam. Terceiro, o modelo em espiral também captura a natureza cumulativa das ferramentas que criamos e usamos. Novas ferramentas são projetadas com base em ferramentas desenvolvidas anteriormente que modificaram o problema original. Quarto, o modelo também demonstra que a criação de uma ferramenta, mesmo as muito eficazes, não elimina todas as ferramentas preexistentes dedicadas a resolver o mesmo desafio.
+:::
+
+## Modelo em espiral expansiva
+
+E qual será o preço pago por delegar o pensamento para a tecnologia?
+
+# Períodos da história e mecanização
+
+##
+
+::: {.timeline .vertical .fragment-slide}
+::: {.event data-label="10.000 AEC" .tl-card}
+**Era Paleolítica (Idade da pedra)**
+
+::: {.non-incremental}
+
+- Marcado pelo uso de ferramentas de pedra e pelo desenvolvimento das primeiras sociedades de caça e coleta.
+
+
+:::
+
+![A. Falcucci](imagens/paleolitico.PNG){width=50%}
+
+::: {.notes}
+<!-- https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0268539.g004 -->
+
+:::
+
+:::
+::: {.event .fragment data-label="5.000 AEC" .tl-card}
+**Era Mesolítica**
+
+::: {.non-incremental}
+
+- Desenvolvimento de ferramentas e estratégias mais sofisticadas para sobrevivência.
+- Vida mais sedentária (domesticação)
+
+
+:::
+
+![I. G. Yaroslavski](imagens/mesolitico.jpg){width=50%}
+
+::: {.notes}
+Microlitos que são pequenas lâminas, ferramentas de pesca e redes
+
+:::
+
+
+:::
+::: {.event .fragment data-label="2.000 AEC" .tl-card}
+**Era Neolítica (Nova idade da Pedra)**
+
+::: {.non-incremental}
+
+- Primeira revolução agrícola (caça/coleta para agricultura).
+- Assentamentos permanentes.
+
+:::
+
+![N. Mazzucco](imagens/neolitico.jpg){width=50%}
+
+:::
+
+::: {.event .fragment data-label="1.200 AEC" .tl-card}
+**Idade dos metais**
+
+::: {.non-incremental}
+
+- Avanço na metalurgia (produção de ferramentas e armas)
+- Aumento da produtividade agrícola
+
+:::
+
+::: {layout-ncol=2}
+
+![](imagens/machado_bronze.jpeg){width=40%}
+
+
+![](imagens/lamina_bronze.jpeg){width=40%}
+
+:::
+
+:::
+
+:::
+
+# Revolução agrícola e uso de máquinas
+
+## Revolução agrícola e uso de máquinas
+
+aqui vai umas bobagens de revolução agrícola (Grã-Bretanha e europa basicamente)
+
+# Definições
+
+## Definições
+
+Operação agrícola:
+
+::: {.fragment}
+
+> Toda atividade diretamente e permanentemente relacionada com a execução do trabalho de produção agropecuária.
+
+:::
+
+::: {.incremental}
+- A mecanização é uma operação agrícola
+
+- Outras operações:
+
+::: {.columns}
+
+::: {.column}
+
+  - Manejo de pragas;
+  - Irrigação;
+  - Calagem do solo;
+  - Produção de mudas;
+
+:::
+
+::: {.column}
+
+  - Plantio e semeadura;
+  - Colheira;
+  - Armazenamento;
+  - Comercialização
+
+:::
+
+:::
+
+:::
+
+::: {.notes}
+- Muitas disciplinas do curso de agronomia é voltado em aprender "operações agrícolas".
+:::
+
+## Definições
+
+O que é mecanização agrícola?
+
+::: {.fragment}
+
+> Processo de utilizar máquinas com objetivo de realizar terefas ou operações.
+
+:::
+
+::: {.fragment}
+
+> Uso de um conjunto de máquinas, implementos e ferramentas de forma técnica, racional e economicamente organizada, para a execução das tarefas exigidas nos sistemas de produção agrícola.
+
+:::
+
+::: {.fragment}
+
+> Processo pelo qual o trabalho humano ao longo de toda a cadeia de valor agrícola é substituído por outras fontes de energia, como energia animal, energia fóssil ou energia renovável.
+
+:::
+
+::: {.notes}
+Cada máquina tem sua função e é projetada para determinado objetivo específico
+:::
+
+## Definições
+
+Máquina agrícola:
+
+::: {.fragment}
+
+> Todo equipamento, motorizado ou não, cujos componentes apresentam movimentos relativos, além do deslocamento próprio ou gerado por outra máquina, que seja especificamente projetado para converter energia e transmitir a ação de forças, a fim de realizar tarefas agrícolas.
+
+:::
+
+## Definições
+
+Máquina agrícola:
+
+::: {.fragment}
+
+> Máquina agrícola é o conjunto de órgãos constrangidos em seus movimentos por obstáculos fixos e de resistência suficiente para transmitir o efeito de forças e transformar energia - Mialhe (1974) 
+
+:::
+
+::: {.notes}
+órgãos constrangidos: órgãos são as partes e constrangidos pq possuem movimento limitado.
+:::
+
+<!-- ::: {.incremental}
+- [O motor de um trator e um arado são máquinas?]{.fg style="--col: #e64173"}
+  - Motor: transformação de energia;
+  - Arado: transmissão do efeito de forças;
+
+::: -->
+
+## Definições
+
+Exemplos de máquina agrícola:
+
+::: {layout-ncol=2}
+
+![Colheitadeira](imagens/colheitadeira.jpg)
+
+![Trator](imagens/trator.jpg)
+
+:::
+
+## Definições
+
+::: {.columns}
+
+::: {.column}
+
+Máquina motora:
+
+::: {.fragment}
+
+> É aquela "responsável pela conversão da energia natural em trabalho motor" - Mialhe (1996)
+
+:::
+
+:::
+
+::: {.column}
+
+Máquina movida:
+
+::: {.fragment}
+
+> É aquela "responsável pela execução das operações e onde ocorrem resistências passivas (atrito e inércia) que para serem vencidas requerem a realização de trabalho resistente" - Mialhe (1996)
+
+:::
+
+:::
+
+:::
+
+
+## Definições
+
+Órgãos ativos:
+
+> É a parte de um equipamento projetada para realizar sua função principal.
+
+- No arado de discos são os discos.
+  - Corta, levanta e inverte o solo.
+
+![](imagens/arado_discos.jpg){.absolute top=40% left=65% height=55%}
+
+## Definições
+
+Implemento agrícola:
+
+::: {.fragment}
+
+> Todo equipamento movido concebido para realizar trabalhos agrícolas, que transforma energia devido à execução de sua função, podendo apresentar movimento relativo entre seus componentes decorrente unicamente da interação com o meio.
+
+:::
+
+::: {.fragment}
+
+> Conjunto de órgãos que não apresentam movimentos relativos e não têm capacidade para transformar energia; seu único movimento é o de deslocamento, normalmente imprimido por uma máquina motora - Mialhe (1974) 
+
+:::
+
+::: {.notes}
+órgãos constrangidos: órgãos são as partes e constrangidos pq possuem movimento limitado.
+:::
+
+## Definições
+
+Exemplos de implementos agrícola:
+
+::: {layout-nrow=1}
+
+![Grade de discos](imagens/grade_discos.png)
+
+![Semeador](imagens/semeador.jpeg)
+
+:::
+
+## Definições
+
+Máquinas vs implementos agrícolas:
+
+| **Máquinas Agrícolas**         | **Implementos Agrícolas** |
+|:------------------------------|:-------------------------|
+| Colhedora/Recolhedora         | Arados de aivecas        |
+| Distribuidor de fertilizantes | Arados de discos         |
+| Enfardadora                   | Cultivadores             |
+| Plantadora/Semeadora          | Escarificadores          |
+| Pulverizador                  | Grades de dentes         |
+| Roçadora                      | Grades de molas          |
+| Transplantadora               | Grades de discos         |
+| Trator                        | Rolo-faca                |
+| Triturador de resíduos        | Subsoladores             |
+
+## Definições
+
+Ferramenta agrícola:
+
+::: {.fragment}
+
+> Qualquer instrumento, utensílio ou dispositivo necessário para o desempenho de uma atividade, utilizado para auxiliar as tarefas agrícolas.
+
+:::
+
+## Definições
+
+Exemplos de ferramentas agrícola
+
+::: {layout-nrow=1}
+
+![](imagens/ferramentas_agri.jpg)
+
+![](imagens/ferramentas_agri2.jpg)
+
+:::
+
+## Definições
+
+Sistema
+
+> Conjunto de elmentos interligados e interdependentes que funcionam juntos para realizar uma função.
+
+
+::: {.fragment}
+
+Sistema de cultivo
+
+> Refere-se às práticas comuns de manejo associadas a uma determinada espécie vegetal, visando sua produção a partir da combinação lógica e ordenada de um conjunt ode atividades e operações. - EMBRAPA
+
+:::
+
+## Definições
+
+Sistema de produção
+
+> Composto pelo conjunto de ssistemas de cultivo no âmbito de uma propriedade rural, definidos a partir dos fatores de produção e interligados por um processo de gestão. - EMBRAPA
+
+# Definições relacionadas ao solo para cultivo
+
+## Definições relacionadas ao solo para cultivo
+
+Campo de cultivo
+
+> São glebas de terra subdivididas por divisores naturais (rios, valas, montanhas, etc) ou artificiais (estradas, cercas, carreadores, etc.).
+
+## Definições relacionadas ao solo para cultivo
+
+Partes de um campo de cultivo
+
+![](imagens/talhao.png)
+
+## Definições relacionadas ao solo para cultivo
+
+> Carreadores são vias de acesso de talhões que se interligam entre si e com as estradas da propriedade.
+
+> Cabeceiras são as faixas de terreno deixadasem cada extremidade do talhão. Serve para o giro de máquinas.
+
+> Leiras são faixas estreitas de terreno deixadas de cada lado do talhão desde uma cabeceira à outra. Servem para manter a largura dos carreadores e evitar a destruição de seus sangradores e canais de escoamento de água.
+
+## Definições relacionadas ao solo para cultivo
+
+Talhão
+
+> São parcelas dos campos de cultivos que são efetivamente mobilizadas através das operações de preparo periódico do solo e que serão, futuramente ocupadas pelas plantas da cultura a ser instalada.
+
+## Definições relacionadas ao solo para cultivo
+
+Tipos e formatos de talhões
+
+![](imagens/tipos_talhoes.png)
+
+# Objetivos da mecanização
+
+## Por que mecanizar?
+
+::: {.incremental}
+
+- Reduz o tempo para o término das terefas;
+
+- Aumento da produtividade;
+
+- Melhora a qualidade das operações;
+
+- Reduz o desgaste do trabalhador;
+:::
+
+## Objetivos da mecanização
+
+Tempo gasto nas operações
+
+::: {.r-stack}
+
+![](imagens/enxada.jpeg){.fragment .absolute top=20% left=0% width=40%}
+
+![](imagens/arrado_bois.jpg){.fragment .absolute top=20% left=43% width=40%}
+
+![](imagens/arrado_trator.jpg){.fragment .absolute top=63% left=2% width=40%}
+
+![](imagens/big_plow.jpg){.fragment .absolute top=30% left=85% height=60%}
+
+:::
+
+## Objetivos da mecanização
+
+Tempo gasto nas operações
+
+![](imagens/tempo_arar.png)
+
+## Objetivos da mecanização
+
+Tempo gasto nas operações
+
+> O ganho na eficiência do trabalho agrícola com a mecanização é enorme: são necessárias apenas 2 a 5 horas de trabalho agrícola para produzir o alimento consumido por uma pessoa em um ano. Esse valor é muito menor do que o tempo que uma pessoa média gasta comprando comida, cozinhando ou comendo. - Ibarrola-Rivas et al. (2016)
+
+::: {.notes}
+
+Se, cada trabalhador rural produzir trabalho gerando comida por ~21 horas, temos comida para suprir toda a população mundial por uma ano.
+
+:::
+
+## Objetivos da mecanização
+
+A condição ideal do solo depende de uma janela de tempo específica; portanto, o tempo disponível para a realização das operações é indispensável.
+
+![](imagens/friavel.png)
+
+::: {.fragment}
+
+Diferentes tipos de solos = Tempos distintos
+
+:::
+
+## Objetivos da mecanização
+
+Desgaste do trabalhador
+
+![](imagens/corte_cana.jpeg)
+
+## Objetivos da mecanização
+
+Desgaste do trabalhador
+
+
+::: {.r-stack}
+
+![](imagens/arrado_boi_2.jpeg){.fragment .absolute top=20% left=0% width=40%}
+
+![](imagens/arrado_trator2.jpg){.fragment .absolute top=40% left=43% width=50%}
+
+:::
+
+## Objetivos da mecanização
+
+Desgaste do trabalhador
+
+Prevalência de dor lombar em agricultores
+
+![Silva, M.R. (2017)](imagens/dor_lombar_agricultores.png)
+
+::: {.notes}
+
+contexto de agricultura menos mecanizada
+
+:::
+
+## Objetivos da mecanização
+
+Aumento da potência de trabalho
+
+::: {layout-nrow=1}
+
+![](imagens/colheita_trigo.jpg)
+
+![](imagens/colheita_trigo2.jpg)
+
+:::
+
+## Objetivos da mecanização
+
+Aumento da potência de trabalho
+
+$\text{Energia humana (kWh)} =
+\text{Potência total de trabalho disponível}
+\times
+\text{Horas efetivas de trabalho humano}$
+
+Um humano em boa forma pode gerar 75 W em um turno de 8 horas de trabalho (0.075 kW h).
+
+## Objetivos da mecanização
+
+Aumento da potência de trabalho
+
+| Animal          | Potência correspondente (kW) |
+|-----------------|------------------------------|
+| Cavalo          | 0.7457                       |
+| Jumento         | 0.3729                       |
+| Mula            | 0.5966                       |
+| Vaca de trabalho| 0.5966                       |
+| Touro           | 0.5966                       |
+| Humano          | 0.075                        |
+| Solis 26 (Yanmar)          | 141.2                        |
+| Colheitadeira TC 4.90         | 1216                       |
+: Energia produzida por animais/máquina durante uma jornada de trabalho (8 h).
+
+## Objetivos da mecanização
+
+Aumento da potência de trabalho
+
+
+Um MeriCrusher MT-700 possui 768.4 CV ou 565 kW.
+Em 8 horas ele é capaz de disponibilizar ~2260 kW.
+
+::: {layout-nrow=1}
+
+![](imagens/meritractor.jpg)
+
+![](imagens/7000-MT-700.jpg)
+
+:::
+
+## Objetivos da mecanização
+
+Evolução da potência disponível
+
+
+![Steenwyk, P. et al. (2022)](imagens/evolucao_potencia.jpeg)
+
+## Objetivos da mecanização
+
+Evolução da potência disponível por tratores no Brasil
+
+::: {layout-nrow=1}
+
+![Anziliero D. 2025](imagens/media_kw_trator.png)
+
+![Anziliero D. 2025](imagens/media_kw_colhedora.png)
+
+:::
+
+## Objetivos da mecanização
+
+Trabalho físico por humanos, outros animais e máquinas
+
+::: {layout-nrow=1}
+![Steenwyk, P. et al. (2022)](imagens/humano_maquina.jpeg)
+
+![Steenwyk, P. et al. (2022)](imagens/energia_homem_maquina.jpeg)
+
+:::
+
+::: {.notes}
+Série temporal de contribuições físicas de trabalho por músculos (humanos e animais) e máquinas (diesel + gás e elétrica) 1920–2010. Os dados para máquinas Diesel + Gás foram extrapolados ("Extr") antes de 1971 
+:::
+
+## Objetivos da mecanização
+
+Aumento da potência de trabalho
+
+![Cherkos B.G (2024)](imagens/kw_humano_maquina.png)
+
+## Objetivos da mecanização
+
+Custo e retorno
+
+![](imagens/nivel_meca.png)
+
+## Objetivos da mecanização
+
+Aumento da produtividade
+
+![](imagens/produtividade_terra.jpeg)
+
+## Objetivos da mecanização
+
+Aumento da produtividade
+
+![](imagens/produtividade_br.jpg){width="80%"}
+
+::: {.notes}
+
+(imagens/Padrões de desenvolvimento do Brasil. Nota: O painel (a) mostra a fração de emprego na agricultura utilizando dados do Banco de Dados de 10 Setores da GGDC (1960–2011) e do Banco de Dados de Transformação Econômica da GGDC/UNU (2012–2018). O painel (b) mostra a fração de terra na agricultura intensiva em mão de obra entre 1961 e 2018, utilizando dados da FAO. O painel (c) mostra a intensidade de capital na agricultura em relação à não agrícola, utilizando dados do Banco de Dados Mundial de Insumos e Saídas 2012, disponível para 1995–2009. O painel (d) mostra a produtividade agrícola em relação à produtividade não agrícola a preços constantes de 2015, utilizando dados do Banco de Dados de 10 Setores da GGDC (1960–2011) e do Banco de Dados de Transformação Econômica mais ampla da GGDC/UNU (2012–2018). Todos os dados são para o Brasil.)
+
+:::
+
+## Objetivos da mecanização
+
+Aumento da produtividade (Nigeria)
+
+![Olaoye, J.O. e Rotimi, A.O. (2012)](imagens/aumento_prodpng.png){width="80%"}
+
+## Objetivos da mecanização
+
+Aumento da produtividade (China)
+
+::: {layout-nrow=1}
+
+![Xiaoshi Zhou & Wanglin Ma (2022)](imagens/china_produtividade1.png)
+
+![](imagens/china_produtividade2.png)
+
+:::
+
+::: {.notes}
+
+1 mu igual há  666.67 metros quadrado
+
+Yuan moeda chinesa
+
+:::
+
+## Objetivos da mecanização
+
+Aumento da produtividade (EUA)
+
+![Hans B. (1986)](imagens/producao_e_ano.jpeg)
+
+::: {.notes}
+1 bushel de milho = 56 lb = 25,401 kg;
+
+1 bushel de soja ou de trigo = 60 lb = 27,216 kg.
+:::
+
+## Objetivos da mecanização
+
+Aumento da produtividade (EUA)
+
+![Hans B. (1986)](imagens/tempo_e_ano.jpeg)
+
+## Objetivos da mecanização
+
+Melhora a qualidade das operações
+
+::: {.r-stack}
+
+![](imagens/leira_enxada.jpg){.fragment .absolute top=20% left=0% width=60%}
+
+![](imagens/leira_trator.jpg){.fragment .absolute top=50% left=43% width=60%}
+
+:::
+
+## Objetivos da mecanização
+
+Melhora a qualidade das operações
+
+::: {.r-stack}
+
+![](imagens/canteiro_mao.jpeg){.fragment .absolute top=20% left=0% width=40%}
+
+![](imagens/canteiro_trator.jpg){.fragment .absolute top=40% left=43% width=50%}
+
+:::
+
+## Objetivos da mecanização
+
+Melhora a qualidade das operações
+
+::: {.r-stack}
+
+![](imagens/arrado_boi_2.jpeg){.fragment .absolute top=20% left=0% width=40%}
+
+![](imagens/arrado_trator2.jpg){.fragment .absolute top=40% left=43% width=50%}
+
+:::
+
+## Objetivos da mecanização
+
+Reduz o abandono das terras
+
+![W. MA et al. (2021)](imagens/abandono_terra.png)
+
+# Mecanização no Mundo
+
+
+## Mecanização no Mundo
+
+Frota de tratores em regiões do mundo a cada 1000 ha de área cultivada
+
+![Pingali P. (2007)](imagens/trator_1000_ha.png)
+
+## Mecanização no Mundo
+
+Fontes de energia agrícola em fazendas dos EUA
+
+![Banco Mundial (1986)](imagens/tratores_eua_e_animais.png)
+
+## Mecanização no Mundo
+
+Tratores no mundo 1920-1979
+
+![Banco Mundial (1986)](imagens/tratores_mundo.png)
+
+## Mecanização no Mundo
+
+Produção, importação, vendas, exportações e estoque de tratores Brasil, 1960-82
+
+![Neto, J.A. (1985)](imagens/producao_tratores_br.png)
+
+
+## Mecanização no Mundo
+
+Estoque de tratores no Brasil 1920-2006
+
+![Silva, R.P. et al. (2015)](imagens/venda_tratores_br.png)
+
+## Mecanização no Mundo
+
+Venda de tratores no Brasil 1960-2014
+
+![Silva, R.P. et al. (2015)](imagens/venda_credito_br.png)
+
+## Mecanização no Mundo
+
+Tratores no Brasil por região geográfica
+
+![Silva, R.P. et al. (2015)](imagens/frota_br_regioes.png)
+
+## Mecanização no Mundo
+
+Tratores no Brasil por tempo de uso
+
+![Silva, R.P. et al. (2015)](imagens/estoque_trato_tempo_uso.png)
+
+## Índice de mecanização (uma das formas de medir)
+
+$$IM = \frac{\sum Me}{X li}$$
+
+$Im = Índice~de~mecanização$
+
+$Me = Total~de~potência~devido~à~mecanização$
+
+$Xli = Área~total~cultivada~no~Brasil$
+
+::: {.fragment}
+
+[Qual é o índice de mecanização do Brasil?]{.fg style="--col: #e64173"}
+
+:::
+
+## Mecanização no mundo
+
+Índice de mecanização
+
+![Anziliero D. 2025](imagens/indice_mecanizacao.png)
+
+## Mecanização no Brasil
+
+Índice de mecanização
+
+![Anziliero D. 2025](imagens/indice_meca_br.png)
+
+## Mecanização no Brasil
+
+Venda de colheitadeiras
+
+![Anziliero D. 2025](imagens/venda_colheitadeiras.png)
+
+## Mecanização no Brasil
+
+Venda de tratores
+
+![Anziliero D. 2025](imagens/venda_trator.png)
+
+## Mecanização no Brasil
+
+Parque de tratores (frota)
+
+![Anziliero D. 2025](imagens/parque_trator.png)
+
+## Mecanização no Brasil
+
+Parque de colhedoras (frota)
+
+![Anziliero D. 2025](imagens/parque_colhedoras.png)
+
+## Mecanização no Brasil
+
+Por marca
+
+![Anziliero D. 2025](imagens/venda_por_marca.png)
+
+
+## Mecanização no Brasil
+
+Área produtiva vs potência
+
+::: {layout-nrow=1}
+
+![Anziliero D. 2025](imagens/area_produtiva_e_kw_trator.png)
+
+![Anziliero D. 2025](imagens/area_produtiva_e_kw_colhedora.png)
+
+:::
+
+# Fim!

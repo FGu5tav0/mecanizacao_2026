@@ -1,13 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Mecanização"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "mecanizacao"
 
 format:
   html:
@@ -16,6 +12,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-
