@@ -4,6 +4,7 @@ project:
 
 website:
   title: "mecanizacao"
+  google-analytics: "G-8L8YC0LJJY"
 
 format:
   html:

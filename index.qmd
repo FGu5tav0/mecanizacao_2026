@@ -11,7 +11,7 @@ format:
 ```{=html}
 <div class="aulas-layout">
 
-  <!-- Painel lateral com os cards -->
+  <!-- Cards em linha horizontal -->
   <div class="aulas-sidebar">
     <div class="aulas-grid">
 
@@ -22,7 +22,7 @@ format:
       </a>
 
       <a class="card em-breve" href="#">
-        <div class="card-num">Aula 3</div>
+        <div class="card-num">Aula 2</div>
         <div class="card-title">Em breve</div>
         <div class="card-desc">Conteúdo será disponibilizado em breve.</div>
       </a>
@@ -30,11 +30,11 @@ format:
     </div>
   </div>
 
-  <!-- Painel principal com o iframe -->
+  <!-- Viewer com o iframe abaixo dos cards -->
   <div class="aulas-viewer" id="aulas-viewer">
     <div class="viewer-placeholder" id="viewer-placeholder">
       <div class="placeholder-icon">📖</div>
-      <p>Selecione uma aula ao lado para visualizá-la aqui.</p>
+      <p>Selecione uma aula acima para visualizá-la aqui.</p>
     </div>
     <iframe
       id="aula-frame"
@@ -48,17 +48,19 @@ format:
 
 <script>
 function carregarAula(url, cardClicado) {
-  // Remove classe ativa de todos os cards
-  document.querySelectorAll('.card').forEach(c => c.classList.remove('ativo'));
+  document.querySelectorAll('.card').forEach(function(c) {
+    c.classList.remove('ativo');
+  });
 
-  // Adiciona classe ativa no card clicado
   if (cardClicado) cardClicado.classList.add('ativo');
 
-  // Esconde placeholder e mostra iframe
   document.getElementById('viewer-placeholder').style.display = 'none';
   var frame = document.getElementById('aula-frame');
   frame.style.display = 'block';
   frame.src = url;
+
+  // Rola suavemente até o viewer
+  document.getElementById('aulas-viewer').scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 </script>
 ```

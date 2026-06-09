@@ -70,6 +70,15 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-8L8YC0LJJY"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-8L8YC0LJJY', { 'anonymize_ip': true});
+</script>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -116,7 +125,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="aulas-layout">
 
-  <!-- Painel lateral com os cards -->
+  <!-- Cards em linha horizontal -->
   <div class="aulas-sidebar">
     <div class="aulas-grid">
 
@@ -127,7 +136,7 @@ ul.task-list li input[type="checkbox"] {
       </a>
 
       <a class="card em-breve" href="#">
-        <div class="card-num">Aula 3</div>
+        <div class="card-num">Aula 2</div>
         <div class="card-title">Em breve</div>
         <div class="card-desc">Conteúdo será disponibilizado em breve.</div>
       </a>
@@ -135,11 +144,11 @@ ul.task-list li input[type="checkbox"] {
     </div>
   </div>
 
-  <!-- Painel principal com o iframe -->
+  <!-- Viewer com o iframe abaixo dos cards -->
   <div class="aulas-viewer" id="aulas-viewer">
     <div class="viewer-placeholder" id="viewer-placeholder">
       <div class="placeholder-icon">📖</div>
-      <p>Selecione uma aula ao lado para visualizá-la aqui.</p>
+      <p>Selecione uma aula acima para visualizá-la aqui.</p>
     </div>
     <iframe id="aula-frame" src="" style="display:none; width:100%; height:100%; border:none;" allowfullscreen="">
     </iframe>
@@ -149,17 +158,19 @@ ul.task-list li input[type="checkbox"] {
 
 <script>
 function carregarAula(url, cardClicado) {
-  // Remove classe ativa de todos os cards
-  document.querySelectorAll('.card').forEach(c => c.classList.remove('ativo'));
+  document.querySelectorAll('.card').forEach(function(c) {
+    c.classList.remove('ativo');
+  });
 
-  // Adiciona classe ativa no card clicado
   if (cardClicado) cardClicado.classList.add('ativo');
 
-  // Esconde placeholder e mostra iframe
   document.getElementById('viewer-placeholder').style.display = 'none';
   var frame = document.getElementById('aula-frame');
   frame.style.display = 'block';
   frame.src = url;
+
+  // Rola suavemente até o viewer
+  document.getElementById('aulas-viewer').scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 </script>
 
