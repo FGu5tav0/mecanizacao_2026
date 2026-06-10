@@ -1,0 +1,39 @@
+---
+title: "Mecanização agrícola:"
+subtitle: Tratores e seus constituintes
+format: clean-revealjs
+institute: Instituto Federal do Paraná <br> Curso Superior em Engenharia Agronômica
+author:
+  - name: Gustavo Frosi
+    # orcid: 0000-0000-0000-0000
+    email: gustavofrosi@hotmail.com
+    # affiliations: UFRGS
+filters:
+  - timeline
+  # - move-abs-elems
+title-slide-attributes:
+  data-background-image: fundo.jpg
+  data-background-size: 50%
+  data-background-opacity: "0.9"
+  data-background-position: right 3% top 52%
+logo: logo.png
+image: true
+date: today
+date-format: long
+lang: pt-BR
+---
+
+## O que é um trator?
+<hr>
+## Definições
+
+Motor
+
+> Uma máquina que transforma energia térmica em energia mecânica
+
+
+::: {.fragment}
+
+> Os motores de combustão interna, transformam a energia térmica gerada pela combustão da mistura ar/combustível em energia mecânica
+
+:::

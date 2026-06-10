@@ -7,6 +7,20 @@
     "text": "Aula 1\n        História e desenvolvimento\n        \n      \n\n      \n        Aula 2\n        Em breve\n        Conteúdo será disponibilizado em breve.\n      \n\n    \n  \n\n  \n  \n    \n      📖\n      Selecione uma aula acima para visualizá-la aqui."
   },
   {
+    "objectID": "aula_3/aula_3.html#sistema-de-arrefecimento-1",
+    "href": "aula_3/aula_3.html#sistema-de-arrefecimento-1",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de arrefecimento",
+    "text": "Sistema de arrefecimento"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-lubrificação-1",
+    "href": "aula_3/aula_3.html#sistema-de-lubrificação-1",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de lubrificação",
+    "text": "Sistema de lubrificação"
+  },
+  {
     "objectID": "aula_1/aula_1.html#uso-de-ferramentas",
     "href": "aula_1/aula_1.html#uso-de-ferramentas",
     "title": "Mecanização agrícola:",
@@ -532,24 +546,388 @@
     "text": "About this site"
   },
   {
-    "objectID": "aula_2/aula_2.html#o-que-é-um-motor",
-    "href": "aula_2/aula_2.html#o-que-é-um-motor",
-    "title": "Mecanização agrícola:",
-    "section": "O que é um motor?",
-    "text": "O que é um motor?"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#definições",
-    "href": "aula_2/aula_2.html#definições",
+    "objectID": "aula_2/aula_2.html#definições-1",
+    "href": "aula_2/aula_2.html#definições-1",
     "title": "Mecanização agrícola:",
     "section": "Definições",
     "text": "Definições\nMotor\n\nUma máquina que transforma energia térmica em energia mecânica\n\n\n\nOs motores de combustão interna, transformam a energia térmica gerada pela combustão da mistura ar/combustível em energia mecânica"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#quanto-a-fonte-geradora",
+    "href": "aula_2/aula_2.html#quanto-a-fonte-geradora",
+    "title": "Mecanização agrícola:",
+    "section": "Quanto a fonte geradora",
+    "text": "Quanto a fonte geradora\n\n\n\n\nMotor a combustão\n\n\n\n\nMotor elétrico\n\n\n\n\nMotor híbrido: Que é um sistema que se utiliza de ambos os tipos de motores para gerar movimento"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#quanto-a-combustão",
+    "href": "aula_2/aula_2.html#quanto-a-combustão",
+    "title": "Mecanização agrícola:",
+    "section": "Quanto a combustão",
+    "text": "Quanto a combustão\n\n\nCombustão externa (máquina a vapor)\nCombustão interna\n\nDe pistão (ciclo otto e diesel)\nÊmbolo rotativo (wankel)"
   },
   {
     "objectID": "aula_2/aula_2.html#como-ocorre-a-combustão",
     "href": "aula_2/aula_2.html#como-ocorre-a-combustão",
     "title": "Mecanização agrícola:",
     "section": "Como ocorre a combustão",
-    "text": "Como ocorre a combustão\nA combustão é uma reação química exotérmica (libera calor)."
+    "text": "Como ocorre a combustão\nA combustão é uma reação química exotérmica (libera calor) entre uma substãncia (combustível) e um gás (comburente) para liberar calor."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#como-ocorre-a-combustão-1",
+    "href": "aula_2/aula_2.html#como-ocorre-a-combustão-1",
+    "title": "Mecanização agrícola:",
+    "section": "Como ocorre a combustão",
+    "text": "Como ocorre a combustão"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#como-ocorre-a-combustão-2",
+    "href": "aula_2/aula_2.html#como-ocorre-a-combustão-2",
+    "title": "Mecanização agrícola:",
+    "section": "Como ocorre a combustão",
+    "text": "Como ocorre a combustão\nFórmula química da combustão\n\\[CH_{4} + 20_2 = CO_2 + 2H_{2}O + Calor\\]\n\nGasolina = C8H18 (octano)\nDiesel (estrutura complexa) = CH3(CH2)14CH3(C16H34) (cetano)"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#combustão-externa",
+    "href": "aula_2/aula_2.html#combustão-externa",
+    "title": "Mecanização agrícola:",
+    "section": "Combustão externa",
+    "text": "Combustão externa\nEx: máquinas a vapor\n\n\nquando a água é aquecida ela se torna vapor e ocupa maior espaço o que gera pressão"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#quanto-a-combustão-1",
+    "href": "aula_2/aula_2.html#quanto-a-combustão-1",
+    "title": "Mecanização agrícola:",
+    "section": "Quanto a combustão",
+    "text": "Quanto a combustão\nExemplo de máquina a vapor"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#combustão-interna-1",
+    "href": "aula_2/aula_2.html#combustão-interna-1",
+    "title": "Mecanização agrícola:",
+    "section": "Combustão interna",
+    "text": "Combustão interna\n\nCiclo Otto\nUtilizam combustível de baixa volatilidade, como gasolina e álcool. Para ignição necessitam de centelha produzida pelo sistema elétrico.\n\n\nCiclo Diesel\nUtilizam como combustível o óleo diesel. A inflamação do combustível injetado sobe pressão na câmara de combustão ocorre pela ocmpressão de ar e consequente elevação da temperatura."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#quanto-ao-número-de-ciclos",
+    "href": "aula_2/aula_2.html#quanto-ao-número-de-ciclos",
+    "title": "Mecanização agrícola:",
+    "section": "Quanto ao número de ciclos",
+    "text": "Quanto ao número de ciclos\n\nMotor de 4 tempos\nMotor de 2 tempos"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#objetivo-do-motor",
+    "href": "aula_2/aula_2.html#objetivo-do-motor",
+    "title": "Mecanização agrícola:",
+    "section": "Objetivo do motor",
+    "text": "Objetivo do motor\nGerar trabalho!\n\n\\(Trabalho~(J) = Força(N) * deslocamento(m)\\)\n\n\n\\(Força(N) = mass(kg) * aceleração(\\Delta_v/\\Delta_t)\\)\n\n\nPotência: Capacidade de transmitir energia por tempo.\n\nRealização de trabalho ou transmissão de calor.\n\nEx de potência: 1 cavalo puxa 75 kg em 1 s."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#histórico",
+    "href": "aula_2/aula_2.html#histórico",
+    "title": "Mecanização agrícola:",
+    "section": "Histórico",
+    "text": "Histórico\n\n\n\nAlphonse Beau de Rochas (França)\nPublica e registra os termos teóricos de um “princípio” de um motor a 4 tempos com compressão prévia da mistura antes da ignição.\n\n\nExposição de Paris\nNikolaus August Otto apresenta um motor a combustão interna (4 tempos). \n\n\nMotor a quatro tempos funcional de Otto\nOtto e Deutz produzem o primeiro motor prático e confiável no ciclo de 4 tempo (admissão, compressão, combustão e escape).\nO ciclo ficou conhecido como ciclo Otto\n\n\nQueda da patente de Otto na Alemanha\nO documento de Beau de Rocha é redescoberto, assim a patente de Otto é invalidade.\nVárias fabricantes podem recriar o motor.\n\n\nDois tempos\nDugald Clerk patenteia um motor de 2 tempo com compressão estabelecendo uma alternativa ao ciclo Otto de 4 tempos.\n\n\nCiclo Otto em veículos\nOcorre a primeira aplicação do motor de ciclo Otto em veículos utilizando combustível a gasolina.\n\n\nCiclo Diesel\nEngenheiro Rudolf Diesel descreve um novo motor, no qual a ignição da mistura ar mais combustível era feita por compressão (motor Diesel)."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-1",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-1",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-2",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-2",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna\n4 tempos ciclo diesel\n\n\nAdmissão: O pistão desce, a válvula de admissão se abre e a de escape fecha. Ao descer, o pistão cria pressão no cilindor. O ar é forçado pela pressão atmosféria a entrar no cilindro pelo filtro de ar e pela tubulação de admissão. A quantidade que entra é sempre a mesma, independente da aceleração.\n\n\n\n\nCompressão: O pistão sobe, as válvulas de admissão e de escape ficam fechadas. O ar admitido é comprimido até ocupar o volume da câmara de combustão. O ar se aquece, e ao fim da compressão, o bico injeto pulveriza óleo diesel no interior da câmara de combustão."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-3",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-3",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna\n4 tempos ciclo diesel\n\n\nCombustão: O pistão desce, acionado pela força de expansão dos gases queimados. As válvulas de admissão e de escape estão fechadas. A força de expansão é transmitida pelo piestão à biela e desta ao virabrequim, provocando assim movimento de rotação do motor.\n\n\n\n\nEscape: O pistão sobe, estando a válvula de escape aberta e a de admissão fechada. Os gases queimados são expulsos através da passagem dada pela válvula de escape."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-4",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-4",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna\nAdmissão"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-5",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-5",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna\nCompressão"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-6",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-6",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna\nExplosão"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-7",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-7",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna\nDescarga"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-8",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-8",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-9",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-9",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-10",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-10",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-11",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-11",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-12",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-12",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-13",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-13",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componente-do-motor-1",
+    "href": "aula_2/aula_2.html#componente-do-motor-1",
+    "title": "Mecanização agrícola:",
+    "section": "Componente do motor",
+    "text": "Componente do motor"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel",
+    "title": "Mecanização agrícola:",
+    "section": "Componente do motor diesel",
+    "text": "Componente do motor diesel\nBloco dos cilindros"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-1",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel-1",
+    "title": "Mecanização agrícola:",
+    "section": "Componente do motor diesel",
+    "text": "Componente do motor diesel\nBloco dos cilindros\nFunção:\n\nBase onde se encontram todos os demais elementos do funcionamento do motor.\n\nCabeçote, válvulas, árvore de comando, cilindros, pistão, aníes de segmento, biela, casquilhos, árvore dde manivelas, volante e cárter.\n\nEm máquinas agrícolas apresenta função estrutural e de sustentação.\n\nCaracterísticas:\n\nPeça de fundição.\nEm seu interior apresenta grandes orifícios cilíndricos (cilindros) onde se realiza a combustão.\nApresenta cavidades para a passagem de água de arrefecimento."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-2",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel-2",
+    "title": "Mecanização agrícola:",
+    "section": "Componente do motor diesel",
+    "text": "Componente do motor diesel\nÁrvore de manivelas (virabrequim )"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-3",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel-3",
+    "title": "Mecanização agrícola:",
+    "section": "Componente do motor diesel",
+    "text": "Componente do motor diesel\nÁrvore de manivelas (virabrequim )\nFunção:\n\nAtua em conjunto com a biela como órgão transformador do movimento alternativo do pistão em movimento de rotação, transformando o trabalho realizado pelo pistão em torque.\n\nCaracterísticas:\n\nPeça de aço forjado com canais para conduzir o óleo lubrificante até os mancais e cabeças das bielas.\nSeu formato deriva do número e da distribuição dos cilindros (manivelas iguais ao número de cilindros)."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-4",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel-4",
+    "title": "Mecanização agrícola:",
+    "section": "Componente do motor diesel",
+    "text": "Componente do motor diesel\nBiela e pistão"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-5",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel-5",
+    "title": "Mecanização agrícola:",
+    "section": "Componente do motor diesel",
+    "text": "Componente do motor diesel\nPistão\nFunção:\n\nPistão é o órgão receptor do movimento de expansão dos gases resultantes da combustão. Primeiro componente a se movimentar.\nResponsável pela conversão da energia da combustão em trabalho mecânico.\nTrasfere a energia para o virabrequim.\n\nCaracterísticas:\n\nPeça cilíndrica localizada dentro do cilindro sem contato com o mesmo."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-6",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel-6",
+    "title": "Mecanização agrícola:",
+    "section": "Componente do motor diesel",
+    "text": "Componente do motor diesel\nAnéis do pistão"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-7",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel-7",
+    "title": "Mecanização agrícola:",
+    "section": "Componente do motor diesel",
+    "text": "Componente do motor diesel\nAnéis do pistão\nFunção:\n\nOs de compressão são responsáveis pela vedaão da câmara do cilindro (fechamento hermético)\nOs de lubrificação executam o controle do fluxo de óleo entre o pistão e o cilindro.\nDissipação do calor do pistão pelas paredes do cilindro.\nRedução da área de contato direta entre as paredes do cilindro e do pistão."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-8",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel-8",
+    "title": "Mecanização agrícola:",
+    "section": "Componente do motor diesel",
+    "text": "Componente do motor diesel\nBiela\nFunção:\n\nÉ um órgão transformador do movimento alternativo do pistão em movimento de rotação no virabrequim.\nElemento de ligação entre o pistão e o virabrequim.\n\nCaracterísticas:\n\nFeita em aço, é resistente para poder transferir a energia entre as partes.\nPossui 3 partes\n\nCabeça: Orifício circular que permite ligação com o virabrequim.\nCorpo: Fas a ligação entre o pé e a cabeça.\nPé: Orifício circular que permite ligação com o pistão."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-9",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel-9",
+    "title": "Mecanização agrícola:",
+    "section": "Componente do motor diesel",
+    "text": "Componente do motor diesel\nCárter de óleo"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-10",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel-10",
+    "title": "Mecanização agrícola:",
+    "section": "Componente do motor diesel",
+    "text": "Componente do motor diesel\nCárter de óleo\nFunção:\n\nDepósito para o óleo lubrificante do motor.\nAssegura a lubrificação do motor.\nReservatório do óleo de lubrificação e de eventuais detritos não retido pelos filtros.\n\nCaracterísticas:\n\nInvólucro rígido que fecha o bloco em sua parte inferior."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-11",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel-11",
+    "title": "Mecanização agrícola:",
+    "section": "Componente do motor diesel",
+    "text": "Componente do motor diesel\nVolante do motor"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-12",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel-12",
+    "title": "Mecanização agrícola:",
+    "section": "Componente do motor diesel",
+    "text": "Componente do motor diesel\nVálvulas"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-13",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel-13",
+    "title": "Mecanização agrícola:",
+    "section": "Componente do motor diesel",
+    "text": "Componente do motor diesel\nCabeçote"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-14",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel-14",
+    "title": "Mecanização agrícola:",
+    "section": "Componente do motor diesel",
+    "text": "Componente do motor diesel\nComando de válvulas"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#motor-completo",
+    "href": "aula_2/aula_2.html#motor-completo",
+    "title": "Mecanização agrícola:",
+    "section": "Motor completo",
+    "text": "Motor completo"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-15",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel-15",
+    "title": "Mecanização agrícola:",
+    "section": "Componente do motor diesel",
+    "text": "Componente do motor diesel\nCamisa do cilindro"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-16",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel-16",
+    "title": "Mecanização agrícola:",
+    "section": "Componente do motor diesel",
+    "text": "Componente do motor diesel\nCamisa do cilindro\nFunção:\n\nEvitar desgaste do bloco pelo atrico entre pistão e bloco.\nFornecer proteção para outros componentes de interior.\n\nCaracterísticas:\n\nResistentes a altas temperaturas e pressões.\nPodem ser úmidas ou secas (em contato ou não com líquido de arrefecimento)."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-17",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel-17",
+    "title": "Mecanização agrícola:",
+    "section": "Componente do motor diesel",
+    "text": "Componente do motor diesel\nCamisa do cilindro"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-18",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel-18",
+    "title": "Mecanização agrícola:",
+    "section": "Componente do motor diesel",
+    "text": "Componente do motor diesel\nCasquilhos ou bronzinas"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-19",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel-19",
+    "title": "Mecanização agrícola:",
+    "section": "Componente do motor diesel",
+    "text": "Componente do motor diesel\nCasquilhos ou bronzinas\nFunção:\n\nReduzir atrito e desgaste entre os elementos.\nAuxiliam no correto alinhamento do virabrequim e comando de válculas no bloco.\n\nCaracterísticas:\n\nEntregada entre biela e virabrequim, pino e êmbolo, etc."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel",
+    "href": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel",
+    "title": "Mecanização agrícola:",
+    "section": "Diferenças entre Otto e Diesel",
+    "text": "Diferenças entre Otto e Diesel\nForma do pistão"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel-1",
+    "href": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel-1",
+    "title": "Mecanização agrícola:",
+    "section": "Diferenças entre Otto e Diesel",
+    "text": "Diferenças entre Otto e Diesel\n\n\n\n\n\n\n\n\nParâmetro\nCiclo Otto\nCiclo Diesel\n\n\n\n\nCombustível\nGasolina, Etanol, Metanol, GLP\nÓleo Diesel, Biodiesel\n\n\nCondição termodinâmica do ciclo principal\nAdição de calor a volume constante\nAdição de calor a pressão constante\n\n\nFase de admissão\nAdmite mistura de ar e combustível\nAdmite apenas ar\n\n\nRelação ar/combustível\nPouco variável\nMuito variável\n\n\nControle de carga\nVariando a quantidade de mistura\nVariando a quantidade de combustível"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel-2",
+    "href": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel-2",
+    "title": "Mecanização agrícola:",
+    "section": "Diferenças entre Otto e Diesel",
+    "text": "Diferenças entre Otto e Diesel\n\n\n\n\n\n\n\n\nParâmetro\nCiclo Otto\nCiclo Diesel\n\n\n\n\nTaxa de compressão\n6–10:1\n16–20:1\n\n\nPressão mínima de compressão (kPa)\n1400\n3240\n\n\nForma de ignição\nCentelha elétrica\nAutoignição\n\n\nRotação\nMotores leves; combustão homogênea; altas rotações\nMotores pesados; combustão heterogênea; baixas rotações\n\n\nRotação de potência máxima\n&gt; 5000 rpm\n&lt; 3000 rpm\n\n\nRendimento térmico\n25–30%\n30–35%"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#arranjamento-dos-cilindros-1",
+    "href": "aula_2/aula_2.html#arranjamento-dos-cilindros-1",
+    "title": "Mecanização agrícola:",
+    "section": "Arranjamento dos cilindros",
+    "text": "Arranjamento dos cilindros"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#o-que-é-cilindrada",
+    "href": "aula_2/aula_2.html#o-que-é-cilindrada",
+    "title": "Mecanização agrícola:",
+    "section": "O que é Cilindrada?",
+    "text": "O que é Cilindrada?\n\nO que significa falar que o motor é 2.0?\nO que é um carro 1000?"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#motor-2-tempos-1",
+    "href": "aula_2/aula_2.html#motor-2-tempos-1",
+    "title": "Mecanização agrícola:",
+    "section": "Motor 2 tempos",
+    "text": "Motor 2 tempos"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#o-que-é-um-trator",
+    "href": "aula_4/aula_4.html#o-que-é-um-trator",
+    "title": "Mecanização agrícola:",
+    "section": "O que é um trator?",
+    "text": "O que é um trator?"
+  },
+  {
+    "objectID": "aula_4/aula_4.html#definições",
+    "href": "aula_4/aula_4.html#definições",
+    "title": "Mecanização agrícola:",
+    "section": "Definições",
+    "text": "Definições\nMotor\n\nUma máquina que transforma energia térmica em energia mecânica\n\n\n\nOs motores de combustão interna, transformam a energia térmica gerada pela combustão da mistura ar/combustível em energia mecânica"
   }
 ]
