@@ -1,7 +1,7 @@
 ---
 title: "Mecanização agrícola - IFPR 2026/02"
 subtitle: "Material de aulas"
-author: "Professor"
+author: "Gustavo Frosi"
 format:
   html:
     page-layout: full
@@ -15,14 +15,20 @@ format:
   <div class="aulas-sidebar">
     <div class="aulas-grid">
 
-      <a class="card" onclick="carregarAula('aula_1/aula_1.html', this)" href="#">
+      <a class="card em-breve" href="#">
         <div class="card-num">Aula 1</div>
         <div class="card-title">História e desenvolvimento</div>
         <div class="card-desc"></div>
       </a>
 
-      <a class="card em-breve" href="#">
+      <a class="card" onclick="carregarAula('aula_2/aula_2.html', this)" href="#">
         <div class="card-num">Aula 2</div>
+        <div class="card-title">Motores de combustão interna</div>
+        <div class="card-desc"></div>
+      </a>
+
+      <a class="card em-breve" href="#">
+        <div class="card-num">Aula 3</div>
         <div class="card-title">Em breve</div>
         <div class="card-desc">Conteúdo será disponibilizado em breve.</div>
       </a>
