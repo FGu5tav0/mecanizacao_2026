@@ -1,6 +1,6 @@
 ---
 title: "Mecanização agrícola:"
-subtitle: História e desenvolvimento
+subtitle: Histórico, conceitos e objetivos da mecanização
 format: clean-revealjs
 institute: Instituto Federal do Paraná <br> Curso Superior em Engenharia Agronômica
 author:
@@ -13,15 +13,35 @@ filters:
   # - move-abs-elems
 title-slide-attributes:
   data-background-image: fundo.jpg
-  data-background-size: 50%
+  data-background-size: 30%
   data-background-opacity: "0.9"
   data-background-position: right 3% top 52%
 logo: logo.png
 image: true
-date: today
+date: "2026-08-07"
 date-format: long
 lang: pt-BR
 ---
+
+## Uso de ferramentas
+<hr>
+
+Por que desenvolver máquinas?
+
+
+::: {.fragment}
+
+> As máquinas e ferramentes são criadas para fazer algum trabalho que melhore a vida humana
+
+:::
+
+::: {.text-center .fragment}
+```{mermaid}
+flowchart LR
+    A[Problema] --> B[Ferramenta]
+    B --> A
+```
+:::
 
 ## Uso de ferramentas
 <hr>
@@ -41,7 +61,14 @@ Humanos possuem dois sistemas parientais envolvidos no comportamento das ferrame
 Humanos criam ferramentas ou ferramentas criam humanos?
 :::
 
+::: {.notes}
+
+O uso de uma ferramenta para realizar qualquer tarefa serve para modificar essa tarefa que, por sua vez, impacta e altera o usuário da ferramenta por meio do desempenho de tarefas atuais e subsequentes. Além disso, à medida que cada tarefa evolui, os humanos passaram a moldar ferramentas adicionais para responder de acordo.
+
+:::
+
 ## Modelo em espiral expansiva
+<hr>
 
 J. Navarro e P. A. Hancock criam o "Modelo em espiral expansiva" para descrever o caminho evolutivo da simbiose humano-ferramenta
 <!-- https://www.tandfonline.com/doi/abs/10.1080/1463922X.2022.2076954 -->
@@ -60,12 +87,14 @@ Aqui, não vemos os humanos como os criadores iniciais das ferramentas. Na verda
 :::
 
 ## Modelo em espiral expansiva
+<hr>
 
 O término de cada ciclo corresponde a uma etapa no desenvolvimento pontual das ferramentas associadas. Isso é marcado por um ponto vermelho
 
 ![J. Navarro](imagens/modelo_espiral.png){width=70%}
 
 ## Modelo em espiral expansiva
+<hr>
 
 1 - O primeiro ciclo vai dos pés descalços, caminhando (ou correndo), até o uso de calçados.
 
@@ -76,6 +105,7 @@ Os calçados podem ser feitos de peles de animais, folhagens ou outros materiais
 ![J. Navarro](imagens/modelo_espiral.png){width=70%}
 
 ## Modelo em espiral expansiva
+<hr>
 
 2 - O segundo ciclo de mobilidade vai do uso de calçados à montaria em animais.
 
@@ -86,6 +116,7 @@ Os calçados podem ser feitos de peles de animais, folhagens ou outros materiais
 ![J. Navarro](imagens/modelo_espiral.png){width=70%}
 
 ## Modelo em espiral expansiva
+<hr>
 
 3 - O terceiro ciclo emerge do transporte animal para bicicletas e, posteriormente, para veículos motorizados.
 
@@ -96,6 +127,7 @@ Os veículos motorizados aprimoram ainda mais a mobilidade, mas também têm o p
 ![J. Navarro](imagens/modelo_espiral.png){width=70%}
 
 ## Modelo em espiral expansiva
+<hr>
 
 4 - O quarto ciclo, e atualmente o último, vai de veículos motorizados controlados manualmente a veículos autônomos.
 
@@ -106,6 +138,7 @@ Os veículos motorizados aprimoram ainda mais a mobilidade, mas também têm o p
 ![J. Navarro](imagens/modelo_espiral.png){width=70%}
 
 ## Modelo em espiral expansiva
+<hr>
 
 5 - Um quinto ciclo de mobilidade pode ser facilmente concebido. Ele começaria com a [__automação parcial__]{.fg style="--col: #e64173"} e evoluiria para um [__sistema de transporte totalmente autônomo__]{.fg style="--col: #e64173"}, que opera [__sem motoristas humanos__]{.fg style="--col: #e64173"}. No entanto, as questões de mobilidade não serão resolvidas apenas por esses veículos autônomos. Novos problemas serão identificados, já que a mobilidade ainda poderá ser considerada limitada. Consequentemente, outras opções de mobilidade poderão ser previstas.
 
@@ -114,6 +147,7 @@ Nosso modelo em espiral desenvolve uma série de previsões. Primeiro, os humano
 :::
 
 ## Modelo em espiral expansiva
+<hr>
 
 E qual será o preço pago por delegar o pensamento para a tecnologia?
 
@@ -200,12 +234,140 @@ Microlitos que são pequenas lâminas, ferramentas de pesca e redes
 # Revolução agrícola e uso de máquinas
 
 ## Revolução agrícola e uso de máquinas
+<hr>
 
-aqui vai umas bobagens de revolução agrícola (Grã-Bretanha e europa basicamente)
+Europa:
+
+::: {.incremental}
+- Fim do século XVIII a indústria passou a produzir novas máquinas (máquina a vapor) e a mecanização industrial passou a ser muito importante.
+
+- Século XIX a expansão da indústria siderúrgica permitiu a produção de máquinas em vários setores como nos transportes e na agricultura.
+
+- Segunda metade do século XIX e início do século XX, produção em larga escala, principalmente na Europa e nos Estados Unidos.
+
+:::
+
+::: {.notes}
+
+Assim,
+desde a primeira metade do século XIX, a indústria começou a produzir
+uma gama de novos equipamentos de tração – como os arados charruas, os
+arados brabants1 e grades metálicas, semeadeiras, ceifadeiras e colhedoras,
+trilhadeiras de carrossel –, bem como todos os tipos de pequenas máquinas
+para utilização nos estabelecimentos agrícolas – como os limpadores de
+grãos (“tararas”), os picadores de palha, os picadores de raízes, os moedores,
+as batedeiras e malaxadores de leite, os batedores a manivela etc
+
+
+Ao mesmo tempo, rompia-se o isolamento
+das regiões agrícolas da Europa, o que permitia seu abastecimento em
+corretivos e adubos, além do escoamento de seus produtos.
+
+:::
+
+## Revolução agrícola e uso de máquinas
+<hr>
+
+::: {layout-ncol=2}
+
+![Arrdo Charrua](imagens/arrado_charrua.jpeg){width="80%"}
+
+![Arado Bradant](imagens/arrado_brabant.jpeg)
+
+:::
+
+## Revolução agrícola e uso de máquinas
+<hr>
+
+::: {layout-ncol=3}
+
+![](imagens/grade_metalica.png){width="20%"}
+
+![](imagens/semeador.png){width="20%"}
+
+![](imagens/ceifadeira.png){width="20%"}
+
+![](imagens/rolo_ondulado.png){width="15%"}
+
+![](imagens/revolvedor.png){width="20%"}
+
+:::
+
+## Revolução agrícola e uso de máquinas
+<hr>
+
+EUA:
+
+::: {.incremental}
+
+- Séculos XVII e XVIII uso de animais como fonte de potência, uso de arado de madeira, semeadura manual.
+
+- 1800 primeiro arado de ferro e com peças intercambiáveis é patenteado.
+
+- 1820 ceifadeira a tração animal e trilhadora estacionária são apresentadas, início do uso de aço na construção dos arados de aiveca.
+
+- 1840 início da produção comercial nos EUA a partir do uso de máquinas de acionamento manual ou através de animais (cultivadores tracionados por juntas de cavalo). Surgimento da semeadore de fluxo contínuo.
+
+:::
+
+::: {.notes}
+
+Entre 1850 e 1870, a Inglaterra e a Europa deixaram de ser o principal centro técnico da agricultura. Nesse período, Estados Unidos,  Austrália, Argentina, entre outros, tornaram-se grandes supridores de produtos essenciais, como  trigo, produtos lácteos, carne e produtos tropicais 
+
+O ferreiro John Deere (Illinois – EUA) desenvolveu, em 1837, arados de ferro forjado liso, que se adaptavam bem à agricultura da pradaria.
+
+:::
+
+## Revolução agrícola e uso de máquinas
+<hr>
+
+EUA:
+
+::: {.incremental}
+
+- 1860 transição efetiva para a tração animal como fonte de potência para as operações. Uso de arado com mais de uma aiveca. Tentativas de tratores a vapor. Grade de dentes utilizada no preparo do leito de semeadura.
+
+- 1892 primeiro trator a gasolina é fabricado por Froelich na Dakota do Sul.
+
+- 1880 colhedoras tracionadas por juntas de cavalos passam a ser utilizadas. Primeiro trator movido a gasolina.
+
+- 1910 introdução dos tratores a gasolina em fazendas de grande extensão. Primeiras colhedoras acionadas através de motor.
+
+- 1920 recolhedora de algodão e primeiros tratores leves desenvolvidos.
+
+:::
+
+::: {.notes}
+
+Para Rasmussen (1983 apud Fonseca, 1990), é a guerra civil norte-americana que fornece todo o ímpeto para uma grande mudança agrícola e para a conversão de tração humana e tração animal para força mecânica.
+
+:::
+
+## Revolução agrícola e uso de máquinas
+<hr>
+
+EUA:
+
+::: {.incremental}
+
+- 1930 tratores versáteis e início do uso de pneus.
+
+- 1950 o número de tratores nas fazendas passa a superar o número de animais utilizados para tração.
+
+- 1980 adoção de sistemas conservacionistas de produção, com gradual redução de operações de preparo do solo. Uso de eletrônica em máquinas agrícolas.
+
+- 1990/2000 adoção de automação em máquinas com desenvolvimento de sistemas para direcionamento e controle de taxa de aplicação.
+
+- 2000/2015 gestão remota de máquinas agrícolas através da telemetria.
+
+- 2015/2026 ????
+
+:::
 
 # Definições
 
 ## Definições
+<hr>
 
 Operação agrícola:
 
@@ -249,6 +411,7 @@ Operação agrícola:
 :::
 
 ## Definições
+<hr>
 
 O que é mecanização agrícola?
 
@@ -275,6 +438,7 @@ Cada máquina tem sua função e é projetada para determinado objetivo específ
 :::
 
 ## Definições
+<hr>
 
 Máquina agrícola:
 
@@ -285,6 +449,7 @@ Máquina agrícola:
 :::
 
 ## Definições
+<hr>
 
 Máquina agrícola:
 
@@ -306,6 +471,7 @@ Máquina agrícola:
 ::: -->
 
 ## Definições
+<hr>
 
 Exemplos de máquina agrícola:
 
@@ -318,6 +484,7 @@ Exemplos de máquina agrícola:
 :::
 
 ## Definições
+<hr>
 
 ::: {.columns}
 
@@ -349,6 +516,7 @@ Máquina movida:
 
 
 ## Definições
+<hr>
 
 Órgãos ativos:
 
@@ -360,6 +528,7 @@ Máquina movida:
 ![](imagens/arado_discos.jpg){.absolute top=40% left=65% height=55%}
 
 ## Definições
+<hr>
 
 Implemento agrícola:
 
@@ -380,18 +549,20 @@ Implemento agrícola:
 :::
 
 ## Definições
+<hr>
 
 Exemplos de implementos agrícola:
 
 ::: {layout-nrow=1}
 
-![Grade de discos](imagens/grade_discos.png)
+![Grade de discos](imagens/grade_discos.png){width="80%"}
 
 ![Semeador](imagens/semeador.jpeg)
 
 :::
 
 ## Definições
+<hr>
 
 Máquinas vs implementos agrícolas:
 
@@ -408,6 +579,7 @@ Máquinas vs implementos agrícolas:
 | Triturador de resíduos        | Subsoladores             |
 
 ## Definições
+<hr>
 
 Ferramenta agrícola:
 
@@ -418,6 +590,7 @@ Ferramenta agrícola:
 :::
 
 ## Definições
+<hr>
 
 Exemplos de ferramentas agrícola
 
@@ -430,10 +603,11 @@ Exemplos de ferramentas agrícola
 :::
 
 ## Definições
+<hr>
 
 Sistema
 
-> Conjunto de elmentos interligados e interdependentes que funcionam juntos para realizar uma função.
+> Conjunto de elementos interligados e interdependentes que funcionam juntos para realizar uma função.
 
 
 ::: {.fragment}
@@ -445,6 +619,7 @@ Sistema de cultivo
 :::
 
 ## Definições
+<hr>
 
 Sistema de produção
 
@@ -453,18 +628,21 @@ Sistema de produção
 # Definições relacionadas ao solo para cultivo
 
 ## Definições relacionadas ao solo para cultivo
+<hr>
 
 Campo de cultivo
 
 > São glebas de terra subdivididas por divisores naturais (rios, valas, montanhas, etc) ou artificiais (estradas, cercas, carreadores, etc.).
 
 ## Definições relacionadas ao solo para cultivo
+<hr>
 
 Partes de um campo de cultivo
 
 ![](imagens/talhao.png)
 
 ## Definições relacionadas ao solo para cultivo
+<hr>
 
 > Carreadores são vias de acesso de talhões que se interligam entre si e com as estradas da propriedade.
 
@@ -473,12 +651,14 @@ Partes de um campo de cultivo
 > Leiras são faixas estreitas de terreno deixadas de cada lado do talhão desde uma cabeceira à outra. Servem para manter a largura dos carreadores e evitar a destruição de seus sangradores e canais de escoamento de água.
 
 ## Definições relacionadas ao solo para cultivo
+<hr>
 
 Talhão
 
 > São parcelas dos campos de cultivos que são efetivamente mobilizadas através das operações de preparo periódico do solo e que serão, futuramente ocupadas pelas plantas da cultura a ser instalada.
 
 ## Definições relacionadas ao solo para cultivo
+<hr>
 
 Tipos e formatos de talhões
 
@@ -487,6 +667,7 @@ Tipos e formatos de talhões
 # Objetivos da mecanização
 
 ## Por que mecanizar?
+<hr>
 
 ::: {.incremental}
 
@@ -500,6 +681,7 @@ Tipos e formatos de talhões
 :::
 
 ## Objetivos da mecanização
+<hr>
 
 Tempo gasto nas operações
 
@@ -516,12 +698,14 @@ Tempo gasto nas operações
 :::
 
 ## Objetivos da mecanização
+<hr>
 
 Tempo gasto nas operações
 
 ![](imagens/tempo_arar.png)
 
 ## Objetivos da mecanização
+<hr>
 
 Tempo gasto nas operações
 
@@ -534,6 +718,7 @@ Se, cada trabalhador rural produzir trabalho gerando comida por ~21 horas, temos
 :::
 
 ## Objetivos da mecanização
+<hr>
 
 A condição ideal do solo depende de uma janela de tempo específica; portanto, o tempo disponível para a realização das operações é indispensável.
 
@@ -546,15 +731,16 @@ Diferentes tipos de solos = Tempos distintos
 :::
 
 ## Objetivos da mecanização
+<hr>
 
 Desgaste do trabalhador
 
 ![](imagens/corte_cana.jpeg)
 
 ## Objetivos da mecanização
+<hr>
 
 Desgaste do trabalhador
-
 
 ::: {.r-stack}
 
@@ -565,6 +751,7 @@ Desgaste do trabalhador
 :::
 
 ## Objetivos da mecanização
+<hr>
 
 Desgaste do trabalhador
 
@@ -579,6 +766,7 @@ contexto de agricultura menos mecanizada
 :::
 
 ## Objetivos da mecanização
+<hr>
 
 Aumento da potência de trabalho
 
@@ -591,6 +779,7 @@ Aumento da potência de trabalho
 :::
 
 ## Objetivos da mecanização
+<hr>
 
 Aumento da potência de trabalho
 
@@ -602,6 +791,7 @@ $\text{Energia humana (kWh)} =
 Um humano em boa forma pode gerar 75 W em um turno de 8 horas de trabalho (0.075 kW h).
 
 ## Objetivos da mecanização
+<hr>
 
 Aumento da potência de trabalho
 
@@ -618,6 +808,7 @@ Aumento da potência de trabalho
 : Energia produzida por animais/máquina durante uma jornada de trabalho (8 h).
 
 ## Objetivos da mecanização
+<hr>
 
 Aumento da potência de trabalho
 
@@ -634,6 +825,7 @@ Em 8 horas ele é capaz de disponibilizar ~2260 kW.
 :::
 
 ## Objetivos da mecanização
+<hr>
 
 Evolução da potência disponível
 
@@ -641,6 +833,7 @@ Evolução da potência disponível
 ![Steenwyk, P. et al. (2022)](imagens/evolucao_potencia.jpeg)
 
 ## Objetivos da mecanização
+<hr>
 
 Evolução da potência disponível por tratores no Brasil
 
@@ -653,6 +846,7 @@ Evolução da potência disponível por tratores no Brasil
 :::
 
 ## Objetivos da mecanização
+<hr>
 
 Trabalho físico por humanos, outros animais e máquinas
 
@@ -668,24 +862,28 @@ Série temporal de contribuições físicas de trabalho por músculos (humanos e
 :::
 
 ## Objetivos da mecanização
+<hr>
 
 Aumento da potência de trabalho
 
 ![Cherkos B.G (2024)](imagens/kw_humano_maquina.png)
 
 ## Objetivos da mecanização
+<hr>
 
 Custo e retorno
 
 ![](imagens/nivel_meca.png)
 
 ## Objetivos da mecanização
+<hr>
 
 Aumento da produtividade
 
 ![](imagens/produtividade_terra.jpeg)
 
 ## Objetivos da mecanização
+<hr>
 
 Aumento da produtividade
 
@@ -704,6 +902,7 @@ Aumento da produtividade (Nigeria)
 ![Olaoye, J.O. e Rotimi, A.O. (2012)](imagens/aumento_prodpng.png){width="80%"}
 
 ## Objetivos da mecanização
+<hr>
 
 Aumento da produtividade (China)
 
@@ -724,6 +923,7 @@ Yuan moeda chinesa
 :::
 
 ## Objetivos da mecanização
+<hr>
 
 Aumento da produtividade (EUA)
 
@@ -736,12 +936,14 @@ Aumento da produtividade (EUA)
 :::
 
 ## Objetivos da mecanização
+<hr>
 
 Aumento da produtividade (EUA)
 
 ![Hans B. (1986)](imagens/tempo_e_ano.jpeg)
 
 ## Objetivos da mecanização
+<hr>
 
 Melhora a qualidade das operações
 
@@ -754,6 +956,7 @@ Melhora a qualidade das operações
 :::
 
 ## Objetivos da mecanização
+<hr>
 
 Melhora a qualidade das operações
 
@@ -766,6 +969,7 @@ Melhora a qualidade das operações
 :::
 
 ## Objetivos da mecanização
+<hr>
 
 Melhora a qualidade das operações
 
@@ -778,6 +982,7 @@ Melhora a qualidade das operações
 :::
 
 ## Objetivos da mecanização
+<hr>
 
 Reduz o abandono das terras
 
@@ -787,55 +992,63 @@ Reduz o abandono das terras
 
 
 ## Mecanização no Mundo
+<hr>
 
 Frota de tratores em regiões do mundo a cada 1000 ha de área cultivada
 
 ![Pingali P. (2007)](imagens/trator_1000_ha.png)
 
 ## Mecanização no Mundo
+<hr>
 
 Fontes de energia agrícola em fazendas dos EUA
 
 ![Banco Mundial (1986)](imagens/tratores_eua_e_animais.png)
 
 ## Mecanização no Mundo
+<hr>
 
 Tratores no mundo 1920-1979
 
 ![Banco Mundial (1986)](imagens/tratores_mundo.png)
 
 ## Mecanização no Mundo
+<hr>
 
 Produção, importação, vendas, exportações e estoque de tratores Brasil, 1960-82
 
 ![Neto, J.A. (1985)](imagens/producao_tratores_br.png)
 
-
 ## Mecanização no Mundo
+<hr>
 
 Estoque de tratores no Brasil 1920-2006
 
 ![Silva, R.P. et al. (2015)](imagens/venda_tratores_br.png)
 
 ## Mecanização no Mundo
+<hr>
 
 Venda de tratores no Brasil 1960-2014
 
 ![Silva, R.P. et al. (2015)](imagens/venda_credito_br.png)
 
 ## Mecanização no Mundo
+<hr>
 
 Tratores no Brasil por região geográfica
 
 ![Silva, R.P. et al. (2015)](imagens/frota_br_regioes.png)
 
 ## Mecanização no Mundo
+<hr>
 
 Tratores no Brasil por tempo de uso
 
 ![Silva, R.P. et al. (2015)](imagens/estoque_trato_tempo_uso.png)
 
 ## Índice de mecanização (uma das formas de medir)
+<hr>
 
 $$IM = \frac{\sum Me}{X li}$$
 
@@ -852,49 +1065,56 @@ $Xli = Área~total~cultivada~no~Brasil$
 :::
 
 ## Mecanização no mundo
+<hr>
 
 Índice de mecanização
 
 ![Anziliero D. 2025](imagens/indice_mecanizacao.png)
 
 ## Mecanização no Brasil
+<hr>
 
 Índice de mecanização
 
 ![Anziliero D. 2025](imagens/indice_meca_br.png)
 
 ## Mecanização no Brasil
+<hr>
 
 Venda de colheitadeiras
 
 ![Anziliero D. 2025](imagens/venda_colheitadeiras.png)
 
 ## Mecanização no Brasil
+<hr>
 
 Venda de tratores
 
 ![Anziliero D. 2025](imagens/venda_trator.png)
 
 ## Mecanização no Brasil
+<hr>
 
 Parque de tratores (frota)
 
 ![Anziliero D. 2025](imagens/parque_trator.png)
 
 ## Mecanização no Brasil
+<hr>
 
 Parque de colhedoras (frota)
 
 ![Anziliero D. 2025](imagens/parque_colhedoras.png)
 
 ## Mecanização no Brasil
+<hr>
 
 Por marca
 
 ![Anziliero D. 2025](imagens/venda_por_marca.png)
 
-
 ## Mecanização no Brasil
+<hr>
 
 Área produtiva vs potência
 

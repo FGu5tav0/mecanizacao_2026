@@ -6,10 +6,10 @@
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/quarto-contrib/timeline-0.1.0/timeline.js"></script>
 <link href="../site_libs/quarto-contrib/timeline-0.1.0/timeline.css" rel="stylesheet"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.9.38">
+  <meta name="generator" content="quarto-1.10.18">
 
   <meta name="author" content="Gustavo Frosi">
   <title>mecanizacao – Mecanização agrícola:</title>
@@ -22,10 +22,13 @@
     /* Default styles provided by pandoc.
     ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
     */
-    code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: auto; overflow-x: auto;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
     ul.task-list li input[type="checkbox"] {
@@ -135,20 +138,23 @@
       margin-right: 0; 
     }
   </style>
+  <script src="../site_libs/quarto-diagram/mermaid.min.js"></script>
+  <script src="../site_libs/quarto-diagram/mermaid-init.js"></script>
+  <link href="../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 </head>
 <body class="quarto-light">
 <script src="mathjax-config.js"></script>
   <div class="reveal">
     <div class="slides">
 
-<section id="title-slide" data-background-image="fundo.jpg" data-background-opacity="0.9" data-background-position="right 3% top 52%" data-background-size="50%" class="quarto-title-block center">
+<section id="title-slide" data-background-image="fundo.jpg" data-background-opacity="0.9" data-background-position="right 3% top 52%" data-background-size="30%" class="quarto-title-block center">
   <h1 class="title">Mecanização agrícola:</h1>
-  <p class="subtitle">História e desenvolvimento</p>
+  <p class="subtitle">Histórico, conceitos e objetivos da mecanização</p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-Gustavo Frosi 
+Gustavo Frosi
 </div>
 <div class="quarto-title-author-email">
 <a href="mailto:gustavofrosi@hotmail.com">gustavofrosi@hotmail.com</a>
@@ -159,9 +165,35 @@ Gustavo Frosi
     </div>
 </div>
 
-  <p class="date">10 de junho de 2026</p>
+  <p class="date">7 de agosto de 2026</p>
 </section>
 <section id="uso-de-ferramentas" class="slide level2">
+<h2>Uso de ferramentas</h2>
+<hr>
+<p>Por que desenvolver máquinas?</p>
+<div class="fragment">
+<blockquote>
+<p>As máquinas e ferramentes são criadas para fazer algum trabalho que melhore a vida humana</p>
+</blockquote>
+</div>
+<div class="text-center fragment">
+<div class="cell" data-reveal="true" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class=""><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+    A[Problema] --&gt; B[Ferramenta]
+    B --&gt; A
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="uso-de-ferramentas-1" class="slide level2">
 <h2>Uso de ferramentas</h2>
 <hr>
 <!-- ligar modo speaker com a tecla s -->
@@ -176,9 +208,23 @@ Gustavo Frosi
 <div class="fragment">
 <p>Humanos criam ferramentas ou ferramentas criam humanos?</p>
 </div>
+<aside class="notes">
+<p>O uso de uma ferramenta para realizar qualquer tarefa serve para modificar essa tarefa que, por sua vez, impacta e altera o usuário da ferramenta por meio do desempenho de tarefas atuais e subsequentes. Além disso, à medida que cada tarefa evolui, os humanos passaram a moldar ferramentas adicionais para responder de acordo.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
 </section>
 <section id="modelo-em-espiral-expansiva" class="slide level2">
 <h2>Modelo em espiral expansiva</h2>
+<hr>
 <p>J. Navarro e P. A. Hancock criam o “Modelo em espiral expansiva” para descrever o caminho evolutivo da simbiose humano-ferramenta <!-- https://www.tandfonline.com/doi/abs/10.1080/1463922X.2022.2076954 --></p>
 <div class="fragment">
 <p>Rotações sucessivas da espiral denotam um “progresso” acumulado ao longo do tempo</p>
@@ -205,11 +251,13 @@ Gustavo Frosi
 </section>
 <section id="modelo-em-espiral-expansiva-1" class="slide level2">
 <h2>Modelo em espiral expansiva</h2>
+<hr>
 <p>O término de cada ciclo corresponde a uma etapa no desenvolvimento pontual das ferramentas associadas. Isso é marcado por um ponto vermelho</p>
 
 <img data-src="imagens/modelo_espiral.png" style="width:70.0%" class="r-stretch quarto-figure-center"><p class="caption">J. Navarro</p></section>
 <section id="modelo-em-espiral-expansiva-2" class="slide level2">
 <h2>Modelo em espiral expansiva</h2>
+<hr>
 <p>1 - O primeiro ciclo vai dos pés descalços, caminhando (ou correndo), até o uso de calçados.</p>
 <aside class="notes">
 <p>Os calçados podem ser feitos de peles de animais, folhagens ou outros materiais não manufaturados. Cada um desses materiais diferentes pode oferecer proteção aos pés. Ao final desse ciclo inicial, os pés estão protegidos de forma eficiente. As solas dos calçados oferecem a vantagem adicional de evitar escorregões, quedas e lesões nos pés. No entanto, o uso prolongado de calçados tem um preço. A eficácia do amortecimento natural do calcanhar é reduzida e A biomecânica da caminhada e da corrida sofre algumas modificações. Isso resulta em certa perda de eficiência energética em comparação com a caminhada descalça.</p>
@@ -228,6 +276,7 @@ Gustavo Frosi
 <img data-src="imagens/modelo_espiral.png" style="width:70.0%" class="r-stretch quarto-figure-center"><p class="caption">J. Navarro</p></section>
 <section id="modelo-em-espiral-expansiva-3" class="slide level2">
 <h2>Modelo em espiral expansiva</h2>
+<hr>
 <p>2 - O segundo ciclo de mobilidade vai do uso de calçados à montaria em animais.</p>
 <aside class="notes">
 <p>Montar a cavalo melhora a eficiência da mobilidade, principalmente em termos de velocidade de deslocamento e gasto energético pessoal. No entanto, também acarreta o potencial de redução das capacidades físicas humanas (por exemplo, capacidade aeróbica de longa duração, etc.).</p>
@@ -246,6 +295,7 @@ Gustavo Frosi
 <img data-src="imagens/modelo_espiral.png" style="width:70.0%" class="r-stretch quarto-figure-center"><p class="caption">J. Navarro</p></section>
 <section id="modelo-em-espiral-expansiva-4" class="slide level2">
 <h2>Modelo em espiral expansiva</h2>
+<hr>
 <p>3 - O terceiro ciclo emerge do transporte animal para bicicletas e, posteriormente, para veículos motorizados.</p>
 <aside class="notes">
 <p>Os veículos motorizados aprimoram ainda mais a mobilidade, mas também têm o potencial de diminuir a utilidade inerente e comparativa da locomoção física humana, caso esta não seja praticada com a mesma frequência de antes.</p>
@@ -264,6 +314,7 @@ Gustavo Frosi
 <img data-src="imagens/modelo_espiral.png" style="width:70.0%" class="r-stretch quarto-figure-center"><p class="caption">J. Navarro</p></section>
 <section id="modelo-em-espiral-expansiva-5" class="slide level2">
 <h2>Modelo em espiral expansiva</h2>
+<hr>
 <p>4 - O quarto ciclo, e atualmente o último, vai de veículos motorizados controlados manualmente a veículos autônomos.</p>
 <aside class="notes">
 <p>Este ciclo também inclui o desenvolvimento de veículos terrestres, aéreos e marítimos, juntamente com diferentes soluções de automação associadas (por exemplo, controle parcial e compartilhado). Os veículos autônomos prometem aprimorar ainda mais a mobilidade social, que eventualmente se tornará quase sem esforço, tanto em termos físicos quanto cognitivos. No entanto, isso também tem um preço, com a redução da habilidade de direção e de outras habilidades, como capacidade de navegação, leitura de mapas e consciência espacial.</p>
@@ -282,6 +333,7 @@ Gustavo Frosi
 <img data-src="imagens/modelo_espiral.png" style="width:70.0%" class="r-stretch quarto-figure-center"><p class="caption">J. Navarro</p></section>
 <section id="modelo-em-espiral-expansiva-6" class="slide level2">
 <h2>Modelo em espiral expansiva</h2>
+<hr>
 <p>5 - Um quinto ciclo de mobilidade pode ser facilmente concebido. Ele começaria com a <span class="fg" style="--col: #e64173"><strong>automação parcial</strong></span> e evoluiria para um <span class="fg" style="--col: #e64173"><strong>sistema de transporte totalmente autônomo</strong></span>, que opera <span class="fg" style="--col: #e64173"><strong>sem motoristas humanos</strong></span>. No entanto, as questões de mobilidade não serão resolvidas apenas por esses veículos autônomos. Novos problemas serão identificados, já que a mobilidade ainda poderá ser considerada limitada. Consequentemente, outras opções de mobilidade poderão ser previstas.</p>
 <aside class="notes">
 <p>Nosso modelo em espiral desenvolve uma série de previsões. Primeiro, os humanos continuarão a criar novas ferramentas para gerar melhorias, alterando a natureza do trabalho mais uma vez. Segundo, nosso modelo em espiral prevê que as ferramentas não apenas nos empoderam, como também necessariamente alteram o problema inicial para o qual foram criadas; e, por sua vez, nos transformam. Terceiro, o modelo em espiral também captura a natureza cumulativa das ferramentas que criamos e usamos. Novas ferramentas são projetadas com base em ferramentas desenvolvidas anteriormente que modificaram o problema original. Quarto, o modelo também demonstra que a criação de uma ferramenta, mesmo as muito eficazes, não elimina todas as ferramentas preexistentes dedicadas a resolver o mesmo desafio.</p>
@@ -299,6 +351,7 @@ Gustavo Frosi
 </section>
 <section id="modelo-em-espiral-expansiva-7" class="slide level2">
 <h2>Modelo em espiral expansiva</h2>
+<hr>
 <p>E qual será o preço pago por delegar o pensamento para a tecnologia?</p>
 </section>
 <section>
@@ -407,7 +460,139 @@ Gustavo Frosi
 </section>
 <section id="revolução-agrícola-e-uso-de-máquinas-1" class="slide level2">
 <h2>Revolução agrícola e uso de máquinas</h2>
-<p>aqui vai umas bobagens de revolução agrícola (Grã-Bretanha e europa basicamente)</p>
+<hr>
+<p>Europa:</p>
+<ul>
+<li class="fragment"><p>Fim do século XVIII a indústria passou a produzir novas máquinas (máquina a vapor) e a mecanização industrial passou a ser muito importante.</p></li>
+<li class="fragment"><p>Século XIX a expansão da indústria siderúrgica permitiu a produção de máquinas em vários setores como nos transportes e na agricultura.</p></li>
+<li class="fragment"><p>Segunda metade do século XIX e início do século XX, produção em larga escala, principalmente na Europa e nos Estados Unidos.</p></li>
+</ul>
+<aside class="notes">
+<p>Assim, desde a primeira metade do século XIX, a indústria começou a produzir uma gama de novos equipamentos de tração – como os arados charruas, os arados brabants1 e grades metálicas, semeadeiras, ceifadeiras e colhedoras, trilhadeiras de carrossel –, bem como todos os tipos de pequenas máquinas para utilização nos estabelecimentos agrícolas – como os limpadores de grãos (“tararas”), os picadores de palha, os picadores de raízes, os moedores, as batedeiras e malaxadores de leite, os batedores a manivela etc</p>
+<p>Ao mesmo tempo, rompia-se o isolamento das regiões agrícolas da Europa, o que permitia seu abastecimento em corretivos e adubos, além do escoamento de seus produtos.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="revolução-agrícola-e-uso-de-máquinas-2" class="slide level2">
+<h2>Revolução agrícola e uso de máquinas</h2>
+<hr>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/arrado_charrua.jpeg" style="width:80.0%"></p>
+<figcaption>Arrdo Charrua</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/arrado_brabant.jpeg"></p>
+<figcaption>Arado Bradant</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="revolução-agrícola-e-uso-de-máquinas-3" class="slide level2">
+<h2>Revolução agrícola e uso de máquinas</h2>
+<hr>
+<div class="quarto-layout-panel" data-layout-ncol="3">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img data-src="imagens/grade_metalica.png"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img data-src="imagens/semeador.png"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img data-src="imagens/ceifadeira.png"></p>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: center;">
+<p><img data-src="imagens/rolo_ondulado.png"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+<p><img data-src="imagens/revolvedor.png"></p>
+</div>
+</div>
+</div>
+</section>
+<section id="revolução-agrícola-e-uso-de-máquinas-4" class="slide level2">
+<h2>Revolução agrícola e uso de máquinas</h2>
+<hr>
+<p>EUA:</p>
+<ul>
+<li class="fragment"><p>Séculos XVII e XVIII uso de animais como fonte de potência, uso de arado de madeira, semeadura manual.</p></li>
+<li class="fragment"><p>1800 primeiro arado de ferro e com peças intercambiáveis é patenteado.</p></li>
+<li class="fragment"><p>1820 ceifadeira a tração animal e trilhadora estacionária são apresentadas, início do uso de aço na construção dos arados de aiveca.</p></li>
+<li class="fragment"><p>1840 início da produção comercial nos EUA a partir do uso de máquinas de acionamento manual ou através de animais (cultivadores tracionados por juntas de cavalo). Surgimento da semeadore de fluxo contínuo.</p></li>
+</ul>
+<aside class="notes">
+<p>Entre 1850 e 1870, a Inglaterra e a Europa deixaram de ser o principal centro técnico da agricultura. Nesse período, Estados Unidos, Austrália, Argentina, entre outros, tornaram-se grandes supridores de produtos essenciais, como trigo, produtos lácteos, carne e produtos tropicais</p>
+<p>O ferreiro John Deere (Illinois – EUA) desenvolveu, em 1837, arados de ferro forjado liso, que se adaptavam bem à agricultura da pradaria.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="revolução-agrícola-e-uso-de-máquinas-5" class="slide level2">
+<h2>Revolução agrícola e uso de máquinas</h2>
+<hr>
+<p>EUA:</p>
+<ul>
+<li class="fragment"><p>1860 transição efetiva para a tração animal como fonte de potência para as operações. Uso de arado com mais de uma aiveca. Tentativas de tratores a vapor. Grade de dentes utilizada no preparo do leito de semeadura.</p></li>
+<li class="fragment"><p>1892 primeiro trator a gasolina é fabricado por Froelich na Dakota do Sul.</p></li>
+<li class="fragment"><p>1880 colhedoras tracionadas por juntas de cavalos passam a ser utilizadas. Primeiro trator movido a gasolina.</p></li>
+<li class="fragment"><p>1910 introdução dos tratores a gasolina em fazendas de grande extensão. Primeiras colhedoras acionadas através de motor.</p></li>
+<li class="fragment"><p>1920 recolhedora de algodão e primeiros tratores leves desenvolvidos.</p></li>
+</ul>
+<aside class="notes">
+<p>Para Rasmussen (1983 apud Fonseca, 1990), é a guerra civil norte-americana que fornece todo o ímpeto para uma grande mudança agrícola e para a conversão de tração humana e tração animal para força mecânica.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="revolução-agrícola-e-uso-de-máquinas-6" class="slide level2">
+<h2>Revolução agrícola e uso de máquinas</h2>
+<hr>
+<p>EUA:</p>
+<ul>
+<li class="fragment"><p>1930 tratores versáteis e início do uso de pneus.</p></li>
+<li class="fragment"><p>1950 o número de tratores nas fazendas passa a superar o número de animais utilizados para tração.</p></li>
+<li class="fragment"><p>1980 adoção de sistemas conservacionistas de produção, com gradual redução de operações de preparo do solo. Uso de eletrônica em máquinas agrícolas.</p></li>
+<li class="fragment"><p>1990/2000 adoção de automação em máquinas com desenvolvimento de sistemas para direcionamento e controle de taxa de aplicação.</p></li>
+<li class="fragment"><p>2000/2015 gestão remota de máquinas agrícolas através da telemetria.</p></li>
+<li class="fragment"><p>2015/2026 ????</p></li>
+</ul>
 </section></section>
 <section>
 <section id="definições" class="title-slide slide level1 center">
@@ -416,6 +601,7 @@ Gustavo Frosi
 </section>
 <section id="definições-1" class="slide level2">
 <h2>Definições</h2>
+<hr>
 <p>Operação agrícola:</p>
 <div class="fragment">
 <blockquote>
@@ -460,6 +646,7 @@ Gustavo Frosi
 </section>
 <section id="definições-2" class="slide level2">
 <h2>Definições</h2>
+<hr>
 <p>O que é mecanização agrícola?</p>
 <div class="fragment">
 <blockquote>
@@ -492,6 +679,7 @@ Gustavo Frosi
 </section>
 <section id="definições-3" class="slide level2">
 <h2>Definições</h2>
+<hr>
 <p>Máquina agrícola:</p>
 <div class="fragment">
 <blockquote>
@@ -501,6 +689,7 @@ Gustavo Frosi
 </section>
 <section id="definições-4" class="slide level2">
 <h2>Definições</h2>
+<hr>
 <p>Máquina agrícola:</p>
 <div class="fragment">
 <blockquote>
@@ -529,6 +718,7 @@ Gustavo Frosi
 </section>
 <section id="definições-5" class="slide level2">
 <h2>Definições</h2>
+<hr>
 <p>Exemplos de máquina agrícola:</p>
 <div class="quarto-layout-panel" data-layout-ncol="2">
 <div class="quarto-layout-row">
@@ -553,6 +743,7 @@ Gustavo Frosi
 </section>
 <section id="definições-6" class="slide level2">
 <h2>Definições</h2>
+<hr>
 <div class="columns">
 <div class="column">
 <p>Máquina motora:</p>
@@ -572,6 +763,7 @@ Gustavo Frosi
 </section>
 <section id="definições-7" class="slide level2">
 <h2>Definições</h2>
+<hr>
 <p>Órgãos ativos:</p>
 <blockquote>
 <p>É a parte de um equipamento projetada para realizar sua função principal.</p>
@@ -586,6 +778,7 @@ Gustavo Frosi
 </section>
 <section id="definições-8" class="slide level2">
 <h2>Definições</h2>
+<hr>
 <p>Implemento agrícola:</p>
 <div class="fragment">
 <blockquote>
@@ -613,13 +806,14 @@ Gustavo Frosi
 </section>
 <section id="definições-9" class="slide level2">
 <h2>Definições</h2>
+<hr>
 <p>Exemplos de implementos agrícola:</p>
 <div class="quarto-layout-panel" data-layout-nrow="1">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="imagens/grade_discos.png"></p>
+<p><img data-src="imagens/grade_discos.png" style="width:80.0%"></p>
 <figcaption>Grade de discos</figcaption>
 </figure>
 </div>
@@ -637,6 +831,7 @@ Gustavo Frosi
 </section>
 <section id="definições-10" class="slide level2">
 <h2>Definições</h2>
+<hr>
 <p>Máquinas vs implementos agrícolas:</p>
 <table class="caption-top">
 <thead>
@@ -687,6 +882,7 @@ Gustavo Frosi
 </section>
 <section id="definições-11" class="slide level2">
 <h2>Definições</h2>
+<hr>
 <p>Ferramenta agrícola:</p>
 <div class="fragment">
 <blockquote>
@@ -696,6 +892,7 @@ Gustavo Frosi
 </section>
 <section id="definições-12" class="slide level2">
 <h2>Definições</h2>
+<hr>
 <p>Exemplos de ferramentas agrícola</p>
 <div class="quarto-layout-panel" data-layout-nrow="1">
 <div class="quarto-layout-row">
@@ -710,9 +907,10 @@ Gustavo Frosi
 </section>
 <section id="definições-13" class="slide level2">
 <h2>Definições</h2>
+<hr>
 <p>Sistema</p>
 <blockquote>
-<p>Conjunto de elmentos interligados e interdependentes que funcionam juntos para realizar uma função.</p>
+<p>Conjunto de elementos interligados e interdependentes que funcionam juntos para realizar uma função.</p>
 </blockquote>
 <div class="fragment">
 <p>Sistema de cultivo</p>
@@ -723,6 +921,7 @@ Gustavo Frosi
 </section>
 <section id="definições-14" class="slide level2">
 <h2>Definições</h2>
+<hr>
 <p>Sistema de produção</p>
 <blockquote>
 <p>Composto pelo conjunto de ssistemas de cultivo no âmbito de uma propriedade rural, definidos a partir dos fatores de produção e interligados por um processo de gestão. - EMBRAPA</p>
@@ -735,6 +934,7 @@ Gustavo Frosi
 </section>
 <section id="definições-relacionadas-ao-solo-para-cultivo-1" class="slide level2">
 <h2>Definições relacionadas ao solo para cultivo</h2>
+<hr>
 <p>Campo de cultivo</p>
 <blockquote>
 <p>São glebas de terra subdivididas por divisores naturais (rios, valas, montanhas, etc) ou artificiais (estradas, cercas, carreadores, etc.).</p>
@@ -742,11 +942,13 @@ Gustavo Frosi
 </section>
 <section id="definições-relacionadas-ao-solo-para-cultivo-2" class="slide level2">
 <h2>Definições relacionadas ao solo para cultivo</h2>
+<hr>
 <p>Partes de um campo de cultivo</p>
 
 <img data-src="imagens/talhao.png" class="r-stretch"></section>
 <section id="definições-relacionadas-ao-solo-para-cultivo-3" class="slide level2">
 <h2>Definições relacionadas ao solo para cultivo</h2>
+<hr>
 <blockquote>
 <p>Carreadores são vias de acesso de talhões que se interligam entre si e com as estradas da propriedade.</p>
 </blockquote>
@@ -759,6 +961,7 @@ Gustavo Frosi
 </section>
 <section id="definições-relacionadas-ao-solo-para-cultivo-4" class="slide level2">
 <h2>Definições relacionadas ao solo para cultivo</h2>
+<hr>
 <p>Talhão</p>
 <blockquote>
 <p>São parcelas dos campos de cultivos que são efetivamente mobilizadas através das operações de preparo periódico do solo e que serão, futuramente ocupadas pelas plantas da cultura a ser instalada.</p>
@@ -766,6 +969,7 @@ Gustavo Frosi
 </section>
 <section id="definições-relacionadas-ao-solo-para-cultivo-5" class="slide level2">
 <h2>Definições relacionadas ao solo para cultivo</h2>
+<hr>
 <p>Tipos e formatos de talhões</p>
 
 <img data-src="imagens/tipos_talhoes.png" class="r-stretch"></section></section>
@@ -776,6 +980,7 @@ Gustavo Frosi
 </section>
 <section id="por-que-mecanizar" class="slide level2">
 <h2>Por que mecanizar?</h2>
+<hr>
 <ul>
 <li class="fragment"><p>Reduz o tempo para o término das terefas;</p></li>
 <li class="fragment"><p>Aumento da produtividade;</p></li>
@@ -785,6 +990,7 @@ Gustavo Frosi
 </section>
 <section id="objetivos-da-mecanização-1" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>Tempo gasto nas operações</p>
 <div class="r-stack">
 <p><img data-src="imagens/enxada.jpeg" class="fragment absolute" style="top: 20%; left: 0%; width: 40%; "></p>
@@ -795,11 +1001,13 @@ Gustavo Frosi
 </section>
 <section id="objetivos-da-mecanização-2" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>Tempo gasto nas operações</p>
 
 <img data-src="imagens/tempo_arar.png" class="r-stretch"></section>
 <section id="objetivos-da-mecanização-3" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>Tempo gasto nas operações</p>
 <blockquote>
 <p>O ganho na eficiência do trabalho agrícola com a mecanização é enorme: são necessárias apenas 2 a 5 horas de trabalho agrícola para produzir o alimento consumido por uma pessoa em um ano. Esse valor é muito menor do que o tempo que uma pessoa média gasta comprando comida, cozinhando ou comendo. - Ibarrola-Rivas et al.&nbsp;(2016)</p>
@@ -820,6 +1028,7 @@ Gustavo Frosi
 </section>
 <section id="objetivos-da-mecanização-4" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>A condição ideal do solo depende de uma janela de tempo específica; portanto, o tempo disponível para a realização das operações é indispensável.</p>
 
 <img data-src="imagens/friavel.png" class="r-stretch"><div class="fragment">
@@ -828,11 +1037,13 @@ Gustavo Frosi
 </section>
 <section id="objetivos-da-mecanização-5" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>Desgaste do trabalhador</p>
 
 <img data-src="imagens/corte_cana.jpeg" class="r-stretch"></section>
 <section id="objetivos-da-mecanização-6" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>Desgaste do trabalhador</p>
 <div class="r-stack">
 <p><img data-src="imagens/arrado_boi_2.jpeg" class="fragment absolute" style="top: 20%; left: 0%; width: 40%; "></p>
@@ -841,6 +1052,7 @@ Gustavo Frosi
 </section>
 <section id="objetivos-da-mecanização-7" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>Desgaste do trabalhador</p>
 <p>Prevalência de dor lombar em agricultores</p>
 
@@ -860,6 +1072,7 @@ Gustavo Frosi
 </section>
 <section id="objetivos-da-mecanização-8" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>Aumento da potência de trabalho</p>
 <div class="quarto-layout-panel" data-layout-nrow="1">
 <div class="quarto-layout-row">
@@ -874,6 +1087,7 @@ Gustavo Frosi
 </section>
 <section id="objetivos-da-mecanização-9" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>Aumento da potência de trabalho</p>
 <p><span class="math inline">\(\text{Energia humana (kWh)} =
 \text{Potência total de trabalho disponível}
@@ -883,6 +1097,7 @@ Gustavo Frosi
 </section>
 <section id="objetivos-da-mecanização-10" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>Aumento da potência de trabalho</p>
 <table class="caption-top">
 <caption>Energia produzida por animais/máquina durante uma jornada de trabalho (8 h).</caption>
@@ -930,6 +1145,7 @@ Gustavo Frosi
 </section>
 <section id="objetivos-da-mecanização-11" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>Aumento da potência de trabalho</p>
 <p>Um MeriCrusher MT-700 possui 768.4 CV ou 565 kW. Em 8 horas ele é capaz de disponibilizar ~2260 kW.</p>
 <div class="quarto-layout-panel" data-layout-nrow="1">
@@ -945,11 +1161,13 @@ Gustavo Frosi
 </section>
 <section id="objetivos-da-mecanização-12" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>Evolução da potência disponível</p>
 
 <img data-src="imagens/evolucao_potencia.jpeg" class="r-stretch quarto-figure-center"><p class="caption">Steenwyk, P. et al.&nbsp;(2022)</p></section>
 <section id="objetivos-da-mecanização-13" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>Evolução da potência disponível por tratores no Brasil</p>
 <div class="quarto-layout-panel" data-layout-nrow="1">
 <div class="quarto-layout-row">
@@ -974,6 +1192,7 @@ Gustavo Frosi
 </section>
 <section id="objetivos-da-mecanização-14" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>Trabalho físico por humanos, outros animais e máquinas</p>
 <div class="quarto-layout-panel" data-layout-nrow="1">
 <div class="quarto-layout-row">
@@ -1011,21 +1230,25 @@ Gustavo Frosi
 </section>
 <section id="objetivos-da-mecanização-15" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>Aumento da potência de trabalho</p>
 
 <img data-src="imagens/kw_humano_maquina.png" class="r-stretch quarto-figure-center"><p class="caption">Cherkos B.G (2024)</p></section>
 <section id="objetivos-da-mecanização-16" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>Custo e retorno</p>
 
 <img data-src="imagens/nivel_meca.png" class="r-stretch"></section>
 <section id="objetivos-da-mecanização-17" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>Aumento da produtividade</p>
 
 <img data-src="imagens/produtividade_terra.jpeg" class="r-stretch"></section>
 <section id="objetivos-da-mecanização-18" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>Aumento da produtividade</p>
 
 <img data-src="imagens/produtividade_br.jpg" style="width:80.0%" class="r-stretch"><aside class="notes">
@@ -1049,6 +1272,7 @@ Gustavo Frosi
 <img data-src="imagens/aumento_prodpng.png" style="width:80.0%" class="r-stretch quarto-figure-center"><p class="caption">Olaoye, J.O. e Rotimi, A.O. (2012)</p></section>
 <section id="objetivos-da-mecanização-20" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>Aumento da produtividade (China)</p>
 <div class="quarto-layout-panel" data-layout-nrow="1">
 <div class="quarto-layout-row">
@@ -1082,6 +1306,7 @@ Gustavo Frosi
 </section>
 <section id="objetivos-da-mecanização-21" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>Aumento da produtividade (EUA)</p>
 
 <img data-src="imagens/producao_e_ano.jpeg" class="r-stretch quarto-figure-center"><p class="caption">Hans B. (1986)</p><aside class="notes">
@@ -1101,11 +1326,13 @@ Gustavo Frosi
 </section>
 <section id="objetivos-da-mecanização-22" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>Aumento da produtividade (EUA)</p>
 
 <img data-src="imagens/tempo_e_ano.jpeg" class="r-stretch quarto-figure-center"><p class="caption">Hans B. (1986)</p></section>
 <section id="objetivos-da-mecanização-23" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>Melhora a qualidade das operações</p>
 <div class="r-stack">
 <p><img data-src="imagens/leira_enxada.jpg" class="fragment absolute" style="top: 20%; left: 0%; width: 60%; "></p>
@@ -1114,6 +1341,7 @@ Gustavo Frosi
 </section>
 <section id="objetivos-da-mecanização-24" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>Melhora a qualidade das operações</p>
 <div class="r-stack">
 <p><img data-src="imagens/canteiro_mao.jpeg" class="fragment absolute" style="top: 20%; left: 0%; width: 40%; "></p>
@@ -1122,6 +1350,7 @@ Gustavo Frosi
 </section>
 <section id="objetivos-da-mecanização-25" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>Melhora a qualidade das operações</p>
 <div class="r-stack">
 <p><img data-src="imagens/arrado_boi_2.jpeg" class="fragment absolute" style="top: 20%; left: 0%; width: 40%; "></p>
@@ -1130,6 +1359,7 @@ Gustavo Frosi
 </section>
 <section id="objetivos-da-mecanização-26" class="slide level2">
 <h2>Objetivos da mecanização</h2>
+<hr>
 <p>Reduz o abandono das terras</p>
 
 <img data-src="imagens/abandono_terra.png" class="r-stretch quarto-figure-center"><p class="caption">W. MA et al.&nbsp;(2021)</p></section></section>
@@ -1140,46 +1370,55 @@ Gustavo Frosi
 </section>
 <section id="mecanização-no-mundo-1" class="slide level2">
 <h2>Mecanização no Mundo</h2>
+<hr>
 <p>Frota de tratores em regiões do mundo a cada 1000 ha de área cultivada</p>
 
 <img data-src="imagens/trator_1000_ha.png" class="r-stretch quarto-figure-center"><p class="caption">Pingali P. (2007)</p></section>
 <section id="mecanização-no-mundo-2" class="slide level2">
 <h2>Mecanização no Mundo</h2>
+<hr>
 <p>Fontes de energia agrícola em fazendas dos EUA</p>
 
 <img data-src="imagens/tratores_eua_e_animais.png" class="r-stretch quarto-figure-center"><p class="caption">Banco Mundial (1986)</p></section>
 <section id="mecanização-no-mundo-3" class="slide level2">
 <h2>Mecanização no Mundo</h2>
+<hr>
 <p>Tratores no mundo 1920-1979</p>
 
 <img data-src="imagens/tratores_mundo.png" class="r-stretch quarto-figure-center"><p class="caption">Banco Mundial (1986)</p></section>
 <section id="mecanização-no-mundo-4" class="slide level2">
 <h2>Mecanização no Mundo</h2>
+<hr>
 <p>Produção, importação, vendas, exportações e estoque de tratores Brasil, 1960-82</p>
 
 <img data-src="imagens/producao_tratores_br.png" class="r-stretch quarto-figure-center"><p class="caption">Neto, J.A. (1985)</p></section>
 <section id="mecanização-no-mundo-5" class="slide level2">
 <h2>Mecanização no Mundo</h2>
+<hr>
 <p>Estoque de tratores no Brasil 1920-2006</p>
 
 <img data-src="imagens/venda_tratores_br.png" class="r-stretch quarto-figure-center"><p class="caption">Silva, R.P. et al.&nbsp;(2015)</p></section>
 <section id="mecanização-no-mundo-6" class="slide level2">
 <h2>Mecanização no Mundo</h2>
+<hr>
 <p>Venda de tratores no Brasil 1960-2014</p>
 
 <img data-src="imagens/venda_credito_br.png" class="r-stretch quarto-figure-center"><p class="caption">Silva, R.P. et al.&nbsp;(2015)</p></section>
 <section id="mecanização-no-mundo-7" class="slide level2">
 <h2>Mecanização no Mundo</h2>
+<hr>
 <p>Tratores no Brasil por região geográfica</p>
 
 <img data-src="imagens/frota_br_regioes.png" class="r-stretch quarto-figure-center"><p class="caption">Silva, R.P. et al.&nbsp;(2015)</p></section>
 <section id="mecanização-no-mundo-8" class="slide level2">
 <h2>Mecanização no Mundo</h2>
+<hr>
 <p>Tratores no Brasil por tempo de uso</p>
 
 <img data-src="imagens/estoque_trato_tempo_uso.png" class="r-stretch quarto-figure-center"><p class="caption">Silva, R.P. et al.&nbsp;(2015)</p></section>
 <section id="índice-de-mecanização-uma-das-formas-de-medir" class="slide level2">
 <h2>Índice de mecanização (uma das formas de medir)</h2>
+<hr>
 <p><span class="math display">\[IM = \frac{\sum Me}{X li}\]</span></p>
 <p><span class="math inline">\(Im = Índice~de~mecanização\)</span></p>
 <p><span class="math inline">\(Me = Total~de~potência~devido~à~mecanização\)</span></p>
@@ -1190,41 +1429,49 @@ Gustavo Frosi
 </section>
 <section id="mecanização-no-mundo-9" class="slide level2">
 <h2>Mecanização no mundo</h2>
+<hr>
 <p>Índice de mecanização</p>
 
 <img data-src="imagens/indice_mecanizacao.png" class="r-stretch quarto-figure-center"><p class="caption">Anziliero D. 2025</p></section>
 <section id="mecanização-no-brasil" class="slide level2">
 <h2>Mecanização no Brasil</h2>
+<hr>
 <p>Índice de mecanização</p>
 
 <img data-src="imagens/indice_meca_br.png" class="r-stretch quarto-figure-center"><p class="caption">Anziliero D. 2025</p></section>
 <section id="mecanização-no-brasil-1" class="slide level2">
 <h2>Mecanização no Brasil</h2>
+<hr>
 <p>Venda de colheitadeiras</p>
 
 <img data-src="imagens/venda_colheitadeiras.png" class="r-stretch quarto-figure-center"><p class="caption">Anziliero D. 2025</p></section>
 <section id="mecanização-no-brasil-2" class="slide level2">
 <h2>Mecanização no Brasil</h2>
+<hr>
 <p>Venda de tratores</p>
 
 <img data-src="imagens/venda_trator.png" class="r-stretch quarto-figure-center"><p class="caption">Anziliero D. 2025</p></section>
 <section id="mecanização-no-brasil-3" class="slide level2">
 <h2>Mecanização no Brasil</h2>
+<hr>
 <p>Parque de tratores (frota)</p>
 
 <img data-src="imagens/parque_trator.png" class="r-stretch quarto-figure-center"><p class="caption">Anziliero D. 2025</p></section>
 <section id="mecanização-no-brasil-4" class="slide level2">
 <h2>Mecanização no Brasil</h2>
+<hr>
 <p>Parque de colhedoras (frota)</p>
 
 <img data-src="imagens/parque_colhedoras.png" class="r-stretch quarto-figure-center"><p class="caption">Anziliero D. 2025</p></section>
 <section id="mecanização-no-brasil-5" class="slide level2">
 <h2>Mecanização no Brasil</h2>
+<hr>
 <p>Por marca</p>
 
 <img data-src="imagens/venda_por_marca.png" class="r-stretch quarto-figure-center"><p class="caption">Anziliero D. 2025</p></section>
 <section id="mecanização-no-brasil-6" class="slide level2">
 <h2>Mecanização no Brasil</h2>
+<hr>
 <p>Área produtiva vs potência</p>
 <div class="quarto-layout-panel" data-layout-nrow="1">
 <div class="quarto-layout-row">

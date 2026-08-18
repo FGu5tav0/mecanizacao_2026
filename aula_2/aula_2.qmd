@@ -19,7 +19,7 @@ title-slide-attributes:
 css: styles.scss
 logo: logo.png
 image: true
-date: today
+date: "08-14-2026"
 date-format: long
 lang: pt-BR
 ---
@@ -30,6 +30,7 @@ lang: pt-BR
 # Definições
 
 ## Definições
+<hr>
 
 Motor
 
@@ -43,12 +44,26 @@ Motor
 :::
 
 
+::: {.fragment}
+
+ex: Você andando de bicicleta. 
+
+:::
+
+
+::: {.fragment}
+
+Sua energia (ATP) é transferida para os pedais e, por meio de um sistema de engrenagens, chega à roda, que se movimenta.
+
+:::
+
+
+
+
 # Classificação dos motores
 
 ## Quanto a fonte geradora
-
-<br>
-
+<hr>
 
 ::: {.columns}
 
@@ -85,6 +100,7 @@ Motor elétrico
 :::
 
 ## Quanto a combustão
+<hr>
 
 <br>
 
@@ -100,8 +116,9 @@ Motor elétrico
 
 
 ## Como ocorre a combustão
+<hr>
 
-A combustão é uma reação química exotérmica (libera calor) entre uma substãncia (combustível) e um gás (comburente) para liberar calor. 
+A combustão é uma reação química exotérmica (libera calor) entre uma substância (combustível) e um gás (comburente) para liberar calor. 
 
 ::: {.fragment}
 
@@ -111,10 +128,12 @@ A combustão é uma reação química exotérmica (libera calor) entre uma subst
 
 
 ## Como ocorre a combustão
+<hr>
 
 ![](imagens/requisitos_motor.png){fig-align="center"}
 
 ## Como ocorre a combustão
+<hr>
 
 Fórmula química da combustão
 
@@ -129,7 +148,8 @@ Diesel (estrutura complexa) = CH<sub>3</sub>(CH<sub>2</sub>)<sub>14</sub>CH<sub>
 
 :::
 
-## Combustão externa 
+## Combustão externa
+<hr>
 
 Ex: máquinas a vapor
 
@@ -143,6 +163,7 @@ quando a água é aquecida ela se torna vapor e ocupa maior espaço o que gera p
 :::
 
 ## Quanto a combustão
+<hr>
 
 Exemplo de máquina a vapor
 
@@ -158,6 +179,7 @@ Exemplo de máquina a vapor
 
 
 ## Combustão interna
+<hr>
 
 
 ::: {.fragment}
@@ -166,18 +188,21 @@ Exemplo de máquina a vapor
 
 Utilizam combustível de baixa volatilidade, como gasolina e álcool. Para ignição necessitam de centelha produzida pelo sistema elétrico.
 
+Empregado em situações agrícolas com menor demanda de potência e torque.
+
 :::
 
 ::: {.fragment}
 
 [__Ciclo Diesel__]{.fg style="--col: #e64173"}
 
-Utilizam como combustível o óleo diesel. A inflamação do combustível injetado sobe pressão na câmara de combustão ocorre pela ocmpressão de ar e consequente elevação da temperatura.
+Utilizam como combustível o óleo diesel. A inflamação do combustível injetado sob pressão na câmara de combustão ocorre pela compressão de ar e consequente elevação da temperatura.
 
 
 :::
 
 ## Quanto ao número de ciclos
+<hr>
 
 ::: {.incremental}
  
@@ -188,6 +213,7 @@ Utilizam como combustível o óleo diesel. A inflamação do combustível injeta
 :::
 
 ## Objetivo do motor
+<hr>
 
 Gerar trabalho!
 
@@ -201,7 +227,7 @@ $Trabalho~(J) = Força(N) * deslocamento(m)$
 
 ::: {.fragment}
 
-$Força(N) = mass(kg) * aceleração(\Delta_v/\Delta_t)$
+$Força(N) = massa(kg) * aceleração(\Delta_v/\Delta_t)$
 
 :::
 
@@ -216,10 +242,10 @@ Ex de potência: 1 cavalo puxa 75 kg em 1 s.
 :::
 
 
-
 # Histórico sobre motores
 
 ## Histórico
+<hr>
 
 <!-- <br> -->
 
@@ -248,7 +274,7 @@ O ciclo ficou conhecido como **ciclo Otto**
 ::: {.event .fragment data-label="1886" }
 **Queda da patente de Otto na Alemanha**
 
-O documento de Beau de Rocha é redescoberto, assim a patente de Otto é invalidade.
+O documento de Beau de Rocha é redescoberto, assim a patente de Otto é invalidada.
 
 Várias fabricantes podem recriar o motor.
 
@@ -273,40 +299,49 @@ Engenheiro __Rudolf Diesel__ descreve um novo motor, no qual a ignição da mist
 ![](imagens/diesel.png)
 
 :::
+::: {.event .fragment data-label="1897" }
+**Ciclo Diesel**
+
+Primeiro motor ciclo diesel é construído.
+
+:::
 :::
 
 
 # Funcionamento do motor a combustão interna
 
 ## Funcionamento do motor a combustão interna
+<hr>
 
 ![](imagens/motor_cortado.png){fig-align="center"}
 
 ## Funcionamento do motor a combustão interna
+<hr>
 
 [__4 tempos ciclo diesel__]{.fg style="--col: #e64173"}
 
 
 ::: {.fragment}
 
-- Admissão: O pistão desce, a válvula de admissão se abre e a de escape fecha. Ao descer, o pistão cria pressão no cilindor. O ar é forçado pela pressão atmosféria a entrar no cilindro pelo filtro de ar e pela tubulação de admissão. A quantidade que entra é sempre a mesma, independente da aceleração.
+- Admissão: O pistão desce, a válvula de admissão se abre e a de escape fecha. Ao descer, o pistão cria pressão no cilindro. O ar é forçado pela pressão atmosféria a entrar no cilindro pelo filtro de ar e pela tubulação de admissão. A quantidade que entra é sempre a mesma, independente da aceleração.
 
 :::
 
 ::: {.fragment}
 
-- Compressão: O pistão sobe, as válvulas de admissão e de escape ficam fechadas. O ar admitido é comprimido até ocupar o volume da câmara de combustão. O ar se aquece, e ao fim da compressão, o bico injeto pulveriza óleo diesel no interior da câmara de combustão.
+- Compressão: O pistão sobe, as válvulas de admissão e de escape ficam fechadas. O ar admitido é comprimido até ocupar o volume da câmara de combustão. O ar se aquece, e ao fim da compressão, o bico injetor pulveriza óleo diesel no interior da câmara de combustão.
 
 :::
 
 ## Funcionamento do motor a combustão interna
+<hr>
 
 [__4 tempos ciclo diesel__]{.fg style="--col: #e64173"}
 
 
 ::: {.fragment}
 
-- Combustão: O pistão desce, acionado pela força de expansão dos gases queimados. As válvulas de admissão e de escape estão fechadas. A força de expansão é transmitida pelo piestão à biela e desta ao virabrequim, provocando assim movimento de rotação do motor.
+- Combustão: O pistão desce, acionado pela força de expansão dos gases queimados. As válvulas de admissão e de escape estão fechadas. A força de expansão é transmitida pelo pistão à biela e desta ao virabrequim, provocando assim movimento de rotação do motor.
 
 :::
 
@@ -317,56 +352,62 @@ Engenheiro __Rudolf Diesel__ descreve um novo motor, no qual a ignição da mist
 :::
 
 ## Funcionamento do motor a combustão interna
+<hr>
 
 Admissão
 
 ![](imagens/admissao.png){fig-align="center"}
 
 ## Funcionamento do motor a combustão interna
+<hr>
 
 Compressão
 
 ![](imagens/compressao.jpg){fig-align="center"}
 
 ## Funcionamento do motor a combustão interna
+<hr>
 
 Explosão
 
 ![](imagens/expansao.png){fig-align="center"}
 
 ## Funcionamento do motor a combustão interna
+<hr>
 
 Descarga
 
 ![](imagens/descarga.png){fig-align="center"}
 
 ## Funcionamento do motor a combustão interna
+<hr>
 
 ![](imagens/ciclo_diesel.png){fig-align="center"}
 
 ## Funcionamento do motor a combustão interna
+<hr>
 
 ![](imagens/motor-diesel-gif-4.gif){fig-align="center"}
 
 ## Funcionamento do motor a combustão interna
+<hr>
 
 ![](imagens/fases_motor.jpg){fig-align="center"}
 
 ## Funcionamento do motor a combustão interna
+<hr>
 
 ![](imagens/motor.gif)
 
 ## Funcionamento do motor a combustão interna
+<hr>
 
 <iframe width="2537" height="745" src="https://www.youtube.com/embed/Rw5Ewen7fGI" title="Como funciona um motor a diesel? Animação 3D" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Funcionamento do motor a combustão interna
+# Componentes do motor 
 
-
-
-# Componente do motor 
-
-## Componente do motor 
+## Componentes do motor
+<hr>
 
 ::: {layout-ncol=2}
 
@@ -376,21 +417,28 @@ Descarga
 
 :::
 
-## Componente do motor diesel
+## Componentes do motor diesel
+<hr>
 
 [__Bloco dos cilindros__]{.fg style="--col: #e64173"}
 
 ![](imagens/bloco-dos-cilindros.png){fig-align="center"}
 
-## Componente do motor diesel
+## Componentes do motor diesel
+<hr>
 
 [__Bloco dos cilindros__]{.fg style="--col: #e64173"}
 
 Função: 
 
 - Base onde se encontram todos os demais elementos do funcionamento do motor.
-  - Cabeçote, válvulas, árvore de comando, cilindros, pistão, aníes de segmento, biela, casquilhos, árvore dde manivelas, volante e cárter.
+  - Cabeçote, válvulas, árvore de comando, cilindros, pistão, aneís de segmento, biela, casquilhos, árvore de manivelas, volante e cárter.
 - Em máquinas agrícolas apresenta função estrutural e de sustentação.
+
+## Componentes do motor diesel
+<hr>
+
+[__Bloco dos cilindros__]{.fg style="--col: #e64173"}
 
 Características:
 
@@ -398,13 +446,15 @@ Características:
 - Em seu interior apresenta grandes orifícios cilíndricos (cilindros) onde se realiza a combustão.
 - Apresenta cavidades para a passagem de água de arrefecimento.
 
-## Componente do motor diesel
+## Componentes do motor diesel
+<hr>
 
 [__Árvore de manivelas (virabrequim )__]{.fg style="--col: #e64173"}
 
 ![](imagens/arvore-de-manivelas.jpg){fig-align="center"}
 
-## Componente do motor diesel
+## Componentes do motor diesel
+<hr>
 
 [__Árvore de manivelas (virabrequim )__]{.fg style="--col: #e64173"}
 
@@ -417,13 +467,15 @@ Características:
 - Peça de aço forjado com canais para conduzir o óleo lubrificante até os mancais e cabeças das bielas.
 - Seu formato deriva do número e da distribuição dos cilindros (manivelas iguais ao número de cilindros).
 
-## Componente do motor diesel
+## Componentes do motor diesel
+<hr>
 
 [__Biela e pistão__]{.fg style="--col: #e64173"}
 
 ![](imagens/biela-pistao.png){fig-align="center"}
 
-## Componente do motor diesel
+## Componentes do motor diesel
+<hr>
 
 [__Pistão__]{.fg style="--col: #e64173"}
 
@@ -437,7 +489,8 @@ Características:
 
 - Peça cilíndrica localizada dentro do cilindro sem contato com o mesmo.
 
-## Componente do motor diesel
+## Componentes do motor diesel
+<hr>
 
 [__Anéis do pistão__]{.fg style="--col: #e64173"}
 
@@ -449,18 +502,20 @@ Características:
 
 :::
 
-## Componente do motor diesel
+## Componentes do motor diesel
+<hr>
 
 [__Anéis do pistão__]{.fg style="--col: #e64173"}
 
 Função: 
 
-- Os de compressão são responsáveis pela vedaão da câmara do cilindro (fechamento hermético)
+- Os de compressão são responsáveis pela vedação da câmara do cilindro (fechamento hermético)
 - Os de lubrificação executam o controle do fluxo de óleo entre o pistão e o cilindro.
 - Dissipação do calor do pistão pelas paredes do cilindro.
 - Redução da área de contato direta entre as paredes do cilindro e do pistão.
 
-## Componente do motor diesel
+## Componentes do motor diesel
+<hr>
 
 [__Biela__]{.fg style="--col: #e64173"}
 
@@ -469,21 +524,28 @@ Função:
 - É um órgão transformador do movimento alternativo do pistão em movimento de rotação no virabrequim.
 - Elemento de ligação entre o pistão e o virabrequim.
 
+## Componentes do motor diesel
+<hr>
+
+[__Biela__]{.fg style="--col: #e64173"}
+
 Características:
 
 - Feita em aço, é resistente para poder transferir a energia entre as partes.
 - Possui 3 partes
   - Cabeça: Orifício circular que permite ligação com o virabrequim.
-  - Corpo: Fas a ligação entre o pé e a cabeça.
+  - Corpo: Faz a ligação entre o pé e a cabeça.
   - Pé: Orifício circular que permite ligação com o pistão.
 
-## Componente do motor diesel
+## Componentes do motor diesel
+<hr>
 
 [__Cárter de óleo__]{.fg style="--col: #e64173"}
 
 ![](imagens/carter-de-oleo.png){fig-align="center"}
 
-## Componente do motor diesel
+## Componentes do motor diesel
+<hr>
 
 [__Cárter de óleo__]{.fg style="--col: #e64173"}
 
@@ -497,21 +559,34 @@ Características:
 
 - Invólucro rígido que fecha o bloco em sua parte inferior.
 
-## Componente do motor diesel
+## Componentes do motor diesel
+<hr>
 
-Volante do motor
+[__Volante do motor__]{.fg style="--col: #e64173"}
 
 ![](imagens/compensador-de-massa.png){fig-align="center"}
 
-## Componente do motor diesel
+## Componentes do motor diesel
+<hr>
 
-Válvulas
+[__Volante do motor__]{.fg style="--col: #e64173"}
+
+Função: 
+
+- Transfere o torque obtido no virabrequim para a caixa de velocidades.
+- É responsável por absorver vibrações do motor e manter estável ou dificultar oscilações.
+
+## Componentes do motor diesel
+<hr>
+
+[__Válvulas__]{.fg style="--col: #e64173"}
 
 ![](imagens/valvulas.png){fig-align="center"}
 
-## Componente do motor diesel
+## Componentes do motor diesel
+<hr>
 
-Cabeçote
+[__Cabeçote__]{.fg style="--col: #e64173"}
 
 ::: {layout-ncol=2}
 
@@ -521,19 +596,76 @@ Cabeçote
 
 :::
 
-## Componente do motor diesel
+## Componentes do motor diesel
+<hr>
 
-Comando de válvulas
+[__Cabeçote__]{.fg style="--col: #e64173"}
+
+Função: 
+
+- Funciona como tampão para os cilindros e acomoda os mecanismos das válvulas de admissão e escape, bico injetor e canais de circulação do líquido de arrefecimento e lubrificação.
+
+## Componentes do motor diesel
+<hr>
+
+[__Junta do Cabeçote__]{.fg style="--col: #e64173"}
+
+::: {layout-ncol=2}
+
+![](imagens/junta_cabecote.jpg){width=100%}
+
+![](imagens/junta_cabecote2.jpg){width=50%}
+
+:::
+
+## Componentes do motor diesel
+<hr>
+
+[__Junta do Cabeçote__]{.fg style="--col: #e64173"}
+
+Função: 
+
+- Atua na vedação entre o bloco do motor e o cabeçote.
+- Evita a mistura de óleo, líquido de arrefecimento e gases de combustão.
+
+Características:
+
+- Resistentes a altas temperaturas e pressões.
+- Formada por um empilhamento de camadas de aço com revestimento especial.
+
+## Componentes do motor diesel
+<hr>
+
+[__Junta do Cabeçote__]{.fg style="--col: #e64173"}
+
+Quando a junta perde a vedação, toda a circulação de líquido de arrefecimento pode ser comprometida.
+
+::: {.incremental}
+
+- Motor aquece mais que o normal.
+- Fumaça branca no escapamento (indica mistura de líquido de arrefecimento na câmara de combustão).
+- Vazamento de óleo e água (mudança no aspecto do óleo).
+- Perda de potência.
+- Falhas no motor.
+
+:::
+
+## Componentes do motor diesel
+<hr>
+
+[__Comando de válvulas__]{.fg style="--col: #e64173"}
 
 ![](imagens/comando-de-valvulas.jpg){fig-align="center"}
 
 ## Motor completo
+<hr>
 
 ![](imagens/partes_motor.jpg){fig-align="center"}
 
-## Componente do motor diesel
+## Componentes do motor diesel
+<hr>
 
-Camisa do cilindro
+[__Camisa do cilindro__]{.fg style="--col: #e64173"}
 
 ::: {layout-ncol=2}
 
@@ -543,9 +675,10 @@ Camisa do cilindro
 
 :::
 
-## Componente do motor diesel
+## Componentes do motor diesel
+<hr>
 
-Camisa do cilindro
+[__Camisa do cilindro__]{.fg style="--col: #e64173"}
 
 Função: 
 
@@ -558,14 +691,16 @@ Características:
 - Podem ser úmidas ou secas (em contato ou não com líquido de arrefecimento).
 
 ## Componente do motor diesel
+<hr>
 
-Camisa do cilindro
+[__Camisa do cilindro__]{.fg style="--col: #e64173"}
 
 ![](imagens/camisas.png)
 
 ## Componente do motor diesel
+<hr>
 
-Casquilhos ou bronzinas
+[__Casquilhos ou bronzinas__]{.fg style="--col: #e64173"}
 
 ::: {layout-ncol=2}
 
@@ -576,8 +711,9 @@ Casquilhos ou bronzinas
 :::
 
 ## Componente do motor diesel
+<hr>
 
-Casquilhos ou bronzinas
+[__Casquilhos ou bronzinas__]{.fg style="--col: #e64173"}
 
 Função: 
 
@@ -588,7 +724,213 @@ Características:
 
 - Entregada entre biela e virabrequim, pino e êmbolo, etc. 
 
+#  Arranjo dos cilindros 
+## Arranjo dos cilindros
+<hr>
+
+![](imagens/tipo_motor.jpg){fig-align="center"}
+
+
+# O que é Cilindrada?
+
+## O que é Cilindrada?
+<hr>
+
+- O que significa falar que o motor é 2.0? 
+
+- O que é um carro 1000? 
+
+## Cálculo da cilindrada
+<hr>
+
+$$V = \frac{\pi * D^2 * h}{4}* n $$
+
+$V = cilindrada~(cm^3, litro, pol^3)$
+
+$D = diâmetro~do~pistão~(cm, pol)$
+
+$h = curso~do~pistão~do~PMI~ao~PMS~(cm, pol)$
+
+$n = número~de~cilindros$
+
+## Cálculo da cilindrada
+<hr>
+
+Ex: Um motor de 3 cilindros, com diâmetro dos cilindros de 10 cm e curso do êmbolo de 120 mm, qual a sua cilindrada?
+
+::: {.fragment}
+
+$$V = \frac{3.14 * 10^2*12}{4}*3 = 28274~cm^3$$
+
+:::
+
+::: {.fragment}
+
+Ex: Um motor de 4 cilindros, com diâmetro dos cilindros de 5 cm e curso do êmbolo de 5 cm,  qual a sua cilindrada?
+
+:::
+
+
+## PMS e PMI
+<hr>
+
+- PMS: Ponto morto superior.
+- PMI: Ponto morto inferior.
+
+::: {layout-ncol=2}
+
+![](imagens/pmi_pms2.png)
+
+![](imagens/pmi_pms3.png)
+
+:::
+
+## Ciclo Otto ideal
+<hr>
+
+![](imagens/ciclo_otto_ideal2.png){fig-align="center"}
+
+## Ciclo Otto ideal
+<hr>
+
+![](imagens/ciclo_otto_ideal.png){fig-align="center"}
+
+## Ciclo Otto real
+<hr>
+
+![](imagens/ciclo_otto_real.png){fig-align="center"}
+
+## Ciclo Termodinâmico
+<hr>
+
+![](imagens/motor_temodinamica.gif){fig-align="center"}
+
+## PMS e PMI
+<hr>
+
+A relação entre o volume máximo formado no cilindro e o volume mínimo (morto) é chamada de __razão de compressão__ (r) do motor.
+
+$$r = \frac{V_{max}}{V_{min}} = \frac{V_{PMI}}{V_{PMS}}$$
+
+![](imagens/pmi_pms3.png){fig-align="center"}
+
+## Eficiência do motor Otto
+<hr>
+
+A eficiência térmica do motor Otto pode ser expressa como:
+
+$$\eta_{t,Otto}=1-\frac{1}{r^{k-1}}$$
+
+$\eta_{t,Otto}= eficiência~térmica$
+
+$r = razão~de~compressão$
+
+$k=razão~dos~calores~específicos$
+
+## Eficiência do motor Otto
+<hr>
+
+Um motor de ciclo Otto de quatro cilindros possui diâmetro do cilindro de $90\ \text{mm}$, curso do pistão de $100\ \text{mm}$ e volume de folga (volume morto) de $106.024~cm^3$ por cilindro. (assuma, k = 1.4) Calcule:
+
+1. O deslocamento volumétrico total do motor (CC);
+2. A taxa de compressão;
+3. A eficiência térmica teórica do ciclo Otto.
+
+## Eficiência do motor Otto
+<hr>
+
+Um motor de ciclo Otto de quatro cilindros possui diâmetro do cilindro de $90\ \text{mm}$, curso do pistão de $100\ \text{mm}$ e volume de folga (volume morto) de $106.024~cm^3$ por cilindro. (assuma, k = 1.4) Calcule:
+
+1. O deslocamento volumétrico total do motor (CC);
+
+::: {.fragment}
+
+$V = \frac{\pi * 9^2 * 10}{4} * 4 = 2544~cm^3 = 2.5 CC$
+
+:::
+
+## Eficiência do motor Otto
+<hr>
+
+Um motor de ciclo Otto de quatro cilindros possui diâmetro do cilindro de $90\ \text{mm}$, curso do pistão de $100\ \text{mm}$ e volume de folga (volume morto) de $106.024~cm^3$ por cilindro. (assuma, k = 1.4) Calcule:
+
+2. A taxa de compressão;
+
+
+::: {.fragment}
+
+$V_{cilindro}=\frac{2544.69}{4}= 636~cm^3$
+
+$V_{max}= 636+106 = 742~cm^3$
+
+$V_{min} = 106~cm^3$
+
+$$r=\frac{742}{106}=7$$
+
+
+:::
+
+## Eficiência do motor Otto
+<hr>
+
+Um motor de ciclo Otto de quatro cilindros possui diâmetro do cilindro de $90\ \text{mm}$, curso do pistão de $100\ \text{mm}$ e volume de folga (volume morto) de $106.024~cm^3$ por cilindro. (assuma, k = 1.4) Calcule:
+
+3. A eficiência térmica teórica do ciclo Otto.
+
+
+::: {.fragment}
+
+$$\eta_{t,Otto}=1-\frac{1}{7^{(1.4-1)}}=0.54 = 54\% $$
+
+:::
+
+## Eficiência do motor Otto
+<hr>
+
+::: {layout-ncol=2}
+
+![](imagens/eficiencia_otto_k.png)
+
+:::
+
+## Ciclo diesel ideal
+<hr>
+
+![](imagens/ciclo_diesel_ideal.png){fig-align="center"}
+
+## Eficiência Ciclo diesel 
+<hr>
+
+$$\eta_{t,Diesel}=1-\frac{1}{r^{k-1}}*[\frac{r_{c}^k-1}{k(r_{c}-1)}] $$
+
+$r = razão~de~compressão$
+
+$r_c= razão~de~corte$
+
+$k = razão~dos~calores~específicos$
+
+## Eficiência Ciclo diesel 
+<hr>
+
+Razão de corte
+
+$$r_c = \frac{v_3}{v_2}$$
+
+$v_3 = volume~cilindro~após~combustão$
+
+$v_2 = volume~cilindro~antes~combustão$
+
+
+## Eficiência Otto vs Diesel
+<hr>
+
+![](imagens/eficiencia_otto_diesel.png)
+
+- Diferentes taxas de compressão
+
 ## Diferenças entre Otto e Diesel
+<hr>
+
 Forma do pistão
 
 ::: {layout-ncol=2}
@@ -600,6 +942,20 @@ Forma do pistão
 :::
 
 ## Diferenças entre Otto e Diesel
+<hr>
+
+Ignição via vela
+
+::: {layout-ncol=2}
+
+![](imagens/vela_ignicao.jpg){fig-align="center"}
+
+![](imagens/vela_ignicao2.jpg){fig-align="center"}
+
+:::
+
+## Diferenças entre Otto e Diesel
+<hr>
 
 | Parâmetro | Ciclo Otto | Ciclo Diesel |
 |:-----------|:-----------|:-------------|
@@ -610,6 +966,7 @@ Forma do pistão
 | Controle de carga | Variando a quantidade de mistura | Variando a quantidade de combustível |
 
 ## Diferenças entre Otto e Diesel
+<hr>
 
 | Parâmetro | Ciclo Otto | Ciclo Diesel |
 |:-----------|:-----------|:-------------|
@@ -621,18 +978,148 @@ Forma do pistão
 | Rendimento térmico | 25–30% | 30–35% |
 
 
-#  Arranjamento dos cilindros 
-## Arranjamento dos cilindros
-
-![](imagens/tipo_motor.jpg){fig-align="center"}
-
-
-## O que é Cilindrada?
-
-- O que significa falar que o motor é 2.0? 
-
-- O que é um carro 1000? 
-
 # Motor 2 tempos
 
 ## Motor 2 tempos
+<hr>
+
+Qual a diferença para o motor 4 tempo?
+
+::: {.fragment}
+
+São motores que em apenas 2 cursos do pistão executam os 4 tempos.
+
+:::
+
+
+::: {.fragment}
+
+Em apenas um giro do virabrequim eles realizam todo o ciclo termodinâmico do motor.
+
+:::
+
+## Motor 2 tempos
+<hr>
+
+![](imagens/motor_2_tempo.jpg){fig-align="center"}
+
+Curso 1: admissão e compressão
+
+Curso 2: combustão e exaustão
+
+## Motor 2 tempos
+<hr>
+
+![](imagens/motor_2_tempos.gif){fig-align="center"}
+
+## Motor 2 tempos
+<hr>
+
+::: {.columns}
+
+::: {.column}
+
+Equipamentos com motor 2 tempos:
+
+- Motosserras;
+- Roçadoras;
+- Motores estacionários;
+- Monocultivatores;
+
+:::
+
+::: {.column}
+
+::: {layout-ncol=2}
+
+![](imagens/motocultivador.jpg){width="50%"}
+
+![](imagens/motosserra.jpg){width="50%"}
+
+:::
+
+:::
+
+:::
+
+## Motor 2 tempos
+<hr>
+
+[__2 x 4 tempos__]{.fg style="--col: #e64173"}
+
+![](imagens/tempo_2_4_comparativo.gif){fig-align="center"}
+
+## Motor 2 tempos
+<hr>
+
+[__Diferenças__]{.fg style="--col: #e64173"}
+
+
+::: {.columns}
+
+::: {.column width="30%"}
+
+![](imagens/motor_2_tempo.gif){fig-align="center"}
+
+
+:::
+
+::: {.column width="70%"}
+
+::: {.incremental}
+
+- Não emprega válvulas para admissão e exaustão (usa-se janelas).
+  - O pistão trabalha como "válvula".
+  
+- Não é necessário cabeçote.
+
+- Cárter não tem função de armazenamento de lubrificante.
+  - Óleo lubrificante é adicionado com o combustível.
+  - Vida útil menor que motor 4 tempo.
+  - Permite o uso em qualquer orientação.
+
+- Mais poluente.
+
+:::
+
+:::
+
+:::
+
+::: {.notes}
+
+Produz mais potência em uma mesma cilindrada e rotação.
+
+:::
+
+
+
+# Motor Wankel
+
+## Motor Wankel
+<hr>
+
+::: {layout-ncol=2}
+
+![](imagens/wankel.gif){fig-align="center"}
+
+![](imagens/Mazda.jpg){fig-align="center"}
+
+:::
+
+- Mais poluente.
+
+# Motor de uso agrícola
+
+## Motor de uso agrícola
+<hr>
+
+::: {.incremental}
+
+- Ambiente de trabalho.
+
+- Força e modo de operação.
+
+:::
+
+# Fim!

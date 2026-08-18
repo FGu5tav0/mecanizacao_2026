@@ -25,63 +25,70 @@
     "href": "aula_1/aula_1.html#uso-de-ferramentas",
     "title": "Mecanização agrícola:",
     "section": "Uso de ferramentas",
-    "text": "Uso de ferramentas\n\n\nHumanos possuem dois sistemas parientais envolvidos no comportamento das ferramentas.\n\nCircuito biológico que permite agarrar objetos;\nSistema artifático dedicado ao uso das ferramentas.\n\nPermite a compreensão a relação causal entre uso da ferramenta e obtenção de objetivo.\n\n\n\nHumanos criam ferramentas ou ferramentas criam humanos?"
+    "text": "Uso de ferramentas\n\nPor que desenvolver máquinas?\n\n\nAs máquinas e ferramentes são criadas para fazer algum trabalho que melhore a vida humana\n\n\n\n\n\n\n\n\nflowchart LR\n    A[Problema] --&gt; B[Ferramenta]\n    B --&gt; A"
+  },
+  {
+    "objectID": "aula_1/aula_1.html#uso-de-ferramentas-1",
+    "href": "aula_1/aula_1.html#uso-de-ferramentas-1",
+    "title": "Mecanização agrícola:",
+    "section": "Uso de ferramentas",
+    "text": "Uso de ferramentas\n\n\nHumanos possuem dois sistemas parientais envolvidos no comportamento das ferramentas.\n\nCircuito biológico que permite agarrar objetos;\nSistema artifático dedicado ao uso das ferramentas.\n\nPermite a compreensão a relação causal entre uso da ferramenta e obtenção de objetivo.\n\n\n\nHumanos criam ferramentas ou ferramentas criam humanos?\n\n\nO uso de uma ferramenta para realizar qualquer tarefa serve para modificar essa tarefa que, por sua vez, impacta e altera o usuário da ferramenta por meio do desempenho de tarefas atuais e subsequentes. Além disso, à medida que cada tarefa evolui, os humanos passaram a moldar ferramentas adicionais para responder de acordo."
   },
   {
     "objectID": "aula_1/aula_1.html#modelo-em-espiral-expansiva",
     "href": "aula_1/aula_1.html#modelo-em-espiral-expansiva",
     "title": "Mecanização agrícola:",
     "section": "Modelo em espiral expansiva",
-    "text": "Modelo em espiral expansiva\nJ. Navarro e P. A. Hancock criam o “Modelo em espiral expansiva” para descrever o caminho evolutivo da simbiose humano-ferramenta \n\nRotações sucessivas da espiral denotam um “progresso” acumulado ao longo do tempo\n\n\n\nJ. Navarro\n\n\n\n\nAqui, não vemos os humanos como os criadores iniciais das ferramentas. Na verdade, a presença a priori de ferramentas no ambiente ambiente explica, ab initio, por que a espécie homo sapiens evoluiu da forma que a história registra. Assim, propomos que as ferramentas criem os humanos. A simbiose subsequente entre humanos e essas ferramentas, retratada como uma estrutura espiral cumulativa, serve para enquadrar essa evolução de tecnologias elaborativas que foram usadas ao longo do tempo para alcançar objetivos socialmente desejados. A partir de nossa premissa, imaginamos linhas evidentes de progresso que podem ser antecipadas para o futuro dessa díade humano-ferramenta."
+    "text": "Modelo em espiral expansiva\n\nJ. Navarro e P. A. Hancock criam o “Modelo em espiral expansiva” para descrever o caminho evolutivo da simbiose humano-ferramenta \n\nRotações sucessivas da espiral denotam um “progresso” acumulado ao longo do tempo\n\n\n\nJ. Navarro\n\n\n\n\nAqui, não vemos os humanos como os criadores iniciais das ferramentas. Na verdade, a presença a priori de ferramentas no ambiente ambiente explica, ab initio, por que a espécie homo sapiens evoluiu da forma que a história registra. Assim, propomos que as ferramentas criem os humanos. A simbiose subsequente entre humanos e essas ferramentas, retratada como uma estrutura espiral cumulativa, serve para enquadrar essa evolução de tecnologias elaborativas que foram usadas ao longo do tempo para alcançar objetivos socialmente desejados. A partir de nossa premissa, imaginamos linhas evidentes de progresso que podem ser antecipadas para o futuro dessa díade humano-ferramenta."
   },
   {
     "objectID": "aula_1/aula_1.html#modelo-em-espiral-expansiva-1",
     "href": "aula_1/aula_1.html#modelo-em-espiral-expansiva-1",
     "title": "Mecanização agrícola:",
     "section": "Modelo em espiral expansiva",
-    "text": "Modelo em espiral expansiva\nO término de cada ciclo corresponde a uma etapa no desenvolvimento pontual das ferramentas associadas. Isso é marcado por um ponto vermelho\n\nJ. Navarro"
+    "text": "Modelo em espiral expansiva\n\nO término de cada ciclo corresponde a uma etapa no desenvolvimento pontual das ferramentas associadas. Isso é marcado por um ponto vermelho\n\nJ. Navarro"
   },
   {
     "objectID": "aula_1/aula_1.html#modelo-em-espiral-expansiva-2",
     "href": "aula_1/aula_1.html#modelo-em-espiral-expansiva-2",
     "title": "Mecanização agrícola:",
     "section": "Modelo em espiral expansiva",
-    "text": "Modelo em espiral expansiva\n1 - O primeiro ciclo vai dos pés descalços, caminhando (ou correndo), até o uso de calçados.\n\nOs calçados podem ser feitos de peles de animais, folhagens ou outros materiais não manufaturados. Cada um desses materiais diferentes pode oferecer proteção aos pés. Ao final desse ciclo inicial, os pés estão protegidos de forma eficiente. As solas dos calçados oferecem a vantagem adicional de evitar escorregões, quedas e lesões nos pés. No entanto, o uso prolongado de calçados tem um preço. A eficácia do amortecimento natural do calcanhar é reduzida e A biomecânica da caminhada e da corrida sofre algumas modificações. Isso resulta em certa perda de eficiência energética em comparação com a caminhada descalça.\n\n\nJ. Navarro"
+    "text": "Modelo em espiral expansiva\n\n1 - O primeiro ciclo vai dos pés descalços, caminhando (ou correndo), até o uso de calçados.\n\nOs calçados podem ser feitos de peles de animais, folhagens ou outros materiais não manufaturados. Cada um desses materiais diferentes pode oferecer proteção aos pés. Ao final desse ciclo inicial, os pés estão protegidos de forma eficiente. As solas dos calçados oferecem a vantagem adicional de evitar escorregões, quedas e lesões nos pés. No entanto, o uso prolongado de calçados tem um preço. A eficácia do amortecimento natural do calcanhar é reduzida e A biomecânica da caminhada e da corrida sofre algumas modificações. Isso resulta em certa perda de eficiência energética em comparação com a caminhada descalça.\n\n\nJ. Navarro"
   },
   {
     "objectID": "aula_1/aula_1.html#modelo-em-espiral-expansiva-3",
     "href": "aula_1/aula_1.html#modelo-em-espiral-expansiva-3",
     "title": "Mecanização agrícola:",
     "section": "Modelo em espiral expansiva",
-    "text": "Modelo em espiral expansiva\n2 - O segundo ciclo de mobilidade vai do uso de calçados à montaria em animais.\n\nMontar a cavalo melhora a eficiência da mobilidade, principalmente em termos de velocidade de deslocamento e gasto energético pessoal. No entanto, também acarreta o potencial de redução das capacidades físicas humanas (por exemplo, capacidade aeróbica de longa duração, etc.).\n\n\nJ. Navarro"
+    "text": "Modelo em espiral expansiva\n\n2 - O segundo ciclo de mobilidade vai do uso de calçados à montaria em animais.\n\nMontar a cavalo melhora a eficiência da mobilidade, principalmente em termos de velocidade de deslocamento e gasto energético pessoal. No entanto, também acarreta o potencial de redução das capacidades físicas humanas (por exemplo, capacidade aeróbica de longa duração, etc.).\n\n\nJ. Navarro"
   },
   {
     "objectID": "aula_1/aula_1.html#modelo-em-espiral-expansiva-4",
     "href": "aula_1/aula_1.html#modelo-em-espiral-expansiva-4",
     "title": "Mecanização agrícola:",
     "section": "Modelo em espiral expansiva",
-    "text": "Modelo em espiral expansiva\n3 - O terceiro ciclo emerge do transporte animal para bicicletas e, posteriormente, para veículos motorizados.\n\nOs veículos motorizados aprimoram ainda mais a mobilidade, mas também têm o potencial de diminuir a utilidade inerente e comparativa da locomoção física humana, caso esta não seja praticada com a mesma frequência de antes.\n\n\nJ. Navarro"
+    "text": "Modelo em espiral expansiva\n\n3 - O terceiro ciclo emerge do transporte animal para bicicletas e, posteriormente, para veículos motorizados.\n\nOs veículos motorizados aprimoram ainda mais a mobilidade, mas também têm o potencial de diminuir a utilidade inerente e comparativa da locomoção física humana, caso esta não seja praticada com a mesma frequência de antes.\n\n\nJ. Navarro"
   },
   {
     "objectID": "aula_1/aula_1.html#modelo-em-espiral-expansiva-5",
     "href": "aula_1/aula_1.html#modelo-em-espiral-expansiva-5",
     "title": "Mecanização agrícola:",
     "section": "Modelo em espiral expansiva",
-    "text": "Modelo em espiral expansiva\n4 - O quarto ciclo, e atualmente o último, vai de veículos motorizados controlados manualmente a veículos autônomos.\n\nEste ciclo também inclui o desenvolvimento de veículos terrestres, aéreos e marítimos, juntamente com diferentes soluções de automação associadas (por exemplo, controle parcial e compartilhado). Os veículos autônomos prometem aprimorar ainda mais a mobilidade social, que eventualmente se tornará quase sem esforço, tanto em termos físicos quanto cognitivos. No entanto, isso também tem um preço, com a redução da habilidade de direção e de outras habilidades, como capacidade de navegação, leitura de mapas e consciência espacial.\n\n\nJ. Navarro"
+    "text": "Modelo em espiral expansiva\n\n4 - O quarto ciclo, e atualmente o último, vai de veículos motorizados controlados manualmente a veículos autônomos.\n\nEste ciclo também inclui o desenvolvimento de veículos terrestres, aéreos e marítimos, juntamente com diferentes soluções de automação associadas (por exemplo, controle parcial e compartilhado). Os veículos autônomos prometem aprimorar ainda mais a mobilidade social, que eventualmente se tornará quase sem esforço, tanto em termos físicos quanto cognitivos. No entanto, isso também tem um preço, com a redução da habilidade de direção e de outras habilidades, como capacidade de navegação, leitura de mapas e consciência espacial.\n\n\nJ. Navarro"
   },
   {
     "objectID": "aula_1/aula_1.html#modelo-em-espiral-expansiva-6",
     "href": "aula_1/aula_1.html#modelo-em-espiral-expansiva-6",
     "title": "Mecanização agrícola:",
     "section": "Modelo em espiral expansiva",
-    "text": "Modelo em espiral expansiva\n5 - Um quinto ciclo de mobilidade pode ser facilmente concebido. Ele começaria com a automação parcial e evoluiria para um sistema de transporte totalmente autônomo, que opera sem motoristas humanos. No entanto, as questões de mobilidade não serão resolvidas apenas por esses veículos autônomos. Novos problemas serão identificados, já que a mobilidade ainda poderá ser considerada limitada. Consequentemente, outras opções de mobilidade poderão ser previstas.\n\nNosso modelo em espiral desenvolve uma série de previsões. Primeiro, os humanos continuarão a criar novas ferramentas para gerar melhorias, alterando a natureza do trabalho mais uma vez. Segundo, nosso modelo em espiral prevê que as ferramentas não apenas nos empoderam, como também necessariamente alteram o problema inicial para o qual foram criadas; e, por sua vez, nos transformam. Terceiro, o modelo em espiral também captura a natureza cumulativa das ferramentas que criamos e usamos. Novas ferramentas são projetadas com base em ferramentas desenvolvidas anteriormente que modificaram o problema original. Quarto, o modelo também demonstra que a criação de uma ferramenta, mesmo as muito eficazes, não elimina todas as ferramentas preexistentes dedicadas a resolver o mesmo desafio."
+    "text": "Modelo em espiral expansiva\n\n5 - Um quinto ciclo de mobilidade pode ser facilmente concebido. Ele começaria com a automação parcial e evoluiria para um sistema de transporte totalmente autônomo, que opera sem motoristas humanos. No entanto, as questões de mobilidade não serão resolvidas apenas por esses veículos autônomos. Novos problemas serão identificados, já que a mobilidade ainda poderá ser considerada limitada. Consequentemente, outras opções de mobilidade poderão ser previstas.\n\nNosso modelo em espiral desenvolve uma série de previsões. Primeiro, os humanos continuarão a criar novas ferramentas para gerar melhorias, alterando a natureza do trabalho mais uma vez. Segundo, nosso modelo em espiral prevê que as ferramentas não apenas nos empoderam, como também necessariamente alteram o problema inicial para o qual foram criadas; e, por sua vez, nos transformam. Terceiro, o modelo em espiral também captura a natureza cumulativa das ferramentas que criamos e usamos. Novas ferramentas são projetadas com base em ferramentas desenvolvidas anteriormente que modificaram o problema original. Quarto, o modelo também demonstra que a criação de uma ferramenta, mesmo as muito eficazes, não elimina todas as ferramentas preexistentes dedicadas a resolver o mesmo desafio."
   },
   {
     "objectID": "aula_1/aula_1.html#modelo-em-espiral-expansiva-7",
     "href": "aula_1/aula_1.html#modelo-em-espiral-expansiva-7",
     "title": "Mecanização agrícola:",
     "section": "Modelo em espiral expansiva",
-    "text": "Modelo em espiral expansiva\nE qual será o preço pago por delegar o pensamento para a tecnologia?"
+    "text": "Modelo em espiral expansiva\n\nE qual será o preço pago por delegar o pensamento para a tecnologia?"
   },
   {
     "objectID": "aula_1/aula_1.html#section",
@@ -95,273 +102,308 @@
     "href": "aula_1/aula_1.html#revolução-agrícola-e-uso-de-máquinas-1",
     "title": "Mecanização agrícola:",
     "section": "Revolução agrícola e uso de máquinas",
-    "text": "Revolução agrícola e uso de máquinas\naqui vai umas bobagens de revolução agrícola (Grã-Bretanha e europa basicamente)"
+    "text": "Revolução agrícola e uso de máquinas\n\nEuropa:\n\nFim do século XVIII a indústria passou a produzir novas máquinas (máquina a vapor) e a mecanização industrial passou a ser muito importante.\nSéculo XIX a expansão da indústria siderúrgica permitiu a produção de máquinas em vários setores como nos transportes e na agricultura.\nSegunda metade do século XIX e início do século XX, produção em larga escala, principalmente na Europa e nos Estados Unidos.\n\n\nAssim, desde a primeira metade do século XIX, a indústria começou a produzir uma gama de novos equipamentos de tração – como os arados charruas, os arados brabants1 e grades metálicas, semeadeiras, ceifadeiras e colhedoras, trilhadeiras de carrossel –, bem como todos os tipos de pequenas máquinas para utilização nos estabelecimentos agrícolas – como os limpadores de grãos (“tararas”), os picadores de palha, os picadores de raízes, os moedores, as batedeiras e malaxadores de leite, os batedores a manivela etc\nAo mesmo tempo, rompia-se o isolamento das regiões agrícolas da Europa, o que permitia seu abastecimento em corretivos e adubos, além do escoamento de seus produtos."
+  },
+  {
+    "objectID": "aula_1/aula_1.html#revolução-agrícola-e-uso-de-máquinas-2",
+    "href": "aula_1/aula_1.html#revolução-agrícola-e-uso-de-máquinas-2",
+    "title": "Mecanização agrícola:",
+    "section": "Revolução agrícola e uso de máquinas",
+    "text": "Revolução agrícola e uso de máquinas\n\n\n\n\n\n\n\nArrdo Charrua\n\n\n\n\n\n\n\nArado Bradant"
+  },
+  {
+    "objectID": "aula_1/aula_1.html#revolução-agrícola-e-uso-de-máquinas-3",
+    "href": "aula_1/aula_1.html#revolução-agrícola-e-uso-de-máquinas-3",
+    "title": "Mecanização agrícola:",
+    "section": "Revolução agrícola e uso de máquinas",
+    "text": "Revolução agrícola e uso de máquinas"
+  },
+  {
+    "objectID": "aula_1/aula_1.html#revolução-agrícola-e-uso-de-máquinas-4",
+    "href": "aula_1/aula_1.html#revolução-agrícola-e-uso-de-máquinas-4",
+    "title": "Mecanização agrícola:",
+    "section": "Revolução agrícola e uso de máquinas",
+    "text": "Revolução agrícola e uso de máquinas\n\nEUA:\n\nSéculos XVII e XVIII uso de animais como fonte de potência, uso de arado de madeira, semeadura manual.\n1800 primeiro arado de ferro e com peças intercambiáveis é patenteado.\n1820 ceifadeira a tração animal e trilhadora estacionária são apresentadas, início do uso de aço na construção dos arados de aiveca.\n1840 início da produção comercial nos EUA a partir do uso de máquinas de acionamento manual ou através de animais (cultivadores tracionados por juntas de cavalo). Surgimento da semeadore de fluxo contínuo.\n\n\nEntre 1850 e 1870, a Inglaterra e a Europa deixaram de ser o principal centro técnico da agricultura. Nesse período, Estados Unidos, Austrália, Argentina, entre outros, tornaram-se grandes supridores de produtos essenciais, como trigo, produtos lácteos, carne e produtos tropicais\nO ferreiro John Deere (Illinois – EUA) desenvolveu, em 1837, arados de ferro forjado liso, que se adaptavam bem à agricultura da pradaria."
+  },
+  {
+    "objectID": "aula_1/aula_1.html#revolução-agrícola-e-uso-de-máquinas-5",
+    "href": "aula_1/aula_1.html#revolução-agrícola-e-uso-de-máquinas-5",
+    "title": "Mecanização agrícola:",
+    "section": "Revolução agrícola e uso de máquinas",
+    "text": "Revolução agrícola e uso de máquinas\n\nEUA:\n\n1860 transição efetiva para a tração animal como fonte de potência para as operações. Uso de arado com mais de uma aiveca. Tentativas de tratores a vapor. Grade de dentes utilizada no preparo do leito de semeadura.\n1892 primeiro trator a gasolina é fabricado por Froelich na Dakota do Sul.\n1880 colhedoras tracionadas por juntas de cavalos passam a ser utilizadas. Primeiro trator movido a gasolina.\n1910 introdução dos tratores a gasolina em fazendas de grande extensão. Primeiras colhedoras acionadas através de motor.\n1920 recolhedora de algodão e primeiros tratores leves desenvolvidos.\n\n\nPara Rasmussen (1983 apud Fonseca, 1990), é a guerra civil norte-americana que fornece todo o ímpeto para uma grande mudança agrícola e para a conversão de tração humana e tração animal para força mecânica."
+  },
+  {
+    "objectID": "aula_1/aula_1.html#revolução-agrícola-e-uso-de-máquinas-6",
+    "href": "aula_1/aula_1.html#revolução-agrícola-e-uso-de-máquinas-6",
+    "title": "Mecanização agrícola:",
+    "section": "Revolução agrícola e uso de máquinas",
+    "text": "Revolução agrícola e uso de máquinas\n\nEUA:\n\n1930 tratores versáteis e início do uso de pneus.\n1950 o número de tratores nas fazendas passa a superar o número de animais utilizados para tração.\n1980 adoção de sistemas conservacionistas de produção, com gradual redução de operações de preparo do solo. Uso de eletrônica em máquinas agrícolas.\n1990/2000 adoção de automação em máquinas com desenvolvimento de sistemas para direcionamento e controle de taxa de aplicação.\n2000/2015 gestão remota de máquinas agrícolas através da telemetria.\n2015/2026 ????"
   },
   {
     "objectID": "aula_1/aula_1.html#definições-1",
     "href": "aula_1/aula_1.html#definições-1",
     "title": "Mecanização agrícola:",
     "section": "Definições",
-    "text": "Definições\nOperação agrícola:\n\n\nToda atividade diretamente e permanentemente relacionada com a execução do trabalho de produção agropecuária.\n\n\n\nA mecanização é uma operação agrícola\nOutras operações:\n\n\n\n\nManejo de pragas;\nIrrigação;\nCalagem do solo;\nProdução de mudas;\n\n\n\nPlantio e semeadura;\nColheira;\nArmazenamento;\nComercialização\n\n\n\n\nMuitas disciplinas do curso de agronomia é voltado em aprender “operações agrícolas”."
+    "text": "Definições\n\nOperação agrícola:\n\n\nToda atividade diretamente e permanentemente relacionada com a execução do trabalho de produção agropecuária.\n\n\n\nA mecanização é uma operação agrícola\nOutras operações:\n\n\n\n\nManejo de pragas;\nIrrigação;\nCalagem do solo;\nProdução de mudas;\n\n\n\nPlantio e semeadura;\nColheira;\nArmazenamento;\nComercialização\n\n\n\n\nMuitas disciplinas do curso de agronomia é voltado em aprender “operações agrícolas”."
   },
   {
     "objectID": "aula_1/aula_1.html#definições-2",
     "href": "aula_1/aula_1.html#definições-2",
     "title": "Mecanização agrícola:",
     "section": "Definições",
-    "text": "Definições\nO que é mecanização agrícola?\n\n\nProcesso de utilizar máquinas com objetivo de realizar terefas ou operações.\n\n\n\n\nUso de um conjunto de máquinas, implementos e ferramentas de forma técnica, racional e economicamente organizada, para a execução das tarefas exigidas nos sistemas de produção agrícola.\n\n\n\n\nProcesso pelo qual o trabalho humano ao longo de toda a cadeia de valor agrícola é substituído por outras fontes de energia, como energia animal, energia fóssil ou energia renovável.\n\n\n\nCada máquina tem sua função e é projetada para determinado objetivo específico"
+    "text": "Definições\n\nO que é mecanização agrícola?\n\n\nProcesso de utilizar máquinas com objetivo de realizar terefas ou operações.\n\n\n\n\nUso de um conjunto de máquinas, implementos e ferramentas de forma técnica, racional e economicamente organizada, para a execução das tarefas exigidas nos sistemas de produção agrícola.\n\n\n\n\nProcesso pelo qual o trabalho humano ao longo de toda a cadeia de valor agrícola é substituído por outras fontes de energia, como energia animal, energia fóssil ou energia renovável.\n\n\n\nCada máquina tem sua função e é projetada para determinado objetivo específico"
   },
   {
     "objectID": "aula_1/aula_1.html#definições-3",
     "href": "aula_1/aula_1.html#definições-3",
     "title": "Mecanização agrícola:",
     "section": "Definições",
-    "text": "Definições\nMáquina agrícola:\n\n\nTodo equipamento, motorizado ou não, cujos componentes apresentam movimentos relativos, além do deslocamento próprio ou gerado por outra máquina, que seja especificamente projetado para converter energia e transmitir a ação de forças, a fim de realizar tarefas agrícolas."
+    "text": "Definições\n\nMáquina agrícola:\n\n\nTodo equipamento, motorizado ou não, cujos componentes apresentam movimentos relativos, além do deslocamento próprio ou gerado por outra máquina, que seja especificamente projetado para converter energia e transmitir a ação de forças, a fim de realizar tarefas agrícolas."
   },
   {
     "objectID": "aula_1/aula_1.html#definições-4",
     "href": "aula_1/aula_1.html#definições-4",
     "title": "Mecanização agrícola:",
     "section": "Definições",
-    "text": "Definições\nMáquina agrícola:\n\n\nMáquina agrícola é o conjunto de órgãos constrangidos em seus movimentos por obstáculos fixos e de resistência suficiente para transmitir o efeito de forças e transformar energia - Mialhe (1974)\n\n\n\nórgãos constrangidos: órgãos são as partes e constrangidos pq possuem movimento limitado."
+    "text": "Definições\n\nMáquina agrícola:\n\n\nMáquina agrícola é o conjunto de órgãos constrangidos em seus movimentos por obstáculos fixos e de resistência suficiente para transmitir o efeito de forças e transformar energia - Mialhe (1974)\n\n\n\nórgãos constrangidos: órgãos são as partes e constrangidos pq possuem movimento limitado."
   },
   {
     "objectID": "aula_1/aula_1.html#definições-5",
     "href": "aula_1/aula_1.html#definições-5",
     "title": "Mecanização agrícola:",
     "section": "Definições",
-    "text": "Definições\nExemplos de máquina agrícola:\n\n\n\n\n\n\nColheitadeira\n\n\n\n\n\n\n\nTrator"
+    "text": "Definições\n\nExemplos de máquina agrícola:\n\n\n\n\n\n\nColheitadeira\n\n\n\n\n\n\n\nTrator"
   },
   {
     "objectID": "aula_1/aula_1.html#definições-6",
     "href": "aula_1/aula_1.html#definições-6",
     "title": "Mecanização agrícola:",
     "section": "Definições",
-    "text": "Definições\n\n\nMáquina motora:\n\n\nÉ aquela “responsável pela conversão da energia natural em trabalho motor” - Mialhe (1996)\n\n\n\nMáquina movida:\n\n\nÉ aquela “responsável pela execução das operações e onde ocorrem resistências passivas (atrito e inércia) que para serem vencidas requerem a realização de trabalho resistente” - Mialhe (1996)"
+    "text": "Definições\n\n\n\nMáquina motora:\n\n\nÉ aquela “responsável pela conversão da energia natural em trabalho motor” - Mialhe (1996)\n\n\n\nMáquina movida:\n\n\nÉ aquela “responsável pela execução das operações e onde ocorrem resistências passivas (atrito e inércia) que para serem vencidas requerem a realização de trabalho resistente” - Mialhe (1996)"
   },
   {
     "objectID": "aula_1/aula_1.html#definições-7",
     "href": "aula_1/aula_1.html#definições-7",
     "title": "Mecanização agrícola:",
     "section": "Definições",
-    "text": "Definições\nÓrgãos ativos:\n\nÉ a parte de um equipamento projetada para realizar sua função principal.\n\n\nNo arado de discos são os discos.\n\nCorta, levanta e inverte o solo."
+    "text": "Definições\n\nÓrgãos ativos:\n\nÉ a parte de um equipamento projetada para realizar sua função principal.\n\n\nNo arado de discos são os discos.\n\nCorta, levanta e inverte o solo."
   },
   {
     "objectID": "aula_1/aula_1.html#definições-8",
     "href": "aula_1/aula_1.html#definições-8",
     "title": "Mecanização agrícola:",
     "section": "Definições",
-    "text": "Definições\nImplemento agrícola:\n\n\nTodo equipamento movido concebido para realizar trabalhos agrícolas, que transforma energia devido à execução de sua função, podendo apresentar movimento relativo entre seus componentes decorrente unicamente da interação com o meio.\n\n\n\n\nConjunto de órgãos que não apresentam movimentos relativos e não têm capacidade para transformar energia; seu único movimento é o de deslocamento, normalmente imprimido por uma máquina motora - Mialhe (1974)\n\n\n\nórgãos constrangidos: órgãos são as partes e constrangidos pq possuem movimento limitado."
+    "text": "Definições\n\nImplemento agrícola:\n\n\nTodo equipamento movido concebido para realizar trabalhos agrícolas, que transforma energia devido à execução de sua função, podendo apresentar movimento relativo entre seus componentes decorrente unicamente da interação com o meio.\n\n\n\n\nConjunto de órgãos que não apresentam movimentos relativos e não têm capacidade para transformar energia; seu único movimento é o de deslocamento, normalmente imprimido por uma máquina motora - Mialhe (1974)\n\n\n\nórgãos constrangidos: órgãos são as partes e constrangidos pq possuem movimento limitado."
   },
   {
     "objectID": "aula_1/aula_1.html#definições-9",
     "href": "aula_1/aula_1.html#definições-9",
     "title": "Mecanização agrícola:",
     "section": "Definições",
-    "text": "Definições\nExemplos de implementos agrícola:\n\n\n\n\n\n\nGrade de discos\n\n\n\n\n\n\n\nSemeador"
+    "text": "Definições\n\nExemplos de implementos agrícola:\n\n\n\n\n\n\nGrade de discos\n\n\n\n\n\n\n\nSemeador"
   },
   {
     "objectID": "aula_1/aula_1.html#definições-10",
     "href": "aula_1/aula_1.html#definições-10",
     "title": "Mecanização agrícola:",
     "section": "Definições",
-    "text": "Definições\nMáquinas vs implementos agrícolas:\n\n\n\nMáquinas Agrícolas\nImplementos Agrícolas\n\n\n\n\nColhedora/Recolhedora\nArados de aivecas\n\n\nDistribuidor de fertilizantes\nArados de discos\n\n\nEnfardadora\nCultivadores\n\n\nPlantadora/Semeadora\nEscarificadores\n\n\nPulverizador\nGrades de dentes\n\n\nRoçadora\nGrades de molas\n\n\nTransplantadora\nGrades de discos\n\n\nTrator\nRolo-faca\n\n\nTriturador de resíduos\nSubsoladores"
+    "text": "Definições\n\nMáquinas vs implementos agrícolas:\n\n\n\nMáquinas Agrícolas\nImplementos Agrícolas\n\n\n\n\nColhedora/Recolhedora\nArados de aivecas\n\n\nDistribuidor de fertilizantes\nArados de discos\n\n\nEnfardadora\nCultivadores\n\n\nPlantadora/Semeadora\nEscarificadores\n\n\nPulverizador\nGrades de dentes\n\n\nRoçadora\nGrades de molas\n\n\nTransplantadora\nGrades de discos\n\n\nTrator\nRolo-faca\n\n\nTriturador de resíduos\nSubsoladores"
   },
   {
     "objectID": "aula_1/aula_1.html#definições-11",
     "href": "aula_1/aula_1.html#definições-11",
     "title": "Mecanização agrícola:",
     "section": "Definições",
-    "text": "Definições\nFerramenta agrícola:\n\n\nQualquer instrumento, utensílio ou dispositivo necessário para o desempenho de uma atividade, utilizado para auxiliar as tarefas agrícolas."
+    "text": "Definições\n\nFerramenta agrícola:\n\n\nQualquer instrumento, utensílio ou dispositivo necessário para o desempenho de uma atividade, utilizado para auxiliar as tarefas agrícolas."
   },
   {
     "objectID": "aula_1/aula_1.html#definições-12",
     "href": "aula_1/aula_1.html#definições-12",
     "title": "Mecanização agrícola:",
     "section": "Definições",
-    "text": "Definições\nExemplos de ferramentas agrícola"
+    "text": "Definições\n\nExemplos de ferramentas agrícola"
   },
   {
     "objectID": "aula_1/aula_1.html#definições-13",
     "href": "aula_1/aula_1.html#definições-13",
     "title": "Mecanização agrícola:",
     "section": "Definições",
-    "text": "Definições\nSistema\n\nConjunto de elmentos interligados e interdependentes que funcionam juntos para realizar uma função.\n\n\nSistema de cultivo\n\nRefere-se às práticas comuns de manejo associadas a uma determinada espécie vegetal, visando sua produção a partir da combinação lógica e ordenada de um conjunt ode atividades e operações. - EMBRAPA"
+    "text": "Definições\n\nSistema\n\nConjunto de elementos interligados e interdependentes que funcionam juntos para realizar uma função.\n\n\nSistema de cultivo\n\nRefere-se às práticas comuns de manejo associadas a uma determinada espécie vegetal, visando sua produção a partir da combinação lógica e ordenada de um conjunt ode atividades e operações. - EMBRAPA"
   },
   {
     "objectID": "aula_1/aula_1.html#definições-14",
     "href": "aula_1/aula_1.html#definições-14",
     "title": "Mecanização agrícola:",
     "section": "Definições",
-    "text": "Definições\nSistema de produção\n\nComposto pelo conjunto de ssistemas de cultivo no âmbito de uma propriedade rural, definidos a partir dos fatores de produção e interligados por um processo de gestão. - EMBRAPA"
+    "text": "Definições\n\nSistema de produção\n\nComposto pelo conjunto de ssistemas de cultivo no âmbito de uma propriedade rural, definidos a partir dos fatores de produção e interligados por um processo de gestão. - EMBRAPA"
   },
   {
     "objectID": "aula_1/aula_1.html#definições-relacionadas-ao-solo-para-cultivo-1",
     "href": "aula_1/aula_1.html#definições-relacionadas-ao-solo-para-cultivo-1",
     "title": "Mecanização agrícola:",
     "section": "Definições relacionadas ao solo para cultivo",
-    "text": "Definições relacionadas ao solo para cultivo\nCampo de cultivo\n\nSão glebas de terra subdivididas por divisores naturais (rios, valas, montanhas, etc) ou artificiais (estradas, cercas, carreadores, etc.)."
+    "text": "Definições relacionadas ao solo para cultivo\n\nCampo de cultivo\n\nSão glebas de terra subdivididas por divisores naturais (rios, valas, montanhas, etc) ou artificiais (estradas, cercas, carreadores, etc.)."
   },
   {
     "objectID": "aula_1/aula_1.html#definições-relacionadas-ao-solo-para-cultivo-2",
     "href": "aula_1/aula_1.html#definições-relacionadas-ao-solo-para-cultivo-2",
     "title": "Mecanização agrícola:",
     "section": "Definições relacionadas ao solo para cultivo",
-    "text": "Definições relacionadas ao solo para cultivo\nPartes de um campo de cultivo"
+    "text": "Definições relacionadas ao solo para cultivo\n\nPartes de um campo de cultivo"
   },
   {
     "objectID": "aula_1/aula_1.html#definições-relacionadas-ao-solo-para-cultivo-3",
     "href": "aula_1/aula_1.html#definições-relacionadas-ao-solo-para-cultivo-3",
     "title": "Mecanização agrícola:",
     "section": "Definições relacionadas ao solo para cultivo",
-    "text": "Definições relacionadas ao solo para cultivo\n\nCarreadores são vias de acesso de talhões que se interligam entre si e com as estradas da propriedade.\n\n\nCabeceiras são as faixas de terreno deixadasem cada extremidade do talhão. Serve para o giro de máquinas.\n\n\nLeiras são faixas estreitas de terreno deixadas de cada lado do talhão desde uma cabeceira à outra. Servem para manter a largura dos carreadores e evitar a destruição de seus sangradores e canais de escoamento de água."
+    "text": "Definições relacionadas ao solo para cultivo\n\n\nCarreadores são vias de acesso de talhões que se interligam entre si e com as estradas da propriedade.\n\n\nCabeceiras são as faixas de terreno deixadasem cada extremidade do talhão. Serve para o giro de máquinas.\n\n\nLeiras são faixas estreitas de terreno deixadas de cada lado do talhão desde uma cabeceira à outra. Servem para manter a largura dos carreadores e evitar a destruição de seus sangradores e canais de escoamento de água."
   },
   {
     "objectID": "aula_1/aula_1.html#definições-relacionadas-ao-solo-para-cultivo-4",
     "href": "aula_1/aula_1.html#definições-relacionadas-ao-solo-para-cultivo-4",
     "title": "Mecanização agrícola:",
     "section": "Definições relacionadas ao solo para cultivo",
-    "text": "Definições relacionadas ao solo para cultivo\nTalhão\n\nSão parcelas dos campos de cultivos que são efetivamente mobilizadas através das operações de preparo periódico do solo e que serão, futuramente ocupadas pelas plantas da cultura a ser instalada."
+    "text": "Definições relacionadas ao solo para cultivo\n\nTalhão\n\nSão parcelas dos campos de cultivos que são efetivamente mobilizadas através das operações de preparo periódico do solo e que serão, futuramente ocupadas pelas plantas da cultura a ser instalada."
   },
   {
     "objectID": "aula_1/aula_1.html#definições-relacionadas-ao-solo-para-cultivo-5",
     "href": "aula_1/aula_1.html#definições-relacionadas-ao-solo-para-cultivo-5",
     "title": "Mecanização agrícola:",
     "section": "Definições relacionadas ao solo para cultivo",
-    "text": "Definições relacionadas ao solo para cultivo\nTipos e formatos de talhões"
+    "text": "Definições relacionadas ao solo para cultivo\n\nTipos e formatos de talhões"
   },
   {
     "objectID": "aula_1/aula_1.html#por-que-mecanizar",
     "href": "aula_1/aula_1.html#por-que-mecanizar",
     "title": "Mecanização agrícola:",
     "section": "Por que mecanizar?",
-    "text": "Por que mecanizar?\n\nReduz o tempo para o término das terefas;\nAumento da produtividade;\nMelhora a qualidade das operações;\nReduz o desgaste do trabalhador;"
+    "text": "Por que mecanizar?\n\n\nReduz o tempo para o término das terefas;\nAumento da produtividade;\nMelhora a qualidade das operações;\nReduz o desgaste do trabalhador;"
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-1",
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-1",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nTempo gasto nas operações"
+    "text": "Objetivos da mecanização\n\nTempo gasto nas operações"
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-2",
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-2",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nTempo gasto nas operações"
+    "text": "Objetivos da mecanização\n\nTempo gasto nas operações"
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-3",
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-3",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nTempo gasto nas operações\n\nO ganho na eficiência do trabalho agrícola com a mecanização é enorme: são necessárias apenas 2 a 5 horas de trabalho agrícola para produzir o alimento consumido por uma pessoa em um ano. Esse valor é muito menor do que o tempo que uma pessoa média gasta comprando comida, cozinhando ou comendo. - Ibarrola-Rivas et al. (2016)\n\n\nSe, cada trabalhador rural produzir trabalho gerando comida por ~21 horas, temos comida para suprir toda a população mundial por uma ano."
+    "text": "Objetivos da mecanização\n\nTempo gasto nas operações\n\nO ganho na eficiência do trabalho agrícola com a mecanização é enorme: são necessárias apenas 2 a 5 horas de trabalho agrícola para produzir o alimento consumido por uma pessoa em um ano. Esse valor é muito menor do que o tempo que uma pessoa média gasta comprando comida, cozinhando ou comendo. - Ibarrola-Rivas et al. (2016)\n\n\nSe, cada trabalhador rural produzir trabalho gerando comida por ~21 horas, temos comida para suprir toda a população mundial por uma ano."
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-4",
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-4",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nA condição ideal do solo depende de uma janela de tempo específica; portanto, o tempo disponível para a realização das operações é indispensável.\n\n\nDiferentes tipos de solos = Tempos distintos"
+    "text": "Objetivos da mecanização\n\nA condição ideal do solo depende de uma janela de tempo específica; portanto, o tempo disponível para a realização das operações é indispensável.\n\n\nDiferentes tipos de solos = Tempos distintos"
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-5",
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-5",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nDesgaste do trabalhador"
+    "text": "Objetivos da mecanização\n\nDesgaste do trabalhador"
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-6",
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-6",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nDesgaste do trabalhador"
+    "text": "Objetivos da mecanização\n\nDesgaste do trabalhador"
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-7",
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-7",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nDesgaste do trabalhador\nPrevalência de dor lombar em agricultores\n\nSilva, M.R. (2017)\ncontexto de agricultura menos mecanizada"
+    "text": "Objetivos da mecanização\n\nDesgaste do trabalhador\nPrevalência de dor lombar em agricultores\n\nSilva, M.R. (2017)\ncontexto de agricultura menos mecanizada"
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-8",
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-8",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nAumento da potência de trabalho"
+    "text": "Objetivos da mecanização\n\nAumento da potência de trabalho"
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-9",
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-9",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nAumento da potência de trabalho\n\\(\\text{Energia humana (kWh)} =\n\\text{Potência total de trabalho disponível}\n\\times\n\\text{Horas efetivas de trabalho humano}\\)\nUm humano em boa forma pode gerar 75 W em um turno de 8 horas de trabalho (0.075 kW h)."
+    "text": "Objetivos da mecanização\n\nAumento da potência de trabalho\n\\(\\text{Energia humana (kWh)} =\n\\text{Potência total de trabalho disponível}\n\\times\n\\text{Horas efetivas de trabalho humano}\\)\nUm humano em boa forma pode gerar 75 W em um turno de 8 horas de trabalho (0.075 kW h)."
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-10",
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-10",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nAumento da potência de trabalho\n\nEnergia produzida por animais/máquina durante uma jornada de trabalho (8 h).\n\n\nAnimal\nPotência correspondente (kW)\n\n\n\n\nCavalo\n0.7457\n\n\nJumento\n0.3729\n\n\nMula\n0.5966\n\n\nVaca de trabalho\n0.5966\n\n\nTouro\n0.5966\n\n\nHumano\n0.075\n\n\nSolis 26 (Yanmar)\n141.2\n\n\nColheitadeira TC 4.90\n1216"
+    "text": "Objetivos da mecanização\n\nAumento da potência de trabalho\n\nEnergia produzida por animais/máquina durante uma jornada de trabalho (8 h).\n\n\nAnimal\nPotência correspondente (kW)\n\n\n\n\nCavalo\n0.7457\n\n\nJumento\n0.3729\n\n\nMula\n0.5966\n\n\nVaca de trabalho\n0.5966\n\n\nTouro\n0.5966\n\n\nHumano\n0.075\n\n\nSolis 26 (Yanmar)\n141.2\n\n\nColheitadeira TC 4.90\n1216"
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-11",
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-11",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nAumento da potência de trabalho\nUm MeriCrusher MT-700 possui 768.4 CV ou 565 kW. Em 8 horas ele é capaz de disponibilizar ~2260 kW."
+    "text": "Objetivos da mecanização\n\nAumento da potência de trabalho\nUm MeriCrusher MT-700 possui 768.4 CV ou 565 kW. Em 8 horas ele é capaz de disponibilizar ~2260 kW."
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-12",
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-12",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nEvolução da potência disponível\n\nSteenwyk, P. et al. (2022)"
+    "text": "Objetivos da mecanização\n\nEvolução da potência disponível\n\nSteenwyk, P. et al. (2022)"
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-13",
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-13",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nEvolução da potência disponível por tratores no Brasil\n\n\n\n\n\n\nAnziliero D. 2025\n\n\n\n\n\n\n\nAnziliero D. 2025"
+    "text": "Objetivos da mecanização\n\nEvolução da potência disponível por tratores no Brasil\n\n\n\n\n\n\nAnziliero D. 2025\n\n\n\n\n\n\n\nAnziliero D. 2025"
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-14",
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-14",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nTrabalho físico por humanos, outros animais e máquinas\n\n\n\n\n\n\nSteenwyk, P. et al. (2022)\n\n\n\n\n\n\n\nSteenwyk, P. et al. (2022)\n\n\n\n\n\n\nSérie temporal de contribuições físicas de trabalho por músculos (humanos e animais) e máquinas (diesel + gás e elétrica) 1920–2010. Os dados para máquinas Diesel + Gás foram extrapolados (“Extr”) antes de 1971"
+    "text": "Objetivos da mecanização\n\nTrabalho físico por humanos, outros animais e máquinas\n\n\n\n\n\n\nSteenwyk, P. et al. (2022)\n\n\n\n\n\n\n\nSteenwyk, P. et al. (2022)\n\n\n\n\n\n\nSérie temporal de contribuições físicas de trabalho por músculos (humanos e animais) e máquinas (diesel + gás e elétrica) 1920–2010. Os dados para máquinas Diesel + Gás foram extrapolados (“Extr”) antes de 1971"
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-15",
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-15",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nAumento da potência de trabalho\n\nCherkos B.G (2024)"
+    "text": "Objetivos da mecanização\n\nAumento da potência de trabalho\n\nCherkos B.G (2024)"
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-16",
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-16",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nCusto e retorno"
+    "text": "Objetivos da mecanização\n\nCusto e retorno"
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-17",
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-17",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nAumento da produtividade"
+    "text": "Objetivos da mecanização\n\nAumento da produtividade"
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-18",
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-18",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nAumento da produtividade\n\n\n(imagens/Padrões de desenvolvimento do Brasil. Nota: O painel (a) mostra a fração de emprego na agricultura utilizando dados do Banco de Dados de 10 Setores da GGDC (1960–2011) e do Banco de Dados de Transformação Econômica da GGDC/UNU (2012–2018). O painel (b) mostra a fração de terra na agricultura intensiva em mão de obra entre 1961 e 2018, utilizando dados da FAO. O painel (c) mostra a intensidade de capital na agricultura em relação à não agrícola, utilizando dados do Banco de Dados Mundial de Insumos e Saídas 2012, disponível para 1995–2009. O painel (d) mostra a produtividade agrícola em relação à produtividade não agrícola a preços constantes de 2015, utilizando dados do Banco de Dados de 10 Setores da GGDC (1960–2011) e do Banco de Dados de Transformação Econômica mais ampla da GGDC/UNU (2012–2018). Todos os dados são para o Brasil.)"
+    "text": "Objetivos da mecanização\n\nAumento da produtividade\n\n\n(imagens/Padrões de desenvolvimento do Brasil. Nota: O painel (a) mostra a fração de emprego na agricultura utilizando dados do Banco de Dados de 10 Setores da GGDC (1960–2011) e do Banco de Dados de Transformação Econômica da GGDC/UNU (2012–2018). O painel (b) mostra a fração de terra na agricultura intensiva em mão de obra entre 1961 e 2018, utilizando dados da FAO. O painel (c) mostra a intensidade de capital na agricultura em relação à não agrícola, utilizando dados do Banco de Dados Mundial de Insumos e Saídas 2012, disponível para 1995–2009. O painel (d) mostra a produtividade agrícola em relação à produtividade não agrícola a preços constantes de 2015, utilizando dados do Banco de Dados de 10 Setores da GGDC (1960–2011) e do Banco de Dados de Transformação Econômica mais ampla da GGDC/UNU (2012–2018). Todos os dados são para o Brasil.)"
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-19",
@@ -375,168 +417,168 @@
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-20",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nAumento da produtividade (China)\n\n\n\n\n\n\nXiaoshi Zhou & Wanglin Ma (2022)\n\n\n\n\n\n\n\n\n\n1 mu igual há 666.67 metros quadrado\nYuan moeda chinesa"
+    "text": "Objetivos da mecanização\n\nAumento da produtividade (China)\n\n\n\n\n\n\nXiaoshi Zhou & Wanglin Ma (2022)\n\n\n\n\n\n\n\n\n\n1 mu igual há 666.67 metros quadrado\nYuan moeda chinesa"
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-21",
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-21",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nAumento da produtividade (EUA)\n\nHans B. (1986)\n1 bushel de milho = 56 lb = 25,401 kg;\n1 bushel de soja ou de trigo = 60 lb = 27,216 kg."
+    "text": "Objetivos da mecanização\n\nAumento da produtividade (EUA)\n\nHans B. (1986)\n1 bushel de milho = 56 lb = 25,401 kg;\n1 bushel de soja ou de trigo = 60 lb = 27,216 kg."
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-22",
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-22",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nAumento da produtividade (EUA)\n\nHans B. (1986)"
+    "text": "Objetivos da mecanização\n\nAumento da produtividade (EUA)\n\nHans B. (1986)"
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-23",
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-23",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nMelhora a qualidade das operações"
+    "text": "Objetivos da mecanização\n\nMelhora a qualidade das operações"
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-24",
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-24",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nMelhora a qualidade das operações"
+    "text": "Objetivos da mecanização\n\nMelhora a qualidade das operações"
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-25",
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-25",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nMelhora a qualidade das operações"
+    "text": "Objetivos da mecanização\n\nMelhora a qualidade das operações"
   },
   {
     "objectID": "aula_1/aula_1.html#objetivos-da-mecanização-26",
     "href": "aula_1/aula_1.html#objetivos-da-mecanização-26",
     "title": "Mecanização agrícola:",
     "section": "Objetivos da mecanização",
-    "text": "Objetivos da mecanização\nReduz o abandono das terras\n\nW. MA et al. (2021)"
+    "text": "Objetivos da mecanização\n\nReduz o abandono das terras\n\nW. MA et al. (2021)"
   },
   {
     "objectID": "aula_1/aula_1.html#mecanização-no-mundo-1",
     "href": "aula_1/aula_1.html#mecanização-no-mundo-1",
     "title": "Mecanização agrícola:",
     "section": "Mecanização no Mundo",
-    "text": "Mecanização no Mundo\nFrota de tratores em regiões do mundo a cada 1000 ha de área cultivada\n\nPingali P. (2007)"
+    "text": "Mecanização no Mundo\n\nFrota de tratores em regiões do mundo a cada 1000 ha de área cultivada\n\nPingali P. (2007)"
   },
   {
     "objectID": "aula_1/aula_1.html#mecanização-no-mundo-2",
     "href": "aula_1/aula_1.html#mecanização-no-mundo-2",
     "title": "Mecanização agrícola:",
     "section": "Mecanização no Mundo",
-    "text": "Mecanização no Mundo\nFontes de energia agrícola em fazendas dos EUA\n\nBanco Mundial (1986)"
+    "text": "Mecanização no Mundo\n\nFontes de energia agrícola em fazendas dos EUA\n\nBanco Mundial (1986)"
   },
   {
     "objectID": "aula_1/aula_1.html#mecanização-no-mundo-3",
     "href": "aula_1/aula_1.html#mecanização-no-mundo-3",
     "title": "Mecanização agrícola:",
     "section": "Mecanização no Mundo",
-    "text": "Mecanização no Mundo\nTratores no mundo 1920-1979\n\nBanco Mundial (1986)"
+    "text": "Mecanização no Mundo\n\nTratores no mundo 1920-1979\n\nBanco Mundial (1986)"
   },
   {
     "objectID": "aula_1/aula_1.html#mecanização-no-mundo-4",
     "href": "aula_1/aula_1.html#mecanização-no-mundo-4",
     "title": "Mecanização agrícola:",
     "section": "Mecanização no Mundo",
-    "text": "Mecanização no Mundo\nProdução, importação, vendas, exportações e estoque de tratores Brasil, 1960-82\n\nNeto, J.A. (1985)"
+    "text": "Mecanização no Mundo\n\nProdução, importação, vendas, exportações e estoque de tratores Brasil, 1960-82\n\nNeto, J.A. (1985)"
   },
   {
     "objectID": "aula_1/aula_1.html#mecanização-no-mundo-5",
     "href": "aula_1/aula_1.html#mecanização-no-mundo-5",
     "title": "Mecanização agrícola:",
     "section": "Mecanização no Mundo",
-    "text": "Mecanização no Mundo\nEstoque de tratores no Brasil 1920-2006\n\nSilva, R.P. et al. (2015)"
+    "text": "Mecanização no Mundo\n\nEstoque de tratores no Brasil 1920-2006\n\nSilva, R.P. et al. (2015)"
   },
   {
     "objectID": "aula_1/aula_1.html#mecanização-no-mundo-6",
     "href": "aula_1/aula_1.html#mecanização-no-mundo-6",
     "title": "Mecanização agrícola:",
     "section": "Mecanização no Mundo",
-    "text": "Mecanização no Mundo\nVenda de tratores no Brasil 1960-2014\n\nSilva, R.P. et al. (2015)"
+    "text": "Mecanização no Mundo\n\nVenda de tratores no Brasil 1960-2014\n\nSilva, R.P. et al. (2015)"
   },
   {
     "objectID": "aula_1/aula_1.html#mecanização-no-mundo-7",
     "href": "aula_1/aula_1.html#mecanização-no-mundo-7",
     "title": "Mecanização agrícola:",
     "section": "Mecanização no Mundo",
-    "text": "Mecanização no Mundo\nTratores no Brasil por região geográfica\n\nSilva, R.P. et al. (2015)"
+    "text": "Mecanização no Mundo\n\nTratores no Brasil por região geográfica\n\nSilva, R.P. et al. (2015)"
   },
   {
     "objectID": "aula_1/aula_1.html#mecanização-no-mundo-8",
     "href": "aula_1/aula_1.html#mecanização-no-mundo-8",
     "title": "Mecanização agrícola:",
     "section": "Mecanização no Mundo",
-    "text": "Mecanização no Mundo\nTratores no Brasil por tempo de uso\n\nSilva, R.P. et al. (2015)"
+    "text": "Mecanização no Mundo\n\nTratores no Brasil por tempo de uso\n\nSilva, R.P. et al. (2015)"
   },
   {
     "objectID": "aula_1/aula_1.html#índice-de-mecanização-uma-das-formas-de-medir",
     "href": "aula_1/aula_1.html#índice-de-mecanização-uma-das-formas-de-medir",
     "title": "Mecanização agrícola:",
     "section": "Índice de mecanização (uma das formas de medir)",
-    "text": "Índice de mecanização (uma das formas de medir)\n\\[IM = \\frac{\\sum Me}{X li}\\]\n\\(Im = Índice~de~mecanização\\)\n\\(Me = Total~de~potência~devido~à~mecanização\\)\n\\(Xli = Área~total~cultivada~no~Brasil\\)\n\nQual é o índice de mecanização do Brasil?"
+    "text": "Índice de mecanização (uma das formas de medir)\n\n\\[IM = \\frac{\\sum Me}{X li}\\]\n\\(Im = Índice~de~mecanização\\)\n\\(Me = Total~de~potência~devido~à~mecanização\\)\n\\(Xli = Área~total~cultivada~no~Brasil\\)\n\nQual é o índice de mecanização do Brasil?"
   },
   {
     "objectID": "aula_1/aula_1.html#mecanização-no-mundo-9",
     "href": "aula_1/aula_1.html#mecanização-no-mundo-9",
     "title": "Mecanização agrícola:",
     "section": "Mecanização no mundo",
-    "text": "Mecanização no mundo\nÍndice de mecanização\n\nAnziliero D. 2025"
+    "text": "Mecanização no mundo\n\nÍndice de mecanização\n\nAnziliero D. 2025"
   },
   {
     "objectID": "aula_1/aula_1.html#mecanização-no-brasil",
     "href": "aula_1/aula_1.html#mecanização-no-brasil",
     "title": "Mecanização agrícola:",
     "section": "Mecanização no Brasil",
-    "text": "Mecanização no Brasil\nÍndice de mecanização\n\nAnziliero D. 2025"
+    "text": "Mecanização no Brasil\n\nÍndice de mecanização\n\nAnziliero D. 2025"
   },
   {
     "objectID": "aula_1/aula_1.html#mecanização-no-brasil-1",
     "href": "aula_1/aula_1.html#mecanização-no-brasil-1",
     "title": "Mecanização agrícola:",
     "section": "Mecanização no Brasil",
-    "text": "Mecanização no Brasil\nVenda de colheitadeiras\n\nAnziliero D. 2025"
+    "text": "Mecanização no Brasil\n\nVenda de colheitadeiras\n\nAnziliero D. 2025"
   },
   {
     "objectID": "aula_1/aula_1.html#mecanização-no-brasil-2",
     "href": "aula_1/aula_1.html#mecanização-no-brasil-2",
     "title": "Mecanização agrícola:",
     "section": "Mecanização no Brasil",
-    "text": "Mecanização no Brasil\nVenda de tratores\n\nAnziliero D. 2025"
+    "text": "Mecanização no Brasil\n\nVenda de tratores\n\nAnziliero D. 2025"
   },
   {
     "objectID": "aula_1/aula_1.html#mecanização-no-brasil-3",
     "href": "aula_1/aula_1.html#mecanização-no-brasil-3",
     "title": "Mecanização agrícola:",
     "section": "Mecanização no Brasil",
-    "text": "Mecanização no Brasil\nParque de tratores (frota)\n\nAnziliero D. 2025"
+    "text": "Mecanização no Brasil\n\nParque de tratores (frota)\n\nAnziliero D. 2025"
   },
   {
     "objectID": "aula_1/aula_1.html#mecanização-no-brasil-4",
     "href": "aula_1/aula_1.html#mecanização-no-brasil-4",
     "title": "Mecanização agrícola:",
     "section": "Mecanização no Brasil",
-    "text": "Mecanização no Brasil\nParque de colhedoras (frota)\n\nAnziliero D. 2025"
+    "text": "Mecanização no Brasil\n\nParque de colhedoras (frota)\n\nAnziliero D. 2025"
   },
   {
     "objectID": "aula_1/aula_1.html#mecanização-no-brasil-5",
     "href": "aula_1/aula_1.html#mecanização-no-brasil-5",
     "title": "Mecanização agrícola:",
     "section": "Mecanização no Brasil",
-    "text": "Mecanização no Brasil\nPor marca\n\nAnziliero D. 2025"
+    "text": "Mecanização no Brasil\n\nPor marca\n\nAnziliero D. 2025"
   },
   {
     "objectID": "aula_1/aula_1.html#mecanização-no-brasil-6",
     "href": "aula_1/aula_1.html#mecanização-no-brasil-6",
     "title": "Mecanização agrícola:",
     "section": "Mecanização no Brasil",
-    "text": "Mecanização no Brasil\nÁrea produtiva vs potência\n\n\n\n\n\n\nAnziliero D. 2025\n\n\n\n\n\n\n\nAnziliero D. 2025"
+    "text": "Mecanização no Brasil\n\nÁrea produtiva vs potência\n\n\n\n\n\n\nAnziliero D. 2025\n\n\n\n\n\n\n\nAnziliero D. 2025"
   },
   {
     "objectID": "about.html",
@@ -550,7 +592,7 @@
     "href": "aula_2/aula_2.html#definições-1",
     "title": "Mecanização agrícola:",
     "section": "Definições",
-    "text": "Definições\nMotor\n\nUma máquina que transforma energia térmica em energia mecânica\n\n\n\nOs motores de combustão interna, transformam a energia térmica gerada pela combustão da mistura ar/combustível em energia mecânica"
+    "text": "Definições\n\nMotor\n\nUma máquina que transforma energia térmica em energia mecânica\n\n\n\nOs motores de combustão interna, transformam a energia térmica gerada pela combustão da mistura ar/combustível em energia mecânica\n\n\n\nex: Você andando de bicicleta.\n\n\nSua energia (ATP) é transferida para os pedais e, por meio de um sistema de engrenagens, chega à roda, que se movimenta."
   },
   {
     "objectID": "aula_2/aula_2.html#quanto-a-fonte-geradora",
@@ -564,14 +606,14 @@
     "href": "aula_2/aula_2.html#quanto-a-combustão",
     "title": "Mecanização agrícola:",
     "section": "Quanto a combustão",
-    "text": "Quanto a combustão\n\n\nCombustão externa (máquina a vapor)\nCombustão interna\n\nDe pistão (ciclo otto e diesel)\nÊmbolo rotativo (wankel)"
+    "text": "Quanto a combustão\n\n\n\nCombustão externa (máquina a vapor)\nCombustão interna\n\nDe pistão (ciclo otto e diesel)\nÊmbolo rotativo (wankel)"
   },
   {
     "objectID": "aula_2/aula_2.html#como-ocorre-a-combustão",
     "href": "aula_2/aula_2.html#como-ocorre-a-combustão",
     "title": "Mecanização agrícola:",
     "section": "Como ocorre a combustão",
-    "text": "Como ocorre a combustão\nA combustão é uma reação química exotérmica (libera calor) entre uma substãncia (combustível) e um gás (comburente) para liberar calor."
+    "text": "Como ocorre a combustão\n\nA combustão é uma reação química exotérmica (libera calor) entre uma substância (combustível) e um gás (comburente) para liberar calor."
   },
   {
     "objectID": "aula_2/aula_2.html#como-ocorre-a-combustão-1",
@@ -585,49 +627,49 @@
     "href": "aula_2/aula_2.html#como-ocorre-a-combustão-2",
     "title": "Mecanização agrícola:",
     "section": "Como ocorre a combustão",
-    "text": "Como ocorre a combustão\nFórmula química da combustão\n\\[CH_{4} + 20_2 = CO_2 + 2H_{2}O + Calor\\]\n\nGasolina = C8H18 (octano)\nDiesel (estrutura complexa) = CH3(CH2)14CH3(C16H34) (cetano)"
+    "text": "Como ocorre a combustão\n\nFórmula química da combustão\n\\[CH_{4} + 20_2 = CO_2 + 2H_{2}O + Calor\\]\n\nGasolina = C8H18 (octano)\nDiesel (estrutura complexa) = CH3(CH2)14CH3(C16H34) (cetano)"
   },
   {
     "objectID": "aula_2/aula_2.html#combustão-externa",
     "href": "aula_2/aula_2.html#combustão-externa",
     "title": "Mecanização agrícola:",
     "section": "Combustão externa",
-    "text": "Combustão externa\nEx: máquinas a vapor\n\n\nquando a água é aquecida ela se torna vapor e ocupa maior espaço o que gera pressão"
+    "text": "Combustão externa\n\nEx: máquinas a vapor\n\n\nquando a água é aquecida ela se torna vapor e ocupa maior espaço o que gera pressão"
   },
   {
     "objectID": "aula_2/aula_2.html#quanto-a-combustão-1",
     "href": "aula_2/aula_2.html#quanto-a-combustão-1",
     "title": "Mecanização agrícola:",
     "section": "Quanto a combustão",
-    "text": "Quanto a combustão\nExemplo de máquina a vapor"
+    "text": "Quanto a combustão\n\nExemplo de máquina a vapor"
   },
   {
     "objectID": "aula_2/aula_2.html#combustão-interna-1",
     "href": "aula_2/aula_2.html#combustão-interna-1",
     "title": "Mecanização agrícola:",
     "section": "Combustão interna",
-    "text": "Combustão interna\n\nCiclo Otto\nUtilizam combustível de baixa volatilidade, como gasolina e álcool. Para ignição necessitam de centelha produzida pelo sistema elétrico.\n\n\nCiclo Diesel\nUtilizam como combustível o óleo diesel. A inflamação do combustível injetado sobe pressão na câmara de combustão ocorre pela ocmpressão de ar e consequente elevação da temperatura."
+    "text": "Combustão interna\n\n\nCiclo Otto\nUtilizam combustível de baixa volatilidade, como gasolina e álcool. Para ignição necessitam de centelha produzida pelo sistema elétrico.\nEmpregado em situações agrícolas com menor demanda de potência e torque.\n\n\nCiclo Diesel\nUtilizam como combustível o óleo diesel. A inflamação do combustível injetado sob pressão na câmara de combustão ocorre pela compressão de ar e consequente elevação da temperatura."
   },
   {
     "objectID": "aula_2/aula_2.html#quanto-ao-número-de-ciclos",
     "href": "aula_2/aula_2.html#quanto-ao-número-de-ciclos",
     "title": "Mecanização agrícola:",
     "section": "Quanto ao número de ciclos",
-    "text": "Quanto ao número de ciclos\n\nMotor de 4 tempos\nMotor de 2 tempos"
+    "text": "Quanto ao número de ciclos\n\n\nMotor de 4 tempos\nMotor de 2 tempos"
   },
   {
     "objectID": "aula_2/aula_2.html#objetivo-do-motor",
     "href": "aula_2/aula_2.html#objetivo-do-motor",
     "title": "Mecanização agrícola:",
     "section": "Objetivo do motor",
-    "text": "Objetivo do motor\nGerar trabalho!\n\n\\(Trabalho~(J) = Força(N) * deslocamento(m)\\)\n\n\n\\(Força(N) = mass(kg) * aceleração(\\Delta_v/\\Delta_t)\\)\n\n\nPotência: Capacidade de transmitir energia por tempo.\n\nRealização de trabalho ou transmissão de calor.\n\nEx de potência: 1 cavalo puxa 75 kg em 1 s."
+    "text": "Objetivo do motor\n\nGerar trabalho!\n\n\\(Trabalho~(J) = Força(N) * deslocamento(m)\\)\n\n\n\\(Força(N) = massa(kg) * aceleração(\\Delta_v/\\Delta_t)\\)\n\n\nPotência: Capacidade de transmitir energia por tempo.\n\nRealização de trabalho ou transmissão de calor.\n\nEx de potência: 1 cavalo puxa 75 kg em 1 s."
   },
   {
     "objectID": "aula_2/aula_2.html#histórico",
     "href": "aula_2/aula_2.html#histórico",
     "title": "Mecanização agrícola:",
     "section": "Histórico",
-    "text": "Histórico\n\n\n\nAlphonse Beau de Rochas (França)\nPublica e registra os termos teóricos de um “princípio” de um motor a 4 tempos com compressão prévia da mistura antes da ignição.\n\n\nExposição de Paris\nNikolaus August Otto apresenta um motor a combustão interna (4 tempos). \n\n\nMotor a quatro tempos funcional de Otto\nOtto e Deutz produzem o primeiro motor prático e confiável no ciclo de 4 tempo (admissão, compressão, combustão e escape).\nO ciclo ficou conhecido como ciclo Otto\n\n\nQueda da patente de Otto na Alemanha\nO documento de Beau de Rocha é redescoberto, assim a patente de Otto é invalidade.\nVárias fabricantes podem recriar o motor.\n\n\nDois tempos\nDugald Clerk patenteia um motor de 2 tempo com compressão estabelecendo uma alternativa ao ciclo Otto de 4 tempos.\n\n\nCiclo Otto em veículos\nOcorre a primeira aplicação do motor de ciclo Otto em veículos utilizando combustível a gasolina.\n\n\nCiclo Diesel\nEngenheiro Rudolf Diesel descreve um novo motor, no qual a ignição da mistura ar mais combustível era feita por compressão (motor Diesel)."
+    "text": "Histórico\n\n\n\n\nAlphonse Beau de Rochas (França)\nPublica e registra os termos teóricos de um “princípio” de um motor a 4 tempos com compressão prévia da mistura antes da ignição.\n\n\nExposição de Paris\nNikolaus August Otto apresenta um motor a combustão interna (4 tempos). \n\n\nMotor a quatro tempos funcional de Otto\nOtto e Deutz produzem o primeiro motor prático e confiável no ciclo de 4 tempo (admissão, compressão, combustão e escape).\nO ciclo ficou conhecido como ciclo Otto\n\n\nQueda da patente de Otto na Alemanha\nO documento de Beau de Rocha é redescoberto, assim a patente de Otto é invalidada.\nVárias fabricantes podem recriar o motor.\n\n\nDois tempos\nDugald Clerk patenteia um motor de 2 tempo com compressão estabelecendo uma alternativa ao ciclo Otto de 4 tempos.\n\n\nCiclo Otto em veículos\nOcorre a primeira aplicação do motor de ciclo Otto em veículos utilizando combustível a gasolina.\n\n\nCiclo Diesel\nEngenheiro Rudolf Diesel descreve um novo motor, no qual a ignição da mistura ar mais combustível era feita por compressão (motor Diesel). \n\n\nCiclo Diesel\nPrimeiro motor ciclo diesel é construído."
   },
   {
     "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-1",
@@ -641,42 +683,42 @@
     "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-2",
     "title": "Mecanização agrícola:",
     "section": "Funcionamento do motor a combustão interna",
-    "text": "Funcionamento do motor a combustão interna\n4 tempos ciclo diesel\n\n\nAdmissão: O pistão desce, a válvula de admissão se abre e a de escape fecha. Ao descer, o pistão cria pressão no cilindor. O ar é forçado pela pressão atmosféria a entrar no cilindro pelo filtro de ar e pela tubulação de admissão. A quantidade que entra é sempre a mesma, independente da aceleração.\n\n\n\n\nCompressão: O pistão sobe, as válvulas de admissão e de escape ficam fechadas. O ar admitido é comprimido até ocupar o volume da câmara de combustão. O ar se aquece, e ao fim da compressão, o bico injeto pulveriza óleo diesel no interior da câmara de combustão."
+    "text": "Funcionamento do motor a combustão interna\n\n4 tempos ciclo diesel\n\n\nAdmissão: O pistão desce, a válvula de admissão se abre e a de escape fecha. Ao descer, o pistão cria pressão no cilindro. O ar é forçado pela pressão atmosféria a entrar no cilindro pelo filtro de ar e pela tubulação de admissão. A quantidade que entra é sempre a mesma, independente da aceleração.\n\n\n\n\nCompressão: O pistão sobe, as válvulas de admissão e de escape ficam fechadas. O ar admitido é comprimido até ocupar o volume da câmara de combustão. O ar se aquece, e ao fim da compressão, o bico injetor pulveriza óleo diesel no interior da câmara de combustão."
   },
   {
     "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-3",
     "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-3",
     "title": "Mecanização agrícola:",
     "section": "Funcionamento do motor a combustão interna",
-    "text": "Funcionamento do motor a combustão interna\n4 tempos ciclo diesel\n\n\nCombustão: O pistão desce, acionado pela força de expansão dos gases queimados. As válvulas de admissão e de escape estão fechadas. A força de expansão é transmitida pelo piestão à biela e desta ao virabrequim, provocando assim movimento de rotação do motor.\n\n\n\n\nEscape: O pistão sobe, estando a válvula de escape aberta e a de admissão fechada. Os gases queimados são expulsos através da passagem dada pela válvula de escape."
+    "text": "Funcionamento do motor a combustão interna\n\n4 tempos ciclo diesel\n\n\nCombustão: O pistão desce, acionado pela força de expansão dos gases queimados. As válvulas de admissão e de escape estão fechadas. A força de expansão é transmitida pelo pistão à biela e desta ao virabrequim, provocando assim movimento de rotação do motor.\n\n\n\n\nEscape: O pistão sobe, estando a válvula de escape aberta e a de admissão fechada. Os gases queimados são expulsos através da passagem dada pela válvula de escape."
   },
   {
     "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-4",
     "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-4",
     "title": "Mecanização agrícola:",
     "section": "Funcionamento do motor a combustão interna",
-    "text": "Funcionamento do motor a combustão interna\nAdmissão"
+    "text": "Funcionamento do motor a combustão interna\n\nAdmissão"
   },
   {
     "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-5",
     "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-5",
     "title": "Mecanização agrícola:",
     "section": "Funcionamento do motor a combustão interna",
-    "text": "Funcionamento do motor a combustão interna\nCompressão"
+    "text": "Funcionamento do motor a combustão interna\n\nCompressão"
   },
   {
     "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-6",
     "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-6",
     "title": "Mecanização agrícola:",
     "section": "Funcionamento do motor a combustão interna",
-    "text": "Funcionamento do motor a combustão interna\nExplosão"
+    "text": "Funcionamento do motor a combustão interna\n\nExplosão"
   },
   {
     "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-7",
     "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-7",
     "title": "Mecanização agrícola:",
     "section": "Funcionamento do motor a combustão interna",
-    "text": "Funcionamento do motor a combustão interna\nDescarga"
+    "text": "Funcionamento do motor a combustão interna\n\nDescarga"
   },
   {
     "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-8",
@@ -714,123 +756,165 @@
     "text": "Funcionamento do motor a combustão interna"
   },
   {
-    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-13",
-    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-13",
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-1",
+    "href": "aula_2/aula_2.html#componentes-do-motor-1",
     "title": "Mecanização agrícola:",
-    "section": "Funcionamento do motor a combustão interna",
-    "text": "Funcionamento do motor a combustão interna"
+    "section": "Componentes do motor",
+    "text": "Componentes do motor"
   },
   {
-    "objectID": "aula_2/aula_2.html#componente-do-motor-1",
-    "href": "aula_2/aula_2.html#componente-do-motor-1",
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel",
     "title": "Mecanização agrícola:",
-    "section": "Componente do motor",
-    "text": "Componente do motor"
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nBloco dos cilindros"
   },
   {
-    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel",
-    "href": "aula_2/aula_2.html#componente-do-motor-diesel",
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-1",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-1",
     "title": "Mecanização agrícola:",
-    "section": "Componente do motor diesel",
-    "text": "Componente do motor diesel\nBloco dos cilindros"
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nBloco dos cilindros\nFunção:\n\nBase onde se encontram todos os demais elementos do funcionamento do motor.\n\nCabeçote, válvulas, árvore de comando, cilindros, pistão, aneís de segmento, biela, casquilhos, árvore de manivelas, volante e cárter.\n\nEm máquinas agrícolas apresenta função estrutural e de sustentação."
   },
   {
-    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-1",
-    "href": "aula_2/aula_2.html#componente-do-motor-diesel-1",
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-2",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-2",
     "title": "Mecanização agrícola:",
-    "section": "Componente do motor diesel",
-    "text": "Componente do motor diesel\nBloco dos cilindros\nFunção:\n\nBase onde se encontram todos os demais elementos do funcionamento do motor.\n\nCabeçote, válvulas, árvore de comando, cilindros, pistão, aníes de segmento, biela, casquilhos, árvore dde manivelas, volante e cárter.\n\nEm máquinas agrícolas apresenta função estrutural e de sustentação.\n\nCaracterísticas:\n\nPeça de fundição.\nEm seu interior apresenta grandes orifícios cilíndricos (cilindros) onde se realiza a combustão.\nApresenta cavidades para a passagem de água de arrefecimento."
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nBloco dos cilindros\nCaracterísticas:\n\nPeça de fundição.\nEm seu interior apresenta grandes orifícios cilíndricos (cilindros) onde se realiza a combustão.\nApresenta cavidades para a passagem de água de arrefecimento."
   },
   {
-    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-2",
-    "href": "aula_2/aula_2.html#componente-do-motor-diesel-2",
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-3",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-3",
     "title": "Mecanização agrícola:",
-    "section": "Componente do motor diesel",
-    "text": "Componente do motor diesel\nÁrvore de manivelas (virabrequim )"
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nÁrvore de manivelas (virabrequim )"
   },
   {
-    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-3",
-    "href": "aula_2/aula_2.html#componente-do-motor-diesel-3",
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-4",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-4",
     "title": "Mecanização agrícola:",
-    "section": "Componente do motor diesel",
-    "text": "Componente do motor diesel\nÁrvore de manivelas (virabrequim )\nFunção:\n\nAtua em conjunto com a biela como órgão transformador do movimento alternativo do pistão em movimento de rotação, transformando o trabalho realizado pelo pistão em torque.\n\nCaracterísticas:\n\nPeça de aço forjado com canais para conduzir o óleo lubrificante até os mancais e cabeças das bielas.\nSeu formato deriva do número e da distribuição dos cilindros (manivelas iguais ao número de cilindros)."
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nÁrvore de manivelas (virabrequim )\nFunção:\n\nAtua em conjunto com a biela como órgão transformador do movimento alternativo do pistão em movimento de rotação, transformando o trabalho realizado pelo pistão em torque.\n\nCaracterísticas:\n\nPeça de aço forjado com canais para conduzir o óleo lubrificante até os mancais e cabeças das bielas.\nSeu formato deriva do número e da distribuição dos cilindros (manivelas iguais ao número de cilindros)."
   },
   {
-    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-4",
-    "href": "aula_2/aula_2.html#componente-do-motor-diesel-4",
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-5",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-5",
     "title": "Mecanização agrícola:",
-    "section": "Componente do motor diesel",
-    "text": "Componente do motor diesel\nBiela e pistão"
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nBiela e pistão"
   },
   {
-    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-5",
-    "href": "aula_2/aula_2.html#componente-do-motor-diesel-5",
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-6",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-6",
     "title": "Mecanização agrícola:",
-    "section": "Componente do motor diesel",
-    "text": "Componente do motor diesel\nPistão\nFunção:\n\nPistão é o órgão receptor do movimento de expansão dos gases resultantes da combustão. Primeiro componente a se movimentar.\nResponsável pela conversão da energia da combustão em trabalho mecânico.\nTrasfere a energia para o virabrequim.\n\nCaracterísticas:\n\nPeça cilíndrica localizada dentro do cilindro sem contato com o mesmo."
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nPistão\nFunção:\n\nPistão é o órgão receptor do movimento de expansão dos gases resultantes da combustão. Primeiro componente a se movimentar.\nResponsável pela conversão da energia da combustão em trabalho mecânico.\nTrasfere a energia para o virabrequim.\n\nCaracterísticas:\n\nPeça cilíndrica localizada dentro do cilindro sem contato com o mesmo."
   },
   {
-    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-6",
-    "href": "aula_2/aula_2.html#componente-do-motor-diesel-6",
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-7",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-7",
     "title": "Mecanização agrícola:",
-    "section": "Componente do motor diesel",
-    "text": "Componente do motor diesel\nAnéis do pistão"
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nAnéis do pistão"
   },
   {
-    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-7",
-    "href": "aula_2/aula_2.html#componente-do-motor-diesel-7",
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-8",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-8",
     "title": "Mecanização agrícola:",
-    "section": "Componente do motor diesel",
-    "text": "Componente do motor diesel\nAnéis do pistão\nFunção:\n\nOs de compressão são responsáveis pela vedaão da câmara do cilindro (fechamento hermético)\nOs de lubrificação executam o controle do fluxo de óleo entre o pistão e o cilindro.\nDissipação do calor do pistão pelas paredes do cilindro.\nRedução da área de contato direta entre as paredes do cilindro e do pistão."
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nAnéis do pistão\nFunção:\n\nOs de compressão são responsáveis pela vedação da câmara do cilindro (fechamento hermético)\nOs de lubrificação executam o controle do fluxo de óleo entre o pistão e o cilindro.\nDissipação do calor do pistão pelas paredes do cilindro.\nRedução da área de contato direta entre as paredes do cilindro e do pistão."
   },
   {
-    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-8",
-    "href": "aula_2/aula_2.html#componente-do-motor-diesel-8",
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-9",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-9",
     "title": "Mecanização agrícola:",
-    "section": "Componente do motor diesel",
-    "text": "Componente do motor diesel\nBiela\nFunção:\n\nÉ um órgão transformador do movimento alternativo do pistão em movimento de rotação no virabrequim.\nElemento de ligação entre o pistão e o virabrequim.\n\nCaracterísticas:\n\nFeita em aço, é resistente para poder transferir a energia entre as partes.\nPossui 3 partes\n\nCabeça: Orifício circular que permite ligação com o virabrequim.\nCorpo: Fas a ligação entre o pé e a cabeça.\nPé: Orifício circular que permite ligação com o pistão."
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nBiela\nFunção:\n\nÉ um órgão transformador do movimento alternativo do pistão em movimento de rotação no virabrequim.\nElemento de ligação entre o pistão e o virabrequim."
   },
   {
-    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-9",
-    "href": "aula_2/aula_2.html#componente-do-motor-diesel-9",
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-10",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-10",
     "title": "Mecanização agrícola:",
-    "section": "Componente do motor diesel",
-    "text": "Componente do motor diesel\nCárter de óleo"
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nBiela\nCaracterísticas:\n\nFeita em aço, é resistente para poder transferir a energia entre as partes.\nPossui 3 partes\n\nCabeça: Orifício circular que permite ligação com o virabrequim.\nCorpo: Faz a ligação entre o pé e a cabeça.\nPé: Orifício circular que permite ligação com o pistão."
   },
   {
-    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-10",
-    "href": "aula_2/aula_2.html#componente-do-motor-diesel-10",
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-11",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-11",
     "title": "Mecanização agrícola:",
-    "section": "Componente do motor diesel",
-    "text": "Componente do motor diesel\nCárter de óleo\nFunção:\n\nDepósito para o óleo lubrificante do motor.\nAssegura a lubrificação do motor.\nReservatório do óleo de lubrificação e de eventuais detritos não retido pelos filtros.\n\nCaracterísticas:\n\nInvólucro rígido que fecha o bloco em sua parte inferior."
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nCárter de óleo"
   },
   {
-    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-11",
-    "href": "aula_2/aula_2.html#componente-do-motor-diesel-11",
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-12",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-12",
     "title": "Mecanização agrícola:",
-    "section": "Componente do motor diesel",
-    "text": "Componente do motor diesel\nVolante do motor"
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nCárter de óleo\nFunção:\n\nDepósito para o óleo lubrificante do motor.\nAssegura a lubrificação do motor.\nReservatório do óleo de lubrificação e de eventuais detritos não retido pelos filtros.\n\nCaracterísticas:\n\nInvólucro rígido que fecha o bloco em sua parte inferior."
   },
   {
-    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-12",
-    "href": "aula_2/aula_2.html#componente-do-motor-diesel-12",
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-13",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-13",
     "title": "Mecanização agrícola:",
-    "section": "Componente do motor diesel",
-    "text": "Componente do motor diesel\nVálvulas"
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nVolante do motor"
   },
   {
-    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-13",
-    "href": "aula_2/aula_2.html#componente-do-motor-diesel-13",
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-14",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-14",
     "title": "Mecanização agrícola:",
-    "section": "Componente do motor diesel",
-    "text": "Componente do motor diesel\nCabeçote"
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nVolante do motor\nFunção:\n\nTransfere o torque obtido no virabrequim para a caixa de velocidades.\nÉ responsável por absorver vibrações do motor e manter estável ou dificultar oscilações."
   },
   {
-    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-14",
-    "href": "aula_2/aula_2.html#componente-do-motor-diesel-14",
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-15",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-15",
     "title": "Mecanização agrícola:",
-    "section": "Componente do motor diesel",
-    "text": "Componente do motor diesel\nComando de válvulas"
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nVálvulas"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-16",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-16",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nCabeçote"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-17",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-17",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nCabeçote\nFunção:\n\nFunciona como tampão para os cilindros e acomoda os mecanismos das válvulas de admissão e escape, bico injetor e canais de circulação do líquido de arrefecimento e lubrificação."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-18",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-18",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nJunta do Cabeçote"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-19",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-19",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nJunta do Cabeçote\nFunção:\n\nAtua na vedação entre o bloco do motor e o cabeçote.\nEvita a mistura de óleo, líquido de arrefecimento e gases de combustão.\n\nCaracterísticas:\n\nResistentes a altas temperaturas e pressões.\nFormada por um empilhamento de camadas de aço com revestimento especial."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-20",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-20",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nJunta do Cabeçote\nQuando a junta perde a vedação, toda a circulação de líquido de arrefecimento pode ser comprometida.\n\nMotor aquece mais que o normal.\nFumaça branca no escapamento (indica mistura de líquido de arrefecimento na câmara de combustão).\nVazamento de óleo e água (mudança no aspecto do óleo).\nPerda de potência.\nFalhas no motor."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-21",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-21",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nComando de válvulas"
   },
   {
     "objectID": "aula_2/aula_2.html#motor-completo",
@@ -840,81 +924,263 @@
     "text": "Motor completo"
   },
   {
-    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-15",
-    "href": "aula_2/aula_2.html#componente-do-motor-diesel-15",
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-22",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-22",
     "title": "Mecanização agrícola:",
-    "section": "Componente do motor diesel",
-    "text": "Componente do motor diesel\nCamisa do cilindro"
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nCamisa do cilindro"
   },
   {
-    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-16",
-    "href": "aula_2/aula_2.html#componente-do-motor-diesel-16",
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-23",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-23",
     "title": "Mecanização agrícola:",
-    "section": "Componente do motor diesel",
-    "text": "Componente do motor diesel\nCamisa do cilindro\nFunção:\n\nEvitar desgaste do bloco pelo atrico entre pistão e bloco.\nFornecer proteção para outros componentes de interior.\n\nCaracterísticas:\n\nResistentes a altas temperaturas e pressões.\nPodem ser úmidas ou secas (em contato ou não com líquido de arrefecimento)."
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nCamisa do cilindro\nFunção:\n\nEvitar desgaste do bloco pelo atrico entre pistão e bloco.\nFornecer proteção para outros componentes de interior.\n\nCaracterísticas:\n\nResistentes a altas temperaturas e pressões.\nPodem ser úmidas ou secas (em contato ou não com líquido de arrefecimento)."
   },
   {
-    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-17",
-    "href": "aula_2/aula_2.html#componente-do-motor-diesel-17",
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel",
     "title": "Mecanização agrícola:",
     "section": "Componente do motor diesel",
-    "text": "Componente do motor diesel\nCamisa do cilindro"
+    "text": "Componente do motor diesel\n\nCamisa do cilindro"
   },
   {
-    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-18",
-    "href": "aula_2/aula_2.html#componente-do-motor-diesel-18",
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-1",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel-1",
     "title": "Mecanização agrícola:",
     "section": "Componente do motor diesel",
-    "text": "Componente do motor diesel\nCasquilhos ou bronzinas"
+    "text": "Componente do motor diesel\n\nCasquilhos ou bronzinas"
   },
   {
-    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-19",
-    "href": "aula_2/aula_2.html#componente-do-motor-diesel-19",
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-2",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel-2",
     "title": "Mecanização agrícola:",
     "section": "Componente do motor diesel",
-    "text": "Componente do motor diesel\nCasquilhos ou bronzinas\nFunção:\n\nReduzir atrito e desgaste entre os elementos.\nAuxiliam no correto alinhamento do virabrequim e comando de válculas no bloco.\n\nCaracterísticas:\n\nEntregada entre biela e virabrequim, pino e êmbolo, etc."
+    "text": "Componente do motor diesel\n\nCasquilhos ou bronzinas\nFunção:\n\nReduzir atrito e desgaste entre os elementos.\nAuxiliam no correto alinhamento do virabrequim e comando de válculas no bloco.\n\nCaracterísticas:\n\nEntregada entre biela e virabrequim, pino e êmbolo, etc."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#arranjo-dos-cilindros-1",
+    "href": "aula_2/aula_2.html#arranjo-dos-cilindros-1",
+    "title": "Mecanização agrícola:",
+    "section": "Arranjo dos cilindros",
+    "text": "Arranjo dos cilindros"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#o-que-é-cilindrada-1",
+    "href": "aula_2/aula_2.html#o-que-é-cilindrada-1",
+    "title": "Mecanização agrícola:",
+    "section": "O que é Cilindrada?",
+    "text": "O que é Cilindrada?\n\n\nO que significa falar que o motor é 2.0?\nO que é um carro 1000?"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#cálculo-da-cilindrada",
+    "href": "aula_2/aula_2.html#cálculo-da-cilindrada",
+    "title": "Mecanização agrícola:",
+    "section": "Cálculo da cilindrada",
+    "text": "Cálculo da cilindrada\n\n\\[V = \\frac{\\pi * D^2 * h}{4}* n \\]\n\\(V = cilindrada~(cm^3, litro, pol^3)\\)\n\\(D = diâmetro~do~pistão~(cm, pol)\\)\n\\(h = curso~do~pistão~do~PMI~ao~PMS~(cm, pol)\\)\n\\(n = número~de~cilindros\\)"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#cálculo-da-cilindrada-1",
+    "href": "aula_2/aula_2.html#cálculo-da-cilindrada-1",
+    "title": "Mecanização agrícola:",
+    "section": "Cálculo da cilindrada",
+    "text": "Cálculo da cilindrada\n\nEx: Um motor de 3 cilindros, com diâmetro dos cilindros de 10 cm e curso do êmbolo de 120 mm, qual a sua cilindrada?\n\n\\[V = \\frac{3.14 * 10^2*12}{4}*3 = 28274~cm^3\\]\n\n\nEx: Um motor de 4 cilindros, com diâmetro dos cilindros de 5 cm e curso do êmbolo de 5 cm, qual a sua cilindrada?"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#pms-e-pmi",
+    "href": "aula_2/aula_2.html#pms-e-pmi",
+    "title": "Mecanização agrícola:",
+    "section": "PMS e PMI",
+    "text": "PMS e PMI\n\n\nPMS: Ponto morto superior.\nPMI: Ponto morto inferior."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#ciclo-otto-ideal",
+    "href": "aula_2/aula_2.html#ciclo-otto-ideal",
+    "title": "Mecanização agrícola:",
+    "section": "Ciclo Otto ideal",
+    "text": "Ciclo Otto ideal"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#ciclo-otto-ideal-1",
+    "href": "aula_2/aula_2.html#ciclo-otto-ideal-1",
+    "title": "Mecanização agrícola:",
+    "section": "Ciclo Otto ideal",
+    "text": "Ciclo Otto ideal"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#ciclo-otto-real",
+    "href": "aula_2/aula_2.html#ciclo-otto-real",
+    "title": "Mecanização agrícola:",
+    "section": "Ciclo Otto real",
+    "text": "Ciclo Otto real"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#ciclo-termodinâmico",
+    "href": "aula_2/aula_2.html#ciclo-termodinâmico",
+    "title": "Mecanização agrícola:",
+    "section": "Ciclo Termodinâmico",
+    "text": "Ciclo Termodinâmico"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#pms-e-pmi-1",
+    "href": "aula_2/aula_2.html#pms-e-pmi-1",
+    "title": "Mecanização agrícola:",
+    "section": "PMS e PMI",
+    "text": "PMS e PMI\n\nA relação entre o volume máximo formado no cilindro e o volume mínimo (morto) é chamada de razão de compressão (r) do motor.\n\\[r = \\frac{V_{max}}{V_{min}} = \\frac{V_{PMI}}{V_{PMS}}\\]"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#eficiência-do-motor-otto",
+    "href": "aula_2/aula_2.html#eficiência-do-motor-otto",
+    "title": "Mecanização agrícola:",
+    "section": "Eficiência do motor Otto",
+    "text": "Eficiência do motor Otto\n\nA eficiência térmica do motor Otto pode ser expressa como:\n\\[\\eta_{t,Otto}=1-\\frac{1}{r^{k-1}}\\]\n\\(\\eta_{t,Otto}= eficiência~térmica\\)\n\\(r = razão~de~compressão\\)\n\\(k=razão~dos~calores~específicos\\)"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#eficiência-do-motor-otto-1",
+    "href": "aula_2/aula_2.html#eficiência-do-motor-otto-1",
+    "title": "Mecanização agrícola:",
+    "section": "Eficiência do motor Otto",
+    "text": "Eficiência do motor Otto\n\nUm motor de ciclo Otto de quatro cilindros possui diâmetro do cilindro de \\(90\\ \\text{mm}\\), curso do pistão de \\(100\\ \\text{mm}\\) e volume de folga (volume morto) de \\(106.024~cm^3\\) por cilindro. (assuma, k = 1.4) Calcule:\n\nO deslocamento volumétrico total do motor (CC);\nA taxa de compressão;\nA eficiência térmica teórica do ciclo Otto."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#eficiência-do-motor-otto-2",
+    "href": "aula_2/aula_2.html#eficiência-do-motor-otto-2",
+    "title": "Mecanização agrícola:",
+    "section": "Eficiência do motor Otto",
+    "text": "Eficiência do motor Otto\n\nUm motor de ciclo Otto de quatro cilindros possui diâmetro do cilindro de \\(90\\ \\text{mm}\\), curso do pistão de \\(100\\ \\text{mm}\\) e volume de folga (volume morto) de \\(106.024~cm^3\\) por cilindro. (assuma, k = 1.4) Calcule:\n\nO deslocamento volumétrico total do motor (CC);\n\n\n\\(V = \\frac{\\pi * 9^2 * 10}{4} * 4 = 2544~cm^3 = 2.5 CC\\)"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#eficiência-do-motor-otto-3",
+    "href": "aula_2/aula_2.html#eficiência-do-motor-otto-3",
+    "title": "Mecanização agrícola:",
+    "section": "Eficiência do motor Otto",
+    "text": "Eficiência do motor Otto\n\nUm motor de ciclo Otto de quatro cilindros possui diâmetro do cilindro de \\(90\\ \\text{mm}\\), curso do pistão de \\(100\\ \\text{mm}\\) e volume de folga (volume morto) de \\(106.024~cm^3\\) por cilindro. (assuma, k = 1.4) Calcule:\n\nA taxa de compressão;\n\n\n\\(V_{cilindro}=\\frac{2544.69}{4}= 636~cm^3\\)\n\\(V_{max}= 636+106 = 742~cm^3\\)\n\\(V_{min} = 106~cm^3\\)\n\\[r=\\frac{742}{106}=7\\]"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#eficiência-do-motor-otto-4",
+    "href": "aula_2/aula_2.html#eficiência-do-motor-otto-4",
+    "title": "Mecanização agrícola:",
+    "section": "Eficiência do motor Otto",
+    "text": "Eficiência do motor Otto\n\nUm motor de ciclo Otto de quatro cilindros possui diâmetro do cilindro de \\(90\\ \\text{mm}\\), curso do pistão de \\(100\\ \\text{mm}\\) e volume de folga (volume morto) de \\(106.024~cm^3\\) por cilindro. (assuma, k = 1.4) Calcule:\n\nA eficiência térmica teórica do ciclo Otto.\n\n\n\\[\\eta_{t,Otto}=1-\\frac{1}{7^{(1.4-1)}}=0.54 = 54\\% \\]"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#eficiência-do-motor-otto-5",
+    "href": "aula_2/aula_2.html#eficiência-do-motor-otto-5",
+    "title": "Mecanização agrícola:",
+    "section": "Eficiência do motor Otto",
+    "text": "Eficiência do motor Otto"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#ciclo-diesel-ideal",
+    "href": "aula_2/aula_2.html#ciclo-diesel-ideal",
+    "title": "Mecanização agrícola:",
+    "section": "Ciclo diesel ideal",
+    "text": "Ciclo diesel ideal"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#eficiência-ciclo-diesel",
+    "href": "aula_2/aula_2.html#eficiência-ciclo-diesel",
+    "title": "Mecanização agrícola:",
+    "section": "Eficiência Ciclo diesel",
+    "text": "Eficiência Ciclo diesel\n\n\\[\\eta_{t,Diesel}=1-\\frac{1}{r^{k-1}}*[\\frac{r_{c}^k-1}{k(r_{c}-1)}] \\]\n\\(r = razão~de~compressão\\)\n\\(r_c= razão~de~corte\\)\n\\(k = razão~dos~calores~específicos\\)"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#eficiência-ciclo-diesel-1",
+    "href": "aula_2/aula_2.html#eficiência-ciclo-diesel-1",
+    "title": "Mecanização agrícola:",
+    "section": "Eficiência Ciclo diesel",
+    "text": "Eficiência Ciclo diesel\n\nRazão de corte\n\\[r_c = \\frac{v_3}{v_2}\\]\n\\(v_3 = volume~cilindro~após~combustão\\)\n\\(v_2 = volume~cilindro~antes~combustão\\)"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#eficiência-otto-vs-diesel",
+    "href": "aula_2/aula_2.html#eficiência-otto-vs-diesel",
+    "title": "Mecanização agrícola:",
+    "section": "Eficiência Otto vs Diesel",
+    "text": "Eficiência Otto vs Diesel\n\n\n\nDiferentes taxas de compressão"
   },
   {
     "objectID": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel",
     "href": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel",
     "title": "Mecanização agrícola:",
     "section": "Diferenças entre Otto e Diesel",
-    "text": "Diferenças entre Otto e Diesel\nForma do pistão"
+    "text": "Diferenças entre Otto e Diesel\n\nForma do pistão"
   },
   {
     "objectID": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel-1",
     "href": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel-1",
     "title": "Mecanização agrícola:",
     "section": "Diferenças entre Otto e Diesel",
-    "text": "Diferenças entre Otto e Diesel\n\n\n\n\n\n\n\n\nParâmetro\nCiclo Otto\nCiclo Diesel\n\n\n\n\nCombustível\nGasolina, Etanol, Metanol, GLP\nÓleo Diesel, Biodiesel\n\n\nCondição termodinâmica do ciclo principal\nAdição de calor a volume constante\nAdição de calor a pressão constante\n\n\nFase de admissão\nAdmite mistura de ar e combustível\nAdmite apenas ar\n\n\nRelação ar/combustível\nPouco variável\nMuito variável\n\n\nControle de carga\nVariando a quantidade de mistura\nVariando a quantidade de combustível"
+    "text": "Diferenças entre Otto e Diesel\n\nIgnição via vela"
   },
   {
     "objectID": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel-2",
     "href": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel-2",
     "title": "Mecanização agrícola:",
     "section": "Diferenças entre Otto e Diesel",
-    "text": "Diferenças entre Otto e Diesel\n\n\n\n\n\n\n\n\nParâmetro\nCiclo Otto\nCiclo Diesel\n\n\n\n\nTaxa de compressão\n6–10:1\n16–20:1\n\n\nPressão mínima de compressão (kPa)\n1400\n3240\n\n\nForma de ignição\nCentelha elétrica\nAutoignição\n\n\nRotação\nMotores leves; combustão homogênea; altas rotações\nMotores pesados; combustão heterogênea; baixas rotações\n\n\nRotação de potência máxima\n&gt; 5000 rpm\n&lt; 3000 rpm\n\n\nRendimento térmico\n25–30%\n30–35%"
+    "text": "Diferenças entre Otto e Diesel\n\n\n\n\n\n\n\n\n\nParâmetro\nCiclo Otto\nCiclo Diesel\n\n\n\n\nCombustível\nGasolina, Etanol, Metanol, GLP\nÓleo Diesel, Biodiesel\n\n\nCondição termodinâmica do ciclo principal\nAdição de calor a volume constante\nAdição de calor a pressão constante\n\n\nFase de admissão\nAdmite mistura de ar e combustível\nAdmite apenas ar\n\n\nRelação ar/combustível\nPouco variável\nMuito variável\n\n\nControle de carga\nVariando a quantidade de mistura\nVariando a quantidade de combustível"
   },
   {
-    "objectID": "aula_2/aula_2.html#arranjamento-dos-cilindros-1",
-    "href": "aula_2/aula_2.html#arranjamento-dos-cilindros-1",
+    "objectID": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel-3",
+    "href": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel-3",
     "title": "Mecanização agrícola:",
-    "section": "Arranjamento dos cilindros",
-    "text": "Arranjamento dos cilindros"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#o-que-é-cilindrada",
-    "href": "aula_2/aula_2.html#o-que-é-cilindrada",
-    "title": "Mecanização agrícola:",
-    "section": "O que é Cilindrada?",
-    "text": "O que é Cilindrada?\n\nO que significa falar que o motor é 2.0?\nO que é um carro 1000?"
+    "section": "Diferenças entre Otto e Diesel",
+    "text": "Diferenças entre Otto e Diesel\n\n\n\n\n\n\n\n\n\nParâmetro\nCiclo Otto\nCiclo Diesel\n\n\n\n\nTaxa de compressão\n6–10:1\n16–20:1\n\n\nPressão mínima de compressão (kPa)\n1400\n3240\n\n\nForma de ignição\nCentelha elétrica\nAutoignição\n\n\nRotação\nMotores leves; combustão homogênea; altas rotações\nMotores pesados; combustão heterogênea; baixas rotações\n\n\nRotação de potência máxima\n&gt; 5000 rpm\n&lt; 3000 rpm\n\n\nRendimento térmico\n25–30%\n30–35%"
   },
   {
     "objectID": "aula_2/aula_2.html#motor-2-tempos-1",
     "href": "aula_2/aula_2.html#motor-2-tempos-1",
     "title": "Mecanização agrícola:",
     "section": "Motor 2 tempos",
+    "text": "Motor 2 tempos\n\nQual a diferença para o motor 4 tempo?\n\nSão motores que em apenas 2 cursos do pistão executam os 4 tempos.\n\n\nEm apenas um giro do virabrequim eles realizam todo o ciclo termodinâmico do motor."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#motor-2-tempos-2",
+    "href": "aula_2/aula_2.html#motor-2-tempos-2",
+    "title": "Mecanização agrícola:",
+    "section": "Motor 2 tempos",
+    "text": "Motor 2 tempos\n\n\nCurso 1: admissão e compressão\nCurso 2: combustão e exaustão"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#motor-2-tempos-3",
+    "href": "aula_2/aula_2.html#motor-2-tempos-3",
+    "title": "Mecanização agrícola:",
+    "section": "Motor 2 tempos",
     "text": "Motor 2 tempos"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#motor-2-tempos-4",
+    "href": "aula_2/aula_2.html#motor-2-tempos-4",
+    "title": "Mecanização agrícola:",
+    "section": "Motor 2 tempos",
+    "text": "Motor 2 tempos\n\n\n\nEquipamentos com motor 2 tempos:\n\nMotosserras;\nRoçadoras;\nMotores estacionários;\nMonocultivatores;"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#motor-2-tempos-5",
+    "href": "aula_2/aula_2.html#motor-2-tempos-5",
+    "title": "Mecanização agrícola:",
+    "section": "Motor 2 tempos",
+    "text": "Motor 2 tempos\n\n2 x 4 tempos"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#motor-2-tempos-6",
+    "href": "aula_2/aula_2.html#motor-2-tempos-6",
+    "title": "Mecanização agrícola:",
+    "section": "Motor 2 tempos",
+    "text": "Motor 2 tempos\n\nDiferenças\n\n\n\n\n\n\n\n\n\nNão emprega válvulas para admissão e exaustão (usa-se janelas).\n\nO pistão trabalha como “válvula”.\n\nNão é necessário cabeçote.\nCárter não tem função de armazenamento de lubrificante.\n\nÓleo lubrificante é adicionado com o combustível.\nVida útil menor que motor 4 tempo.\nPermite o uso em qualquer orientação.\n\nMais poluente.\n\n\n\nProduz mais potência em uma mesma cilindrada e rotação."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#motor-wankel-1",
+    "href": "aula_2/aula_2.html#motor-wankel-1",
+    "title": "Mecanização agrícola:",
+    "section": "Motor Wankel",
+    "text": "Motor Wankel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMais poluente."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#motor-de-uso-agrícola-1",
+    "href": "aula_2/aula_2.html#motor-de-uso-agrícola-1",
+    "title": "Mecanização agrícola:",
+    "section": "Motor de uso agrícola",
+    "text": "Motor de uso agrícola\n\n\nAmbiente de trabalho.\nForça e modo de operação."
   },
   {
     "objectID": "aula_4/aula_4.html#o-que-é-um-trator",
