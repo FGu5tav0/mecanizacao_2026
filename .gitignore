@@ -2,3 +2,6 @@
 /.quarto/
 **/*.quarto_ipynb
 /para_render.txt
+/aula_1
+/aula_3
+/aula_4
