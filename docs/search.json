@@ -1,5 +1,537 @@
 [
   {
+    "objectID": "aula_3/aula_3.html#sistemas-complementares-1",
+    "href": "aula_3/aula_3.html#sistemas-complementares-1",
+    "title": "Mecanização agrícola:",
+    "section": "Sistemas complementares",
+    "text": "Sistemas complementares\n\n\nSistema de alimentação;\nSistema de arrefecimento;\nSistema de lubrificação;\nSistema de partida;\nSistema de exaustão;   \nCombustíveis;\nLubrificantes."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nConjunto de mecanismos com a função de alimentar o motor com a quantidade adequada de ar e de combustível.\n\nDois circuitos:\n\nAlimentação de ar;\nAlimentação de combustível (Diesel)."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-1",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-1",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\n\n\n\n\n\n\n\n\n\nOBJ-&gt;ar\n\n\n\n\n\nOBJ-&gt;comb\n\n\n\n\n\nar-&gt;A1\n\n\n\n\n\ncomb-&gt;C1\n\n\n\n\n\nA1-&gt;A2\n\n\n\n\n\nA2-&gt;A3\n\n\n\n\n\nA3-&gt;A4\n\n\n\n\n\nA4-&gt;A5\n\n\n\n\n\nA5-&gt;A6\n\n\n\n\n\nA6-&gt;M\n\n\n\n\n\nC1-&gt;C2\n\n\n\n\n\nC2-&gt;C3\n\n\n\n\n\nC3-&gt;C4\n\n\n\n\n\nC4-&gt;C5\n\n\n\n\n\nC5-&gt;C6\n\n\n\n\n\nC6-&gt;M\n\n\n\n\n\nM-&gt;E1\n\n\n\n\n\nE1-&gt;E2\n\n\n\n\n\nE2-&gt;E3\n\n\n\n\n\nOBJ\n\nSuprimento de ar e combustível\nao motor\n\n\n\nar\n\nAR\n\n\n\ncomb\n\nCOMBUSTÍVEL\n\n\n\nA1\n\nPré-filtro\n\n\n\nA2\n\nFiltro primário\n\n\n\nA3\n\nFiltro secundário\n\n\n\nA4\n\nTurbina\n(Turbocharger)\n\n\n\nA5\n\nResfriador\n(Intercooler)\n\n\n\nA6\n\nColetor de admissão\n\n\n\nC1\n\nTanque\n\n\n\nC2\n\nCopo de sedimentação\n\n\n\nC3\n\nBomba alimentadora\n\n\n\nC4\n\nFiltro de combustível\n\n\n\nC5\n\nBomba injetora\n\n\n\nC6\n\nBico injetor\n\n\n\nM\n\nCilindro\ndo motor\n\n\n\nE1\n\nColetor de descarga\n\n\n\nE2\n\nAbafador\n\n\n\nE3\n\nResíduos da combustão"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-2",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-2",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de ar:\nÉ o circuito que distribui o ar para o motor. Ar limpo e livre de impurezas.\n\nFuncionamento em 3 etapas:\n\nAdmissão;\nFiltragem;\nExaustão."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-3",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-3",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nTipos de filtro:\n\nPré-filtro: Responsável por reter partículas maiores por meio de centrifugação."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-4",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-4",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nTipos de filtro:\n\nPré-filtro: Responsável por reter partículas maiores por meio de centrifugação."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-5",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-5",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nTipos de filtro:\n\nBanho de óleo: O ar entra em contato com uma cuba de óleo, onde as partículas menores são retidas."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-6",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-6",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nTipos de filtro:\n\nFiltro de cartucho: O filtro primário é de papel e o secundário de feltro. Retêm quase a totalidade das partículas sólidas em suspensão."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-7",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-7",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nAspiração natural:\n\nMotor de aspiração natural trabalha com a pressão atmosférica para preencher os cilindros de ar;\nTempo de abertura da válvula de alimentação é menor;\nLimitação da potência do motor."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-8",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-8",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nSobrealimentação:\n\nAumento da entrada de ar no motor;\nMaior preenchimento de ar dentro do cilindro;\nAumento da capacidade de geração de potência do motor;\nNão utiliza rotações altas;\nAumenta o calor;\n\nDesgaste dos componentes;\n\nAumenta o volume de ar no cilindro;\n\nPermite injeção de mais combustível;\nAumento da potência e torque (30%)."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-9",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-9",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nSobrealimentação:\n\n\nA saída dos gases resultantes da queima do combustível, acionam uma turbina, enquanto os gases excedentes não utilizados neste acionamento são expulsos por uma válvula de alívio. Ao girar, a turbina movimenta o compressor que aspira o ar ambiente, comprimindo-o no motor, fazendo-o passar pelo radiador para resfriá-lo e, posteriormente ao cilindro (ciclo Diesel)."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-10",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-10",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nIntercooler:\n\nSistema de troca de calor;\n\nAr-ar (mais comum);\nAr-água;\n\nReduz a temperatura do ar enviado aos cilindros;\nAr com temperatura ~200ºC;\nAr frio… volume menor, mais concentração dentro do cilindro.\n\nMais potência.\n\n\n\nTransformação isobárica – Lei de Charles aumento da temperatura aumenta o volume em pressão constante"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-11",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-11",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nSobrealimentação:"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-12",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-12",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nSobrealimentação:"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-13",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-13",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:\nÉ o circuito que tem a função de pulverizar o combustível na câmara de combustão em partículas finas.\n\nTanque;\nCopo sedimentador;\nBomba alimentadora;\nFiltros de combustível;\nBomba injetora;\nBicos injetores;\nDutos de alta e baixa pressão e retorno."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-14",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-14",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-15",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-15",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:\n\n\n\n\n1 - Tanque de Combustível;\n2 - Bomba de Combustível;\n3 - Linha de Combustível;\n4 - Filtro de Combustível;\n5 - Bomba de Alta Pressão;\n6 - Regulador de Pressão;\n7 - Common Rail;\n8 - Sensor de Pressão;\n9 - Linha de Alta Pressão;\n10 - Injetores;\n11 - Linha de Retorno;\n12 - Reservatório de Retorno de combustível."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-16",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-16",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:\n\nTanque de combustível: Depósito para armazenamento de combustível durante os períodos de operação;\n\nFabricado de polietileno;\nDeve ter autonomia de uma jornada de trabalho;\n\nCopo sedimentador: Função de decantar a água;\n\nÉ o componente que permite drenar a água;\nSistema modernos não apresentam copo de sedimentação."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-17",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-17",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:\n\nBomba alimentadora: Tem a função de retirar o óleo Diesel do tanque e colocar pressão para que o combustível passe pelos filtros e atinja a bomba injetora;\n\nPermite a realização da sangria do combustível (processo de remover o ar das mangueiras após a troca de filtro ou por demais fatores).\nEquipamentos modernos é de funcionamento elétrico;\n\nFiltros: têm a função de reter as partículas de impurezas presentes no combustível."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-18",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-18",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:\nCuidado com abastecimento:\n\nÉ recomendado realizar o abastecimento do tanque de combustível após a jornada de trabalho (à noite). Isso evita a formação de gotículas de água que podem danificar o motor.\n\n\n\nOutro fator que favorece o abastecimento durante a noite é que realizar o abastecimento pela manhã, antes da jornada de trabalho, pode provocar a movimentação dos sedimentos acumulados no fundo do tanque, o que pode danificar o sistema de filtragem."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-19",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-19",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-20",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-20",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-21",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-21",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:\n\nBomba injetora: Localizada entre os filtros de combustível e os bicos injetores, tem por função gerar uma vazão de combustível sob pressão, comprimindo o combustível até os bicos injetores;\n\nAlta pressão é necessária para atomizar o combustível.\nBombas rotativas, pistão e eletrônica.\n\nA injeção eletrônica: Sistema de controle de combustível de alta eficiência e de baixa emissão (dosagem precisa).\n\n\nNa bomba rotativa a lubrificação é feita pelo próprio óleo Diesel, enquanto nas bombas de pistão, o óleo lubrificante do motor é quem promove a lubrificação, ou então, o próprio óleo do reservatório da bomba é quem faz a lubrificação."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-22",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-22",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-23",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-23",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:\n\nBicos injetores: São responsáveis por injetar o combustível de forma atomizada na câmara de combustão;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\npressão de injeção 1300 - 2000 atm"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-24",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-24",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-25",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-25",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-arrefecimento-1",
+    "href": "aula_3/aula_3.html#sistema-de-arrefecimento-1",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de arrefecimento",
+    "text": "Sistema de arrefecimento\n\nA conversão da energia química do combustível para energia térmica depende de um ambiente com uma variação controlada de temperatura.\n\nO sistema de arrefecimento é o responsável por manter adequada a temperatura interna do motor e promover maior eficiência.\n\n\nApenas 25 a 35% da energia é convertida em trabalho.\n65 a 75% é perdido na forma de calor.\n\nEsse calor é transferido ao meio externo (ambiente) pelo sistema de arrefecimento;\n\nPodem ser do tipo: ar, água ou ar e água;\n\nMotores agrícolas usam sistema de arrefecimento por água.\nSuperaquecimento só ocorrerá se faltar água."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-arrefecimento-2",
+    "href": "aula_3/aula_3.html#sistema-de-arrefecimento-2",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de arrefecimento",
+    "text": "Sistema de arrefecimento"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-arrefecimento-3",
+    "href": "aula_3/aula_3.html#sistema-de-arrefecimento-3",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de arrefecimento",
+    "text": "Sistema de arrefecimento\n\nArrefecimento a água é controlado por meio da válvula termostática.\n\nBloqueia a passagem do líquido de arrefecimento, do motor para o radiador, quando o motor estiver abaixo da temperatura de trabalho;\nQuando a temperatura ultrapassa a temperatura de trabalho, a válvula se abre e permite a passagem de líquido para o radiador."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-arrefecimento-4",
+    "href": "aula_3/aula_3.html#sistema-de-arrefecimento-4",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de arrefecimento",
+    "text": "Sistema de arrefecimento\n\nRadiador\nFunção de trocar calor com o ambiente"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-arrefecimento-5",
+    "href": "aula_3/aula_3.html#sistema-de-arrefecimento-5",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de arrefecimento",
+    "text": "Sistema de arrefecimento"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-arrefecimento-6",
+    "href": "aula_3/aula_3.html#sistema-de-arrefecimento-6",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de arrefecimento",
+    "text": "Sistema de arrefecimento"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-lubrificação-1",
+    "href": "aula_3/aula_3.html#sistema-de-lubrificação-1",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de lubrificação",
+    "text": "Sistema de lubrificação\n\nOs movimentos relativos de peças do motor geram atrito e provocam aquecimento e desgaste do motor. A lubrificação é a interposição de substâncias oleosas entre as superfícies que estão em contato.\n\nReduz o aquecimento e o desgaste dos componentes;\nPelícula oleosa entre peças."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-lubrificação-2",
+    "href": "aula_3/aula_3.html#sistema-de-lubrificação-2",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de lubrificação",
+    "text": "Sistema de lubrificação\n\nFunções básicas:\n\n\n\nPermitir a formação de uma película de óleo lubrificante na interface de contato entre as superfícies móveis.\n\nReduzir atrito;\nMinimizar perda de energia mecânica;\nMinimizar desgaste;\nTornar suave o movimento do motor.\n\n\n\n\nPermitir a circulação ininterrupta de óleo lubrificante nos pontos que exigem;\n\nManutenção da temperatura;\n\nLimpeza dos pontos de lubrificação;\n\nRemoção de resíduos da combustão;\n\nVedação do espaço entre a parede do cilindro e os anéis do pistão;\nAmortecer choques (ruídos);"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-lubrificação-3",
+    "href": "aula_3/aula_3.html#sistema-de-lubrificação-3",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de lubrificação",
+    "text": "Sistema de lubrificação\n\nCircuito de lubrificação:\n\n\nA árvore de manivelas possui orifícios que transportam o óleo aos mancais das bielas e aos eixos fixos. Na biela, um pequeno orifício coincidente com um furo presente na árvore de manivelas, faz com que o óleo seja esguichado para as paredes do cilindro. Como a bomba recebe acionamento do eixo de distribuição, quando aumenta a rotação do motor, a pressão também aumenta. Há um limite operacional e, por isso, existe a válvula de alívio para controlar a pressão, a qual é indicada por um manômetro."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-lubrificação-4",
+    "href": "aula_3/aula_3.html#sistema-de-lubrificação-4",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de lubrificação",
+    "text": "Sistema de lubrificação\n\nSistema sob pressão:\n\nCárter: reservatório armazenador do óleo lubrificante;\n\nLocal onde há a bomba de óleo;\n\nBomba de óleo: responsável por distribuir o óleo armazenado no cárter para os componentes internos do motor;\nVálvula reguladora de pressão: próxima à saída da bomba, mantém constante a pressão, vazão uniforme;\nFiltros: retém as impurezas do óleo lubrificante;\nManômetros: indicador da pressão do óleo, por meio da medição da resistência que o óleo encontra ao ser forçado a passar pelo sistema."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-lubrificação-5",
+    "href": "aula_3/aula_3.html#sistema-de-lubrificação-5",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de lubrificação",
+    "text": "Sistema de lubrificação"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-lubrificação-6",
+    "href": "aula_3/aula_3.html#sistema-de-lubrificação-6",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de lubrificação",
+    "text": "Sistema de lubrificação\n\n\nCuide do nível do óleo!"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-partida-1",
+    "href": "aula_3/aula_3.html#sistema-de-partida-1",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de partida",
+    "text": "Sistema de partida\n\nSistema responsável pelas primeiras explosões e movimentação do motor.\n\nPrimeira energia fornecida ao motor."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-partida-2",
+    "href": "aula_3/aula_3.html#sistema-de-partida-2",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de partida",
+    "text": "Sistema de partida\n\nPode ser manual, com motores a gasolina, com gasolina ou elétrico\n\nManual é encontrado em motores Diesel monocilíndricos;\n\nManual por manivela: O motor é iniciado girando a árvore de manivelas até rotação suficiente;\nManual por corda: O acionamento se dá pelo puxar de uma corda (ex: motosserras) enrolada no volante;\n\nCom motores a gasolina: Sistema de acionamento é composto por um motor a gasolina (manual) que transmite a energia ao motor a Diesel via engrenagens;"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-partida-3",
+    "href": "aula_3/aula_3.html#sistema-de-partida-3",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de partida",
+    "text": "Sistema de partida\n\n\nCom gasolina: Válvula de arranque, é câmara auxiliar com vela de ignição (válvula reduz a razão de compressão e motor funciona como um ciclo Otto e depois se altera para ciclo Diesel);\nElétrico: É um sistema mais complexo com motor de partida (motor de arranque)."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-partida-4",
+    "href": "aula_3/aula_3.html#sistema-de-partida-4",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de partida",
+    "text": "Sistema de partida"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-partida-5",
+    "href": "aula_3/aula_3.html#sistema-de-partida-5",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de partida",
+    "text": "Sistema de partida\n\nA energia da bateria é transferida após o giro da chave de ignição. Um motor elétrico, denominado motor de arranque, é acionado e conectado ao volante do motor. Essa conexão é realizada por meio de duas engrenagens: o pinhão e a coroa.\n\nO pinhão é movimentado e se acopla à coroa do volante. Após o acoplamento, o motor de arranque transfere o movimento necessário para iniciar a rotação do motor. Quando o motor entra em funcionamento, o pinhão é automaticamente desacoplado da coroa."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-partida-6",
+    "href": "aula_3/aula_3.html#sistema-de-partida-6",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de partida",
+    "text": "Sistema de partida"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-exaustão-1",
+    "href": "aula_3/aula_3.html#sistema-de-exaustão-1",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de exaustão",
+    "text": "Sistema de exaustão\n\nFunções:\n\nConduzir os gases de escape: gases produzidos são descarregados na atmosfera;\nPurificar os gases de escape: remover componentes químicos nocivos e partículas poluentes;\nReduzir o ruído do escape: amortecer o ruído para o mínimo permitido (preservação da audição)."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-exaustão-2",
+    "href": "aula_3/aula_3.html#sistema-de-exaustão-2",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de exaustão",
+    "text": "Sistema de exaustão\n\n\n\n\n\n\n\n\n\n\nContaminante químico\nObservação\nConcentração (ppm)\n\n\n\n\nAcetaldeído\nCarcinógeno do Grupo 1 da IARC\n\n\n\nAcroleína\nProvável carcinógeno do Grupo 2A da IARC\n\n\n\nAnilina\nProvável carcinógeno do Grupo 2A da IARC\n\n\n\nArsênio\nCarcinógeno do Grupo 1 da IARC; desregulador endócrino\n\n\n\nBenzeno\nCarcinógeno do Grupo 1 da IARC\n\n\n\nBifenila\nToxicidade moderada\n\n\n\nBis(2-etil-hexil) ftalato\nDesregulador endócrino\n\n\n\n1,3-Butadieno\nCarcinógeno do Grupo 1 da IARC\n\n\n\nCádmio\nCarcinógeno do Grupo 1 da IARC; desregulador endócrino\n\n\n\nCloro\nSubproduto da injeção de ureia\n\n\n\nClorobenzeno\nToxicidade baixa a moderada\n\n\n\nCresol\n\n\n\n\nDibutil ftalato\nDesregulador endócrino\n\n\n\n1,8-Dinitropireno\nFortemente carcinogênico\n\n\n\nEtilbenzeno\n\n\n\n\nFormaldeído\nCarcinógeno do Grupo 1 da IARC\n\n\n\nChumbo inorgânico\nDesregulador endócrino\n\n\n\nMetanol\n\n\n\n\nMetil etil cetona\n\n\n\n\nNaftaleno\nCarcinógeno do Grupo 2B da IARC\n\n\n\nNíquel\nCarcinógeno do Grupo 2B da IARC\n\n\n\n3-Nitrobenzantrona (3-NBA)\nFortemente carcinogênico\n0,6–6\n\n\n4-Nitrobifenila\nIrritante; causa danos aos nervos, fígado e rins\n2,2\n\n\nFenol\n\n\n\n\nFósforo\n\n\n\n\nPireno\n\n3532–8002\n\n\nBenzo(e)pireno\n\n487–946\n\n\nBenzo(a)pireno\nCarcinógeno do Grupo 1 da IARC\n208–558\n\n\nFluoranteno\nPossível carcinógeno do Grupo 3 da IARC\n3399–7321\n\n\nPropionaldeído\n\n\n\n\nEstireno\nCarcinógeno do Grupo 2B da IARC\n\n\n\nTolueno\nPossível carcinógeno do Grupo 3 da IARC\n\n\n\nXileno\nPossível carcinógeno do Grupo 3 da IARC"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-exaustão-3",
+    "href": "aula_3/aula_3.html#sistema-de-exaustão-3",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de exaustão",
+    "text": "Sistema de exaustão\n\nSistemas de pós-tratamento:\n\nSão sistemas para melhorar o tratamento dado aos gases emitidos\n\nRecirculação dos gases de escape: EGR;\n\nIntroduz gás não reativo (já queimado) para a câmara de combustão;\nReduz a temperatura e produz menos NOx;\nReduz a eficiência térmica;\n\nRedução catalítica seletiva: SCR;\n\nInjeta um agente redutor líquido (ex: ARLA 32);\nReações químicas que convertem o NOx em N2, água e CO2."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-exaustão-4",
+    "href": "aula_3/aula_3.html#sistema-de-exaustão-4",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de exaustão",
+    "text": "Sistema de exaustão\n\nSistemas EGR:"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-exaustão-5",
+    "href": "aula_3/aula_3.html#sistema-de-exaustão-5",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de exaustão",
+    "text": "Sistema de exaustão\n\nSistemas SCR:"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-exaustão-6",
+    "href": "aula_3/aula_3.html#sistema-de-exaustão-6",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de exaustão",
+    "text": "Sistema de exaustão\n\nTransformação da ureia:\n\\[H_2NCONH_2 + H_2O = 2NH_3 + CO_2\\]\n\\[8NH_3 + 6NO_2 = 7N_2 + 12H_2\\]"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#combustível-1",
+    "href": "aula_3/aula_3.html#combustível-1",
+    "title": "Mecanização agrícola:",
+    "section": "Combustível",
+    "text": "Combustível\n\n\nQualquer substância cuja reação de oxidação-redução é altamente exotérmica.\n\n\n\n\n\n\n\n\n\nPodemos criar petróleo?"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#combustível-2",
+    "href": "aula_3/aula_3.html#combustível-2",
+    "title": "Mecanização agrícola:",
+    "section": "Combustível",
+    "text": "Combustível\n\nA maioria dos combustíveis utilizados hoje é derivada do petróleo.\n\nCom o devido processamento e refino, novos combustíveis alternativos com propriedades semelhantes ou iguais às do petróleo serão descobertos.\n\n\nExistirá um dia em que o petróleo será esgotado!"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#combustível-3",
+    "href": "aula_3/aula_3.html#combustível-3",
+    "title": "Mecanização agrícola:",
+    "section": "Combustível",
+    "text": "Combustível\n\nQual a principal vantagem dos combustíveis à base de petróleo?\n\n\n\n\nKobayashi, H. et al, 2019"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#combustível-4",
+    "href": "aula_3/aula_3.html#combustível-4",
+    "title": "Mecanização agrícola:",
+    "section": "Combustível",
+    "text": "Combustível\n\nOctanagem:\nÉ o índice de octano (C8H18), uma medida da resistência do combustível à compressão (escala de 0 a 100). - Quanto mais elevado, maior a capacidade de ser comprimido na câmara de combustão sem que ocorra a autoignição.\n\nCetanagem:\nÉ o número de cetano, índice que mede a qualidade de ignição de um combustível utilizado em um motor de ciclo Diesel. - Quanto maior for o valor, menor será o tempo para queima.\n\n\nGasolina com ar explode, mas sozinha ela não consegue autoignição"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#combustível-5",
+    "href": "aula_3/aula_3.html#combustível-5",
+    "title": "Mecanização agrícola:",
+    "section": "Combustível",
+    "text": "Combustível\n\nOctanagem x Cetanagem"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#combustível-6",
+    "href": "aula_3/aula_3.html#combustível-6",
+    "title": "Mecanização agrícola:",
+    "section": "Combustível",
+    "text": "Combustível\n\nGasolina:\n\nMistura inflamável de hidrocarbonetos de cadeias carbônicas menores (5 a 10 C).\n\nTipo A (sem etanol);\nTipo C (etanol anidro);"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#combustível-7",
+    "href": "aula_3/aula_3.html#combustível-7",
+    "title": "Mecanização agrícola:",
+    "section": "Combustível",
+    "text": "Combustível\n\nGasolina:\nApenas a tipo C é comercializada no Brasil\n\n\n\n\nCaracterística\nC-Comum\nC-Premium\n\n\n\n\nCor\nAmarelada\nLevemente alaranjada\n\n\nOctanagem min\n87\n91\n\n\nEnxofre max (ppm)\n50\n50\n\n\nAditivos\nPode conter\nContém"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#combustível-8",
+    "href": "aula_3/aula_3.html#combustível-8",
+    "title": "Mecanização agrícola:",
+    "section": "Combustível",
+    "text": "Combustível\n\nDiesel:\n\nTipos:\n\n\n\nÓleo Diesel S10 e S500 de uso rodoviário:\n\nVeículos automotivos;\nMáquinas agrícolas;\nMáquinas de construção;\nMáquinas industriais;\n\n\n\n\nÓleo Diesel S1800 de uso não rodoviário:\n\nMineração a céu aberto;\nTransporte ferroviário;\n\n\n\n\nÓleo Diesel marítimo:\n\nEmbarcações."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#combustível-9",
+    "href": "aula_3/aula_3.html#combustível-9",
+    "title": "Mecanização agrícola:",
+    "section": "Combustível",
+    "text": "Combustível\n\nDiesel:\n\nS10 e S500 = S é o símbolo do elemento enxofre (presente de forma natural no combustível).\n\n\n\n\n\nCaracterística\nS10\nS500\n\n\n\n\nCor\nIncolor a amarelado\nVermelho\n\n\nEnxofre (ppm)\n10\n500\n\n\nLubricidade\nBaixa\nAlta\n\n\nPoluentes\nMenos\nMais\n\n\nNúmero de cetano\n48\n42\n\n\nDesempenho\nMais eficiente\nMenos eficiente\n\n\nQuantidade de hidrogênio\nMais\nMenos\n\n\nCapacidade de solubilizar sedimentos\nMaior\nMenor"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#combustível-10",
+    "href": "aula_3/aula_3.html#combustível-10",
+    "title": "Mecanização agrícola:",
+    "section": "Combustível",
+    "text": "Combustível\n\n\nAlternativos:\n\n\n\n\n\n\n\n\nCategoria\nCombustível\nSigla/descrição\n\n\n\n\nLíquidos viscosos (bioDiesel)\nÉster metílico de óleos vegetais\n\n\n\n\nÉster metílico de gorduras animais\n\n\n\n\nResíduos de óleo de cozinha\n\n\n\n\nÓleo vegetal hidrotratado\nHVO\n\n\nLíquidos não viscosos\nÁlcool de cana-de-açúcar\n\n\n\n\nÁlcool de celulose\n\n\n\n\nÁlcool de cereais\n\n\n\n\nÁlcool de beterraba sacarina\n\n\n\n\nÉter dimetílico\nDME\n\n\nGases\nGás natural comprimido\nGNC\n\n\n\nGás liquefeito de petróleo\nGLP\n\n\n\nBiogás\n\n\n\n\nHidrogênio\n\n\n\nSintéticos\nGás para líquido\nGTL\n\n\n\nCarvão liquefeito\nCTL\n\n\n\nBiomassa para líquido\nBTL"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-1",
+    "href": "aula_3/aula_3.html#lubrificantes-1",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes\n\nFunções primárias:\nLimitar e controlar o atrito, prevenção ao superaquecimento, reduzir desgaste e proteção contra a corrosão.\n\nFunções secundárias:\nRemoção de contaminantes, vedação, amortecimento e isolamento térmico."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-2",
+    "href": "aula_3/aula_3.html#lubrificantes-2",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes\n\nAs características do óleo lubrificante interferem em suas funções.\n\nA origem e a composição dos óleos modificam o objetivo e suas propriedades\n\nOrigem: animal, vegetal, mineral e sintética\n\n\nAditivos: anticorrosivos, detergentes, dispersantes, etc."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-3",
+    "href": "aula_3/aula_3.html#lubrificantes-3",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes\n\nCaracterísticas importantes:\n\nViscosidade: indica a resistência ao escoamento;\nÍndice de viscosidade: variação da viscosidade em relação a uma faixa de temperatura;\nDensidade: relação entre a massa e o volume."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-4",
+    "href": "aula_3/aula_3.html#lubrificantes-4",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes\n\nViscosidade e temperatura:\n\nChiarello, et al. (2019)"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-5",
+    "href": "aula_3/aula_3.html#lubrificantes-5",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes\n\nSistemas de classificação:\n\nSAE: Society of Automotive Engineers;\nAPI: American Petroleum Institute;\nACEA: European Automobile Manufacturers Association"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-6",
+    "href": "aula_3/aula_3.html#lubrificantes-6",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes\n\nSistemas de classificação SAE:\n\nClassifica os lubrificantes com base na viscosidade, sem considerar fatores relativos ao desempenho e serviço\n\n\nOs lubrificantes são divididos em dois grupos\n\nMonoviscosos: identificados por um único número;\nMultiviscosos: identificados por dois números separados pela letra “W” (winter = inverno)."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-7",
+    "href": "aula_3/aula_3.html#lubrificantes-7",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes\n\nSistemas de classificação SAE:\nExemplos:\n\nO óleo SAE 10W possui uma baixa viscosidade e é adequado para ambiente de baixa temperatura (monograu).\nO óleo SAE 40 possui alta viscosidade (proteção ao motor) e é adequado para ambiente de alta temperatura (monograu).\nO óleo SAE 10W40 pode trabalhar tanto em baixa como em alta temperatura e possui uma viscosidade mais complexa (multigrau)."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-8",
+    "href": "aula_3/aula_3.html#lubrificantes-8",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-9",
+    "href": "aula_3/aula_3.html#lubrificantes-9",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes\n\n\nSistemas de classificação SAE:\n\n\n\n\n\n\n\n\n\n\n\n\n\nGrau de viscosidade SAE\nViscosidade máxima para acionamento em baixa temperatura (MPa·s)\nTemperatura (°C)\nViscosidade máxima para bombeamento em baixa temperatura (MPa·s)\nTemperatura (°C)\nViscosidade cinemática a 100 °C — Mínimo (mm²/s)\nMáximo (mm²/s)\nAlta viscosidade de cisalhamento (cP)\n\n\n\n\n0W\n&lt; 6200\n-35\n&lt; 60000\n-40\n3,8\n-\n-\n\n\n5W\n&lt; 6600\n-30\n&lt; 60000\n-35\n3,8\n-\n-\n\n\n10W\n&lt; 7000\n-25\n&lt; 60000\n-30\n4,1\n-\n-\n\n\n15W\n&lt; 7000\n-20\n&lt; 60000\n-25\n5,6\n-\n-\n\n\n20W\n&lt; 9500\n-15\n&lt; 60000\n-20\n5,6\n-\n-\n\n\n25W\n&lt; 13000\n-10\n&lt; 60000\n-15\n9,3\n-\n-\n\n\n8\n-\n-\n-\n-\n4,0\n&lt; 6,1\n1,7\n\n\n12\n-\n-\n-\n-\n5,0\n&lt; 7,1\n2,0\n\n\n16\n-\n-\n-\n-\n6,1\n&lt; 8,2\n2,3\n\n\n20\n-\n-\n-\n-\n6,9\n&lt; 9,3\n2,6\n\n\n30\n-\n-\n-\n-\n9,3\n&lt; 12,5\n2,9\n\n\n40¹\n-\n-\n-\n-\n12,5\n&lt; 16,3\n3,5\n\n\n40²\n-\n-\n-\n-\n12,5\n&lt; 16,3\n3,7\n\n\n50\n-\n-\n-\n-\n16,3\n&lt; 21,9\n3,7\n\n\n60\n-\n-\n-\n-\n21,9\n&lt; 26,1\n3,7"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-10",
+    "href": "aula_3/aula_3.html#lubrificantes-10",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-11",
+    "href": "aula_3/aula_3.html#lubrificantes-11",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes\n\nSistemas de classificação API:\n\nClassifica os lubrificantes com base no desempenho.\n\n\nOs lubrificantes são divididos em dois grupos\n\nSérie S (Spark ignition = ignição por faísca): destinados a motores de ciclo Otto;\nSérie C (Compression ignition = ignição por compressão): destinados a motores ciclo Diesel."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-12",
+    "href": "aula_3/aula_3.html#lubrificantes-12",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes\n\nSistemas de classificação API:\nO segundo algarismo informa o nível de qualidade do óleo lubrificante, em ordem alfabética."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-13",
+    "href": "aula_3/aula_3.html#lubrificantes-13",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes\n\n\n\n\n\nCategoria API\nStatus\nServiço1\n\n\n\n\nCK-4\nAtual\nAtende aos padrões de 2017\n\n\nCJ-4\nAtual\nAtende aos padrões de 2010\n\n\nCI-4\nAtual\nAtende aos padrões de 2010\n\n\nCH-4\nAtual\nAtende aos padrões de 1998\n\n\nCG-4\nObsoleto\nNão adequado após 2009\n\n\nCF-4\nObsoleto\nNão adequado após 2009\n\n\nCF-2\nObsoleto\nNão adequado após 2009\n\n\nCF\nObsoleto\nNão adequado após 2009\n\n\nCE\nObsoleto\nNão adequado após 1994\n\n\nCD-II\nObsoleto\nNão adequado após 1994\n\n\nCD\nObsoleto\nNão adequado após 1994\n\n\nCC\nObsoleto\nNão adequado após 1990\n\n\nCB\nObsoleto\nNão adequado após 1961\n\n\nCA\nObsoleto\nNão adequado após 1959\n\n\nFA-42\nAtual\nAtende aos padrões de 2017\n\n\n\n\nIndica o ano dos padrões de emissão aos quais a categoria atende ou até o qual é considerada adequada.Categoria destinada a motores que atendem aos padrões de emissão para veículos rodoviários de 2017."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-14",
+    "href": "aula_3/aula_3.html#lubrificantes-14",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes\n\nSistemas de classificação ACEA:\nBaseado nos requisitos europeus.\nFaz o uso de letras para definir a aplicação e algarismos (1 a 7) para características do lubrificante.\n\nA é para veículos de passeio (gasolina e/ou etanol);\nB e C para veículos leves;\nE para veículos pesados (Diesel)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mecanização agrícola - IFPR 2026/02",
+    "section": "",
+    "text": "Aula 1\n        História e desenvolvimento\n        \n      \n\n      \n        Aula 2\n        Motores de combustão interna\n        \n      \n\n       \n        Aula 3\n        Em breve\n        Sistemas complementares ao motor\n      \n\n      \n        Aula 4\n        Em breve\n        Conteúdo será disponibilizado em breve.\n      \n\n    \n  \n\n  \n  \n    \n      📖\n      Selecione uma aula acima para visualizá-la aqui."
+  },
+  {
     "objectID": "aula_2/aula_2.html#definições-1",
     "href": "aula_2/aula_2.html#definições-1",
     "title": "Mecanização agrícola:",
@@ -593,12 +1125,5 @@
     "title": "Mecanização agrícola:",
     "section": "Motor de uso agrícola",
     "text": "Motor de uso agrícola\n\n\nAmbiente de trabalho.\nForça e modo de operação."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Mecanização agrícola - IFPR 2026/02",
-    "section": "",
-    "text": "Aula 1\n        História e desenvolvimento\n        \n      \n\n      \n        Aula 2\n        Motores de combustão interna\n        \n      \n\n      \n        Aula 3\n        Em breve\n        Conteúdo será disponibilizado em breve.\n      \n\n    \n  \n\n  \n  \n    \n      📖\n      Selecione uma aula acima para visualizá-la aqui."
   }
 ]
