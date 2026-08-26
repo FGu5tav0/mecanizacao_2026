@@ -29,8 +29,8 @@ format:
 
        <a class="card" onclick="carregarAula('aula_3/aula_3.html', this)" href="#">
         <div class="card-num">Aula 3</div>
-        <div class="card-title">Em breve</div>
-        <div class="card-desc">Sistemas complementares ao motor</div>
+        <div class="card-title">Sistemas complementares ao motor</div>
+        <div class="card-desc"></div>
       </a>
 
       <a class="card em-breve" href="#">
