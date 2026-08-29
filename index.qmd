@@ -33,8 +33,13 @@ format:
         <div class="card-desc"></div>
       </a>
 
-      <a class="card em-breve" href="#">
+       <a class="card" onclick="carregarAula('aula_4/aula_4.html', this)" href="#">
         <div class="card-num">Aula 4</div>
+        <div class="card-title">Tratores e seus constituintes (P1)</div>
+        <div class="card-desc"></div>
+      </a>
+      <a class="card em-breve" href="#">
+        <div class="card-num">Aula 5</div>
         <div class="card-title">Em breve</div>
         <div class="card-desc">Conteúdo será disponibilizado em breve.</div>
       </a>
