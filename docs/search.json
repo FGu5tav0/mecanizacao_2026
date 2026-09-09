@@ -1,5 +1,1769 @@
 [
   {
+    "objectID": "aula_5/aula_5.html#relembrando-o-motor-1",
+    "href": "aula_5/aula_5.html#relembrando-o-motor-1",
+    "title": "Mecanização agrícola:",
+    "section": "Relembrando o motor…",
+    "text": "Relembrando o motor…\n\nResponsável pela transformação da energia dos combustíveis em energia mecânica (torque e rotação)."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#sistema-de-transmissão-1",
+    "href": "aula_5/aula_5.html#sistema-de-transmissão-1",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de transmissão",
+    "text": "Sistema de transmissão\n\n\nFunção principal de realizar a transmissão de potência.\n\n\n\nPermitir o funcionamento contínuo do motor;\nRedução de rotação e aumento de torque;\nPossibilitar operações de aproximação e paradas de emergência sem danificar os componentes;\nPermitir inúmeras intensidades operacionais;\n\nRotação, velocidade, torque e sentido.\n\nDiferenciar a rotação entre as duas rodas motrizes, traseira e dianteira (4x2 TDA);\nAcionar diferentes sistemas (TDP e hidráulico)."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#sistema-de-transmissão-2",
+    "href": "aula_5/aula_5.html#sistema-de-transmissão-2",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de transmissão",
+    "text": "Sistema de transmissão\n\nO que se busca em um trator?\n\nVelocidade ou torque?\n\n\nUm trator cujo acionamento estivesse de forma direta no eixo da roda motriz do motor ocasionaria velocidades de carros esportivos.\n\nEx: Um trator a 2000 rpm e com pneus traseiros de 61 cm de diâmetro, sem redução da rotação, teria uma velocidade de deslocamento de 230 km h-1."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#sistema-de-transmissão-3",
+    "href": "aula_5/aula_5.html#sistema-de-transmissão-3",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de transmissão",
+    "text": "Sistema de transmissão\n\nA proporção de diminuição é chamada de relação de transmissão e é expressa como a razão entre a rotação do virabrequim e a do eixo das rodas motrizes.\n\n“O número de voltas do volante do motor para cada volta da roda motriz do trator”"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#sistema-de-transmissão-4",
+    "href": "aula_5/aula_5.html#sistema-de-transmissão-4",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de transmissão",
+    "text": "Sistema de transmissão\n\nA contrapartida é o aumento significativo do torque, que é altamente desejável em aplicações agrícolas.\n\nO sistema de transmissão opera modificando o torque e a rotação para que o trator possa desempenhar adequadamente os trabalhos agrícolas (muito torque)."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#sistema-de-transmissão-5",
+    "href": "aula_5/aula_5.html#sistema-de-transmissão-5",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de transmissão",
+    "text": "Sistema de transmissão\n\nEssa importância do sistema se traduz em seu preço.\n\nTodo o sistema (transmissão, diferencial, eixos, freios, TDP, eixo de tração) corresponde a 25 a 30% do custo total do trator."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#sistema-de-transmissão-6",
+    "href": "aula_5/aula_5.html#sistema-de-transmissão-6",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de transmissão",
+    "text": "Sistema de transmissão\n\nConstituintes do sistema de transmissão:"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#embreagem-1",
+    "href": "aula_5/aula_5.html#embreagem-1",
+    "title": "Mecanização agrícola:",
+    "section": "Embreagem",
+    "text": "Embreagem\n\n\nA função da embreagem é conectar e desconectar o movimento do motor com o da caixa de câmbio.\n\n\nQuando o pedal da embreagem está em sua posição normal (solto), a embreagem transmite o movimento do motor à caixa de câmbio.\nQuando ocorre o acionamento do pedal, a embreagem deixa de transmitir o movimento."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#embreagem-2",
+    "href": "aula_5/aula_5.html#embreagem-2",
+    "title": "Mecanização agrícola:",
+    "section": "Embreagem",
+    "text": "Embreagem\n\nEmbreagem de disco único (simples):"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#embreagem-3",
+    "href": "aula_5/aula_5.html#embreagem-3",
+    "title": "Mecanização agrícola:",
+    "section": "Embreagem",
+    "text": "Embreagem\n\nEmbreagem de disco único (simples):\nFuncionamento"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#embreagem-4",
+    "href": "aula_5/aula_5.html#embreagem-4",
+    "title": "Mecanização agrícola:",
+    "section": "Embreagem",
+    "text": "Embreagem\n\nEmbreagem de disco único (simples):\nFuncionamento"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#embreagem-5",
+    "href": "aula_5/aula_5.html#embreagem-5",
+    "title": "Mecanização agrícola:",
+    "section": "Embreagem",
+    "text": "Embreagem\n\nEmbreagem de disco único (simples):\nFuncionamento"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#embreagem-6",
+    "href": "aula_5/aula_5.html#embreagem-6",
+    "title": "Mecanização agrícola:",
+    "section": "Embreagem",
+    "text": "Embreagem\n\nEmbreagem de disco único (simples):"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#embreagem-7",
+    "href": "aula_5/aula_5.html#embreagem-7",
+    "title": "Mecanização agrícola:",
+    "section": "Embreagem",
+    "text": "Embreagem\n\nEmbreagem de disco único (simples):\nFuncionamento\nA placa de pressão exerce força sobre o disco que é preso ao volante do motor. Isso permite a transferência de energia e do movimento de rotação para o sistema de transmissão.\n\nAo acionar o pedal, a placa de pressão libera a pressão sobre o disco, e este é desacoplado do volante.\n\n\nDisco simples refere-se à quantidade de discos de embreagem no sistema (1 disco).\n\nControle limitado da TDP. Não é possível interromper o movimento do trator sem desligar a TDP quando ambos estão em movimento."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#embreagem-8",
+    "href": "aula_5/aula_5.html#embreagem-8",
+    "title": "Mecanização agrícola:",
+    "section": "Embreagem",
+    "text": "Embreagem\n\nTipos de embreagem:\n\nDisco simples a seco: em tratores mais simples, o acionamento provoca a parada do avanço do trator quando há a parada da TDP;\nEmbreagem dupla a seco: contém dois conjuntos de discos de embreagem independentes. Possui dois estágios: o primeiro desconecta o motor da caixa de câmbio e o segundo, da TDP;\n\nPermite parar o movimento do trator sem parar a TDP, quando ambos estão em movimento."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#embreagem-9",
+    "href": "aula_5/aula_5.html#embreagem-9",
+    "title": "Mecanização agrícola:",
+    "section": "Embreagem",
+    "text": "Embreagem\n\nTipos de embreagem:\n\nIndependente de disco duplo a seco: dois conjuntos de discos separados. Possui dispositivos independentes do pedal da embreagem para ligar ou desligar o movimento do motor à TDP;\n\nAlavancas, teclas ou botões (apenas para a TDP);\nMais moderno;\n\nDiscos múltiplos: vários discos metálicos, que aumentam a superfície de atrito."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#embreagem-10",
+    "href": "aula_5/aula_5.html#embreagem-10",
+    "title": "Mecanização agrícola:",
+    "section": "Embreagem",
+    "text": "Embreagem\n\nDiscos duplos:\n\nAtares e Blanca 2005"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio-1",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio-1",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio",
+    "text": "Caixa de câmbio\n\nEm motores agrícolas, a potência na rotação é praticamente constante. Portanto, mesmo que a rotação seja alterada, a velocidade não mudará muito.\n\nA alteração da velocidade e do torque é realizada por meio de mudanças de marchas (relações de engrenagens).\n\n\nPara potência constante do motor, quando se aumenta o torque, tem-se a redução da velocidade, e vice-versa."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio-2",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio-2",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio",
+    "text": "Caixa de câmbio\n\nA principal função é facilitar a adequação da potência e do torque do trator à atividade realizada.\n\nPermitir a alteração do sentido do deslocamento do trator (frente e ré)."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio-3",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio-3",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio",
+    "text": "Caixa de câmbio\n\nTratores requerem muitas marchas.\n\nA entrega da potência máxima em velocidades de trabalho distintas requer marchas."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---transmissão-mecânica-1",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---transmissão-mecânica-1",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - transmissão mecânica",
+    "text": "Caixa de câmbio - transmissão mecânica"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---transmissão-mecânica-2",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---transmissão-mecânica-2",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - transmissão mecânica",
+    "text": "Caixa de câmbio - transmissão mecânica\n\nGrupos de marchas:\nCaixas redutoras, posicionadas antes da caixa de marchas geral.\n\nComposta por um par de engrenagens de mesmo tamanho, que não altera o torque e a rotação. Mais um par de engrenagens, com uma engrenagem motora menor e uma movida maior, propiciando menor velocidade e maior torque.\n\nChamada de marchas reduzidas.\n\n\n\nEx: um trator com opção reduzida multiplica por 2 o número de marchas. Se há 4 marchas normais, são 8 no total para frente, mais 2 para ré."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---transmissão-mecânica-3",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---transmissão-mecânica-3",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - transmissão mecânica",
+    "text": "Caixa de câmbio - transmissão mecânica\n\n\nAtares e Blanca 2005"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---transmissão-mecânica-4",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---transmissão-mecânica-4",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - transmissão mecânica",
+    "text": "Caixa de câmbio - transmissão mecânica\n\nCaixa reduzida:\n\nAtares e Blanca 2005"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---transmissão-mecânica-5",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---transmissão-mecânica-5",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - transmissão mecânica",
+    "text": "Caixa de câmbio - transmissão mecânica\n\nCaixa principal (1ª):\n\nAtares e Blanca 2005"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---transmissão-mecânica-6",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---transmissão-mecânica-6",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - transmissão mecânica",
+    "text": "Caixa de câmbio - transmissão mecânica\n\nCaixa principal (2ª):\n\nAtares e Blanca 2005"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---transmissão-mecânica-7",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---transmissão-mecânica-7",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - transmissão mecânica",
+    "text": "Caixa de câmbio - transmissão mecânica\n\nCaixa principal (3ª):\n\nAtares e Blanca 2005"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---transmissão-mecânica-8",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---transmissão-mecânica-8",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - transmissão mecânica",
+    "text": "Caixa de câmbio - transmissão mecânica\n\nCaixa principal (Ré):\n\nAtares e Blanca 2005"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---transmissão-mecânica-9",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---transmissão-mecânica-9",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - transmissão mecânica",
+    "text": "Caixa de câmbio - transmissão mecânica\n\nCaracterísticas:\nÉ conhecida como sistema de transmissão manual.\n\nTroca de marchas discreta, que ocorre em intervalos específicos;\nNa caixa de câmbio “seca” (deslizante), as trocas de marcha devem ocorrer com o trator parado;\n\nOu por habilidade do operador;\n\nAs engrenagens devem estar paradas ou sincronizadas;\nSistema mais simples;\nEngrenagens sujeitas a maior desgaste;"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio-4",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio-4",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio",
+    "text": "Caixa de câmbio\n\nEscalonamento de marchas:"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio-5",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio-5",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio",
+    "text": "Caixa de câmbio\n\nEscalonamento de marchas:"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio-6",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio-6",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio",
+    "text": "Caixa de câmbio\n\nEscalonamento de marchas:\nSe cada operação agrícola tem uma faixa de velocidade de trabalho, é o esforço exigido pelo equipamento acoplado que indica a marcha a ser utilizada.\n\nA escolha depende da rotação do motor e da marcha utilizada.\n\n\nQuanto maior o número de marchas, maior o escalonamento;\nMaiores são as possibilidades de se adequar a velocidade e o torque ao trabalho agrícola alvo;"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio-7",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio-7",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio",
+    "text": "Caixa de câmbio\n\nEscalonamento de marchas:\nPode ser entendido como uma escada, em que cada degrau representa uma marcha em diversas rotações do motor.\n\nCada degrau representa uma faixa de velocidade para determinada marcha.\n\n\nQue tipo de escalonamento se busca em um trator?"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---engrenamento-constante-1",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---engrenamento-constante-1",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - engrenamento constante",
+    "text": "Caixa de câmbio - engrenamento constante"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---engrenamento-constante-2",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---engrenamento-constante-2",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - engrenamento constante",
+    "text": "Caixa de câmbio - engrenamento constante\n\n\nAtares e Blanca 2005"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---engrenamento-constante-3",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---engrenamento-constante-3",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - engrenamento constante",
+    "text": "Caixa de câmbio - engrenamento constante\n\nTodas as engrenagens estão em contato permanente umas com as outras.\n\nGiram livremente nos eixos, mas precisam ser ativadas para transmitir potência;\nA mudança de marcha ocorre com o operador desembreando, selecionando a marcha e embreando novamente;\nTransmissão suave e silenciosa;\nMudanças rápidas;"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---engrenamento-constante-4",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---engrenamento-constante-4",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - engrenamento constante",
+    "text": "Caixa de câmbio - engrenamento constante\n\nCom sincronizador:\n\nAtares e Blanca 2005"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---engrenamento-constante-5",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---engrenamento-constante-5",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - engrenamento constante",
+    "text": "Caixa de câmbio - engrenamento constante\n\nCom sincronizador:\n\nOperam sob engrenamento constante;\nIncorporam sincronizadores, projetados para igualar as velocidades das engrenagens;\n\nFacilitar a troca e deixá-la mais suave;\n\nPermite a troca de marcha mesmo quando as velocidades de rotação das engrenagens e do eixo de transmissão não estão perfeitamente alinhadas;\nApenas um par de engrenagens é ativado a cada troca (as demais giram livremente);\nTroca de marcha sem necessidade de parar o trator;\nPotência temporariamente interrompida."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---powershift-1",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---powershift-1",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - powershift",
+    "text": "Caixa de câmbio - powershift\n\nCaracterísticas:\n\nTransmissão mecânica do tipo “transmissões sob carga”;\n\nCapacidade de realizar trocas de marcha sem interromper a transmissão de potência do motor para as rodas motrizes;\n\nAs marchas são trocadas por meio de embreagens multidiscos com controle hidráulico;\nTrocas rápidas e suaves, sem necessidade de usar a embreagem;\nEmbreagens acoplam e desacoplam as marchas;\nConjunto de engrenagens planetárias;\n\nEngrenagens satélites que giram em torno de uma engrenagem central (solar);\n\nEngrenagens de múltiplos estágios."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---powershift-2",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---powershift-2",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - powershift",
+    "text": "Caixa de câmbio - powershift\n\nCaracterísticas:\n\nDurante a troca de marchas, uma embreagem desengata a marcha atual e outra engata a marcha desejada. Não há interrupção do fluxo de energia."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---powershift-3",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---powershift-3",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - powershift",
+    "text": "Caixa de câmbio - powershift\n\nEngrenagem planetária:"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---powershift-4",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---powershift-4",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - powershift",
+    "text": "Caixa de câmbio - powershift\n\nEngrenagem planetária - ex:\n\n\n\nEngrenagem sol (sun gear): 18 dentes (teeth);\nEngrenagem anel (ring gear): 43 dentes;\nSistema planetário (planetary carrier): 61 dentes (18 + 43)."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---powershift-5",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---powershift-5",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - powershift",
+    "text": "Caixa de câmbio - powershift\n\nEngrenagem planetária - redução máxima de velocidade:\n\n\nPara obter a máxima redução de velocidade em um conjunto de engrenagens planetárias simples, a engrenagem solar deve ser o elemento de entrada, e a engrenagem anel deve ser o elemento fixo ou travado. Isso torna automaticamente o porta-satélites o elemento de saída. Isso produz o aumento máximo de torque e faz com que o porta-satélites gire no mesmo sentido que a engrenagem solar."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---powershift-6",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---powershift-6",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - powershift",
+    "text": "Caixa de câmbio - powershift\n\nEngrenagem planetária - redução máxima de velocidade:\n\n\n\nEngrenagem sol (sun gear): 18 dentes (teeth);\nEngrenagem anel (ring gear): 43 dentes;\nSistema planetário (planetary carrier): 61 dentes (18 + 43).\n\n\n\\[Relação= \\frac{61}{18}= 3.388889:1\\]"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---powershift-7",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---powershift-7",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - powershift",
+    "text": "Caixa de câmbio - powershift\n\nEngrenagem planetária - redução mínima de velocidade:\n\n\nO porta-satélites planetário continua sendo a saída. A engrenagem solar passa a ser o elemento estacionário, enquanto a coroa passa a ser a entrada. O sentido de rotação é o mesmo da entrada, com uma redução de transmissão mínima. Essa é a segunda menor relação de transmissão que pode ser obtida em um conjunto de engrenagens planetárias simples, proporcionando aumento de torque."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---powershift-8",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---powershift-8",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - powershift",
+    "text": "Caixa de câmbio - powershift\n\nEngrenagem planetária - redução mínima de velocidade:\n\n\n\nEngrenagem sol (sun gear): 18 dentes (teeth);\nEngrenagem anel (ring gear): 43 dentes;\nSistema planetário (planetary carrier): 61 dentes (18 + 43).\n\n\n\\[Relação= \\frac{61}{43}= 1.418605:1\\]"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---powershift-9",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---powershift-9",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - powershift",
+    "text": "Caixa de câmbio - powershift\n\nEngrenagem planetária - velocidade máxima:\n\n\nA engrenagem com o maior número de dentes deve ser utilizada como entrada. O porta-satélites é sempre o componente com o maior número de dentes. Portanto, deve ser utilizado como elemento de entrada (sobremarcha = overdrive). Dependendo de qual elemento permanece travado, a engrenagem solar ou a coroa proporcionará uma maior relação de sobremarcha."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---powershift-10",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---powershift-10",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - powershift",
+    "text": "Caixa de câmbio - powershift\n\nEngrenagem planetária - velocidade máxima:\n\n\n\nEngrenagem sol (sun gear): 18 dentes (teeth);\nEngrenagem anel (ring gear): 43 dentes;\nSistema planetário (planetary carrier): 61 dentes (18 + 43).\n\n\n\\[Relação= \\frac{18}{61}= 0.295082:1\\]"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---powershift-11",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---powershift-11",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - powershift",
+    "text": "Caixa de câmbio - powershift\n\nOperações do sistema de engrenagens planetárias:\n\n\n\n\n\n\n\n\n\nName\nNome\nCaracterística\n\n\n\n\nMaximum Speed Reduction\nRedução máxima de velocidade\nMaior redução e maior aumento de torque\n\n\nMinimum Speed Reduction\nRedução mínima de velocidade\nMenor redução e aumento de torque\n\n\nMaximum Speed Increase\nAumento máximo de velocidade\nMaior sobremarcha (overdrive)\n\n\nMinimum Speed Increase\nAumento mínimo de velocidade\nMenor sobremarcha\n\n\nSpeed Reduction – Reverse Direction\nRedução de velocidade – sentido inverso\nRedução com inversão do sentido\n\n\nSpeed Increase – Reverse Direction\nAumento de velocidade – sentido inverso\nAumento de velocidade com inversão do sentido\n\n\nDirect Drive\nTransmissão direta (1:1)\nEntrada e saída na mesma velocidade\n\n\nNeutral Condition\nCondição de neutro\nNão há transmissão de movimento"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---powershift-12",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---powershift-12",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - powershift",
+    "text": "Caixa de câmbio - powershift\n\nLeis de operação da engrenagem planetária simples:\n\n\n\n\n\n\n\n\n\n\n\n\nEngrenagem solar\nPorta-satélites\nCoroa\nVelocidade\nTorque\nSentido de rotação\n\n\n\n\n1. Entrada\nSaída\nTravada\nRedução máxima\nAumento\nIgual à entrada\n\n\n2. Travada\nSaída\nEntrada\nRedução mínima\nAumento\nIgual à entrada\n\n\n3. Saída\nEntrada\nTravada\nAumento máximo\nRedução\nIgual à entrada\n\n\n4. Travada\nEntrada\nSaída\nAumento mínimo\nRedução\nIgual à entrada\n\n\n5. Entrada\nTravada\nSaída\nRedução\nAumento\nInverso ao da entrada\n\n\n6. Saída\nTravada\nEntrada\nAumento\nRedução\nInverso ao da entrada\n\n\n\nQuando dois elementos são mantidos juntos, a velocidade e o sentido de rotação são iguais aos da entrada, resultando em uma transmissão direta (1:1).\nQuando nenhum elemento é mantido ou travado, não é possível transmitir movimento para a saída, resultando em uma condição de neutro."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---powershift-13",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---powershift-13",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - powershift",
+    "text": "Caixa de câmbio - powershift\n\nSistema de engrenagens planetárias:"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---powershift-14",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---powershift-14",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - powershift",
+    "text": "Caixa de câmbio - powershift"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---powershift-15",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---powershift-15",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - powershift",
+    "text": "Caixa de câmbio - powershift"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio-8",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio-8",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio",
+    "text": "Caixa de câmbio\n\nGrupos de marchas:\n\nUma melhoria da marcha reduzida foi a caixa com diferentes relações (gamas).\n\n\nPermite 3 ou 4 relações de transmissão em vez de apenas duas;\nIndicadas como: L (low), M (medium), H (high), R (reverse);\nTambém indicadas por: A, B, C, D e R;\nAtualmente, os tratores podem contar com 24, 36 e até 48 marchas.\n\n\nEx: para um trator possuir 20 marchas para frente, basta ter duas caixas, uma com 5 velocidades (1ª até 5ª) e outra com 4 grupos (A, B, C e D)."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio-9",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio-9",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio",
+    "text": "Caixa de câmbio\n\n\nInversor:\nPossibilita inverter o sentido do curso simplesmente atuando em uma alavanca (inverte o sentido de todas as marchas).\n\n\nSuper redutor:\nLocalizado na frente da caixa de marchas, utiliza pares de engrenagens com grandes reduções, permitindo velocidades baixíssimas. Específico para algumas culturas (ex: café)."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio-10",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio-10",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio",
+    "text": "Caixa de câmbio\n\nGrupos de marchas:"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---hidrostático-1",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---hidrostático-1",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - hidrostático",
+    "text": "Caixa de câmbio - hidrostático\n\nUtiliza uma bomba e um motor para controlar a velocidade e a direção do trator por meio do fluxo de óleo. Opções mais suaves de troca de velocidade.\n\nConverte energia mecânica em energia hidráulica (pressão de óleo) e novamente em energia mecânica."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---hidrostático-2",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---hidrostático-2",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - hidrostático",
+    "text": "Caixa de câmbio - hidrostático"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---hidrostático-3",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---hidrostático-3",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - hidrostático",
+    "text": "Caixa de câmbio - hidrostático\n\nQuando a alavanca distribuidora não é acionada, o óleo chega ao distribuidor e retorna ao tanque através do filtro magnético.\n\nQuando a alavanca é puxada, o óleo chega ao distribuidor e sai dele em alta pressão, indo em direção a uma das entradas do motor hidrostático reversível, fazendo com que ele gire em uma direção.\n\n\nO óleo não pressurizado sai do motor, chega novamente ao distribuidor e, através do filtro magnético, chega ao tanque."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---cvt-1",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---cvt-1",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - CVT",
+    "text": "Caixa de câmbio - CVT\n\nTransmissão continuamente variável\n\nPermite variabilidade “infinita” entre as relações de transmissão dentro de uma faixa específica.\n\n\nA transmissão CVT varia continuamente a relação de transmissão (com sensores, polias e correias ou acionamento hidrostático)."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---cvt-2",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---cvt-2",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - CVT",
+    "text": "Caixa de câmbio - CVT\n\nÉ construída por duas polias, uma conectada ao virabrequim e outra ao restante do sistema. Também usa um conjunto de engrenagens planetário."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---cvt-3",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---cvt-3",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - CVT",
+    "text": "Caixa de câmbio - CVT"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio---cvt-4",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio---cvt-4",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio - CVT",
+    "text": "Caixa de câmbio - CVT"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#caixa-de-câmbio-11",
+    "href": "aula_5/aula_5.html#caixa-de-câmbio-11",
+    "title": "Mecanização agrícola:",
+    "section": "Caixa de câmbio",
+    "text": "Caixa de câmbio\n\nConsumo de combustível powershift vs. CVT"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#eixo-traseiro-1",
+    "href": "aula_5/aula_5.html#eixo-traseiro-1",
+    "title": "Mecanização agrícola:",
+    "section": "Eixo traseiro",
+    "text": "Eixo traseiro"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#eixo-traseiro-2",
+    "href": "aula_5/aula_5.html#eixo-traseiro-2",
+    "title": "Mecanização agrícola:",
+    "section": "Eixo traseiro",
+    "text": "Eixo traseiro\n\nÉ responsável por conectar as rodas traseiras, transmitindo a potência do motor para as rodas.\n\nElementos:\n\nCarcaça: estrutura que abriga os componentes internos do eixo traseiro e fornece suporte e proteção.\nDiferencial: permite movimento independente entre as rodas traseiras;\nSemieixos: transmitem a potência do motor para as rodas traseiras, estando conectados ao diferencial;\nRedução final: ajusta a velocidade de rotação das rodas, reduzindo-a e ampliando o torque;\nFreios: às vezes integrados ao eixo traseiro, permitem a parada ou desaceleração."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#diferencial-1",
+    "href": "aula_5/aula_5.html#diferencial-1",
+    "title": "Mecanização agrícola:",
+    "section": "Diferencial",
+    "text": "Diferencial"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#diferencial-2",
+    "href": "aula_5/aula_5.html#diferencial-2",
+    "title": "Mecanização agrícola:",
+    "section": "Diferencial",
+    "text": "Diferencial\n\n\n\nQual a diferença de giro entre os pneus?"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#diferencial-3",
+    "href": "aula_5/aula_5.html#diferencial-3",
+    "title": "Mecanização agrícola:",
+    "section": "Diferencial",
+    "text": "Diferencial\n\nFunção:\n\nPermitir diferentes velocidades de rotação para cada uma das rodas;\n\nFacilitando as manobras;\n\nAlterar o ângulo de rotação em 90º do motor para as rodas;\nAumentar o torque nas rodas motrizes do trator;\n\nRelação de 4 ou 5 para 1."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#diferencial-4",
+    "href": "aula_5/aula_5.html#diferencial-4",
+    "title": "Mecanização agrícola:",
+    "section": "Diferencial",
+    "text": "Diferencial\n\nElementos:\n\nPinhão: engrenagem ligada ao eixo secundário da caixa de câmbio e engrenada à coroa.\n\nRecebe o movimento vindo da caixa de câmbio e o transfere para a coroa, alterando o sentido do movimento em 90°;\n\nCoroa: engrenagem de maior tamanho no diferencial. Ligada à caixa de satélites.\n\nRecebe o movimento do pinhão, altera o movimento e proporciona aumento do torque para as rodas motrizes;"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#diferencial-5",
+    "href": "aula_5/aula_5.html#diferencial-5",
+    "title": "Mecanização agrícola:",
+    "section": "Diferencial",
+    "text": "Diferencial\n\nElementos:\n\nSatélites: de 2 a 4, localizados dentro de uma caixa e com seus eixos presos a ela;\nPlanetárias: 2, responsáveis por transmitir o movimento às rodas motrizes direita e esquerda. São conectadas aos satélites.\n\nEixos de rotação perpendiculares aos dos satélites."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#diferencial-6",
+    "href": "aula_5/aula_5.html#diferencial-6",
+    "title": "Mecanização agrícola:",
+    "section": "Diferencial",
+    "text": "Diferencial\n\nFuncionamento:"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#diferencial-7",
+    "href": "aula_5/aula_5.html#diferencial-7",
+    "title": "Mecanização agrícola:",
+    "section": "Diferencial",
+    "text": "Diferencial\n\nFuncionamento:\n\n\nVideo"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#diferencial-8",
+    "href": "aula_5/aula_5.html#diferencial-8",
+    "title": "Mecanização agrícola:",
+    "section": "Diferencial",
+    "text": "Diferencial\n\naoqueio:\nEm algumas situações, é desejável que o diferencial não permita que as rodas tenham compensação de movimento.\n\nEx: aração, quando o trator trafega com as rodas de um lado sobre o solo arado e as do outro lado sobre o solo firme.\n\nMaior patinação no lado arado;\nPrejudica a eficiência de tração;\n\n\n\nO bloqueio do diferencial tem a função de travar o giro independente entre os rodados."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#diferencial-9",
+    "href": "aula_5/aula_5.html#diferencial-9",
+    "title": "Mecanização agrícola:",
+    "section": "Diferencial",
+    "text": "Diferencial\n\nBloqueio:\n\nO bloqueio deve ser utilizado apenas em deslocamento em linha reta.\n\n\nTipos de bloqueio:\n\nBloqueio mecânico: mais simples, utiliza mecanismos físicos para conectar as duas rodas;\n\nEngrenagens ou discos de fricção;\nRobusto e confiável;\nMenos suave."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#diferencial-10",
+    "href": "aula_5/aula_5.html#diferencial-10",
+    "title": "Mecanização agrícola:",
+    "section": "Diferencial",
+    "text": "Diferencial\n\nBloqueio:\nTipos de bloqueio:\n\nBloqueio hidráulico: utiliza fluido hidráulico para transferir potência entre as rodas;\n\nEmbreagens hidráulicas que conectam as duas rodas;\nMais suave;\n\nBloqueio eletrônico: controle via interruptor com acionadores elétricos;\nBloqueio automático: diferencial autoblocante. Distribui de forma automática a potência entre as rodas a depender da aderência;\n\nEnvia mais potência para a roda com maior aderência (dispensa bloqueio manual)."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#diferencial-11",
+    "href": "aula_5/aula_5.html#diferencial-11",
+    "title": "Mecanização agrícola:",
+    "section": "Diferencial",
+    "text": "Diferencial"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#diferencial-12",
+    "href": "aula_5/aula_5.html#diferencial-12",
+    "title": "Mecanização agrícola:",
+    "section": "Diferencial",
+    "text": "Diferencial\n\n\n \n\n Differential Gears Animation  by  Padpilot  on Sketchfab"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#redução-final-1",
+    "href": "aula_5/aula_5.html#redução-final-1",
+    "title": "Mecanização agrícola:",
+    "section": "Redução final",
+    "text": "Redução final"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#redução-final-2",
+    "href": "aula_5/aula_5.html#redução-final-2",
+    "title": "Mecanização agrícola:",
+    "section": "Redução final",
+    "text": "Redução final\n\nFunção:\n\nSistema de engrenagens na saída dos semieixos, próximo às rodas.\n\n\nFinalidade de reduzir (ainda mais) o movimento que vem do diferencial;\nAmpliação do torque;\nRedução da velocidade."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#redução-final-3",
+    "href": "aula_5/aula_5.html#redução-final-3",
+    "title": "Mecanização agrícola:",
+    "section": "Redução final",
+    "text": "Redução final\n\nFunção:\nRedução de 5:1, ou seja, aumento do torque em 5 vezes.\n\nRedução final somada ao diferencial leva a uma “redução” de 20 a 30:1.\n\n\nA redução final pode ser composta por um sistema de engrenagens do tipo planetário."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#redução-final-4",
+    "href": "aula_5/aula_5.html#redução-final-4",
+    "title": "Mecanização agrícola:",
+    "section": "Redução final",
+    "text": "Redução final"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#relações-fundamentais-1",
+    "href": "aula_5/aula_5.html#relações-fundamentais-1",
+    "title": "Mecanização agrícola:",
+    "section": "Relações fundamentais",
+    "text": "Relações fundamentais\n\n\\[\\tau_m * n_m * E_t= \\tau_r*n_r \\approx constante \\]\nO \\(\\tau_m\\) é o torque do motor; O \\(n_m\\) é a rotação do motor; \\(E_t\\) é a eficiência de transmissão; \\(\\tau_t\\) é torque do rodado; \\(n_r\\) é a rotação do rodado;\n\ntorque por rotação é a potência do motor.\n\n\nEficiência de transmissão\n\\[E_t = \\frac{P_r}{P_m}\\]\n\\(P_r\\) potência final (rodado); \\(P_m\\) potência de entrada (motor);"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#relações-fundamentais-2",
+    "href": "aula_5/aula_5.html#relações-fundamentais-2",
+    "title": "Mecanização agrícola:",
+    "section": "Relações fundamentais",
+    "text": "Relações fundamentais\n\n\\[P_b=F*V=E_r*P_r\\]\n\\(P_b\\) é a potência na barra de tração; \\(F\\) é a força; \\(V\\) é a velocidade; \\(E_r\\) é a eficiência do rodado; \\(P_r\\) é a poténcia do rodado;\n\n\\[E_r=\\frac{P_b}{P_r}\\]\n\\(E_r\\) é a eficiência de tração; \\(P_b\\) é a potência na barra; \\(P_r\\) é a potência no radado;\n\n\n\\[P_b = P_m * E_t * E_r\\]"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#relações-fundamentais-3",
+    "href": "aula_5/aula_5.html#relações-fundamentais-3",
+    "title": "Mecanização agrícola:",
+    "section": "Relações fundamentais",
+    "text": "Relações fundamentais\n\nRendimento tratório\n\\[\\eta= \\frac{P_b}{P_m}\\]\n\nQuanto da potência do motor foi para a barra, após “negociação” com o solo."
+  },
+  {
+    "objectID": "aula_5/aula_5.html#exemplos-1",
+    "href": "aula_5/aula_5.html#exemplos-1",
+    "title": "Mecanização agrícola:",
+    "section": "Exemplos",
+    "text": "Exemplos\n\n\n\nDados:\n\n\nRotação do motor: 1950 rpm;\ntorque do motor: 200 Nm;\nRelação de transmissão da 4ª marcha: 2,1:1;\nRelação de transmissão do diferencial: 6:1;\nRelação na redução final: 3,95:1;\nDiâmetro dos pneus traseiros: 1100 mm;\nEficiência de transmissão: 97%;\n\nCada conjunto: caixa, diferencial, redução final.\n\nRendimento tratório: 70%.\n\n\n\n\nPergunta:\n\nQual a velocidade?\nQual o torque do rodado?\nQual a potência no rodado?\nQual a potência na barra de tração?"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#exemplos-2",
+    "href": "aula_5/aula_5.html#exemplos-2",
+    "title": "Mecanização agrícola:",
+    "section": "Exemplos",
+    "text": "Exemplos\n\nVelocidade:\n\\[i= 2,1*6*3.95= 49,77\\]\n\n\\[velocidade = \\frac{1950}{49,77}=39,18~rpm~(0,653rps)\\]\n\n\n\\[Perímetro_{roda}= 1,1~m*\\pi= 3,456~m\\]\n\n\n\\[V=0,653~rps*3,456~m= 2,26m/s\\]"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#exemplos-3",
+    "href": "aula_5/aula_5.html#exemplos-3",
+    "title": "Mecanização agrícola:",
+    "section": "Exemplos",
+    "text": "Exemplos\n\nTorque do rodado:\n\nEficiência de transmissão para cada conjunsto (Et3)\n\\[E_t= 0,97^3=0,913\\]\n\n\nEficiência de transmissão para cada conjunsto (Et3)\n\\[\\tau_r= \\frac{200~Nm*39,18~rpm*0,97^3}{39,18}=9087,7~Nm\\]"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#exemplos-4",
+    "href": "aula_5/aula_5.html#exemplos-4",
+    "title": "Mecanização agrícola:",
+    "section": "Exemplos",
+    "text": "Exemplos\n\nPotência do rodado:\n\n\\[P_r= \\frac{2*\\pi * 39,18~rpm * 9084,7~Nm}{60}= 37273,8~W~ou~37,27kW\\]"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#exemplos-5",
+    "href": "aula_5/aula_5.html#exemplos-5",
+    "title": "Mecanização agrícola:",
+    "section": "Exemplos",
+    "text": "Exemplos\n\nPotência na barra de tração:\n\n\\[n_m= \\frac{1950}{60}=32,5~rps\\]\n\n\n\\[P_m= 2*\\pi*32,5~rps*200~Nm= 40,48~kW\\]\n\n\n\\[P_b= 0,70*40,48~kW=28,59~kW\\]"
+  },
+  {
+    "objectID": "aula_5/aula_5.html#próxima-aula-1",
+    "href": "aula_5/aula_5.html#próxima-aula-1",
+    "title": "Mecanização agrícola:",
+    "section": "Próxima aula…",
+    "text": "Próxima aula…\nRodados, pneus, bitola e lastro!"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistemas-complementares-1",
+    "href": "aula_3/aula_3.html#sistemas-complementares-1",
+    "title": "Mecanização agrícola:",
+    "section": "Sistemas complementares",
+    "text": "Sistemas complementares\n\n\nSistema de alimentação;\nSistema de arrefecimento;\nSistema de lubrificação;\nSistema de partida;\nSistema de exaustão;   \nCombustíveis;\nLubrificantes."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nConjunto de mecanismos com a função de alimentar o motor com a quantidade adequada de ar e de combustível.\n\nDois circuitos:\n\nAlimentação de ar;\nAlimentação de combustível (Diesel)."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-1",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-1",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\n\n\n\n\n\n\n\n\n\nOBJ-&gt;ar\n\n\n\n\n\nOBJ-&gt;comb\n\n\n\n\n\nar-&gt;A1\n\n\n\n\n\ncomb-&gt;C1\n\n\n\n\n\nA1-&gt;A2\n\n\n\n\n\nA2-&gt;A3\n\n\n\n\n\nA3-&gt;A4\n\n\n\n\n\nA4-&gt;A5\n\n\n\n\n\nA5-&gt;A6\n\n\n\n\n\nA6-&gt;M\n\n\n\n\n\nC1-&gt;C2\n\n\n\n\n\nC2-&gt;C3\n\n\n\n\n\nC3-&gt;C4\n\n\n\n\n\nC4-&gt;C5\n\n\n\n\n\nC5-&gt;C6\n\n\n\n\n\nC6-&gt;M\n\n\n\n\n\nM-&gt;E1\n\n\n\n\n\nE1-&gt;E2\n\n\n\n\n\nE2-&gt;E3\n\n\n\n\n\nOBJ\n\nSuprimento de ar e combustível\nao motor\n\n\n\nar\n\nAR\n\n\n\ncomb\n\nCOMBUSTÍVEL\n\n\n\nA1\n\nPré-filtro\n\n\n\nA2\n\nFiltro primário\n\n\n\nA3\n\nFiltro secundário\n\n\n\nA4\n\nTurbina\n(Turbocharger)\n\n\n\nA5\n\nResfriador\n(Intercooler)\n\n\n\nA6\n\nColetor de admissão\n\n\n\nC1\n\nTanque\n\n\n\nC2\n\nCopo de sedimentação\n\n\n\nC3\n\nBomba alimentadora\n\n\n\nC4\n\nFiltro de combustível\n\n\n\nC5\n\nBomba injetora\n\n\n\nC6\n\nBico injetor\n\n\n\nM\n\nCilindro\ndo motor\n\n\n\nE1\n\nColetor de descarga\n\n\n\nE2\n\nAbafador\n\n\n\nE3\n\nResíduos da combustão"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-2",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-2",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de ar:\nÉ o circuito que distribui o ar para o motor. Ar limpo e livre de impurezas.\n\nFuncionamento em 3 etapas:\n\nAdmissão;\nFiltragem;\nExaustão."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-3",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-3",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nTipos de filtro:\n\nPré-filtro: Responsável por reter partículas maiores por meio de centrifugação."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-4",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-4",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nTipos de filtro:\n\nPré-filtro: Responsável por reter partículas maiores por meio de centrifugação."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-5",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-5",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nTipos de filtro:\n\nBanho de óleo: O ar entra em contato com uma cuba de óleo, onde as partículas menores são retidas."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-6",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-6",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nTipos de filtro:\n\nFiltro de cartucho: O filtro primário é de papel e o secundário de feltro. Retêm quase a totalidade das partículas sólidas em suspensão."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-7",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-7",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nAspiração natural:\n\nMotor de aspiração natural trabalha com a pressão atmosférica para preencher os cilindros de ar;\nTempo de abertura da válvula de alimentação é menor;\nLimitação da potência do motor."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-8",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-8",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nSobrealimentação:\n\nAumento da entrada de ar no motor;\nMaior preenchimento de ar dentro do cilindro;\nAumento da capacidade de geração de potência do motor;\nNão utiliza rotações altas;\nAumenta o calor;\n\nDesgaste dos componentes;\n\nAumenta o volume de ar no cilindro;\n\nPermite injeção de mais combustível;\nAumento da potência e torque (30%)."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-9",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-9",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nSobrealimentação:\n\n\nA saída dos gases resultantes da queima do combustível, acionam uma turbina, enquanto os gases excedentes não utilizados neste acionamento são expulsos por uma válvula de alívio. Ao girar, a turbina movimenta o compressor que aspira o ar ambiente, comprimindo-o no motor, fazendo-o passar pelo radiador para resfriá-lo e, posteriormente ao cilindro (ciclo Diesel)."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-10",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-10",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nIntercooler:\n\nSistema de troca de calor;\n\nAr-ar (mais comum);\nAr-água;\n\nReduz a temperatura do ar enviado aos cilindros;\nAr com temperatura ~200ºC;\nAr frio… volume menor, mais concentração dentro do cilindro.\n\nMais potência.\n\n\n\nTransformação isobárica – Lei de Charles aumento da temperatura aumenta o volume em pressão constante"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-11",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-11",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nSobrealimentação:"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-12",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-12",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nSobrealimentação:"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-13",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-13",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:\nÉ o circuito que tem a função de pulverizar o combustível na câmara de combustão em partículas finas.\n\nTanque;\nCopo sedimentador;\nBomba alimentadora;\nFiltros de combustível;\nBomba injetora;\nBicos injetores;\nDutos de alta e baixa pressão e retorno."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-14",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-14",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-15",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-15",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:\n\n\n\n\n1 - Tanque de Combustível;\n2 - Bomba de Combustível;\n3 - Linha de Combustível;\n4 - Filtro de Combustível;\n5 - Bomba de Alta Pressão;\n6 - Regulador de Pressão;\n7 - Common Rail;\n8 - Sensor de Pressão;\n9 - Linha de Alta Pressão;\n10 - Injetores;\n11 - Linha de Retorno;\n12 - Reservatório de Retorno de combustível."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-16",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-16",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:\n\nTanque de combustível: Depósito para armazenamento de combustível durante os períodos de operação;\n\nFabricado de polietileno;\nDeve ter autonomia de uma jornada de trabalho;\n\nCopo sedimentador: Função de decantar a água;\n\nÉ o componente que permite drenar a água;\nSistema modernos não apresentam copo de sedimentação."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-17",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-17",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:\n\nBomba alimentadora: Tem a função de retirar o óleo Diesel do tanque e colocar pressão para que o combustível passe pelos filtros e atinja a bomba injetora;\n\nPermite a realização da sangria do combustível (processo de remover o ar das mangueiras após a troca de filtro ou por demais fatores).\nEquipamentos modernos é de funcionamento elétrico;\n\nFiltros: têm a função de reter as partículas de impurezas presentes no combustível."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-18",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-18",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:\nCuidado com abastecimento:\n\nÉ recomendado realizar o abastecimento do tanque de combustível após a jornada de trabalho (à noite). Isso evita a formação de gotículas de água que podem danificar o motor.\n\n\n\nOutro fator que favorece o abastecimento durante a noite é que realizar o abastecimento pela manhã, antes da jornada de trabalho, pode provocar a movimentação dos sedimentos acumulados no fundo do tanque, o que pode danificar o sistema de filtragem."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-19",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-19",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-20",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-20",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-21",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-21",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:\n\nBomba injetora: Localizada entre os filtros de combustível e os bicos injetores, tem por função gerar uma vazão de combustível sob pressão, comprimindo o combustível até os bicos injetores;\n\nAlta pressão é necessária para atomizar o combustível.\nBombas rotativas, pistão e eletrônica.\n\nA injeção eletrônica: Sistema de controle de combustível de alta eficiência e de baixa emissão (dosagem precisa).\n\n\nNa bomba rotativa a lubrificação é feita pelo próprio óleo Diesel, enquanto nas bombas de pistão, o óleo lubrificante do motor é quem promove a lubrificação, ou então, o próprio óleo do reservatório da bomba é quem faz a lubrificação."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-22",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-22",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-23",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-23",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:\n\nBicos injetores: São responsáveis por injetar o combustível de forma atomizada na câmara de combustão;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\npressão de injeção 1300 - 2000 atm"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-24",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-24",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-25",
+    "href": "aula_3/aula_3.html#sistema-de-alimentação-25",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de alimentação",
+    "text": "Sistema de alimentação"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-arrefecimento-1",
+    "href": "aula_3/aula_3.html#sistema-de-arrefecimento-1",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de arrefecimento",
+    "text": "Sistema de arrefecimento\n\nA conversão da energia química do combustível para energia térmica depende de um ambiente com uma variação controlada de temperatura.\n\nO sistema de arrefecimento é o responsável por manter adequada a temperatura interna do motor e promover maior eficiência.\n\n\nApenas 25 a 35% da energia é convertida em trabalho.\n65 a 75% é perdido na forma de calor.\n\nEsse calor é transferido ao meio externo (ambiente) pelo sistema de arrefecimento;\n\nPodem ser do tipo: ar, água ou ar e água;\n\nMotores agrícolas usam sistema de arrefecimento por água.\nSuperaquecimento só ocorrerá se faltar água."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-arrefecimento-2",
+    "href": "aula_3/aula_3.html#sistema-de-arrefecimento-2",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de arrefecimento",
+    "text": "Sistema de arrefecimento"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-arrefecimento-3",
+    "href": "aula_3/aula_3.html#sistema-de-arrefecimento-3",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de arrefecimento",
+    "text": "Sistema de arrefecimento\n\nArrefecimento a água é controlado por meio da válvula termostática.\n\nBloqueia a passagem do líquido de arrefecimento, do motor para o radiador, quando o motor estiver abaixo da temperatura de trabalho;\nQuando a temperatura ultrapassa a temperatura de trabalho, a válvula se abre e permite a passagem de líquido para o radiador."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-arrefecimento-4",
+    "href": "aula_3/aula_3.html#sistema-de-arrefecimento-4",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de arrefecimento",
+    "text": "Sistema de arrefecimento\n\nRadiador\nFunção de trocar calor com o ambiente"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-arrefecimento-5",
+    "href": "aula_3/aula_3.html#sistema-de-arrefecimento-5",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de arrefecimento",
+    "text": "Sistema de arrefecimento"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-arrefecimento-6",
+    "href": "aula_3/aula_3.html#sistema-de-arrefecimento-6",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de arrefecimento",
+    "text": "Sistema de arrefecimento"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-lubrificação-1",
+    "href": "aula_3/aula_3.html#sistema-de-lubrificação-1",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de lubrificação",
+    "text": "Sistema de lubrificação\n\nOs movimentos relativos de peças do motor geram atrito e provocam aquecimento e desgaste do motor. A lubrificação é a interposição de substâncias oleosas entre as superfícies que estão em contato.\n\nReduz o aquecimento e o desgaste dos componentes;\nPelícula oleosa entre peças."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-lubrificação-2",
+    "href": "aula_3/aula_3.html#sistema-de-lubrificação-2",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de lubrificação",
+    "text": "Sistema de lubrificação\n\nFunções básicas:\n\n\n\nPermitir a formação de uma película de óleo lubrificante na interface de contato entre as superfícies móveis.\n\nReduzir atrito;\nMinimizar perda de energia mecânica;\nMinimizar desgaste;\nTornar suave o movimento do motor.\n\n\n\n\nPermitir a circulação ininterrupta de óleo lubrificante nos pontos que exigem;\n\nManutenção da temperatura;\n\nLimpeza dos pontos de lubrificação;\n\nRemoção de resíduos da combustão;\n\nVedação do espaço entre a parede do cilindro e os anéis do pistão;\nAmortecer choques (ruídos);"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-lubrificação-3",
+    "href": "aula_3/aula_3.html#sistema-de-lubrificação-3",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de lubrificação",
+    "text": "Sistema de lubrificação\n\nCircuito de lubrificação:\n\n\nA árvore de manivelas possui orifícios que transportam o óleo aos mancais das bielas e aos eixos fixos. Na biela, um pequeno orifício coincidente com um furo presente na árvore de manivelas, faz com que o óleo seja esguichado para as paredes do cilindro. Como a bomba recebe acionamento do eixo de distribuição, quando aumenta a rotação do motor, a pressão também aumenta. Há um limite operacional e, por isso, existe a válvula de alívio para controlar a pressão, a qual é indicada por um manômetro."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-lubrificação-4",
+    "href": "aula_3/aula_3.html#sistema-de-lubrificação-4",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de lubrificação",
+    "text": "Sistema de lubrificação\n\nSistema sob pressão:\n\nCárter: reservatório armazenador do óleo lubrificante;\n\nLocal onde há a bomba de óleo;\n\nBomba de óleo: responsável por distribuir o óleo armazenado no cárter para os componentes internos do motor;\nVálvula reguladora de pressão: próxima à saída da bomba, mantém constante a pressão, vazão uniforme;\nFiltros: retém as impurezas do óleo lubrificante;\nManômetros: indicador da pressão do óleo, por meio da medição da resistência que o óleo encontra ao ser forçado a passar pelo sistema."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-lubrificação-5",
+    "href": "aula_3/aula_3.html#sistema-de-lubrificação-5",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de lubrificação",
+    "text": "Sistema de lubrificação"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-lubrificação-6",
+    "href": "aula_3/aula_3.html#sistema-de-lubrificação-6",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de lubrificação",
+    "text": "Sistema de lubrificação\n\n\nCuide do nível do óleo!"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-partida-1",
+    "href": "aula_3/aula_3.html#sistema-de-partida-1",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de partida",
+    "text": "Sistema de partida\n\nSistema responsável pelas primeiras explosões e movimentação do motor.\n\nPrimeira energia fornecida ao motor."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-partida-2",
+    "href": "aula_3/aula_3.html#sistema-de-partida-2",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de partida",
+    "text": "Sistema de partida\n\nPode ser manual, com motores a gasolina, com gasolina ou elétrico\n\nManual é encontrado em motores Diesel monocilíndricos;\n\nManual por manivela: O motor é iniciado girando a árvore de manivelas até rotação suficiente;\nManual por corda: O acionamento se dá pelo puxar de uma corda (ex: motosserras) enrolada no volante;\n\nCom motores a gasolina: Sistema de acionamento é composto por um motor a gasolina (manual) que transmite a energia ao motor a Diesel via engrenagens;"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-partida-3",
+    "href": "aula_3/aula_3.html#sistema-de-partida-3",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de partida",
+    "text": "Sistema de partida\n\n\nCom gasolina: Válvula de arranque, é câmara auxiliar com vela de ignição (válvula reduz a razão de compressão e motor funciona como um ciclo Otto e depois se altera para ciclo Diesel);\nElétrico: É um sistema mais complexo com motor de partida (motor de arranque)."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-partida-4",
+    "href": "aula_3/aula_3.html#sistema-de-partida-4",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de partida",
+    "text": "Sistema de partida"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-partida-5",
+    "href": "aula_3/aula_3.html#sistema-de-partida-5",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de partida",
+    "text": "Sistema de partida\n\nA energia da bateria é transferida após o giro da chave de ignição. Um motor elétrico, denominado motor de arranque, é acionado e conectado ao volante do motor. Essa conexão é realizada por meio de duas engrenagens: o pinhão e a coroa.\n\nO pinhão é movimentado e se acopla à coroa do volante. Após o acoplamento, o motor de arranque transfere o movimento necessário para iniciar a rotação do motor. Quando o motor entra em funcionamento, o pinhão é automaticamente desacoplado da coroa."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-partida-6",
+    "href": "aula_3/aula_3.html#sistema-de-partida-6",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de partida",
+    "text": "Sistema de partida"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-exaustão-1",
+    "href": "aula_3/aula_3.html#sistema-de-exaustão-1",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de exaustão",
+    "text": "Sistema de exaustão\n\nFunções:\n\nConduzir os gases de escape: gases produzidos são descarregados na atmosfera;\nPurificar os gases de escape: remover componentes químicos nocivos e partículas poluentes;\nReduzir o ruído do escape: amortecer o ruído para o mínimo permitido (preservação da audição)."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-exaustão-2",
+    "href": "aula_3/aula_3.html#sistema-de-exaustão-2",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de exaustão",
+    "text": "Sistema de exaustão\n\n\n\n\n\n\n\n\n\n\nContaminante químico\nObservação\nConcentração (ppm)\n\n\n\n\nAcetaldeído\nCarcinógeno do Grupo 1 da IARC\n\n\n\nAcroleína\nProvável carcinógeno do Grupo 2A da IARC\n\n\n\nAnilina\nProvável carcinógeno do Grupo 2A da IARC\n\n\n\nArsênio\nCarcinógeno do Grupo 1 da IARC; desregulador endócrino\n\n\n\nBenzeno\nCarcinógeno do Grupo 1 da IARC\n\n\n\nBifenila\nToxicidade moderada\n\n\n\nBis(2-etil-hexil) ftalato\nDesregulador endócrino\n\n\n\n1,3-Butadieno\nCarcinógeno do Grupo 1 da IARC\n\n\n\nCádmio\nCarcinógeno do Grupo 1 da IARC; desregulador endócrino\n\n\n\nCloro\nSubproduto da injeção de ureia\n\n\n\nClorobenzeno\nToxicidade baixa a moderada\n\n\n\nCresol\n\n\n\n\nDibutil ftalato\nDesregulador endócrino\n\n\n\n1,8-Dinitropireno\nFortemente carcinogênico\n\n\n\nEtilbenzeno\n\n\n\n\nFormaldeído\nCarcinógeno do Grupo 1 da IARC\n\n\n\nChumbo inorgânico\nDesregulador endócrino\n\n\n\nMetanol\n\n\n\n\nMetil etil cetona\n\n\n\n\nNaftaleno\nCarcinógeno do Grupo 2B da IARC\n\n\n\nNíquel\nCarcinógeno do Grupo 2B da IARC\n\n\n\n3-Nitrobenzantrona (3-NBA)\nFortemente carcinogênico\n0,6–6\n\n\n4-Nitrobifenila\nIrritante; causa danos aos nervos, fígado e rins\n2,2\n\n\nFenol\n\n\n\n\nFósforo\n\n\n\n\nPireno\n\n3532–8002\n\n\nBenzo(e)pireno\n\n487–946\n\n\nBenzo(a)pireno\nCarcinógeno do Grupo 1 da IARC\n208–558\n\n\nFluoranteno\nPossível carcinógeno do Grupo 3 da IARC\n3399–7321\n\n\nPropionaldeído\n\n\n\n\nEstireno\nCarcinógeno do Grupo 2B da IARC\n\n\n\nTolueno\nPossível carcinógeno do Grupo 3 da IARC\n\n\n\nXileno\nPossível carcinógeno do Grupo 3 da IARC"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-exaustão-3",
+    "href": "aula_3/aula_3.html#sistema-de-exaustão-3",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de exaustão",
+    "text": "Sistema de exaustão\n\nSistemas de pós-tratamento:\n\nSão sistemas para melhorar o tratamento dado aos gases emitidos\n\nRecirculação dos gases de escape: EGR;\n\nIntroduz gás não reativo (já queimado) para a câmara de combustão;\nReduz a temperatura e produz menos NOx;\nReduz a eficiência térmica;\n\nRedução catalítica seletiva: SCR;\n\nInjeta um agente redutor líquido (ex: ARLA 32);\nReações químicas que convertem o NOx em N2, água e CO2."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-exaustão-4",
+    "href": "aula_3/aula_3.html#sistema-de-exaustão-4",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de exaustão",
+    "text": "Sistema de exaustão\n\nSistemas EGR:"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-exaustão-5",
+    "href": "aula_3/aula_3.html#sistema-de-exaustão-5",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de exaustão",
+    "text": "Sistema de exaustão\n\nSistemas SCR:"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#sistema-de-exaustão-6",
+    "href": "aula_3/aula_3.html#sistema-de-exaustão-6",
+    "title": "Mecanização agrícola:",
+    "section": "Sistema de exaustão",
+    "text": "Sistema de exaustão\n\nTransformação da ureia:\n\\[H_2NCONH_2 + H_2O = 2NH_3 + CO_2\\]\n\\[8NH_3 + 6NO_2 = 7N_2 + 12H_2\\]"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#combustível-1",
+    "href": "aula_3/aula_3.html#combustível-1",
+    "title": "Mecanização agrícola:",
+    "section": "Combustível",
+    "text": "Combustível\n\n\nQualquer substância cuja reação de oxidação-redução é altamente exotérmica.\n\n\n\n\n\n\n\n\n\nPodemos criar petróleo?"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#combustível-2",
+    "href": "aula_3/aula_3.html#combustível-2",
+    "title": "Mecanização agrícola:",
+    "section": "Combustível",
+    "text": "Combustível\n\nA maioria dos combustíveis utilizados hoje é derivada do petróleo.\n\nCom o devido processamento e refino, novos combustíveis alternativos com propriedades semelhantes ou iguais às do petróleo serão descobertos.\n\n\nExistirá um dia em que o petróleo será esgotado!"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#combustível-3",
+    "href": "aula_3/aula_3.html#combustível-3",
+    "title": "Mecanização agrícola:",
+    "section": "Combustível",
+    "text": "Combustível\n\nQual a principal vantagem dos combustíveis à base de petróleo?\n\n\n\n\nKobayashi, H. et al, 2019"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#combustível-4",
+    "href": "aula_3/aula_3.html#combustível-4",
+    "title": "Mecanização agrícola:",
+    "section": "Combustível",
+    "text": "Combustível\n\nOctanagem:\nÉ o índice de octano (C8H18), uma medida da resistência do combustível à compressão (escala de 0 a 100). - Quanto mais elevado, maior a capacidade de ser comprimido na câmara de combustão sem que ocorra a autoignição.\n\nCetanagem:\nÉ o número de cetano, índice que mede a qualidade de ignição de um combustível utilizado em um motor de ciclo Diesel. - Quanto maior for o valor, menor será o tempo para queima.\n\n\nGasolina com ar explode, mas sozinha ela não consegue autoignição"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#combustível-5",
+    "href": "aula_3/aula_3.html#combustível-5",
+    "title": "Mecanização agrícola:",
+    "section": "Combustível",
+    "text": "Combustível\n\nOctanagem x Cetanagem"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#combustível-6",
+    "href": "aula_3/aula_3.html#combustível-6",
+    "title": "Mecanização agrícola:",
+    "section": "Combustível",
+    "text": "Combustível\n\nGasolina:\n\nMistura inflamável de hidrocarbonetos de cadeias carbônicas menores (5 a 10 C).\n\nTipo A (sem etanol);\nTipo C (etanol anidro);"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#combustível-7",
+    "href": "aula_3/aula_3.html#combustível-7",
+    "title": "Mecanização agrícola:",
+    "section": "Combustível",
+    "text": "Combustível\n\nGasolina:\nApenas a tipo C é comercializada no Brasil\n\n\n\n\nCaracterística\nC-Comum\nC-Premium\n\n\n\n\nCor\nAmarelada\nLevemente alaranjada\n\n\nOctanagem min\n87\n91\n\n\nEnxofre max (ppm)\n50\n50\n\n\nAditivos\nPode conter\nContém"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#combustível-8",
+    "href": "aula_3/aula_3.html#combustível-8",
+    "title": "Mecanização agrícola:",
+    "section": "Combustível",
+    "text": "Combustível\n\nDiesel:\n\nTipos:\n\n\n\nÓleo Diesel S10 e S500 de uso rodoviário:\n\nVeículos automotivos;\nMáquinas agrícolas;\nMáquinas de construção;\nMáquinas industriais;\n\n\n\n\nÓleo Diesel S1800 de uso não rodoviário:\n\nMineração a céu aberto;\nTransporte ferroviário;\n\n\n\n\nÓleo Diesel marítimo:\n\nEmbarcações."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#combustível-9",
+    "href": "aula_3/aula_3.html#combustível-9",
+    "title": "Mecanização agrícola:",
+    "section": "Combustível",
+    "text": "Combustível\n\nDiesel:\n\nS10 e S500 = S é o símbolo do elemento enxofre (presente de forma natural no combustível).\n\n\n\n\n\nCaracterística\nS10\nS500\n\n\n\n\nCor\nIncolor a amarelado\nVermelho\n\n\nEnxofre (ppm)\n10\n500\n\n\nLubricidade\nBaixa\nAlta\n\n\nPoluentes\nMenos\nMais\n\n\nNúmero de cetano\n48\n42\n\n\nDesempenho\nMais eficiente\nMenos eficiente\n\n\nQuantidade de hidrogênio\nMais\nMenos\n\n\nCapacidade de solubilizar sedimentos\nMaior\nMenor"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#combustível-10",
+    "href": "aula_3/aula_3.html#combustível-10",
+    "title": "Mecanização agrícola:",
+    "section": "Combustível",
+    "text": "Combustível\n\n\nAlternativos:\n\n\n\n\n\n\n\n\nCategoria\nCombustível\nSigla/descrição\n\n\n\n\nLíquidos viscosos (bioDiesel)\nÉster metílico de óleos vegetais\n\n\n\n\nÉster metílico de gorduras animais\n\n\n\n\nResíduos de óleo de cozinha\n\n\n\n\nÓleo vegetal hidrotratado\nHVO\n\n\nLíquidos não viscosos\nÁlcool de cana-de-açúcar\n\n\n\n\nÁlcool de celulose\n\n\n\n\nÁlcool de cereais\n\n\n\n\nÁlcool de beterraba sacarina\n\n\n\n\nÉter dimetílico\nDME\n\n\nGases\nGás natural comprimido\nGNC\n\n\n\nGás liquefeito de petróleo\nGLP\n\n\n\nBiogás\n\n\n\n\nHidrogênio\n\n\n\nSintéticos\nGás para líquido\nGTL\n\n\n\nCarvão liquefeito\nCTL\n\n\n\nBiomassa para líquido\nBTL"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-1",
+    "href": "aula_3/aula_3.html#lubrificantes-1",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes\n\nFunções primárias:\nLimitar e controlar o atrito, prevenção ao superaquecimento, reduzir desgaste e proteção contra a corrosão.\n\nFunções secundárias:\nRemoção de contaminantes, vedação, amortecimento e isolamento térmico."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-2",
+    "href": "aula_3/aula_3.html#lubrificantes-2",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes\n\nAs características do óleo lubrificante interferem em suas funções.\n\nA origem e a composição dos óleos modificam o objetivo e suas propriedades\n\nOrigem: animal, vegetal, mineral e sintética\n\n\nAditivos: anticorrosivos, detergentes, dispersantes, etc."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-3",
+    "href": "aula_3/aula_3.html#lubrificantes-3",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes\n\nCaracterísticas importantes:\n\nViscosidade: indica a resistência ao escoamento;\nÍndice de viscosidade: variação da viscosidade em relação a uma faixa de temperatura;\nDensidade: relação entre a massa e o volume."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-4",
+    "href": "aula_3/aula_3.html#lubrificantes-4",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes\n\nViscosidade e temperatura:\n\nChiarello, et al. (2019)"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-5",
+    "href": "aula_3/aula_3.html#lubrificantes-5",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes\n\nSistemas de classificação:\n\nSAE: Society of Automotive Engineers;\nAPI: American Petroleum Institute;\nACEA: European Automobile Manufacturers Association"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-6",
+    "href": "aula_3/aula_3.html#lubrificantes-6",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes\n\nSistemas de classificação SAE:\n\nClassifica os lubrificantes com base na viscosidade, sem considerar fatores relativos ao desempenho e serviço\n\n\nOs lubrificantes são divididos em dois grupos\n\nMonoviscosos: identificados por um único número;\nMultiviscosos: identificados por dois números separados pela letra “W” (winter = inverno)."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-7",
+    "href": "aula_3/aula_3.html#lubrificantes-7",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes\n\nSistemas de classificação SAE:\nExemplos:\n\nO óleo SAE 10W possui uma baixa viscosidade e é adequado para ambiente de baixa temperatura (monograu).\nO óleo SAE 40 possui alta viscosidade (proteção ao motor) e é adequado para ambiente de alta temperatura (monograu).\nO óleo SAE 10W40 pode trabalhar tanto em baixa como em alta temperatura e possui uma viscosidade mais complexa (multigrau)."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-8",
+    "href": "aula_3/aula_3.html#lubrificantes-8",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-9",
+    "href": "aula_3/aula_3.html#lubrificantes-9",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes\n\n\nSistemas de classificação SAE:\n\n\n\n\n\n\n\n\n\n\n\n\n\nGrau de viscosidade SAE\nViscosidade máxima para acionamento em baixa temperatura (MPa·s)\nTemperatura (°C)\nViscosidade máxima para bombeamento em baixa temperatura (MPa·s)\nTemperatura (°C)\nViscosidade cinemática a 100 °C — Mínimo (mm²/s)\nMáximo (mm²/s)\nAlta viscosidade de cisalhamento (cP)\n\n\n\n\n0W\n&lt; 6200\n-35\n&lt; 60000\n-40\n3,8\n-\n-\n\n\n5W\n&lt; 6600\n-30\n&lt; 60000\n-35\n3,8\n-\n-\n\n\n10W\n&lt; 7000\n-25\n&lt; 60000\n-30\n4,1\n-\n-\n\n\n15W\n&lt; 7000\n-20\n&lt; 60000\n-25\n5,6\n-\n-\n\n\n20W\n&lt; 9500\n-15\n&lt; 60000\n-20\n5,6\n-\n-\n\n\n25W\n&lt; 13000\n-10\n&lt; 60000\n-15\n9,3\n-\n-\n\n\n8\n-\n-\n-\n-\n4,0\n&lt; 6,1\n1,7\n\n\n12\n-\n-\n-\n-\n5,0\n&lt; 7,1\n2,0\n\n\n16\n-\n-\n-\n-\n6,1\n&lt; 8,2\n2,3\n\n\n20\n-\n-\n-\n-\n6,9\n&lt; 9,3\n2,6\n\n\n30\n-\n-\n-\n-\n9,3\n&lt; 12,5\n2,9\n\n\n40¹\n-\n-\n-\n-\n12,5\n&lt; 16,3\n3,5\n\n\n40²\n-\n-\n-\n-\n12,5\n&lt; 16,3\n3,7\n\n\n50\n-\n-\n-\n-\n16,3\n&lt; 21,9\n3,7\n\n\n60\n-\n-\n-\n-\n21,9\n&lt; 26,1\n3,7"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-10",
+    "href": "aula_3/aula_3.html#lubrificantes-10",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes"
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-11",
+    "href": "aula_3/aula_3.html#lubrificantes-11",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes\n\nSistemas de classificação API:\n\nClassifica os lubrificantes com base no desempenho.\n\n\nOs lubrificantes são divididos em dois grupos\n\nSérie S (Spark ignition = ignição por faísca): destinados a motores de ciclo Otto;\nSérie C (Compression ignition = ignição por compressão): destinados a motores ciclo Diesel."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-12",
+    "href": "aula_3/aula_3.html#lubrificantes-12",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes\n\nSistemas de classificação API:\nO segundo algarismo informa o nível de qualidade do óleo lubrificante, em ordem alfabética."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-13",
+    "href": "aula_3/aula_3.html#lubrificantes-13",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes\n\n\n\n\n\nCategoria API\nStatus\nServiço1\n\n\n\n\nCK-4\nAtual\nAtende aos padrões de 2017\n\n\nCJ-4\nAtual\nAtende aos padrões de 2010\n\n\nCI-4\nAtual\nAtende aos padrões de 2010\n\n\nCH-4\nAtual\nAtende aos padrões de 1998\n\n\nCG-4\nObsoleto\nNão adequado após 2009\n\n\nCF-4\nObsoleto\nNão adequado após 2009\n\n\nCF-2\nObsoleto\nNão adequado após 2009\n\n\nCF\nObsoleto\nNão adequado após 2009\n\n\nCE\nObsoleto\nNão adequado após 1994\n\n\nCD-II\nObsoleto\nNão adequado após 1994\n\n\nCD\nObsoleto\nNão adequado após 1994\n\n\nCC\nObsoleto\nNão adequado após 1990\n\n\nCB\nObsoleto\nNão adequado após 1961\n\n\nCA\nObsoleto\nNão adequado após 1959\n\n\nFA-42\nAtual\nAtende aos padrões de 2017\n\n\n\n\nIndica o ano dos padrões de emissão aos quais a categoria atende ou até o qual é considerada adequada.Categoria destinada a motores que atendem aos padrões de emissão para veículos rodoviários de 2017."
+  },
+  {
+    "objectID": "aula_3/aula_3.html#lubrificantes-14",
+    "href": "aula_3/aula_3.html#lubrificantes-14",
+    "title": "Mecanização agrícola:",
+    "section": "Lubrificantes",
+    "text": "Lubrificantes\n\nSistemas de classificação ACEA:\nBaseado nos requisitos europeus.\nFaz o uso de letras para definir a aplicação e algarismos (1 a 7) para características do lubrificante.\n\nA é para veículos de passeio (gasolina e/ou etanol);\nB e C para veículos leves;\nE para veículos pesados (Diesel)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mecanização agrícola - IFPR 2026/02",
+    "section": "",
+    "text": "Aulas\n\n    \n\n      \n        Aula 1\n        História e desenvolvimento\n        \n      \n\n      \n        Aula 2\n        Motores de combustão interna\n        \n      \n\n      \n        Aula 3\n        Sistemas complementares ao motor\n        \n      \n\n      \n        Aula 4\n        Tratores e seus constituintes (P1)\n        \n      \n\n      \n        Aula 4\n        Tratores e seus constituintes (P2)\n        \n      \n\n      \n        Aula 6\n        Em breve\n        \n          Conteúdo será disponibilizado em breve.\n        \n      \n\n    \n\n\n    \n\n    \n\n      \n      \n\n          \n\n        \n\n\n      \n      \n\n\n      \n      \n\n      \n\n\n      \n      \n\n\n\n  \n\n  \n\n    \n\n      📖\n\n      \n        Selecione uma aula ou um material para visualizá-lo aqui."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#definições-1",
+    "href": "aula_2/aula_2.html#definições-1",
+    "title": "Mecanização agrícola:",
+    "section": "Definições",
+    "text": "Definições\n\nMotor\n\nUma máquina que transforma energia térmica em energia mecânica\n\n\n\nOs motores de combustão interna, transformam a energia térmica gerada pela combustão da mistura ar/combustível em energia mecânica\n\n\n\nex: Você andando de bicicleta.\n\n\nSua energia (ATP) é transferida para os pedais e, por meio de um sistema de engrenagens, chega à roda, que se movimenta."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#quanto-a-fonte-geradora",
+    "href": "aula_2/aula_2.html#quanto-a-fonte-geradora",
+    "title": "Mecanização agrícola:",
+    "section": "Quanto a fonte geradora",
+    "text": "Quanto a fonte geradora\n\n\n\n\nMotor a combustão\n\n\n\n\nMotor elétrico\n\n\n\n\nMotor híbrido: Que é um sistema que se utiliza de ambos os tipos de motores para gerar movimento"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#quanto-a-combustão",
+    "href": "aula_2/aula_2.html#quanto-a-combustão",
+    "title": "Mecanização agrícola:",
+    "section": "Quanto a combustão",
+    "text": "Quanto a combustão\n\n\n\nCombustão externa (máquina a vapor)\nCombustão interna\n\nDe pistão (ciclo otto e diesel)\nÊmbolo rotativo (wankel)"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#como-ocorre-a-combustão",
+    "href": "aula_2/aula_2.html#como-ocorre-a-combustão",
+    "title": "Mecanização agrícola:",
+    "section": "Como ocorre a combustão",
+    "text": "Como ocorre a combustão\n\nA combustão é uma reação química exotérmica (libera calor) entre uma substância (combustível) e um gás (comburente) para liberar calor."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#como-ocorre-a-combustão-1",
+    "href": "aula_2/aula_2.html#como-ocorre-a-combustão-1",
+    "title": "Mecanização agrícola:",
+    "section": "Como ocorre a combustão",
+    "text": "Como ocorre a combustão"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#como-ocorre-a-combustão-2",
+    "href": "aula_2/aula_2.html#como-ocorre-a-combustão-2",
+    "title": "Mecanização agrícola:",
+    "section": "Como ocorre a combustão",
+    "text": "Como ocorre a combustão\n\nFórmula química da combustão\n\\[CH_{4} + 20_2 = CO_2 + 2H_{2}O + Calor\\]\n\nGasolina = C8H18 (octano)\nDiesel (estrutura complexa) = CH3(CH2)14CH3(C16H34) (cetano)"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#combustão-externa",
+    "href": "aula_2/aula_2.html#combustão-externa",
+    "title": "Mecanização agrícola:",
+    "section": "Combustão externa",
+    "text": "Combustão externa\n\nEx: máquinas a vapor\n\n\nquando a água é aquecida ela se torna vapor e ocupa maior espaço o que gera pressão"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#quanto-a-combustão-1",
+    "href": "aula_2/aula_2.html#quanto-a-combustão-1",
+    "title": "Mecanização agrícola:",
+    "section": "Quanto a combustão",
+    "text": "Quanto a combustão\n\nExemplo de máquina a vapor"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#combustão-interna-1",
+    "href": "aula_2/aula_2.html#combustão-interna-1",
+    "title": "Mecanização agrícola:",
+    "section": "Combustão interna",
+    "text": "Combustão interna\n\n\nCiclo Otto\nUtilizam combustível de baixa volatilidade, como gasolina e álcool. Para ignição necessitam de centelha produzida pelo sistema elétrico.\nEmpregado em situações agrícolas com menor demanda de potência e torque.\n\n\nCiclo Diesel\nUtilizam como combustível o óleo diesel. A inflamação do combustível injetado sob pressão na câmara de combustão ocorre pela compressão de ar e consequente elevação da temperatura."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#quanto-ao-número-de-ciclos",
+    "href": "aula_2/aula_2.html#quanto-ao-número-de-ciclos",
+    "title": "Mecanização agrícola:",
+    "section": "Quanto ao número de ciclos",
+    "text": "Quanto ao número de ciclos\n\n\nMotor de 4 tempos\nMotor de 2 tempos"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#objetivo-do-motor",
+    "href": "aula_2/aula_2.html#objetivo-do-motor",
+    "title": "Mecanização agrícola:",
+    "section": "Objetivo do motor",
+    "text": "Objetivo do motor\n\nGerar trabalho!\n\n\\(Trabalho~(J) = Força(N) * deslocamento(m)\\)\n\n\n\\(Força(N) = massa(kg) * aceleração(\\Delta_v/\\Delta_t)\\)\n\n\nPotência: Capacidade de transmitir energia por tempo.\n\nRealização de trabalho ou transmissão de calor.\n\nEx de potência: 1 cavalo puxa 75 kg em 1 s."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#histórico",
+    "href": "aula_2/aula_2.html#histórico",
+    "title": "Mecanização agrícola:",
+    "section": "Histórico",
+    "text": "Histórico\n\n\n\n\nAlphonse Beau de Rochas (França)\nPublica e registra os termos teóricos de um “princípio” de um motor a 4 tempos com compressão prévia da mistura antes da ignição.\n\n\nExposição de Paris\nNikolaus August Otto apresenta um motor a combustão interna (4 tempos). \n\n\nMotor a quatro tempos funcional de Otto\nOtto e Deutz produzem o primeiro motor prático e confiável no ciclo de 4 tempo (admissão, compressão, combustão e escape).\nO ciclo ficou conhecido como ciclo Otto\n\n\nQueda da patente de Otto na Alemanha\nO documento de Beau de Rocha é redescoberto, assim a patente de Otto é invalidada.\nVárias fabricantes podem recriar o motor.\n\n\nDois tempos\nDugald Clerk patenteia um motor de 2 tempo com compressão estabelecendo uma alternativa ao ciclo Otto de 4 tempos.\n\n\nCiclo Otto em veículos\nOcorre a primeira aplicação do motor de ciclo Otto em veículos utilizando combustível a gasolina.\n\n\nCiclo Diesel\nEngenheiro Rudolf Diesel descreve um novo motor, no qual a ignição da mistura ar mais combustível era feita por compressão (motor Diesel). \n\n\nCiclo Diesel\nPrimeiro motor ciclo diesel é construído."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-1",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-1",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-2",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-2",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna\n\n4 tempos ciclo diesel\n\n\nAdmissão: O pistão desce, a válvula de admissão se abre e a de escape fecha. Ao descer, o pistão cria pressão no cilindro. O ar é forçado pela pressão atmosféria a entrar no cilindro pelo filtro de ar e pela tubulação de admissão. A quantidade que entra é sempre a mesma, independente da aceleração.\n\n\n\n\nCompressão: O pistão sobe, as válvulas de admissão e de escape ficam fechadas. O ar admitido é comprimido até ocupar o volume da câmara de combustão. O ar se aquece, e ao fim da compressão, o bico injetor pulveriza óleo diesel no interior da câmara de combustão."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-3",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-3",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna\n\n4 tempos ciclo diesel\n\n\nCombustão: O pistão desce, acionado pela força de expansão dos gases queimados. As válvulas de admissão e de escape estão fechadas. A força de expansão é transmitida pelo pistão à biela e desta ao virabrequim, provocando assim movimento de rotação do motor.\n\n\n\n\nEscape: O pistão sobe, estando a válvula de escape aberta e a de admissão fechada. Os gases queimados são expulsos através da passagem dada pela válvula de escape."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-4",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-4",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna\n\nAdmissão"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-5",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-5",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna\n\nCompressão"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-6",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-6",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna\n\nExplosão"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-7",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-7",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna\n\nDescarga"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-8",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-8",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-9",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-9",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-10",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-10",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-11",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-11",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-12",
+    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-12",
+    "title": "Mecanização agrícola:",
+    "section": "Funcionamento do motor a combustão interna",
+    "text": "Funcionamento do motor a combustão interna"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-1",
+    "href": "aula_2/aula_2.html#componentes-do-motor-1",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor",
+    "text": "Componentes do motor"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nBloco dos cilindros"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-1",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-1",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nBloco dos cilindros\nFunção:\n\nBase onde se encontram todos os demais elementos do funcionamento do motor.\n\nCabeçote, válvulas, árvore de comando, cilindros, pistão, aneís de segmento, biela, casquilhos, árvore de manivelas, volante e cárter.\n\nEm máquinas agrícolas apresenta função estrutural e de sustentação."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-2",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-2",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nBloco dos cilindros\nCaracterísticas:\n\nPeça de fundição.\nEm seu interior apresenta grandes orifícios cilíndricos (cilindros) onde se realiza a combustão.\nApresenta cavidades para a passagem de água de arrefecimento."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-3",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-3",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nÁrvore de manivelas (virabrequim )"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-4",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-4",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nÁrvore de manivelas (virabrequim )\nFunção:\n\nAtua em conjunto com a biela como órgão transformador do movimento alternativo do pistão em movimento de rotação, transformando o trabalho realizado pelo pistão em torque.\n\nCaracterísticas:\n\nPeça de aço forjado com canais para conduzir o óleo lubrificante até os mancais e cabeças das bielas.\nSeu formato deriva do número e da distribuição dos cilindros (manivelas iguais ao número de cilindros)."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-5",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-5",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nBiela e pistão"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-6",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-6",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nPistão\nFunção:\n\nPistão é o órgão receptor do movimento de expansão dos gases resultantes da combustão. Primeiro componente a se movimentar.\nResponsável pela conversão da energia da combustão em trabalho mecânico.\nTrasfere a energia para o virabrequim.\n\nCaracterísticas:\n\nPeça cilíndrica localizada dentro do cilindro sem contato com o mesmo."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-7",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-7",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nAnéis do pistão"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-8",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-8",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nAnéis do pistão\nFunção:\n\nOs de compressão são responsáveis pela vedação da câmara do cilindro (fechamento hermético)\nOs de lubrificação executam o controle do fluxo de óleo entre o pistão e o cilindro.\nDissipação do calor do pistão pelas paredes do cilindro.\nRedução da área de contato direta entre as paredes do cilindro e do pistão."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-9",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-9",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nBiela\nFunção:\n\nÉ um órgão transformador do movimento alternativo do pistão em movimento de rotação no virabrequim.\nElemento de ligação entre o pistão e o virabrequim."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-10",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-10",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nBiela\nCaracterísticas:\n\nFeita em aço, é resistente para poder transferir a energia entre as partes.\nPossui 3 partes\n\nCabeça: Orifício circular que permite ligação com o virabrequim.\nCorpo: Faz a ligação entre o pé e a cabeça.\nPé: Orifício circular que permite ligação com o pistão."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-11",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-11",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nCárter de óleo"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-12",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-12",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nCárter de óleo\nFunção:\n\nDepósito para o óleo lubrificante do motor.\nAssegura a lubrificação do motor.\nReservatório do óleo de lubrificação e de eventuais detritos não retido pelos filtros.\n\nCaracterísticas:\n\nInvólucro rígido que fecha o bloco em sua parte inferior."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-13",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-13",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nVolante do motor"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-14",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-14",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nVolante do motor\nFunção:\n\nTransfere o torque obtido no virabrequim para a caixa de velocidades.\nÉ responsável por absorver vibrações do motor e manter estável ou dificultar oscilações."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-15",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-15",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nVálvulas"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-16",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-16",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nCabeçote"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-17",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-17",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nCabeçote\nFunção:\n\nFunciona como tampão para os cilindros e acomoda os mecanismos das válvulas de admissão e escape, bico injetor e canais de circulação do líquido de arrefecimento e lubrificação."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-18",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-18",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nJunta do Cabeçote"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-19",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-19",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nJunta do Cabeçote\nFunção:\n\nAtua na vedação entre o bloco do motor e o cabeçote.\nEvita a mistura de óleo, líquido de arrefecimento e gases de combustão.\n\nCaracterísticas:\n\nResistentes a altas temperaturas e pressões.\nFormada por um empilhamento de camadas de aço com revestimento especial."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-20",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-20",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nJunta do Cabeçote\nQuando a junta perde a vedação, toda a circulação de líquido de arrefecimento pode ser comprometida.\n\nMotor aquece mais que o normal.\nFumaça branca no escapamento (indica mistura de líquido de arrefecimento na câmara de combustão).\nVazamento de óleo e água (mudança no aspecto do óleo).\nPerda de potência.\nFalhas no motor."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-21",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-21",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nComando de válvulas"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#motor-completo",
+    "href": "aula_2/aula_2.html#motor-completo",
+    "title": "Mecanização agrícola:",
+    "section": "Motor completo",
+    "text": "Motor completo"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-22",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-22",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nCamisa do cilindro"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-23",
+    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-23",
+    "title": "Mecanização agrícola:",
+    "section": "Componentes do motor diesel",
+    "text": "Componentes do motor diesel\n\nCamisa do cilindro\nFunção:\n\nEvitar desgaste do bloco pelo atrico entre pistão e bloco.\nFornecer proteção para outros componentes de interior.\n\nCaracterísticas:\n\nResistentes a altas temperaturas e pressões.\nPodem ser úmidas ou secas (em contato ou não com líquido de arrefecimento)."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel",
+    "title": "Mecanização agrícola:",
+    "section": "Componente do motor diesel",
+    "text": "Componente do motor diesel\n\nCamisa do cilindro"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-1",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel-1",
+    "title": "Mecanização agrícola:",
+    "section": "Componente do motor diesel",
+    "text": "Componente do motor diesel\n\nCasquilhos ou bronzinas"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-2",
+    "href": "aula_2/aula_2.html#componente-do-motor-diesel-2",
+    "title": "Mecanização agrícola:",
+    "section": "Componente do motor diesel",
+    "text": "Componente do motor diesel\n\nCasquilhos ou bronzinas\nFunção:\n\nReduzir atrito e desgaste entre os elementos.\nAuxiliam no correto alinhamento do virabrequim e comando de válculas no bloco.\n\nCaracterísticas:\n\nEntregada entre biela e virabrequim, pino e êmbolo, etc."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#arranjo-dos-cilindros-1",
+    "href": "aula_2/aula_2.html#arranjo-dos-cilindros-1",
+    "title": "Mecanização agrícola:",
+    "section": "Arranjo dos cilindros",
+    "text": "Arranjo dos cilindros"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#o-que-é-cilindrada-1",
+    "href": "aula_2/aula_2.html#o-que-é-cilindrada-1",
+    "title": "Mecanização agrícola:",
+    "section": "O que é Cilindrada?",
+    "text": "O que é Cilindrada?\n\n\nO que significa falar que o motor é 2.0?\nO que é um carro 1000?"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#cálculo-da-cilindrada",
+    "href": "aula_2/aula_2.html#cálculo-da-cilindrada",
+    "title": "Mecanização agrícola:",
+    "section": "Cálculo da cilindrada",
+    "text": "Cálculo da cilindrada\n\n\\[V = \\frac{\\pi * D^2 * h}{4}* n \\]\n\\(V = cilindrada~(cm^3, litro, pol^3)\\)\n\\(D = diâmetro~do~pistão~(cm, pol)\\)\n\\(h = curso~do~pistão~do~PMI~ao~PMS~(cm, pol)\\)\n\\(n = número~de~cilindros\\)"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#cálculo-da-cilindrada-1",
+    "href": "aula_2/aula_2.html#cálculo-da-cilindrada-1",
+    "title": "Mecanização agrícola:",
+    "section": "Cálculo da cilindrada",
+    "text": "Cálculo da cilindrada\n\nEx: Um motor de 3 cilindros, com diâmetro dos cilindros de 10 cm e curso do êmbolo de 120 mm, qual a sua cilindrada?\n\n\\[V = \\frac{3.14 * 10^2*12}{4}*3 = 28274~cm^3\\]\n\n\nEx: Um motor de 4 cilindros, com diâmetro dos cilindros de 5 cm e curso do êmbolo de 5 cm, qual a sua cilindrada?"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#pms-e-pmi",
+    "href": "aula_2/aula_2.html#pms-e-pmi",
+    "title": "Mecanização agrícola:",
+    "section": "PMS e PMI",
+    "text": "PMS e PMI\n\n\nPMS: Ponto morto superior.\nPMI: Ponto morto inferior."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#ciclo-otto-ideal",
+    "href": "aula_2/aula_2.html#ciclo-otto-ideal",
+    "title": "Mecanização agrícola:",
+    "section": "Ciclo Otto ideal",
+    "text": "Ciclo Otto ideal"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#ciclo-otto-ideal-1",
+    "href": "aula_2/aula_2.html#ciclo-otto-ideal-1",
+    "title": "Mecanização agrícola:",
+    "section": "Ciclo Otto ideal",
+    "text": "Ciclo Otto ideal"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#ciclo-otto-real",
+    "href": "aula_2/aula_2.html#ciclo-otto-real",
+    "title": "Mecanização agrícola:",
+    "section": "Ciclo Otto real",
+    "text": "Ciclo Otto real"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#ciclo-termodinâmico",
+    "href": "aula_2/aula_2.html#ciclo-termodinâmico",
+    "title": "Mecanização agrícola:",
+    "section": "Ciclo Termodinâmico",
+    "text": "Ciclo Termodinâmico"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#pms-e-pmi-1",
+    "href": "aula_2/aula_2.html#pms-e-pmi-1",
+    "title": "Mecanização agrícola:",
+    "section": "PMS e PMI",
+    "text": "PMS e PMI\n\nA relação entre o volume máximo formado no cilindro e o volume mínimo (morto) é chamada de razão de compressão (r) do motor.\n\\[r = \\frac{V_{max}}{V_{min}} = \\frac{V_{PMI}}{V_{PMS}}\\]"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#eficiência-do-motor-otto",
+    "href": "aula_2/aula_2.html#eficiência-do-motor-otto",
+    "title": "Mecanização agrícola:",
+    "section": "Eficiência do motor Otto",
+    "text": "Eficiência do motor Otto\n\nA eficiência térmica do motor Otto pode ser expressa como:\n\\[\\eta_{t,Otto}=1-\\frac{1}{r^{k-1}}\\]\n\\(\\eta_{t,Otto}= eficiência~térmica\\)\n\\(r = razão~de~compressão\\)\n\\(k=razão~dos~calores~específicos\\)"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#eficiência-do-motor-otto-1",
+    "href": "aula_2/aula_2.html#eficiência-do-motor-otto-1",
+    "title": "Mecanização agrícola:",
+    "section": "Eficiência do motor Otto",
+    "text": "Eficiência do motor Otto\n\nUm motor de ciclo Otto de quatro cilindros possui diâmetro do cilindro de \\(90\\ \\text{mm}\\), curso do pistão de \\(100\\ \\text{mm}\\) e volume de folga (volume morto) de \\(106.024~cm^3\\) por cilindro. (assuma, k = 1.4) Calcule:\n\nO deslocamento volumétrico total do motor (CC);\nA taxa de compressão;\nA eficiência térmica teórica do ciclo Otto."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#eficiência-do-motor-otto-2",
+    "href": "aula_2/aula_2.html#eficiência-do-motor-otto-2",
+    "title": "Mecanização agrícola:",
+    "section": "Eficiência do motor Otto",
+    "text": "Eficiência do motor Otto\n\nUm motor de ciclo Otto de quatro cilindros possui diâmetro do cilindro de \\(90\\ \\text{mm}\\), curso do pistão de \\(100\\ \\text{mm}\\) e volume de folga (volume morto) de \\(106.024~cm^3\\) por cilindro. (assuma, k = 1.4) Calcule:\n\nO deslocamento volumétrico total do motor (CC);\n\n\n\\(V = \\frac{\\pi * 9^2 * 10}{4} * 4 = 2544~cm^3 = 2.5 CC\\)"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#eficiência-do-motor-otto-3",
+    "href": "aula_2/aula_2.html#eficiência-do-motor-otto-3",
+    "title": "Mecanização agrícola:",
+    "section": "Eficiência do motor Otto",
+    "text": "Eficiência do motor Otto\n\nUm motor de ciclo Otto de quatro cilindros possui diâmetro do cilindro de \\(90\\ \\text{mm}\\), curso do pistão de \\(100\\ \\text{mm}\\) e volume de folga (volume morto) de \\(106.024~cm^3\\) por cilindro. (assuma, k = 1.4) Calcule:\n\nA taxa de compressão;\n\n\n\\(V_{cilindro}=\\frac{2544.69}{4}= 636~cm^3\\)\n\\(V_{max}= 636+106 = 742~cm^3\\)\n\\(V_{min} = 106~cm^3\\)\n\\[r=\\frac{742}{106}=7\\]"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#eficiência-do-motor-otto-4",
+    "href": "aula_2/aula_2.html#eficiência-do-motor-otto-4",
+    "title": "Mecanização agrícola:",
+    "section": "Eficiência do motor Otto",
+    "text": "Eficiência do motor Otto\n\nUm motor de ciclo Otto de quatro cilindros possui diâmetro do cilindro de \\(90\\ \\text{mm}\\), curso do pistão de \\(100\\ \\text{mm}\\) e volume de folga (volume morto) de \\(106.024~cm^3\\) por cilindro. (assuma, k = 1.4) Calcule:\n\nA eficiência térmica teórica do ciclo Otto.\n\n\n\\[\\eta_{t,Otto}=1-\\frac{1}{7^{(1.4-1)}}=0.54 = 54\\% \\]"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#eficiência-do-motor-otto-5",
+    "href": "aula_2/aula_2.html#eficiência-do-motor-otto-5",
+    "title": "Mecanização agrícola:",
+    "section": "Eficiência do motor Otto",
+    "text": "Eficiência do motor Otto"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#ciclo-diesel-ideal",
+    "href": "aula_2/aula_2.html#ciclo-diesel-ideal",
+    "title": "Mecanização agrícola:",
+    "section": "Ciclo diesel ideal",
+    "text": "Ciclo diesel ideal"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#eficiência-ciclo-diesel",
+    "href": "aula_2/aula_2.html#eficiência-ciclo-diesel",
+    "title": "Mecanização agrícola:",
+    "section": "Eficiência Ciclo diesel",
+    "text": "Eficiência Ciclo diesel\n\n\\[\\eta_{t,Diesel}=1-\\frac{1}{r^{k-1}}*[\\frac{r_{c}^k-1}{k(r_{c}-1)}] \\]\n\\(r = razão~de~compressão\\)\n\\(r_c= razão~de~corte\\)\n\\(k = razão~dos~calores~específicos\\)"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#eficiência-ciclo-diesel-1",
+    "href": "aula_2/aula_2.html#eficiência-ciclo-diesel-1",
+    "title": "Mecanização agrícola:",
+    "section": "Eficiência Ciclo diesel",
+    "text": "Eficiência Ciclo diesel\n\nRazão de corte\n\\[r_c = \\frac{v_3}{v_2}\\]\n\\(v_3 = volume~cilindro~após~combustão\\)\n\\(v_2 = volume~cilindro~antes~combustão\\)"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#eficiência-otto-vs-diesel",
+    "href": "aula_2/aula_2.html#eficiência-otto-vs-diesel",
+    "title": "Mecanização agrícola:",
+    "section": "Eficiência Otto vs Diesel",
+    "text": "Eficiência Otto vs Diesel\n\n\n\nDiferentes taxas de compressão"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel",
+    "href": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel",
+    "title": "Mecanização agrícola:",
+    "section": "Diferenças entre Otto e Diesel",
+    "text": "Diferenças entre Otto e Diesel\n\nForma do pistão"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel-1",
+    "href": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel-1",
+    "title": "Mecanização agrícola:",
+    "section": "Diferenças entre Otto e Diesel",
+    "text": "Diferenças entre Otto e Diesel\n\nIgnição via vela"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel-2",
+    "href": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel-2",
+    "title": "Mecanização agrícola:",
+    "section": "Diferenças entre Otto e Diesel",
+    "text": "Diferenças entre Otto e Diesel\n\n\n\n\n\n\n\n\n\nParâmetro\nCiclo Otto\nCiclo Diesel\n\n\n\n\nCombustível\nGasolina, Etanol, Metanol, GLP\nÓleo Diesel, Biodiesel\n\n\nCondição termodinâmica do ciclo principal\nAdição de calor a volume constante\nAdição de calor a pressão constante\n\n\nFase de admissão\nAdmite mistura de ar e combustível\nAdmite apenas ar\n\n\nRelação ar/combustível\nPouco variável\nMuito variável\n\n\nControle de carga\nVariando a quantidade de mistura\nVariando a quantidade de combustível"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel-3",
+    "href": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel-3",
+    "title": "Mecanização agrícola:",
+    "section": "Diferenças entre Otto e Diesel",
+    "text": "Diferenças entre Otto e Diesel\n\n\n\n\n\n\n\n\n\nParâmetro\nCiclo Otto\nCiclo Diesel\n\n\n\n\nTaxa de compressão\n6–10:1\n16–20:1\n\n\nPressão mínima de compressão (kPa)\n1400\n3240\n\n\nForma de ignição\nCentelha elétrica\nAutoignição\n\n\nRotação\nMotores leves; combustão homogênea; altas rotações\nMotores pesados; combustão heterogênea; baixas rotações\n\n\nRotação de potência máxima\n&gt; 5000 rpm\n&lt; 3000 rpm\n\n\nRendimento térmico\n25–30%\n30–35%"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#motor-2-tempos-1",
+    "href": "aula_2/aula_2.html#motor-2-tempos-1",
+    "title": "Mecanização agrícola:",
+    "section": "Motor 2 tempos",
+    "text": "Motor 2 tempos\n\nQual a diferença para o motor 4 tempo?\n\nSão motores que em apenas 2 cursos do pistão executam os 4 tempos.\n\n\nEm apenas um giro do virabrequim eles realizam todo o ciclo termodinâmico do motor."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#motor-2-tempos-2",
+    "href": "aula_2/aula_2.html#motor-2-tempos-2",
+    "title": "Mecanização agrícola:",
+    "section": "Motor 2 tempos",
+    "text": "Motor 2 tempos\n\n\nCurso 1: admissão e compressão\nCurso 2: combustão e exaustão"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#motor-2-tempos-3",
+    "href": "aula_2/aula_2.html#motor-2-tempos-3",
+    "title": "Mecanização agrícola:",
+    "section": "Motor 2 tempos",
+    "text": "Motor 2 tempos"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#motor-2-tempos-4",
+    "href": "aula_2/aula_2.html#motor-2-tempos-4",
+    "title": "Mecanização agrícola:",
+    "section": "Motor 2 tempos",
+    "text": "Motor 2 tempos\n\n\n\nEquipamentos com motor 2 tempos:\n\nMotosserras;\nRoçadoras;\nMotores estacionários;\nMonocultivatores;"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#motor-2-tempos-5",
+    "href": "aula_2/aula_2.html#motor-2-tempos-5",
+    "title": "Mecanização agrícola:",
+    "section": "Motor 2 tempos",
+    "text": "Motor 2 tempos\n\n2 x 4 tempos"
+  },
+  {
+    "objectID": "aula_2/aula_2.html#motor-2-tempos-6",
+    "href": "aula_2/aula_2.html#motor-2-tempos-6",
+    "title": "Mecanização agrícola:",
+    "section": "Motor 2 tempos",
+    "text": "Motor 2 tempos\n\nDiferenças\n\n\n\n\n\n\n\n\n\nNão emprega válvulas para admissão e exaustão (usa-se janelas).\n\nO pistão trabalha como “válvula”.\n\nNão é necessário cabeçote.\nCárter não tem função de armazenamento de lubrificante.\n\nÓleo lubrificante é adicionado com o combustível.\nVida útil menor que motor 4 tempo.\nPermite o uso em qualquer orientação.\n\nMais poluente.\n\n\n\nProduz mais potência em uma mesma cilindrada e rotação."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#motor-wankel-1",
+    "href": "aula_2/aula_2.html#motor-wankel-1",
+    "title": "Mecanização agrícola:",
+    "section": "Motor Wankel",
+    "text": "Motor Wankel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMais poluente."
+  },
+  {
+    "objectID": "aula_2/aula_2.html#motor-de-uso-agrícola-1",
+    "href": "aula_2/aula_2.html#motor-de-uso-agrícola-1",
+    "title": "Mecanização agrícola:",
+    "section": "Motor de uso agrícola",
+    "text": "Motor de uso agrícola\n\n\nAmbiente de trabalho.\nForça e modo de operação."
+  },
+  {
     "objectID": "aula_4/aula_4.html#o-que-é-um-trator-1",
     "href": "aula_4/aula_4.html#o-que-é-um-trator-1",
     "title": "Mecanização agrícola:",
@@ -810,1132 +2574,5 @@
     "title": "Mecanização agrícola:",
     "section": "Órgãos de engate e transferência de energia",
     "text": "Órgãos de engate e transferência de energia\n\nExemplo de acionamento"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#definições-1",
-    "href": "aula_2/aula_2.html#definições-1",
-    "title": "Mecanização agrícola:",
-    "section": "Definições",
-    "text": "Definições\n\nMotor\n\nUma máquina que transforma energia térmica em energia mecânica\n\n\n\nOs motores de combustão interna, transformam a energia térmica gerada pela combustão da mistura ar/combustível em energia mecânica\n\n\n\nex: Você andando de bicicleta.\n\n\nSua energia (ATP) é transferida para os pedais e, por meio de um sistema de engrenagens, chega à roda, que se movimenta."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#quanto-a-fonte-geradora",
-    "href": "aula_2/aula_2.html#quanto-a-fonte-geradora",
-    "title": "Mecanização agrícola:",
-    "section": "Quanto a fonte geradora",
-    "text": "Quanto a fonte geradora\n\n\n\n\nMotor a combustão\n\n\n\n\nMotor elétrico\n\n\n\n\nMotor híbrido: Que é um sistema que se utiliza de ambos os tipos de motores para gerar movimento"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#quanto-a-combustão",
-    "href": "aula_2/aula_2.html#quanto-a-combustão",
-    "title": "Mecanização agrícola:",
-    "section": "Quanto a combustão",
-    "text": "Quanto a combustão\n\n\n\nCombustão externa (máquina a vapor)\nCombustão interna\n\nDe pistão (ciclo otto e diesel)\nÊmbolo rotativo (wankel)"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#como-ocorre-a-combustão",
-    "href": "aula_2/aula_2.html#como-ocorre-a-combustão",
-    "title": "Mecanização agrícola:",
-    "section": "Como ocorre a combustão",
-    "text": "Como ocorre a combustão\n\nA combustão é uma reação química exotérmica (libera calor) entre uma substância (combustível) e um gás (comburente) para liberar calor."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#como-ocorre-a-combustão-1",
-    "href": "aula_2/aula_2.html#como-ocorre-a-combustão-1",
-    "title": "Mecanização agrícola:",
-    "section": "Como ocorre a combustão",
-    "text": "Como ocorre a combustão"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#como-ocorre-a-combustão-2",
-    "href": "aula_2/aula_2.html#como-ocorre-a-combustão-2",
-    "title": "Mecanização agrícola:",
-    "section": "Como ocorre a combustão",
-    "text": "Como ocorre a combustão\n\nFórmula química da combustão\n\\[CH_{4} + 20_2 = CO_2 + 2H_{2}O + Calor\\]\n\nGasolina = C8H18 (octano)\nDiesel (estrutura complexa) = CH3(CH2)14CH3(C16H34) (cetano)"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#combustão-externa",
-    "href": "aula_2/aula_2.html#combustão-externa",
-    "title": "Mecanização agrícola:",
-    "section": "Combustão externa",
-    "text": "Combustão externa\n\nEx: máquinas a vapor\n\n\nquando a água é aquecida ela se torna vapor e ocupa maior espaço o que gera pressão"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#quanto-a-combustão-1",
-    "href": "aula_2/aula_2.html#quanto-a-combustão-1",
-    "title": "Mecanização agrícola:",
-    "section": "Quanto a combustão",
-    "text": "Quanto a combustão\n\nExemplo de máquina a vapor"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#combustão-interna-1",
-    "href": "aula_2/aula_2.html#combustão-interna-1",
-    "title": "Mecanização agrícola:",
-    "section": "Combustão interna",
-    "text": "Combustão interna\n\n\nCiclo Otto\nUtilizam combustível de baixa volatilidade, como gasolina e álcool. Para ignição necessitam de centelha produzida pelo sistema elétrico.\nEmpregado em situações agrícolas com menor demanda de potência e torque.\n\n\nCiclo Diesel\nUtilizam como combustível o óleo diesel. A inflamação do combustível injetado sob pressão na câmara de combustão ocorre pela compressão de ar e consequente elevação da temperatura."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#quanto-ao-número-de-ciclos",
-    "href": "aula_2/aula_2.html#quanto-ao-número-de-ciclos",
-    "title": "Mecanização agrícola:",
-    "section": "Quanto ao número de ciclos",
-    "text": "Quanto ao número de ciclos\n\n\nMotor de 4 tempos\nMotor de 2 tempos"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#objetivo-do-motor",
-    "href": "aula_2/aula_2.html#objetivo-do-motor",
-    "title": "Mecanização agrícola:",
-    "section": "Objetivo do motor",
-    "text": "Objetivo do motor\n\nGerar trabalho!\n\n\\(Trabalho~(J) = Força(N) * deslocamento(m)\\)\n\n\n\\(Força(N) = massa(kg) * aceleração(\\Delta_v/\\Delta_t)\\)\n\n\nPotência: Capacidade de transmitir energia por tempo.\n\nRealização de trabalho ou transmissão de calor.\n\nEx de potência: 1 cavalo puxa 75 kg em 1 s."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#histórico",
-    "href": "aula_2/aula_2.html#histórico",
-    "title": "Mecanização agrícola:",
-    "section": "Histórico",
-    "text": "Histórico\n\n\n\n\nAlphonse Beau de Rochas (França)\nPublica e registra os termos teóricos de um “princípio” de um motor a 4 tempos com compressão prévia da mistura antes da ignição.\n\n\nExposição de Paris\nNikolaus August Otto apresenta um motor a combustão interna (4 tempos). \n\n\nMotor a quatro tempos funcional de Otto\nOtto e Deutz produzem o primeiro motor prático e confiável no ciclo de 4 tempo (admissão, compressão, combustão e escape).\nO ciclo ficou conhecido como ciclo Otto\n\n\nQueda da patente de Otto na Alemanha\nO documento de Beau de Rocha é redescoberto, assim a patente de Otto é invalidada.\nVárias fabricantes podem recriar o motor.\n\n\nDois tempos\nDugald Clerk patenteia um motor de 2 tempo com compressão estabelecendo uma alternativa ao ciclo Otto de 4 tempos.\n\n\nCiclo Otto em veículos\nOcorre a primeira aplicação do motor de ciclo Otto em veículos utilizando combustível a gasolina.\n\n\nCiclo Diesel\nEngenheiro Rudolf Diesel descreve um novo motor, no qual a ignição da mistura ar mais combustível era feita por compressão (motor Diesel). \n\n\nCiclo Diesel\nPrimeiro motor ciclo diesel é construído."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-1",
-    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-1",
-    "title": "Mecanização agrícola:",
-    "section": "Funcionamento do motor a combustão interna",
-    "text": "Funcionamento do motor a combustão interna"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-2",
-    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-2",
-    "title": "Mecanização agrícola:",
-    "section": "Funcionamento do motor a combustão interna",
-    "text": "Funcionamento do motor a combustão interna\n\n4 tempos ciclo diesel\n\n\nAdmissão: O pistão desce, a válvula de admissão se abre e a de escape fecha. Ao descer, o pistão cria pressão no cilindro. O ar é forçado pela pressão atmosféria a entrar no cilindro pelo filtro de ar e pela tubulação de admissão. A quantidade que entra é sempre a mesma, independente da aceleração.\n\n\n\n\nCompressão: O pistão sobe, as válvulas de admissão e de escape ficam fechadas. O ar admitido é comprimido até ocupar o volume da câmara de combustão. O ar se aquece, e ao fim da compressão, o bico injetor pulveriza óleo diesel no interior da câmara de combustão."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-3",
-    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-3",
-    "title": "Mecanização agrícola:",
-    "section": "Funcionamento do motor a combustão interna",
-    "text": "Funcionamento do motor a combustão interna\n\n4 tempos ciclo diesel\n\n\nCombustão: O pistão desce, acionado pela força de expansão dos gases queimados. As válvulas de admissão e de escape estão fechadas. A força de expansão é transmitida pelo pistão à biela e desta ao virabrequim, provocando assim movimento de rotação do motor.\n\n\n\n\nEscape: O pistão sobe, estando a válvula de escape aberta e a de admissão fechada. Os gases queimados são expulsos através da passagem dada pela válvula de escape."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-4",
-    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-4",
-    "title": "Mecanização agrícola:",
-    "section": "Funcionamento do motor a combustão interna",
-    "text": "Funcionamento do motor a combustão interna\n\nAdmissão"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-5",
-    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-5",
-    "title": "Mecanização agrícola:",
-    "section": "Funcionamento do motor a combustão interna",
-    "text": "Funcionamento do motor a combustão interna\n\nCompressão"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-6",
-    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-6",
-    "title": "Mecanização agrícola:",
-    "section": "Funcionamento do motor a combustão interna",
-    "text": "Funcionamento do motor a combustão interna\n\nExplosão"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-7",
-    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-7",
-    "title": "Mecanização agrícola:",
-    "section": "Funcionamento do motor a combustão interna",
-    "text": "Funcionamento do motor a combustão interna\n\nDescarga"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-8",
-    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-8",
-    "title": "Mecanização agrícola:",
-    "section": "Funcionamento do motor a combustão interna",
-    "text": "Funcionamento do motor a combustão interna"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-9",
-    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-9",
-    "title": "Mecanização agrícola:",
-    "section": "Funcionamento do motor a combustão interna",
-    "text": "Funcionamento do motor a combustão interna"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-10",
-    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-10",
-    "title": "Mecanização agrícola:",
-    "section": "Funcionamento do motor a combustão interna",
-    "text": "Funcionamento do motor a combustão interna"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-11",
-    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-11",
-    "title": "Mecanização agrícola:",
-    "section": "Funcionamento do motor a combustão interna",
-    "text": "Funcionamento do motor a combustão interna"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-12",
-    "href": "aula_2/aula_2.html#funcionamento-do-motor-a-combustão-interna-12",
-    "title": "Mecanização agrícola:",
-    "section": "Funcionamento do motor a combustão interna",
-    "text": "Funcionamento do motor a combustão interna"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-1",
-    "href": "aula_2/aula_2.html#componentes-do-motor-1",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor",
-    "text": "Componentes do motor"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel",
-    "href": "aula_2/aula_2.html#componentes-do-motor-diesel",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor diesel",
-    "text": "Componentes do motor diesel\n\nBloco dos cilindros"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-1",
-    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-1",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor diesel",
-    "text": "Componentes do motor diesel\n\nBloco dos cilindros\nFunção:\n\nBase onde se encontram todos os demais elementos do funcionamento do motor.\n\nCabeçote, válvulas, árvore de comando, cilindros, pistão, aneís de segmento, biela, casquilhos, árvore de manivelas, volante e cárter.\n\nEm máquinas agrícolas apresenta função estrutural e de sustentação."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-2",
-    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-2",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor diesel",
-    "text": "Componentes do motor diesel\n\nBloco dos cilindros\nCaracterísticas:\n\nPeça de fundição.\nEm seu interior apresenta grandes orifícios cilíndricos (cilindros) onde se realiza a combustão.\nApresenta cavidades para a passagem de água de arrefecimento."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-3",
-    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-3",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor diesel",
-    "text": "Componentes do motor diesel\n\nÁrvore de manivelas (virabrequim )"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-4",
-    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-4",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor diesel",
-    "text": "Componentes do motor diesel\n\nÁrvore de manivelas (virabrequim )\nFunção:\n\nAtua em conjunto com a biela como órgão transformador do movimento alternativo do pistão em movimento de rotação, transformando o trabalho realizado pelo pistão em torque.\n\nCaracterísticas:\n\nPeça de aço forjado com canais para conduzir o óleo lubrificante até os mancais e cabeças das bielas.\nSeu formato deriva do número e da distribuição dos cilindros (manivelas iguais ao número de cilindros)."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-5",
-    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-5",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor diesel",
-    "text": "Componentes do motor diesel\n\nBiela e pistão"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-6",
-    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-6",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor diesel",
-    "text": "Componentes do motor diesel\n\nPistão\nFunção:\n\nPistão é o órgão receptor do movimento de expansão dos gases resultantes da combustão. Primeiro componente a se movimentar.\nResponsável pela conversão da energia da combustão em trabalho mecânico.\nTrasfere a energia para o virabrequim.\n\nCaracterísticas:\n\nPeça cilíndrica localizada dentro do cilindro sem contato com o mesmo."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-7",
-    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-7",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor diesel",
-    "text": "Componentes do motor diesel\n\nAnéis do pistão"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-8",
-    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-8",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor diesel",
-    "text": "Componentes do motor diesel\n\nAnéis do pistão\nFunção:\n\nOs de compressão são responsáveis pela vedação da câmara do cilindro (fechamento hermético)\nOs de lubrificação executam o controle do fluxo de óleo entre o pistão e o cilindro.\nDissipação do calor do pistão pelas paredes do cilindro.\nRedução da área de contato direta entre as paredes do cilindro e do pistão."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-9",
-    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-9",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor diesel",
-    "text": "Componentes do motor diesel\n\nBiela\nFunção:\n\nÉ um órgão transformador do movimento alternativo do pistão em movimento de rotação no virabrequim.\nElemento de ligação entre o pistão e o virabrequim."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-10",
-    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-10",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor diesel",
-    "text": "Componentes do motor diesel\n\nBiela\nCaracterísticas:\n\nFeita em aço, é resistente para poder transferir a energia entre as partes.\nPossui 3 partes\n\nCabeça: Orifício circular que permite ligação com o virabrequim.\nCorpo: Faz a ligação entre o pé e a cabeça.\nPé: Orifício circular que permite ligação com o pistão."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-11",
-    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-11",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor diesel",
-    "text": "Componentes do motor diesel\n\nCárter de óleo"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-12",
-    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-12",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor diesel",
-    "text": "Componentes do motor diesel\n\nCárter de óleo\nFunção:\n\nDepósito para o óleo lubrificante do motor.\nAssegura a lubrificação do motor.\nReservatório do óleo de lubrificação e de eventuais detritos não retido pelos filtros.\n\nCaracterísticas:\n\nInvólucro rígido que fecha o bloco em sua parte inferior."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-13",
-    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-13",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor diesel",
-    "text": "Componentes do motor diesel\n\nVolante do motor"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-14",
-    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-14",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor diesel",
-    "text": "Componentes do motor diesel\n\nVolante do motor\nFunção:\n\nTransfere o torque obtido no virabrequim para a caixa de velocidades.\nÉ responsável por absorver vibrações do motor e manter estável ou dificultar oscilações."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-15",
-    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-15",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor diesel",
-    "text": "Componentes do motor diesel\n\nVálvulas"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-16",
-    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-16",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor diesel",
-    "text": "Componentes do motor diesel\n\nCabeçote"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-17",
-    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-17",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor diesel",
-    "text": "Componentes do motor diesel\n\nCabeçote\nFunção:\n\nFunciona como tampão para os cilindros e acomoda os mecanismos das válvulas de admissão e escape, bico injetor e canais de circulação do líquido de arrefecimento e lubrificação."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-18",
-    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-18",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor diesel",
-    "text": "Componentes do motor diesel\n\nJunta do Cabeçote"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-19",
-    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-19",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor diesel",
-    "text": "Componentes do motor diesel\n\nJunta do Cabeçote\nFunção:\n\nAtua na vedação entre o bloco do motor e o cabeçote.\nEvita a mistura de óleo, líquido de arrefecimento e gases de combustão.\n\nCaracterísticas:\n\nResistentes a altas temperaturas e pressões.\nFormada por um empilhamento de camadas de aço com revestimento especial."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-20",
-    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-20",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor diesel",
-    "text": "Componentes do motor diesel\n\nJunta do Cabeçote\nQuando a junta perde a vedação, toda a circulação de líquido de arrefecimento pode ser comprometida.\n\nMotor aquece mais que o normal.\nFumaça branca no escapamento (indica mistura de líquido de arrefecimento na câmara de combustão).\nVazamento de óleo e água (mudança no aspecto do óleo).\nPerda de potência.\nFalhas no motor."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-21",
-    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-21",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor diesel",
-    "text": "Componentes do motor diesel\n\nComando de válvulas"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#motor-completo",
-    "href": "aula_2/aula_2.html#motor-completo",
-    "title": "Mecanização agrícola:",
-    "section": "Motor completo",
-    "text": "Motor completo"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-22",
-    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-22",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor diesel",
-    "text": "Componentes do motor diesel\n\nCamisa do cilindro"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componentes-do-motor-diesel-23",
-    "href": "aula_2/aula_2.html#componentes-do-motor-diesel-23",
-    "title": "Mecanização agrícola:",
-    "section": "Componentes do motor diesel",
-    "text": "Componentes do motor diesel\n\nCamisa do cilindro\nFunção:\n\nEvitar desgaste do bloco pelo atrico entre pistão e bloco.\nFornecer proteção para outros componentes de interior.\n\nCaracterísticas:\n\nResistentes a altas temperaturas e pressões.\nPodem ser úmidas ou secas (em contato ou não com líquido de arrefecimento)."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel",
-    "href": "aula_2/aula_2.html#componente-do-motor-diesel",
-    "title": "Mecanização agrícola:",
-    "section": "Componente do motor diesel",
-    "text": "Componente do motor diesel\n\nCamisa do cilindro"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-1",
-    "href": "aula_2/aula_2.html#componente-do-motor-diesel-1",
-    "title": "Mecanização agrícola:",
-    "section": "Componente do motor diesel",
-    "text": "Componente do motor diesel\n\nCasquilhos ou bronzinas"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#componente-do-motor-diesel-2",
-    "href": "aula_2/aula_2.html#componente-do-motor-diesel-2",
-    "title": "Mecanização agrícola:",
-    "section": "Componente do motor diesel",
-    "text": "Componente do motor diesel\n\nCasquilhos ou bronzinas\nFunção:\n\nReduzir atrito e desgaste entre os elementos.\nAuxiliam no correto alinhamento do virabrequim e comando de válculas no bloco.\n\nCaracterísticas:\n\nEntregada entre biela e virabrequim, pino e êmbolo, etc."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#arranjo-dos-cilindros-1",
-    "href": "aula_2/aula_2.html#arranjo-dos-cilindros-1",
-    "title": "Mecanização agrícola:",
-    "section": "Arranjo dos cilindros",
-    "text": "Arranjo dos cilindros"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#o-que-é-cilindrada-1",
-    "href": "aula_2/aula_2.html#o-que-é-cilindrada-1",
-    "title": "Mecanização agrícola:",
-    "section": "O que é Cilindrada?",
-    "text": "O que é Cilindrada?\n\n\nO que significa falar que o motor é 2.0?\nO que é um carro 1000?"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#cálculo-da-cilindrada",
-    "href": "aula_2/aula_2.html#cálculo-da-cilindrada",
-    "title": "Mecanização agrícola:",
-    "section": "Cálculo da cilindrada",
-    "text": "Cálculo da cilindrada\n\n\\[V = \\frac{\\pi * D^2 * h}{4}* n \\]\n\\(V = cilindrada~(cm^3, litro, pol^3)\\)\n\\(D = diâmetro~do~pistão~(cm, pol)\\)\n\\(h = curso~do~pistão~do~PMI~ao~PMS~(cm, pol)\\)\n\\(n = número~de~cilindros\\)"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#cálculo-da-cilindrada-1",
-    "href": "aula_2/aula_2.html#cálculo-da-cilindrada-1",
-    "title": "Mecanização agrícola:",
-    "section": "Cálculo da cilindrada",
-    "text": "Cálculo da cilindrada\n\nEx: Um motor de 3 cilindros, com diâmetro dos cilindros de 10 cm e curso do êmbolo de 120 mm, qual a sua cilindrada?\n\n\\[V = \\frac{3.14 * 10^2*12}{4}*3 = 28274~cm^3\\]\n\n\nEx: Um motor de 4 cilindros, com diâmetro dos cilindros de 5 cm e curso do êmbolo de 5 cm, qual a sua cilindrada?"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#pms-e-pmi",
-    "href": "aula_2/aula_2.html#pms-e-pmi",
-    "title": "Mecanização agrícola:",
-    "section": "PMS e PMI",
-    "text": "PMS e PMI\n\n\nPMS: Ponto morto superior.\nPMI: Ponto morto inferior."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#ciclo-otto-ideal",
-    "href": "aula_2/aula_2.html#ciclo-otto-ideal",
-    "title": "Mecanização agrícola:",
-    "section": "Ciclo Otto ideal",
-    "text": "Ciclo Otto ideal"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#ciclo-otto-ideal-1",
-    "href": "aula_2/aula_2.html#ciclo-otto-ideal-1",
-    "title": "Mecanização agrícola:",
-    "section": "Ciclo Otto ideal",
-    "text": "Ciclo Otto ideal"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#ciclo-otto-real",
-    "href": "aula_2/aula_2.html#ciclo-otto-real",
-    "title": "Mecanização agrícola:",
-    "section": "Ciclo Otto real",
-    "text": "Ciclo Otto real"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#ciclo-termodinâmico",
-    "href": "aula_2/aula_2.html#ciclo-termodinâmico",
-    "title": "Mecanização agrícola:",
-    "section": "Ciclo Termodinâmico",
-    "text": "Ciclo Termodinâmico"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#pms-e-pmi-1",
-    "href": "aula_2/aula_2.html#pms-e-pmi-1",
-    "title": "Mecanização agrícola:",
-    "section": "PMS e PMI",
-    "text": "PMS e PMI\n\nA relação entre o volume máximo formado no cilindro e o volume mínimo (morto) é chamada de razão de compressão (r) do motor.\n\\[r = \\frac{V_{max}}{V_{min}} = \\frac{V_{PMI}}{V_{PMS}}\\]"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#eficiência-do-motor-otto",
-    "href": "aula_2/aula_2.html#eficiência-do-motor-otto",
-    "title": "Mecanização agrícola:",
-    "section": "Eficiência do motor Otto",
-    "text": "Eficiência do motor Otto\n\nA eficiência térmica do motor Otto pode ser expressa como:\n\\[\\eta_{t,Otto}=1-\\frac{1}{r^{k-1}}\\]\n\\(\\eta_{t,Otto}= eficiência~térmica\\)\n\\(r = razão~de~compressão\\)\n\\(k=razão~dos~calores~específicos\\)"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#eficiência-do-motor-otto-1",
-    "href": "aula_2/aula_2.html#eficiência-do-motor-otto-1",
-    "title": "Mecanização agrícola:",
-    "section": "Eficiência do motor Otto",
-    "text": "Eficiência do motor Otto\n\nUm motor de ciclo Otto de quatro cilindros possui diâmetro do cilindro de \\(90\\ \\text{mm}\\), curso do pistão de \\(100\\ \\text{mm}\\) e volume de folga (volume morto) de \\(106.024~cm^3\\) por cilindro. (assuma, k = 1.4) Calcule:\n\nO deslocamento volumétrico total do motor (CC);\nA taxa de compressão;\nA eficiência térmica teórica do ciclo Otto."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#eficiência-do-motor-otto-2",
-    "href": "aula_2/aula_2.html#eficiência-do-motor-otto-2",
-    "title": "Mecanização agrícola:",
-    "section": "Eficiência do motor Otto",
-    "text": "Eficiência do motor Otto\n\nUm motor de ciclo Otto de quatro cilindros possui diâmetro do cilindro de \\(90\\ \\text{mm}\\), curso do pistão de \\(100\\ \\text{mm}\\) e volume de folga (volume morto) de \\(106.024~cm^3\\) por cilindro. (assuma, k = 1.4) Calcule:\n\nO deslocamento volumétrico total do motor (CC);\n\n\n\\(V = \\frac{\\pi * 9^2 * 10}{4} * 4 = 2544~cm^3 = 2.5 CC\\)"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#eficiência-do-motor-otto-3",
-    "href": "aula_2/aula_2.html#eficiência-do-motor-otto-3",
-    "title": "Mecanização agrícola:",
-    "section": "Eficiência do motor Otto",
-    "text": "Eficiência do motor Otto\n\nUm motor de ciclo Otto de quatro cilindros possui diâmetro do cilindro de \\(90\\ \\text{mm}\\), curso do pistão de \\(100\\ \\text{mm}\\) e volume de folga (volume morto) de \\(106.024~cm^3\\) por cilindro. (assuma, k = 1.4) Calcule:\n\nA taxa de compressão;\n\n\n\\(V_{cilindro}=\\frac{2544.69}{4}= 636~cm^3\\)\n\\(V_{max}= 636+106 = 742~cm^3\\)\n\\(V_{min} = 106~cm^3\\)\n\\[r=\\frac{742}{106}=7\\]"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#eficiência-do-motor-otto-4",
-    "href": "aula_2/aula_2.html#eficiência-do-motor-otto-4",
-    "title": "Mecanização agrícola:",
-    "section": "Eficiência do motor Otto",
-    "text": "Eficiência do motor Otto\n\nUm motor de ciclo Otto de quatro cilindros possui diâmetro do cilindro de \\(90\\ \\text{mm}\\), curso do pistão de \\(100\\ \\text{mm}\\) e volume de folga (volume morto) de \\(106.024~cm^3\\) por cilindro. (assuma, k = 1.4) Calcule:\n\nA eficiência térmica teórica do ciclo Otto.\n\n\n\\[\\eta_{t,Otto}=1-\\frac{1}{7^{(1.4-1)}}=0.54 = 54\\% \\]"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#eficiência-do-motor-otto-5",
-    "href": "aula_2/aula_2.html#eficiência-do-motor-otto-5",
-    "title": "Mecanização agrícola:",
-    "section": "Eficiência do motor Otto",
-    "text": "Eficiência do motor Otto"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#ciclo-diesel-ideal",
-    "href": "aula_2/aula_2.html#ciclo-diesel-ideal",
-    "title": "Mecanização agrícola:",
-    "section": "Ciclo diesel ideal",
-    "text": "Ciclo diesel ideal"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#eficiência-ciclo-diesel",
-    "href": "aula_2/aula_2.html#eficiência-ciclo-diesel",
-    "title": "Mecanização agrícola:",
-    "section": "Eficiência Ciclo diesel",
-    "text": "Eficiência Ciclo diesel\n\n\\[\\eta_{t,Diesel}=1-\\frac{1}{r^{k-1}}*[\\frac{r_{c}^k-1}{k(r_{c}-1)}] \\]\n\\(r = razão~de~compressão\\)\n\\(r_c= razão~de~corte\\)\n\\(k = razão~dos~calores~específicos\\)"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#eficiência-ciclo-diesel-1",
-    "href": "aula_2/aula_2.html#eficiência-ciclo-diesel-1",
-    "title": "Mecanização agrícola:",
-    "section": "Eficiência Ciclo diesel",
-    "text": "Eficiência Ciclo diesel\n\nRazão de corte\n\\[r_c = \\frac{v_3}{v_2}\\]\n\\(v_3 = volume~cilindro~após~combustão\\)\n\\(v_2 = volume~cilindro~antes~combustão\\)"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#eficiência-otto-vs-diesel",
-    "href": "aula_2/aula_2.html#eficiência-otto-vs-diesel",
-    "title": "Mecanização agrícola:",
-    "section": "Eficiência Otto vs Diesel",
-    "text": "Eficiência Otto vs Diesel\n\n\n\nDiferentes taxas de compressão"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel",
-    "href": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel",
-    "title": "Mecanização agrícola:",
-    "section": "Diferenças entre Otto e Diesel",
-    "text": "Diferenças entre Otto e Diesel\n\nForma do pistão"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel-1",
-    "href": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel-1",
-    "title": "Mecanização agrícola:",
-    "section": "Diferenças entre Otto e Diesel",
-    "text": "Diferenças entre Otto e Diesel\n\nIgnição via vela"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel-2",
-    "href": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel-2",
-    "title": "Mecanização agrícola:",
-    "section": "Diferenças entre Otto e Diesel",
-    "text": "Diferenças entre Otto e Diesel\n\n\n\n\n\n\n\n\n\nParâmetro\nCiclo Otto\nCiclo Diesel\n\n\n\n\nCombustível\nGasolina, Etanol, Metanol, GLP\nÓleo Diesel, Biodiesel\n\n\nCondição termodinâmica do ciclo principal\nAdição de calor a volume constante\nAdição de calor a pressão constante\n\n\nFase de admissão\nAdmite mistura de ar e combustível\nAdmite apenas ar\n\n\nRelação ar/combustível\nPouco variável\nMuito variável\n\n\nControle de carga\nVariando a quantidade de mistura\nVariando a quantidade de combustível"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel-3",
-    "href": "aula_2/aula_2.html#diferenças-entre-otto-e-diesel-3",
-    "title": "Mecanização agrícola:",
-    "section": "Diferenças entre Otto e Diesel",
-    "text": "Diferenças entre Otto e Diesel\n\n\n\n\n\n\n\n\n\nParâmetro\nCiclo Otto\nCiclo Diesel\n\n\n\n\nTaxa de compressão\n6–10:1\n16–20:1\n\n\nPressão mínima de compressão (kPa)\n1400\n3240\n\n\nForma de ignição\nCentelha elétrica\nAutoignição\n\n\nRotação\nMotores leves; combustão homogênea; altas rotações\nMotores pesados; combustão heterogênea; baixas rotações\n\n\nRotação de potência máxima\n&gt; 5000 rpm\n&lt; 3000 rpm\n\n\nRendimento térmico\n25–30%\n30–35%"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#motor-2-tempos-1",
-    "href": "aula_2/aula_2.html#motor-2-tempos-1",
-    "title": "Mecanização agrícola:",
-    "section": "Motor 2 tempos",
-    "text": "Motor 2 tempos\n\nQual a diferença para o motor 4 tempo?\n\nSão motores que em apenas 2 cursos do pistão executam os 4 tempos.\n\n\nEm apenas um giro do virabrequim eles realizam todo o ciclo termodinâmico do motor."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#motor-2-tempos-2",
-    "href": "aula_2/aula_2.html#motor-2-tempos-2",
-    "title": "Mecanização agrícola:",
-    "section": "Motor 2 tempos",
-    "text": "Motor 2 tempos\n\n\nCurso 1: admissão e compressão\nCurso 2: combustão e exaustão"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#motor-2-tempos-3",
-    "href": "aula_2/aula_2.html#motor-2-tempos-3",
-    "title": "Mecanização agrícola:",
-    "section": "Motor 2 tempos",
-    "text": "Motor 2 tempos"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#motor-2-tempos-4",
-    "href": "aula_2/aula_2.html#motor-2-tempos-4",
-    "title": "Mecanização agrícola:",
-    "section": "Motor 2 tempos",
-    "text": "Motor 2 tempos\n\n\n\nEquipamentos com motor 2 tempos:\n\nMotosserras;\nRoçadoras;\nMotores estacionários;\nMonocultivatores;"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#motor-2-tempos-5",
-    "href": "aula_2/aula_2.html#motor-2-tempos-5",
-    "title": "Mecanização agrícola:",
-    "section": "Motor 2 tempos",
-    "text": "Motor 2 tempos\n\n2 x 4 tempos"
-  },
-  {
-    "objectID": "aula_2/aula_2.html#motor-2-tempos-6",
-    "href": "aula_2/aula_2.html#motor-2-tempos-6",
-    "title": "Mecanização agrícola:",
-    "section": "Motor 2 tempos",
-    "text": "Motor 2 tempos\n\nDiferenças\n\n\n\n\n\n\n\n\n\nNão emprega válvulas para admissão e exaustão (usa-se janelas).\n\nO pistão trabalha como “válvula”.\n\nNão é necessário cabeçote.\nCárter não tem função de armazenamento de lubrificante.\n\nÓleo lubrificante é adicionado com o combustível.\nVida útil menor que motor 4 tempo.\nPermite o uso em qualquer orientação.\n\nMais poluente.\n\n\n\nProduz mais potência em uma mesma cilindrada e rotação."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#motor-wankel-1",
-    "href": "aula_2/aula_2.html#motor-wankel-1",
-    "title": "Mecanização agrícola:",
-    "section": "Motor Wankel",
-    "text": "Motor Wankel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMais poluente."
-  },
-  {
-    "objectID": "aula_2/aula_2.html#motor-de-uso-agrícola-1",
-    "href": "aula_2/aula_2.html#motor-de-uso-agrícola-1",
-    "title": "Mecanização agrícola:",
-    "section": "Motor de uso agrícola",
-    "text": "Motor de uso agrícola\n\n\nAmbiente de trabalho.\nForça e modo de operação."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Mecanização agrícola - IFPR 2026/02",
-    "section": "",
-    "text": "Aula 1\n        História e desenvolvimento\n        \n      \n\n      \n        Aula 2\n        Motores de combustão interna\n        \n      \n\n       \n        Aula 3\n        Sistemas complementares ao motor\n        \n      \n\n       \n        Aula 4\n        Tratores e seus constituintes (P1)\n        \n      \n      \n        Aula 5\n        Em breve\n        Conteúdo será disponibilizado em breve.\n      \n\n    \n  \n\n  \n  \n    \n      📖\n      Selecione uma aula acima para visualizá-la aqui."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistemas-complementares-1",
-    "href": "aula_3/aula_3.html#sistemas-complementares-1",
-    "title": "Mecanização agrícola:",
-    "section": "Sistemas complementares",
-    "text": "Sistemas complementares\n\n\nSistema de alimentação;\nSistema de arrefecimento;\nSistema de lubrificação;\nSistema de partida;\nSistema de exaustão;   \nCombustíveis;\nLubrificantes."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\nConjunto de mecanismos com a função de alimentar o motor com a quantidade adequada de ar e de combustível.\n\nDois circuitos:\n\nAlimentação de ar;\nAlimentação de combustível (Diesel)."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-1",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-1",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\n\n\n\n\n\n\n\n\n\nOBJ-&gt;ar\n\n\n\n\n\nOBJ-&gt;comb\n\n\n\n\n\nar-&gt;A1\n\n\n\n\n\ncomb-&gt;C1\n\n\n\n\n\nA1-&gt;A2\n\n\n\n\n\nA2-&gt;A3\n\n\n\n\n\nA3-&gt;A4\n\n\n\n\n\nA4-&gt;A5\n\n\n\n\n\nA5-&gt;A6\n\n\n\n\n\nA6-&gt;M\n\n\n\n\n\nC1-&gt;C2\n\n\n\n\n\nC2-&gt;C3\n\n\n\n\n\nC3-&gt;C4\n\n\n\n\n\nC4-&gt;C5\n\n\n\n\n\nC5-&gt;C6\n\n\n\n\n\nC6-&gt;M\n\n\n\n\n\nM-&gt;E1\n\n\n\n\n\nE1-&gt;E2\n\n\n\n\n\nE2-&gt;E3\n\n\n\n\n\nOBJ\n\nSuprimento de ar e combustível\nao motor\n\n\n\nar\n\nAR\n\n\n\ncomb\n\nCOMBUSTÍVEL\n\n\n\nA1\n\nPré-filtro\n\n\n\nA2\n\nFiltro primário\n\n\n\nA3\n\nFiltro secundário\n\n\n\nA4\n\nTurbina\n(Turbocharger)\n\n\n\nA5\n\nResfriador\n(Intercooler)\n\n\n\nA6\n\nColetor de admissão\n\n\n\nC1\n\nTanque\n\n\n\nC2\n\nCopo de sedimentação\n\n\n\nC3\n\nBomba alimentadora\n\n\n\nC4\n\nFiltro de combustível\n\n\n\nC5\n\nBomba injetora\n\n\n\nC6\n\nBico injetor\n\n\n\nM\n\nCilindro\ndo motor\n\n\n\nE1\n\nColetor de descarga\n\n\n\nE2\n\nAbafador\n\n\n\nE3\n\nResíduos da combustão"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-2",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-2",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\nCircuito de alimentação de ar:\nÉ o circuito que distribui o ar para o motor. Ar limpo e livre de impurezas.\n\nFuncionamento em 3 etapas:\n\nAdmissão;\nFiltragem;\nExaustão."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-3",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-3",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\nTipos de filtro:\n\nPré-filtro: Responsável por reter partículas maiores por meio de centrifugação."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-4",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-4",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\nTipos de filtro:\n\nPré-filtro: Responsável por reter partículas maiores por meio de centrifugação."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-5",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-5",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\nTipos de filtro:\n\nBanho de óleo: O ar entra em contato com uma cuba de óleo, onde as partículas menores são retidas."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-6",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-6",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\nTipos de filtro:\n\nFiltro de cartucho: O filtro primário é de papel e o secundário de feltro. Retêm quase a totalidade das partículas sólidas em suspensão."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-7",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-7",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\nAspiração natural:\n\nMotor de aspiração natural trabalha com a pressão atmosférica para preencher os cilindros de ar;\nTempo de abertura da válvula de alimentação é menor;\nLimitação da potência do motor."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-8",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-8",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\nSobrealimentação:\n\nAumento da entrada de ar no motor;\nMaior preenchimento de ar dentro do cilindro;\nAumento da capacidade de geração de potência do motor;\nNão utiliza rotações altas;\nAumenta o calor;\n\nDesgaste dos componentes;\n\nAumenta o volume de ar no cilindro;\n\nPermite injeção de mais combustível;\nAumento da potência e torque (30%)."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-9",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-9",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\nSobrealimentação:\n\n\nA saída dos gases resultantes da queima do combustível, acionam uma turbina, enquanto os gases excedentes não utilizados neste acionamento são expulsos por uma válvula de alívio. Ao girar, a turbina movimenta o compressor que aspira o ar ambiente, comprimindo-o no motor, fazendo-o passar pelo radiador para resfriá-lo e, posteriormente ao cilindro (ciclo Diesel)."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-10",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-10",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\nIntercooler:\n\nSistema de troca de calor;\n\nAr-ar (mais comum);\nAr-água;\n\nReduz a temperatura do ar enviado aos cilindros;\nAr com temperatura ~200ºC;\nAr frio… volume menor, mais concentração dentro do cilindro.\n\nMais potência.\n\n\n\nTransformação isobárica – Lei de Charles aumento da temperatura aumenta o volume em pressão constante"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-11",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-11",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\nSobrealimentação:"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-12",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-12",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\nSobrealimentação:"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-13",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-13",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:\nÉ o circuito que tem a função de pulverizar o combustível na câmara de combustão em partículas finas.\n\nTanque;\nCopo sedimentador;\nBomba alimentadora;\nFiltros de combustível;\nBomba injetora;\nBicos injetores;\nDutos de alta e baixa pressão e retorno."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-14",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-14",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-15",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-15",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:\n\n\n\n\n1 - Tanque de Combustível;\n2 - Bomba de Combustível;\n3 - Linha de Combustível;\n4 - Filtro de Combustível;\n5 - Bomba de Alta Pressão;\n6 - Regulador de Pressão;\n7 - Common Rail;\n8 - Sensor de Pressão;\n9 - Linha de Alta Pressão;\n10 - Injetores;\n11 - Linha de Retorno;\n12 - Reservatório de Retorno de combustível."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-16",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-16",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:\n\nTanque de combustível: Depósito para armazenamento de combustível durante os períodos de operação;\n\nFabricado de polietileno;\nDeve ter autonomia de uma jornada de trabalho;\n\nCopo sedimentador: Função de decantar a água;\n\nÉ o componente que permite drenar a água;\nSistema modernos não apresentam copo de sedimentação."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-17",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-17",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:\n\nBomba alimentadora: Tem a função de retirar o óleo Diesel do tanque e colocar pressão para que o combustível passe pelos filtros e atinja a bomba injetora;\n\nPermite a realização da sangria do combustível (processo de remover o ar das mangueiras após a troca de filtro ou por demais fatores).\nEquipamentos modernos é de funcionamento elétrico;\n\nFiltros: têm a função de reter as partículas de impurezas presentes no combustível."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-18",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-18",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:\nCuidado com abastecimento:\n\nÉ recomendado realizar o abastecimento do tanque de combustível após a jornada de trabalho (à noite). Isso evita a formação de gotículas de água que podem danificar o motor.\n\n\n\nOutro fator que favorece o abastecimento durante a noite é que realizar o abastecimento pela manhã, antes da jornada de trabalho, pode provocar a movimentação dos sedimentos acumulados no fundo do tanque, o que pode danificar o sistema de filtragem."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-19",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-19",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-20",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-20",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-21",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-21",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:\n\nBomba injetora: Localizada entre os filtros de combustível e os bicos injetores, tem por função gerar uma vazão de combustível sob pressão, comprimindo o combustível até os bicos injetores;\n\nAlta pressão é necessária para atomizar o combustível.\nBombas rotativas, pistão e eletrônica.\n\nA injeção eletrônica: Sistema de controle de combustível de alta eficiência e de baixa emissão (dosagem precisa).\n\n\nNa bomba rotativa a lubrificação é feita pelo próprio óleo Diesel, enquanto nas bombas de pistão, o óleo lubrificante do motor é quem promove a lubrificação, ou então, o próprio óleo do reservatório da bomba é quem faz a lubrificação."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-22",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-22",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-23",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-23",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:\n\nBicos injetores: São responsáveis por injetar o combustível de forma atomizada na câmara de combustão;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\npressão de injeção 1300 - 2000 atm"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-24",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-24",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação\n\nCircuito de alimentação de combustível:"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-alimentação-25",
-    "href": "aula_3/aula_3.html#sistema-de-alimentação-25",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de alimentação",
-    "text": "Sistema de alimentação"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-arrefecimento-1",
-    "href": "aula_3/aula_3.html#sistema-de-arrefecimento-1",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de arrefecimento",
-    "text": "Sistema de arrefecimento\n\nA conversão da energia química do combustível para energia térmica depende de um ambiente com uma variação controlada de temperatura.\n\nO sistema de arrefecimento é o responsável por manter adequada a temperatura interna do motor e promover maior eficiência.\n\n\nApenas 25 a 35% da energia é convertida em trabalho.\n65 a 75% é perdido na forma de calor.\n\nEsse calor é transferido ao meio externo (ambiente) pelo sistema de arrefecimento;\n\nPodem ser do tipo: ar, água ou ar e água;\n\nMotores agrícolas usam sistema de arrefecimento por água.\nSuperaquecimento só ocorrerá se faltar água."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-arrefecimento-2",
-    "href": "aula_3/aula_3.html#sistema-de-arrefecimento-2",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de arrefecimento",
-    "text": "Sistema de arrefecimento"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-arrefecimento-3",
-    "href": "aula_3/aula_3.html#sistema-de-arrefecimento-3",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de arrefecimento",
-    "text": "Sistema de arrefecimento\n\nArrefecimento a água é controlado por meio da válvula termostática.\n\nBloqueia a passagem do líquido de arrefecimento, do motor para o radiador, quando o motor estiver abaixo da temperatura de trabalho;\nQuando a temperatura ultrapassa a temperatura de trabalho, a válvula se abre e permite a passagem de líquido para o radiador."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-arrefecimento-4",
-    "href": "aula_3/aula_3.html#sistema-de-arrefecimento-4",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de arrefecimento",
-    "text": "Sistema de arrefecimento\n\nRadiador\nFunção de trocar calor com o ambiente"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-arrefecimento-5",
-    "href": "aula_3/aula_3.html#sistema-de-arrefecimento-5",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de arrefecimento",
-    "text": "Sistema de arrefecimento"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-arrefecimento-6",
-    "href": "aula_3/aula_3.html#sistema-de-arrefecimento-6",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de arrefecimento",
-    "text": "Sistema de arrefecimento"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-lubrificação-1",
-    "href": "aula_3/aula_3.html#sistema-de-lubrificação-1",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de lubrificação",
-    "text": "Sistema de lubrificação\n\nOs movimentos relativos de peças do motor geram atrito e provocam aquecimento e desgaste do motor. A lubrificação é a interposição de substâncias oleosas entre as superfícies que estão em contato.\n\nReduz o aquecimento e o desgaste dos componentes;\nPelícula oleosa entre peças."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-lubrificação-2",
-    "href": "aula_3/aula_3.html#sistema-de-lubrificação-2",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de lubrificação",
-    "text": "Sistema de lubrificação\n\nFunções básicas:\n\n\n\nPermitir a formação de uma película de óleo lubrificante na interface de contato entre as superfícies móveis.\n\nReduzir atrito;\nMinimizar perda de energia mecânica;\nMinimizar desgaste;\nTornar suave o movimento do motor.\n\n\n\n\nPermitir a circulação ininterrupta de óleo lubrificante nos pontos que exigem;\n\nManutenção da temperatura;\n\nLimpeza dos pontos de lubrificação;\n\nRemoção de resíduos da combustão;\n\nVedação do espaço entre a parede do cilindro e os anéis do pistão;\nAmortecer choques (ruídos);"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-lubrificação-3",
-    "href": "aula_3/aula_3.html#sistema-de-lubrificação-3",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de lubrificação",
-    "text": "Sistema de lubrificação\n\nCircuito de lubrificação:\n\n\nA árvore de manivelas possui orifícios que transportam o óleo aos mancais das bielas e aos eixos fixos. Na biela, um pequeno orifício coincidente com um furo presente na árvore de manivelas, faz com que o óleo seja esguichado para as paredes do cilindro. Como a bomba recebe acionamento do eixo de distribuição, quando aumenta a rotação do motor, a pressão também aumenta. Há um limite operacional e, por isso, existe a válvula de alívio para controlar a pressão, a qual é indicada por um manômetro."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-lubrificação-4",
-    "href": "aula_3/aula_3.html#sistema-de-lubrificação-4",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de lubrificação",
-    "text": "Sistema de lubrificação\n\nSistema sob pressão:\n\nCárter: reservatório armazenador do óleo lubrificante;\n\nLocal onde há a bomba de óleo;\n\nBomba de óleo: responsável por distribuir o óleo armazenado no cárter para os componentes internos do motor;\nVálvula reguladora de pressão: próxima à saída da bomba, mantém constante a pressão, vazão uniforme;\nFiltros: retém as impurezas do óleo lubrificante;\nManômetros: indicador da pressão do óleo, por meio da medição da resistência que o óleo encontra ao ser forçado a passar pelo sistema."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-lubrificação-5",
-    "href": "aula_3/aula_3.html#sistema-de-lubrificação-5",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de lubrificação",
-    "text": "Sistema de lubrificação"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-lubrificação-6",
-    "href": "aula_3/aula_3.html#sistema-de-lubrificação-6",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de lubrificação",
-    "text": "Sistema de lubrificação\n\n\nCuide do nível do óleo!"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-partida-1",
-    "href": "aula_3/aula_3.html#sistema-de-partida-1",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de partida",
-    "text": "Sistema de partida\n\nSistema responsável pelas primeiras explosões e movimentação do motor.\n\nPrimeira energia fornecida ao motor."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-partida-2",
-    "href": "aula_3/aula_3.html#sistema-de-partida-2",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de partida",
-    "text": "Sistema de partida\n\nPode ser manual, com motores a gasolina, com gasolina ou elétrico\n\nManual é encontrado em motores Diesel monocilíndricos;\n\nManual por manivela: O motor é iniciado girando a árvore de manivelas até rotação suficiente;\nManual por corda: O acionamento se dá pelo puxar de uma corda (ex: motosserras) enrolada no volante;\n\nCom motores a gasolina: Sistema de acionamento é composto por um motor a gasolina (manual) que transmite a energia ao motor a Diesel via engrenagens;"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-partida-3",
-    "href": "aula_3/aula_3.html#sistema-de-partida-3",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de partida",
-    "text": "Sistema de partida\n\n\nCom gasolina: Válvula de arranque, é câmara auxiliar com vela de ignição (válvula reduz a razão de compressão e motor funciona como um ciclo Otto e depois se altera para ciclo Diesel);\nElétrico: É um sistema mais complexo com motor de partida (motor de arranque)."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-partida-4",
-    "href": "aula_3/aula_3.html#sistema-de-partida-4",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de partida",
-    "text": "Sistema de partida"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-partida-5",
-    "href": "aula_3/aula_3.html#sistema-de-partida-5",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de partida",
-    "text": "Sistema de partida\n\nA energia da bateria é transferida após o giro da chave de ignição. Um motor elétrico, denominado motor de arranque, é acionado e conectado ao volante do motor. Essa conexão é realizada por meio de duas engrenagens: o pinhão e a coroa.\n\nO pinhão é movimentado e se acopla à coroa do volante. Após o acoplamento, o motor de arranque transfere o movimento necessário para iniciar a rotação do motor. Quando o motor entra em funcionamento, o pinhão é automaticamente desacoplado da coroa."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-partida-6",
-    "href": "aula_3/aula_3.html#sistema-de-partida-6",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de partida",
-    "text": "Sistema de partida"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-exaustão-1",
-    "href": "aula_3/aula_3.html#sistema-de-exaustão-1",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de exaustão",
-    "text": "Sistema de exaustão\n\nFunções:\n\nConduzir os gases de escape: gases produzidos são descarregados na atmosfera;\nPurificar os gases de escape: remover componentes químicos nocivos e partículas poluentes;\nReduzir o ruído do escape: amortecer o ruído para o mínimo permitido (preservação da audição)."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-exaustão-2",
-    "href": "aula_3/aula_3.html#sistema-de-exaustão-2",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de exaustão",
-    "text": "Sistema de exaustão\n\n\n\n\n\n\n\n\n\n\nContaminante químico\nObservação\nConcentração (ppm)\n\n\n\n\nAcetaldeído\nCarcinógeno do Grupo 1 da IARC\n\n\n\nAcroleína\nProvável carcinógeno do Grupo 2A da IARC\n\n\n\nAnilina\nProvável carcinógeno do Grupo 2A da IARC\n\n\n\nArsênio\nCarcinógeno do Grupo 1 da IARC; desregulador endócrino\n\n\n\nBenzeno\nCarcinógeno do Grupo 1 da IARC\n\n\n\nBifenila\nToxicidade moderada\n\n\n\nBis(2-etil-hexil) ftalato\nDesregulador endócrino\n\n\n\n1,3-Butadieno\nCarcinógeno do Grupo 1 da IARC\n\n\n\nCádmio\nCarcinógeno do Grupo 1 da IARC; desregulador endócrino\n\n\n\nCloro\nSubproduto da injeção de ureia\n\n\n\nClorobenzeno\nToxicidade baixa a moderada\n\n\n\nCresol\n\n\n\n\nDibutil ftalato\nDesregulador endócrino\n\n\n\n1,8-Dinitropireno\nFortemente carcinogênico\n\n\n\nEtilbenzeno\n\n\n\n\nFormaldeído\nCarcinógeno do Grupo 1 da IARC\n\n\n\nChumbo inorgânico\nDesregulador endócrino\n\n\n\nMetanol\n\n\n\n\nMetil etil cetona\n\n\n\n\nNaftaleno\nCarcinógeno do Grupo 2B da IARC\n\n\n\nNíquel\nCarcinógeno do Grupo 2B da IARC\n\n\n\n3-Nitrobenzantrona (3-NBA)\nFortemente carcinogênico\n0,6–6\n\n\n4-Nitrobifenila\nIrritante; causa danos aos nervos, fígado e rins\n2,2\n\n\nFenol\n\n\n\n\nFósforo\n\n\n\n\nPireno\n\n3532–8002\n\n\nBenzo(e)pireno\n\n487–946\n\n\nBenzo(a)pireno\nCarcinógeno do Grupo 1 da IARC\n208–558\n\n\nFluoranteno\nPossível carcinógeno do Grupo 3 da IARC\n3399–7321\n\n\nPropionaldeído\n\n\n\n\nEstireno\nCarcinógeno do Grupo 2B da IARC\n\n\n\nTolueno\nPossível carcinógeno do Grupo 3 da IARC\n\n\n\nXileno\nPossível carcinógeno do Grupo 3 da IARC"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-exaustão-3",
-    "href": "aula_3/aula_3.html#sistema-de-exaustão-3",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de exaustão",
-    "text": "Sistema de exaustão\n\nSistemas de pós-tratamento:\n\nSão sistemas para melhorar o tratamento dado aos gases emitidos\n\nRecirculação dos gases de escape: EGR;\n\nIntroduz gás não reativo (já queimado) para a câmara de combustão;\nReduz a temperatura e produz menos NOx;\nReduz a eficiência térmica;\n\nRedução catalítica seletiva: SCR;\n\nInjeta um agente redutor líquido (ex: ARLA 32);\nReações químicas que convertem o NOx em N2, água e CO2."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-exaustão-4",
-    "href": "aula_3/aula_3.html#sistema-de-exaustão-4",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de exaustão",
-    "text": "Sistema de exaustão\n\nSistemas EGR:"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-exaustão-5",
-    "href": "aula_3/aula_3.html#sistema-de-exaustão-5",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de exaustão",
-    "text": "Sistema de exaustão\n\nSistemas SCR:"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#sistema-de-exaustão-6",
-    "href": "aula_3/aula_3.html#sistema-de-exaustão-6",
-    "title": "Mecanização agrícola:",
-    "section": "Sistema de exaustão",
-    "text": "Sistema de exaustão\n\nTransformação da ureia:\n\\[H_2NCONH_2 + H_2O = 2NH_3 + CO_2\\]\n\\[8NH_3 + 6NO_2 = 7N_2 + 12H_2\\]"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#combustível-1",
-    "href": "aula_3/aula_3.html#combustível-1",
-    "title": "Mecanização agrícola:",
-    "section": "Combustível",
-    "text": "Combustível\n\n\nQualquer substância cuja reação de oxidação-redução é altamente exotérmica.\n\n\n\n\n\n\n\n\n\nPodemos criar petróleo?"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#combustível-2",
-    "href": "aula_3/aula_3.html#combustível-2",
-    "title": "Mecanização agrícola:",
-    "section": "Combustível",
-    "text": "Combustível\n\nA maioria dos combustíveis utilizados hoje é derivada do petróleo.\n\nCom o devido processamento e refino, novos combustíveis alternativos com propriedades semelhantes ou iguais às do petróleo serão descobertos.\n\n\nExistirá um dia em que o petróleo será esgotado!"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#combustível-3",
-    "href": "aula_3/aula_3.html#combustível-3",
-    "title": "Mecanização agrícola:",
-    "section": "Combustível",
-    "text": "Combustível\n\nQual a principal vantagem dos combustíveis à base de petróleo?\n\n\n\n\nKobayashi, H. et al, 2019"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#combustível-4",
-    "href": "aula_3/aula_3.html#combustível-4",
-    "title": "Mecanização agrícola:",
-    "section": "Combustível",
-    "text": "Combustível\n\nOctanagem:\nÉ o índice de octano (C8H18), uma medida da resistência do combustível à compressão (escala de 0 a 100). - Quanto mais elevado, maior a capacidade de ser comprimido na câmara de combustão sem que ocorra a autoignição.\n\nCetanagem:\nÉ o número de cetano, índice que mede a qualidade de ignição de um combustível utilizado em um motor de ciclo Diesel. - Quanto maior for o valor, menor será o tempo para queima.\n\n\nGasolina com ar explode, mas sozinha ela não consegue autoignição"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#combustível-5",
-    "href": "aula_3/aula_3.html#combustível-5",
-    "title": "Mecanização agrícola:",
-    "section": "Combustível",
-    "text": "Combustível\n\nOctanagem x Cetanagem"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#combustível-6",
-    "href": "aula_3/aula_3.html#combustível-6",
-    "title": "Mecanização agrícola:",
-    "section": "Combustível",
-    "text": "Combustível\n\nGasolina:\n\nMistura inflamável de hidrocarbonetos de cadeias carbônicas menores (5 a 10 C).\n\nTipo A (sem etanol);\nTipo C (etanol anidro);"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#combustível-7",
-    "href": "aula_3/aula_3.html#combustível-7",
-    "title": "Mecanização agrícola:",
-    "section": "Combustível",
-    "text": "Combustível\n\nGasolina:\nApenas a tipo C é comercializada no Brasil\n\n\n\n\nCaracterística\nC-Comum\nC-Premium\n\n\n\n\nCor\nAmarelada\nLevemente alaranjada\n\n\nOctanagem min\n87\n91\n\n\nEnxofre max (ppm)\n50\n50\n\n\nAditivos\nPode conter\nContém"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#combustível-8",
-    "href": "aula_3/aula_3.html#combustível-8",
-    "title": "Mecanização agrícola:",
-    "section": "Combustível",
-    "text": "Combustível\n\nDiesel:\n\nTipos:\n\n\n\nÓleo Diesel S10 e S500 de uso rodoviário:\n\nVeículos automotivos;\nMáquinas agrícolas;\nMáquinas de construção;\nMáquinas industriais;\n\n\n\n\nÓleo Diesel S1800 de uso não rodoviário:\n\nMineração a céu aberto;\nTransporte ferroviário;\n\n\n\n\nÓleo Diesel marítimo:\n\nEmbarcações."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#combustível-9",
-    "href": "aula_3/aula_3.html#combustível-9",
-    "title": "Mecanização agrícola:",
-    "section": "Combustível",
-    "text": "Combustível\n\nDiesel:\n\nS10 e S500 = S é o símbolo do elemento enxofre (presente de forma natural no combustível).\n\n\n\n\n\nCaracterística\nS10\nS500\n\n\n\n\nCor\nIncolor a amarelado\nVermelho\n\n\nEnxofre (ppm)\n10\n500\n\n\nLubricidade\nBaixa\nAlta\n\n\nPoluentes\nMenos\nMais\n\n\nNúmero de cetano\n48\n42\n\n\nDesempenho\nMais eficiente\nMenos eficiente\n\n\nQuantidade de hidrogênio\nMais\nMenos\n\n\nCapacidade de solubilizar sedimentos\nMaior\nMenor"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#combustível-10",
-    "href": "aula_3/aula_3.html#combustível-10",
-    "title": "Mecanização agrícola:",
-    "section": "Combustível",
-    "text": "Combustível\n\n\nAlternativos:\n\n\n\n\n\n\n\n\nCategoria\nCombustível\nSigla/descrição\n\n\n\n\nLíquidos viscosos (bioDiesel)\nÉster metílico de óleos vegetais\n\n\n\n\nÉster metílico de gorduras animais\n\n\n\n\nResíduos de óleo de cozinha\n\n\n\n\nÓleo vegetal hidrotratado\nHVO\n\n\nLíquidos não viscosos\nÁlcool de cana-de-açúcar\n\n\n\n\nÁlcool de celulose\n\n\n\n\nÁlcool de cereais\n\n\n\n\nÁlcool de beterraba sacarina\n\n\n\n\nÉter dimetílico\nDME\n\n\nGases\nGás natural comprimido\nGNC\n\n\n\nGás liquefeito de petróleo\nGLP\n\n\n\nBiogás\n\n\n\n\nHidrogênio\n\n\n\nSintéticos\nGás para líquido\nGTL\n\n\n\nCarvão liquefeito\nCTL\n\n\n\nBiomassa para líquido\nBTL"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#lubrificantes-1",
-    "href": "aula_3/aula_3.html#lubrificantes-1",
-    "title": "Mecanização agrícola:",
-    "section": "Lubrificantes",
-    "text": "Lubrificantes\n\nFunções primárias:\nLimitar e controlar o atrito, prevenção ao superaquecimento, reduzir desgaste e proteção contra a corrosão.\n\nFunções secundárias:\nRemoção de contaminantes, vedação, amortecimento e isolamento térmico."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#lubrificantes-2",
-    "href": "aula_3/aula_3.html#lubrificantes-2",
-    "title": "Mecanização agrícola:",
-    "section": "Lubrificantes",
-    "text": "Lubrificantes\n\nAs características do óleo lubrificante interferem em suas funções.\n\nA origem e a composição dos óleos modificam o objetivo e suas propriedades\n\nOrigem: animal, vegetal, mineral e sintética\n\n\nAditivos: anticorrosivos, detergentes, dispersantes, etc."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#lubrificantes-3",
-    "href": "aula_3/aula_3.html#lubrificantes-3",
-    "title": "Mecanização agrícola:",
-    "section": "Lubrificantes",
-    "text": "Lubrificantes\n\nCaracterísticas importantes:\n\nViscosidade: indica a resistência ao escoamento;\nÍndice de viscosidade: variação da viscosidade em relação a uma faixa de temperatura;\nDensidade: relação entre a massa e o volume."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#lubrificantes-4",
-    "href": "aula_3/aula_3.html#lubrificantes-4",
-    "title": "Mecanização agrícola:",
-    "section": "Lubrificantes",
-    "text": "Lubrificantes\n\nViscosidade e temperatura:\n\nChiarello, et al. (2019)"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#lubrificantes-5",
-    "href": "aula_3/aula_3.html#lubrificantes-5",
-    "title": "Mecanização agrícola:",
-    "section": "Lubrificantes",
-    "text": "Lubrificantes\n\nSistemas de classificação:\n\nSAE: Society of Automotive Engineers;\nAPI: American Petroleum Institute;\nACEA: European Automobile Manufacturers Association"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#lubrificantes-6",
-    "href": "aula_3/aula_3.html#lubrificantes-6",
-    "title": "Mecanização agrícola:",
-    "section": "Lubrificantes",
-    "text": "Lubrificantes\n\nSistemas de classificação SAE:\n\nClassifica os lubrificantes com base na viscosidade, sem considerar fatores relativos ao desempenho e serviço\n\n\nOs lubrificantes são divididos em dois grupos\n\nMonoviscosos: identificados por um único número;\nMultiviscosos: identificados por dois números separados pela letra “W” (winter = inverno)."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#lubrificantes-7",
-    "href": "aula_3/aula_3.html#lubrificantes-7",
-    "title": "Mecanização agrícola:",
-    "section": "Lubrificantes",
-    "text": "Lubrificantes\n\nSistemas de classificação SAE:\nExemplos:\n\nO óleo SAE 10W possui uma baixa viscosidade e é adequado para ambiente de baixa temperatura (monograu).\nO óleo SAE 40 possui alta viscosidade (proteção ao motor) e é adequado para ambiente de alta temperatura (monograu).\nO óleo SAE 10W40 pode trabalhar tanto em baixa como em alta temperatura e possui uma viscosidade mais complexa (multigrau)."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#lubrificantes-8",
-    "href": "aula_3/aula_3.html#lubrificantes-8",
-    "title": "Mecanização agrícola:",
-    "section": "Lubrificantes",
-    "text": "Lubrificantes"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#lubrificantes-9",
-    "href": "aula_3/aula_3.html#lubrificantes-9",
-    "title": "Mecanização agrícola:",
-    "section": "Lubrificantes",
-    "text": "Lubrificantes\n\n\nSistemas de classificação SAE:\n\n\n\n\n\n\n\n\n\n\n\n\n\nGrau de viscosidade SAE\nViscosidade máxima para acionamento em baixa temperatura (MPa·s)\nTemperatura (°C)\nViscosidade máxima para bombeamento em baixa temperatura (MPa·s)\nTemperatura (°C)\nViscosidade cinemática a 100 °C — Mínimo (mm²/s)\nMáximo (mm²/s)\nAlta viscosidade de cisalhamento (cP)\n\n\n\n\n0W\n&lt; 6200\n-35\n&lt; 60000\n-40\n3,8\n-\n-\n\n\n5W\n&lt; 6600\n-30\n&lt; 60000\n-35\n3,8\n-\n-\n\n\n10W\n&lt; 7000\n-25\n&lt; 60000\n-30\n4,1\n-\n-\n\n\n15W\n&lt; 7000\n-20\n&lt; 60000\n-25\n5,6\n-\n-\n\n\n20W\n&lt; 9500\n-15\n&lt; 60000\n-20\n5,6\n-\n-\n\n\n25W\n&lt; 13000\n-10\n&lt; 60000\n-15\n9,3\n-\n-\n\n\n8\n-\n-\n-\n-\n4,0\n&lt; 6,1\n1,7\n\n\n12\n-\n-\n-\n-\n5,0\n&lt; 7,1\n2,0\n\n\n16\n-\n-\n-\n-\n6,1\n&lt; 8,2\n2,3\n\n\n20\n-\n-\n-\n-\n6,9\n&lt; 9,3\n2,6\n\n\n30\n-\n-\n-\n-\n9,3\n&lt; 12,5\n2,9\n\n\n40¹\n-\n-\n-\n-\n12,5\n&lt; 16,3\n3,5\n\n\n40²\n-\n-\n-\n-\n12,5\n&lt; 16,3\n3,7\n\n\n50\n-\n-\n-\n-\n16,3\n&lt; 21,9\n3,7\n\n\n60\n-\n-\n-\n-\n21,9\n&lt; 26,1\n3,7"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#lubrificantes-10",
-    "href": "aula_3/aula_3.html#lubrificantes-10",
-    "title": "Mecanização agrícola:",
-    "section": "Lubrificantes",
-    "text": "Lubrificantes"
-  },
-  {
-    "objectID": "aula_3/aula_3.html#lubrificantes-11",
-    "href": "aula_3/aula_3.html#lubrificantes-11",
-    "title": "Mecanização agrícola:",
-    "section": "Lubrificantes",
-    "text": "Lubrificantes\n\nSistemas de classificação API:\n\nClassifica os lubrificantes com base no desempenho.\n\n\nOs lubrificantes são divididos em dois grupos\n\nSérie S (Spark ignition = ignição por faísca): destinados a motores de ciclo Otto;\nSérie C (Compression ignition = ignição por compressão): destinados a motores ciclo Diesel."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#lubrificantes-12",
-    "href": "aula_3/aula_3.html#lubrificantes-12",
-    "title": "Mecanização agrícola:",
-    "section": "Lubrificantes",
-    "text": "Lubrificantes\n\nSistemas de classificação API:\nO segundo algarismo informa o nível de qualidade do óleo lubrificante, em ordem alfabética."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#lubrificantes-13",
-    "href": "aula_3/aula_3.html#lubrificantes-13",
-    "title": "Mecanização agrícola:",
-    "section": "Lubrificantes",
-    "text": "Lubrificantes\n\n\n\n\n\nCategoria API\nStatus\nServiço1\n\n\n\n\nCK-4\nAtual\nAtende aos padrões de 2017\n\n\nCJ-4\nAtual\nAtende aos padrões de 2010\n\n\nCI-4\nAtual\nAtende aos padrões de 2010\n\n\nCH-4\nAtual\nAtende aos padrões de 1998\n\n\nCG-4\nObsoleto\nNão adequado após 2009\n\n\nCF-4\nObsoleto\nNão adequado após 2009\n\n\nCF-2\nObsoleto\nNão adequado após 2009\n\n\nCF\nObsoleto\nNão adequado após 2009\n\n\nCE\nObsoleto\nNão adequado após 1994\n\n\nCD-II\nObsoleto\nNão adequado após 1994\n\n\nCD\nObsoleto\nNão adequado após 1994\n\n\nCC\nObsoleto\nNão adequado após 1990\n\n\nCB\nObsoleto\nNão adequado após 1961\n\n\nCA\nObsoleto\nNão adequado após 1959\n\n\nFA-42\nAtual\nAtende aos padrões de 2017\n\n\n\n\nIndica o ano dos padrões de emissão aos quais a categoria atende ou até o qual é considerada adequada.Categoria destinada a motores que atendem aos padrões de emissão para veículos rodoviários de 2017."
-  },
-  {
-    "objectID": "aula_3/aula_3.html#lubrificantes-14",
-    "href": "aula_3/aula_3.html#lubrificantes-14",
-    "title": "Mecanização agrícola:",
-    "section": "Lubrificantes",
-    "text": "Lubrificantes\n\nSistemas de classificação ACEA:\nBaseado nos requisitos europeus.\nFaz o uso de letras para definir a aplicação e algarismos (1 a 7) para características do lubrificante.\n\nA é para veículos de passeio (gasolina e/ou etanol);\nB e C para veículos leves;\nE para veículos pesados (Diesel)."
   }
 ]

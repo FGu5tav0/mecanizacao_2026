@@ -115,3 +115,112 @@
     min-height: 320px;
   }
 }
+
+
+/* ================================
+   TÍTULOS DAS SEÇÕES
+   ================================ */
+
+.secao-titulo {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+.materiais-titulo {
+  margin-top: 2rem;
+}
+
+
+/* ================================
+   GRID DOS MATERIAIS
+   ================================ */
+
+.materiais-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+}
+
+
+/* ================================
+   CARD DE MATERIAL
+   ================================ */
+
+.material-card {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+
+  padding: 14px;
+
+  text-decoration: none;
+
+  border: 1px solid #ddd;
+  border-radius: 10px;
+
+  background: white;
+
+  transition: all 0.2s ease;
+
+  cursor: pointer;
+}
+
+.material-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.10);
+}
+
+.material-card.ativo {
+  border-color: #2c7be5;
+  box-shadow: 0 0 0 2px rgba(44,123,229,0.15);
+}
+
+
+/* ================================
+   ÍCONE
+   ================================ */
+
+.material-icon {
+  font-size: 1.8rem;
+  flex-shrink: 0;
+}
+
+
+/* ================================
+   TEXTO
+   ================================ */
+
+.material-info {
+  flex: 1;
+}
+
+.material-title {
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.material-desc {
+  font-size: 0.8rem;
+  opacity: 0.65;
+  margin-top: 3px;
+}
+
+
+/* ================================
+   TIPO DO ARQUIVO
+   ================================ */
+
+.material-tipo {
+  font-size: 0.7rem;
+  font-weight: 700;
+
+  padding: 4px 7px;
+
+  border-radius: 5px;
+
+  background: #eee;
+
+  opacity: 0.8;
+}

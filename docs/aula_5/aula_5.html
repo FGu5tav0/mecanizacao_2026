@@ -1,0 +1,1781 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/tabby.min.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/quarto-contrib/timeline-0.1.0/timeline.js"></script>
+<link href="../site_libs/quarto-contrib/timeline-0.1.0/timeline.css" rel="stylesheet"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.10.18">
+
+  <meta name="author" content="Gustavo Frosi">
+  <title>mecanizacao – Mecanização agrícola:</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/reveal.css">
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+      vertical-align: middle;
+    }
+  </style>
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-ec59874b3a8398889ca2432df423b2c0.css">
+  <link rel="stylesheet" href="stilo.css">
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-SCQSRGY4FE"></script>
+
+  <script type="text/javascript">
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-SCQSRGY4FE', { 'anonymize_ip': true});
+  </script>
+  <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <style type="text/css">
+    .reveal div.sourceCode {
+      margin: 0;
+      overflow: auto;
+    }
+    .reveal div.hanging-indent {
+      margin-left: 1em;
+      text-indent: -1em;
+    }
+    .reveal .slide:not(.center) {
+      height: 100%;
+    }
+    .reveal .slide.scrollable {
+      overflow-y: auto;
+    }
+    .reveal .footnotes {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide .absolute {
+      position: absolute;
+      display: block;
+    }
+    .reveal .footnotes ol {
+      counter-reset: ol;
+      list-style-type: none; 
+      margin-left: 0;
+    }
+    .reveal .footnotes ol li:before {
+      counter-increment: ol;
+      content: counter(ol) ". "; 
+    }
+    .reveal .footnotes ol li > p:first-child {
+      display: inline-block;
+    }
+    .reveal .slide ul,
+    .reveal .slide ol {
+      margin-bottom: 0.5em;
+    }
+    .reveal .slide ul li,
+    .reveal .slide ol li {
+      margin-top: 0.4em;
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide ul[role="tablist"] li {
+      margin-bottom: 0;
+    }
+    .reveal .slide ul li > *:first-child,
+    .reveal .slide ol li > *:first-child {
+      margin-block-start: 0;
+    }
+    .reveal .slide ul li > *:last-child,
+    .reveal .slide ol li > *:last-child {
+      margin-block-end: 0;
+    }
+    .reveal .slide .columns:nth-child(3) {
+      margin-block-start: 0.8em;
+    }
+    .reveal blockquote {
+      box-shadow: none;
+    }
+    .reveal .tippy-content>* {
+      margin-top: 0.2em;
+      margin-bottom: 0.7em;
+    }
+    .reveal .tippy-content>*:last-child {
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide > img.stretch.quarto-figure-center,
+    .reveal .slide > img.r-stretch.quarto-figure-center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-left,
+    .reveal .slide > img.r-stretch.quarto-figure-left  {
+      display: block;
+      margin-left: 0;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-right,
+    .reveal .slide > img.r-stretch.quarto-figure-right  {
+      display: block;
+      margin-left: auto;
+      margin-right: 0; 
+    }
+  </style>
+  <script>
+  document.addEventListener('contextmenu', event => event.preventDefault());
+  document.addEventListener('copy', event => event.preventDefault());
+  document.addEventListener('cut', event => event.preventDefault());
+  </script>
+</head>
+<body class="quarto-light">
+<script src="mathjax-config.js"></script>
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide" data-background-image="fundo.jpg" data-background-opacity="0.9" data-background-position="right 3% top 52%" data-background-size="30%" class="quarto-title-block center">
+  <h1 class="title">Mecanização agrícola:</h1>
+  <p class="subtitle">Tratores e seus constituintes (P2)</p>
+
+<div class="quarto-title-authors">
+<div class="quarto-title-author">
+<div class="quarto-title-author-name">
+Gustavo Frosi
+</div>
+<div class="quarto-title-author-email">
+<a href="mailto:gustavofrosi@hotmail.com">gustavofrosi@hotmail.com</a>
+</div>
+        <p class="quarto-title-affiliation">
+            Instituto Federal do Paraná <br> Curso Superior em Engenharia Agronômica
+          </p>
+    </div>
+</div>
+
+  <p class="date">4 de setembro de 2026</p>
+</section>
+<section>
+<section id="relembrando-o-motor" class="title-slide slide level1 center">
+<h1>Relembrando o motor…</h1>
+<hr>
+</section>
+<section id="relembrando-o-motor-1" class="slide level2">
+<h2>Relembrando o motor…</h2>
+<hr>
+<p>Responsável pela transformação da energia dos combustíveis em energia mecânica (torque e rotação).</p>
+</section></section>
+<section>
+<section id="sistema-de-transmissão" class="title-slide slide level1 center">
+<h1>Sistema de transmissão</h1>
+<hr>
+</section>
+<section id="sistema-de-transmissão-1" class="slide level2">
+<h2>Sistema de transmissão</h2>
+<hr>
+<div class="fragment">
+<p>Função principal de realizar a transmissão de potência.</p>
+</div>
+<div class="fragment">
+<ul>
+<li class="fragment">Permitir o funcionamento contínuo do motor;</li>
+<li class="fragment">Redução de rotação e aumento de torque;</li>
+<li class="fragment">Possibilitar operações de aproximação e paradas de emergência sem danificar os componentes;</li>
+<li class="fragment">Permitir inúmeras intensidades operacionais;
+<ul>
+<li class="fragment">Rotação, velocidade, torque e sentido.</li>
+</ul></li>
+<li class="fragment">Diferenciar a rotação entre as duas rodas motrizes, traseira e dianteira (4x2 TDA);</li>
+<li class="fragment">Acionar diferentes sistemas (TDP e hidráulico).</li>
+</ul>
+</div>
+</section>
+<section id="sistema-de-transmissão-2" class="slide level2">
+<h2>Sistema de transmissão</h2>
+<hr>
+<p>O que se busca em um trator?</p>
+<div class="fragment">
+<p>Velocidade ou torque?</p>
+</div>
+<div class="fragment">
+<p>Um trator cujo acionamento estivesse de forma direta no eixo da roda motriz do motor ocasionaria velocidades de carros esportivos.</p>
+<div class="fragment">
+<p>Ex: Um trator a 2000 rpm e com pneus traseiros de 61 cm de diâmetro, sem redução da rotação, teria uma velocidade de deslocamento de 230 km h<sup>-1</sup>.</p>
+</div>
+</div>
+</section>
+<section id="sistema-de-transmissão-3" class="slide level2">
+<h2>Sistema de transmissão</h2>
+<hr>
+<p>A proporção de diminuição é chamada de <strong>relação de transmissão</strong> e é expressa como a razão entre a rotação do virabrequim e a do eixo das rodas motrizes.</p>
+<div class="fragment">
+<p>“O número de voltas do volante do motor para cada volta da roda motriz do trator”</p>
+</div>
+</section>
+<section id="sistema-de-transmissão-4" class="slide level2">
+<h2>Sistema de transmissão</h2>
+<hr>
+<p>A contrapartida é o aumento significativo do torque, que é altamente desejável em aplicações agrícolas.</p>
+<div class="fragment">
+<p>O sistema de transmissão opera modificando o torque e a rotação para que o trator possa desempenhar adequadamente os trabalhos agrícolas (muito torque).</p>
+</div>
+</section>
+<section id="sistema-de-transmissão-5" class="slide level2">
+<h2>Sistema de transmissão</h2>
+<hr>
+<p>Essa importância do sistema se traduz em seu preço.</p>
+<div class="fragment">
+<p>Todo o sistema (transmissão, diferencial, eixos, freios, TDP, eixo de tração) corresponde a 25 a 30% do custo total do trator.</p>
+</div>
+</section>
+<section id="sistema-de-transmissão-6" class="slide level2">
+<h2>Sistema de transmissão</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Constituintes do sistema de transmissão:</strong></span></p>
+
+<img data-src="imagens/motor_cambio.png" class="quarto-figure quarto-figure-center r-stretch"></section></section>
+<section>
+<section id="embreagem" class="title-slide slide level1 center">
+<h1>Embreagem</h1>
+<hr>
+</section>
+<section id="embreagem-1" class="slide level2">
+<h2>Embreagem</h2>
+<hr>
+<div class="fragment">
+<p>A função da embreagem é conectar e desconectar o movimento do motor com o da caixa de câmbio.</p>
+</div>
+<ul>
+<li class="fragment">Quando o pedal da embreagem está em sua posição normal (solto), a embreagem transmite o movimento do motor à caixa de câmbio.</li>
+<li class="fragment">Quando ocorre o acionamento do pedal, a embreagem deixa de transmitir o movimento.</li>
+</ul>
+</section>
+<section id="embreagem-2" class="slide level2">
+<h2>Embreagem</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Embreagem de disco único (simples):</strong></span></p>
+
+<img data-src="imagens/embreagem.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="embreagem-3" class="slide level2">
+<h2>Embreagem</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Embreagem de disco único (simples):</strong></span></p>
+<p><strong>Funcionamento</strong></p>
+<div class="fragment">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/embreagem3.jpg" class="quarto-figure quarto-figure-center" width="550"></p>
+</figure>
+</div>
+</div>
+</section>
+<section id="embreagem-4" class="slide level2">
+<h2>Embreagem</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Embreagem de disco único (simples):</strong></span></p>
+<p><strong>Funcionamento</strong></p>
+<div class="fragment">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/embreagem2.jpg" class="quarto-figure quarto-figure-center" width="750"></p>
+</figure>
+</div>
+</div>
+</section>
+<section id="embreagem-5" class="slide level2">
+<h2>Embreagem</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Embreagem de disco único (simples):</strong></span></p>
+<p><strong>Funcionamento</strong></p>
+<div class="fragment">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/embreagem4.jpg" class="quarto-figure quarto-figure-center" width="450"></p>
+</figure>
+</div>
+</div>
+</section>
+<section id="embreagem-6" class="slide level2">
+<h2>Embreagem</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Embreagem de disco único (simples):</strong></span></p>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/embreada.png" class="quarto-figure quarto-figure-center" width="340"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/desembreada.png" class="quarto-figure quarto-figure-center" width="340"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="embreagem-7" class="slide level2">
+<h2>Embreagem</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Embreagem de disco único (simples):</strong></span></p>
+<p><strong>Funcionamento</strong></p>
+<p>A placa de pressão exerce força sobre o disco que é preso ao volante do motor. Isso permite a transferência de energia e do movimento de rotação para o sistema de transmissão.</p>
+<div class="fragment">
+<p>Ao acionar o pedal, a placa de pressão libera a pressão sobre o disco, e este é desacoplado do volante.</p>
+</div>
+<div class="fragment">
+<p>Disco simples refere-se à quantidade de discos de embreagem no sistema (1 disco).</p>
+<div class="fragment" style="font-size:22px">
+<p>Controle limitado da TDP. Não é possível interromper o movimento do trator sem desligar a TDP quando ambos estão em movimento.</p>
+</div>
+</div>
+</section>
+<section id="embreagem-8" class="slide level2">
+<h2>Embreagem</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Tipos de embreagem:</strong></span></p>
+<ul>
+<li class="fragment">Disco simples a seco: em tratores mais simples, o acionamento provoca a parada do avanço do trator quando há a parada da TDP;</li>
+<li class="fragment">Embreagem dupla a seco: contém dois conjuntos de discos de embreagem independentes. Possui dois estágios: o primeiro desconecta o motor da caixa de câmbio e o segundo, da TDP;
+<ul>
+<li class="fragment">Permite parar o movimento do trator sem parar a TDP, quando ambos estão em movimento.</li>
+</ul></li>
+</ul>
+</section>
+<section id="embreagem-9" class="slide level2">
+<h2>Embreagem</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Tipos de embreagem:</strong></span></p>
+<ul>
+<li class="fragment">Independente de disco duplo a seco: dois conjuntos de discos separados. Possui dispositivos independentes do pedal da embreagem para ligar ou desligar o movimento do motor à TDP;
+<ul>
+<li class="fragment">Alavancas, teclas ou botões (apenas para a TDP);</li>
+<li class="fragment">Mais moderno;</li>
+</ul></li>
+<li class="fragment">Discos múltiplos: vários discos metálicos, que aumentam a superfície de atrito.</li>
+</ul>
+</section>
+<section id="embreagem-10" class="slide level2">
+<h2>Embreagem</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Discos duplos:</strong></span></p>
+
+<img data-src="imagens/embreagem_dupla.png" class="r-stretch quarto-figure-center"><p class="caption">Atares e Blanca 2005</p></section></section>
+<section>
+<section id="caixa-de-câmbio" class="title-slide slide level1 center">
+<h1>Caixa de câmbio</h1>
+<hr>
+</section>
+<section id="caixa-de-câmbio-1" class="slide level2">
+<h2>Caixa de câmbio</h2>
+<hr>
+<p>Em motores agrícolas, a potência na rotação é praticamente constante. Portanto, mesmo que a rotação seja alterada, a velocidade não mudará muito.</p>
+<div class="fragment">
+<p>A alteração da velocidade e do torque é realizada por meio de mudanças de marchas (relações de engrenagens).</p>
+</div>
+<div class="fragment">
+<p>Para potência constante do motor, quando se aumenta o torque, tem-se a redução da velocidade, e vice-versa.</p>
+</div>
+</section>
+<section id="caixa-de-câmbio-2" class="slide level2">
+<h2>Caixa de câmbio</h2>
+<hr>
+<p>A principal função é facilitar a adequação da potência e do torque do trator à atividade realizada.</p>
+<div class="fragment">
+<p>Permitir a alteração do sentido do deslocamento do trator (frente e ré).</p>
+</div>
+</section>
+<section id="caixa-de-câmbio-3" class="slide level2">
+<h2>Caixa de câmbio</h2>
+<hr>
+<p>Tratores requerem muitas marchas.</p>
+<div class="fragment">
+<p>A entrega da potência máxima em velocidades de trabalho distintas requer marchas.</p>
+</div>
+</section></section>
+<section>
+<section id="caixa-de-câmbio---transmissão-mecânica" class="title-slide slide level1 center">
+<h1>Caixa de câmbio - transmissão mecânica</h1>
+<hr>
+</section>
+<section id="caixa-de-câmbio---transmissão-mecânica-1" class="slide level2">
+<h2>Caixa de câmbio - transmissão mecânica</h2>
+<hr>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/alavancas.jpg" class="quarto-figure quarto-figure-center" width="300"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/manoplas.jpeg" class="quarto-figure quarto-figure-center" width="300"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="caixa-de-câmbio---transmissão-mecânica-2" class="slide level2">
+<h2>Caixa de câmbio - transmissão mecânica</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Grupos de marchas:</strong></span></p>
+<p>Caixas redutoras, posicionadas antes da caixa de marchas geral.</p>
+<div class="fragment">
+<p>Composta por um par de engrenagens de mesmo tamanho, que não altera o torque e a rotação. Mais um par de engrenagens, com uma engrenagem motora menor e uma movida maior, propiciando menor velocidade e maior torque.</p>
+<div class="fragment">
+<p>Chamada de <strong>marchas reduzidas</strong>.</p>
+</div>
+</div>
+<div class="fragment">
+<p>Ex: um trator com opção reduzida multiplica por 2 o número de marchas. Se há 4 marchas normais, são 8 no total para frente, mais 2 para ré.</p>
+</div>
+</section>
+<section id="caixa-de-câmbio---transmissão-mecânica-3" class="slide level2">
+<h2>Caixa de câmbio - transmissão mecânica</h2>
+<hr>
+
+<img data-src="imagens/cambio_total.jpg" class="r-stretch quarto-figure-center"><p class="caption">Atares e Blanca 2005</p></section>
+<section id="caixa-de-câmbio---transmissão-mecânica-4" class="slide level2">
+<h2>Caixa de câmbio - transmissão mecânica</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Caixa reduzida:</strong></span></p>
+
+<img data-src="imagens/reduzida.jpg" class="r-stretch quarto-figure-center"><p class="caption">Atares e Blanca 2005</p></section>
+<section id="caixa-de-câmbio---transmissão-mecânica-5" class="slide level2">
+<h2>Caixa de câmbio - transmissão mecânica</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Caixa principal (1ª):</strong></span></p>
+
+<img data-src="imagens/primeira_simples.png" class="r-stretch quarto-figure-center"><p class="caption">Atares e Blanca 2005</p></section>
+<section id="caixa-de-câmbio---transmissão-mecânica-6" class="slide level2">
+<h2>Caixa de câmbio - transmissão mecânica</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Caixa principal (2ª):</strong></span></p>
+
+<img data-src="imagens/segunda_simples.png" class="r-stretch quarto-figure-center"><p class="caption">Atares e Blanca 2005</p></section>
+<section id="caixa-de-câmbio---transmissão-mecânica-7" class="slide level2">
+<h2>Caixa de câmbio - transmissão mecânica</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Caixa principal (3ª):</strong></span></p>
+
+<img data-src="imagens/terceira_simples.png" class="r-stretch quarto-figure-center"><p class="caption">Atares e Blanca 2005</p></section>
+<section id="caixa-de-câmbio---transmissão-mecânica-8" class="slide level2">
+<h2>Caixa de câmbio - transmissão mecânica</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Caixa principal (Ré):</strong></span></p>
+
+<img data-src="imagens/re_simples.png" class="r-stretch quarto-figure-center"><p class="caption">Atares e Blanca 2005</p></section>
+<section id="caixa-de-câmbio---transmissão-mecânica-9" class="slide level2">
+<h2>Caixa de câmbio - transmissão mecânica</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Características:</strong></span></p>
+<p>É conhecida como sistema de transmissão manual.</p>
+<ul>
+<li class="fragment">Troca de marchas discreta, que ocorre em intervalos específicos;</li>
+<li class="fragment">Na caixa de câmbio “seca” (deslizante), as trocas de marcha devem ocorrer com o trator parado;
+<ul>
+<li class="fragment">Ou por habilidade do operador;</li>
+</ul></li>
+<li class="fragment">As engrenagens devem estar paradas ou sincronizadas;</li>
+<li class="fragment">Sistema mais simples;</li>
+<li class="fragment">Engrenagens sujeitas a maior desgaste;</li>
+</ul>
+</section>
+<section id="caixa-de-câmbio-4" class="slide level2">
+<h2>Caixa de câmbio</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Escalonamento de marchas:</strong></span></p>
+<div class="fragment">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/escalonamento_marchas.png" class="quarto-figure quarto-figure-center" width="750"></p>
+</figure>
+</div>
+</div>
+</section>
+<section id="caixa-de-câmbio-5" class="slide level2">
+<h2>Caixa de câmbio</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Escalonamento de marchas:</strong></span></p>
+<div class="fragment">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/escalonamento_marchas2.jpg" class="quarto-figure quarto-figure-center" width="850"></p>
+</figure>
+</div>
+</div>
+</section>
+<section id="caixa-de-câmbio-6" class="slide level2">
+<h2>Caixa de câmbio</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Escalonamento de marchas:</strong></span></p>
+<p>Se cada operação agrícola tem uma faixa de velocidade de trabalho, é o esforço exigido pelo equipamento acoplado que indica a marcha a ser utilizada.</p>
+<div class="fragment">
+<p>A escolha depende da rotação do motor e da marcha utilizada.</p>
+</div>
+<ul>
+<li class="fragment">Quanto maior o número de marchas, maior o escalonamento;</li>
+<li class="fragment">Maiores são as possibilidades de se adequar a velocidade e o torque ao trabalho agrícola alvo;</li>
+</ul>
+</section>
+<section id="caixa-de-câmbio-7" class="slide level2">
+<h2>Caixa de câmbio</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Escalonamento de marchas:</strong></span></p>
+<p>Pode ser entendido como uma escada, em que cada degrau representa uma marcha em diversas rotações do motor.</p>
+<div class="fragment">
+<p>Cada degrau representa uma faixa de velocidade para determinada marcha.</p>
+</div>
+<div class="fragment">
+<p>Que tipo de escalonamento se busca em um trator?</p>
+</div>
+</section></section>
+<section>
+<section id="caixa-de-câmbio---engrenamento-constante" class="title-slide slide level1 center">
+<h1>Caixa de câmbio - engrenamento constante</h1>
+<hr>
+</section>
+<section id="caixa-de-câmbio---engrenamento-constante-1" class="slide level2">
+<h2>Caixa de câmbio - engrenamento constante</h2>
+<hr>
+
+<img data-src="imagens/engrenamento_constante.jpeg" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="caixa-de-câmbio---engrenamento-constante-2" class="slide level2">
+<h2>Caixa de câmbio - engrenamento constante</h2>
+<hr>
+
+<img data-src="imagens/cambio_engrenado.jpg" class="r-stretch quarto-figure-center"><p class="caption">Atares e Blanca 2005</p></section>
+<section id="caixa-de-câmbio---engrenamento-constante-3" class="slide level2">
+<h2>Caixa de câmbio - engrenamento constante</h2>
+<hr>
+<p>Todas as engrenagens estão em contato permanente umas com as outras.</p>
+<ul>
+<li class="fragment">Giram livremente nos eixos, mas precisam ser ativadas para transmitir potência;</li>
+<li class="fragment">A mudança de marcha ocorre com o operador desembreando, selecionando a marcha e embreando novamente;</li>
+<li class="fragment">Transmissão suave e silenciosa;</li>
+<li class="fragment">Mudanças rápidas;</li>
+</ul>
+</section>
+<section id="caixa-de-câmbio---engrenamento-constante-4" class="slide level2">
+<h2>Caixa de câmbio - engrenamento constante</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Com sincronizador:</strong></span></p>
+
+<img data-src="imagens/cambio_sincronizaor.jpg" class="r-stretch quarto-figure-center"><p class="caption">Atares e Blanca 2005</p></section>
+<section id="caixa-de-câmbio---engrenamento-constante-5" class="slide level2">
+<h2>Caixa de câmbio - engrenamento constante</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Com sincronizador:</strong></span></p>
+<ul>
+<li class="fragment">Operam sob engrenamento constante;</li>
+<li class="fragment">Incorporam sincronizadores, projetados para igualar as velocidades das engrenagens;
+<ul>
+<li class="fragment">Facilitar a troca e deixá-la mais suave;</li>
+</ul></li>
+<li class="fragment">Permite a troca de marcha mesmo quando as velocidades de rotação das engrenagens e do eixo de transmissão não estão perfeitamente alinhadas;</li>
+<li class="fragment">Apenas um par de engrenagens é ativado a cada troca (as demais giram livremente);</li>
+<li class="fragment">Troca de marcha sem necessidade de parar o trator;</li>
+<li class="fragment">Potência temporariamente interrompida.</li>
+</ul>
+</section></section>
+<section>
+<section id="caixa-de-câmbio---powershift" class="title-slide slide level1 center">
+<h1>Caixa de câmbio - powershift</h1>
+<hr>
+</section>
+<section id="caixa-de-câmbio---powershift-1" class="slide level2">
+<h2>Caixa de câmbio - powershift</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Características:</strong></span></p>
+<ul>
+<li class="fragment">Transmissão mecânica do tipo “transmissões sob carga”;
+<ul>
+<li class="fragment">Capacidade de realizar trocas de marcha sem interromper a transmissão de potência do motor para as rodas motrizes;</li>
+</ul></li>
+<li class="fragment">As marchas são trocadas por meio de embreagens multidiscos com controle hidráulico;</li>
+<li class="fragment">Trocas rápidas e suaves, sem necessidade de usar a embreagem;</li>
+<li class="fragment">Embreagens acoplam e desacoplam as marchas;</li>
+<li class="fragment">Conjunto de engrenagens planetárias;
+<ul>
+<li class="fragment">Engrenagens satélites que giram em torno de uma engrenagem central (solar);</li>
+</ul></li>
+<li class="fragment">Engrenagens de múltiplos estágios.</li>
+</ul>
+</section>
+<section id="caixa-de-câmbio---powershift-2" class="slide level2">
+<h2>Caixa de câmbio - powershift</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Características:</strong></span></p>
+<div class="fragment">
+<p>Durante a troca de marchas, uma embreagem desengata a marcha atual e outra engata a marcha desejada. Não há interrupção do fluxo de energia.</p>
+</div>
+</section>
+<section id="caixa-de-câmbio---powershift-3" class="slide level2">
+<h2>Caixa de câmbio - powershift</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Engrenagem planetária:</strong></span></p>
+
+<img data-src="imagens/planetaria.jpg" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="caixa-de-câmbio---powershift-4" class="slide level2">
+<h2>Caixa de câmbio - powershift</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Engrenagem planetária - ex:</strong></span></p>
+<div class="columns">
+<div class="column">
+<ul>
+<li>Engrenagem sol (sun gear): 18 dentes (teeth);</li>
+<li>Engrenagem anel (ring gear): 43 dentes;</li>
+<li>Sistema planetário (planetary carrier): 61 dentes (18 + 43).</li>
+</ul>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/sistema_planetario_engrenagem.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="caixa-de-câmbio---powershift-5" class="slide level2">
+<h2>Caixa de câmbio - powershift</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Engrenagem planetária - redução máxima de velocidade:</strong></span></p>
+<div class="columns">
+<div class="column">
+<p>Para obter a máxima redução de velocidade em um conjunto de engrenagens planetárias simples, a engrenagem solar deve ser o elemento de entrada, e a engrenagem anel deve ser o elemento fixo ou travado. Isso torna automaticamente o porta-satélites o elemento de saída. Isso produz o aumento máximo de torque e faz com que o porta-satélites gire no mesmo sentido que a engrenagem solar.</p>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/reducao_maxima_velocidade.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="caixa-de-câmbio---powershift-6" class="slide level2">
+<h2>Caixa de câmbio - powershift</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Engrenagem planetária - redução máxima de velocidade:</strong></span></p>
+<div class="columns">
+<div class="column">
+<ul>
+<li>Engrenagem sol (sun gear): 18 dentes (teeth);</li>
+<li>Engrenagem anel (ring gear): 43 dentes;</li>
+<li>Sistema planetário (planetary carrier): 61 dentes (18 + 43).</li>
+</ul>
+<div class="fragment">
+<p><span class="math display">\[Relação= \frac{61}{18}= 3.388889:1\]</span></p>
+</div>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/reducao_maxima_velocidade.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="caixa-de-câmbio---powershift-7" class="slide level2">
+<h2>Caixa de câmbio - powershift</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Engrenagem planetária - redução mínima de velocidade:</strong></span></p>
+<div class="columns">
+<div class="column">
+<p>O porta-satélites planetário continua sendo a saída. A engrenagem solar passa a ser o elemento estacionário, enquanto a coroa passa a ser a entrada. O sentido de rotação é o mesmo da entrada, com uma redução de transmissão mínima. Essa é a segunda menor relação de transmissão que pode ser obtida em um conjunto de engrenagens planetárias simples, proporcionando aumento de torque.</p>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/reducao_minima_velocidade.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="caixa-de-câmbio---powershift-8" class="slide level2">
+<h2>Caixa de câmbio - powershift</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Engrenagem planetária - redução mínima de velocidade:</strong></span></p>
+<div class="columns">
+<div class="column">
+<ul>
+<li>Engrenagem sol (sun gear): 18 dentes (teeth);</li>
+<li>Engrenagem anel (ring gear): 43 dentes;</li>
+<li>Sistema planetário (planetary carrier): 61 dentes (18 + 43).</li>
+</ul>
+<div class="fragment">
+<p><span class="math display">\[Relação= \frac{61}{43}= 1.418605:1\]</span></p>
+</div>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/reducao_minima_velocidade.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="caixa-de-câmbio---powershift-9" class="slide level2">
+<h2>Caixa de câmbio - powershift</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Engrenagem planetária - velocidade máxima:</strong></span></p>
+<div class="columns">
+<div class="column">
+<p>A engrenagem com o maior número de dentes deve ser utilizada como entrada. O porta-satélites é sempre o componente com o maior número de dentes. Portanto, deve ser utilizado como elemento de entrada (sobremarcha = overdrive). Dependendo de qual elemento permanece travado, a engrenagem solar ou a coroa proporcionará uma maior relação de sobremarcha.</p>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/velocidade_maxima.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="caixa-de-câmbio---powershift-10" class="slide level2">
+<h2>Caixa de câmbio - powershift</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Engrenagem planetária - velocidade máxima:</strong></span></p>
+<div class="columns">
+<div class="column">
+<ul>
+<li>Engrenagem sol (sun gear): 18 dentes (teeth);</li>
+<li>Engrenagem anel (ring gear): 43 dentes;</li>
+<li>Sistema planetário (planetary carrier): 61 dentes (18 + 43).</li>
+</ul>
+<div class="fragment">
+<p><span class="math display">\[Relação= \frac{18}{61}= 0.295082:1\]</span></p>
+</div>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/velocidade_maxima.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="caixa-de-câmbio---powershift-11" class="slide level2">
+<h2>Caixa de câmbio - powershift</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Operações do sistema de engrenagens planetárias:</strong></span></p>
+<div style="font-size:26px">
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Name</th>
+<th style="text-align: left;">Nome</th>
+<th style="text-align: left;">Característica</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Maximum Speed Reduction</strong></td>
+<td style="text-align: left;"><strong>Redução máxima de velocidade</strong></td>
+<td style="text-align: left;">Maior redução e maior aumento de torque</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Minimum Speed Reduction</strong></td>
+<td style="text-align: left;"><strong>Redução mínima de velocidade</strong></td>
+<td style="text-align: left;">Menor redução e aumento de torque</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Maximum Speed Increase</strong></td>
+<td style="text-align: left;"><strong>Aumento máximo de velocidade</strong></td>
+<td style="text-align: left;">Maior sobremarcha (<em>overdrive</em>)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Minimum Speed Increase</strong></td>
+<td style="text-align: left;"><strong>Aumento mínimo de velocidade</strong></td>
+<td style="text-align: left;">Menor sobremarcha</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Speed Reduction – Reverse Direction</strong></td>
+<td style="text-align: left;"><strong>Redução de velocidade – sentido inverso</strong></td>
+<td style="text-align: left;">Redução com inversão do sentido</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Speed Increase – Reverse Direction</strong></td>
+<td style="text-align: left;"><strong>Aumento de velocidade – sentido inverso</strong></td>
+<td style="text-align: left;">Aumento de velocidade com inversão do sentido</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Direct Drive</strong></td>
+<td style="text-align: left;"><strong>Transmissão direta (1:1)</strong></td>
+<td style="text-align: left;">Entrada e saída na mesma velocidade</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Neutral Condition</strong></td>
+<td style="text-align: left;"><strong>Condição de neutro</strong></td>
+<td style="text-align: left;">Não há transmissão de movimento</td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="caixa-de-câmbio---powershift-12" class="slide level2">
+<h2>Caixa de câmbio - powershift</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Leis de operação da engrenagem planetária simples:</strong></span></p>
+<div style="font-size:22px">
+<table class="caption-top">
+<colgroup>
+<col style="width: 21%">
+<col style="width: 21%">
+<col style="width: 8%">
+<col style="width: 13%">
+<col style="width: 9%">
+<col style="width: 24%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Engrenagem solar</th>
+<th style="text-align: center;">Porta-satélites</th>
+<th style="text-align: center;">Coroa</th>
+<th style="text-align: left;">Velocidade</th>
+<th style="text-align: left;">Torque</th>
+<th style="text-align: left;">Sentido de rotação</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">1. Entrada</td>
+<td style="text-align: center;">Saída</td>
+<td style="text-align: center;">Travada</td>
+<td style="text-align: left;"><strong>Redução máxima</strong></td>
+<td style="text-align: left;">Aumento</td>
+<td style="text-align: left;">Igual à entrada</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">2. Travada</td>
+<td style="text-align: center;">Saída</td>
+<td style="text-align: center;">Entrada</td>
+<td style="text-align: left;"><strong>Redução mínima</strong></td>
+<td style="text-align: left;">Aumento</td>
+<td style="text-align: left;">Igual à entrada</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">3. Saída</td>
+<td style="text-align: center;">Entrada</td>
+<td style="text-align: center;">Travada</td>
+<td style="text-align: left;"><strong>Aumento máximo</strong></td>
+<td style="text-align: left;">Redução</td>
+<td style="text-align: left;">Igual à entrada</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">4. Travada</td>
+<td style="text-align: center;">Entrada</td>
+<td style="text-align: center;">Saída</td>
+<td style="text-align: left;"><strong>Aumento mínimo</strong></td>
+<td style="text-align: left;">Redução</td>
+<td style="text-align: left;">Igual à entrada</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">5. Entrada</td>
+<td style="text-align: center;">Travada</td>
+<td style="text-align: center;">Saída</td>
+<td style="text-align: left;"><strong>Redução</strong></td>
+<td style="text-align: left;">Aumento</td>
+<td style="text-align: left;">Inverso ao da entrada</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">6. Saída</td>
+<td style="text-align: center;">Travada</td>
+<td style="text-align: center;">Entrada</td>
+<td style="text-align: left;"><strong>Aumento</strong></td>
+<td style="text-align: left;">Redução</td>
+<td style="text-align: left;">Inverso ao da entrada</td>
+</tr>
+</tbody>
+</table>
+<p>Quando dois elementos são mantidos juntos, a velocidade e o sentido de rotação são iguais aos da entrada, resultando em uma <strong>transmissão direta (1:1)</strong>.</p>
+<p>Quando nenhum elemento é mantido ou travado, não é possível transmitir movimento para a saída, resultando em uma condição de <strong>neutro</strong>.</p>
+</div>
+</section>
+<section id="caixa-de-câmbio---powershift-13" class="slide level2">
+<h2>Caixa de câmbio - powershift</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Sistema de engrenagens planetárias:</strong></span></p>
+
+<img data-src="imagens/sistema_planetario.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="caixa-de-câmbio---powershift-14" class="slide level2">
+<h2>Caixa de câmbio - powershift</h2>
+<hr>
+
+<img data-src="imagens/powershift.jpg" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="caixa-de-câmbio---powershift-15" class="slide level2">
+<h2>Caixa de câmbio - powershift</h2>
+<hr>
+
+<img data-src="imagens/powershift2.jpg" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="caixa-de-câmbio-8" class="slide level2">
+<h2>Caixa de câmbio</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Grupos de marchas:</strong></span></p>
+<div class="fragment">
+<p>Uma melhoria da marcha reduzida foi a caixa com diferentes relações (gamas).</p>
+</div>
+<ul>
+<li class="fragment">Permite 3 ou 4 relações de transmissão em vez de apenas duas;</li>
+<li class="fragment">Indicadas como: L (low), M (medium), H (high), R (reverse);</li>
+<li class="fragment">Também indicadas por: A, B, C, D e R;</li>
+<li class="fragment">Atualmente, os tratores podem contar com 24, 36 e até 48 marchas.</li>
+</ul>
+<div class="fragment">
+<p>Ex: para um trator possuir 20 marchas para frente, basta ter duas caixas, uma com 5 velocidades (1ª até 5ª) e outra com 4 grupos (A, B, C e D).</p>
+</div>
+</section>
+<section id="caixa-de-câmbio-9" class="slide level2">
+<h2>Caixa de câmbio</h2>
+<hr>
+<div class="fragment">
+<p><span class="fg" style="--col: #e64173"><strong>Inversor:</strong></span></p>
+<p>Possibilita inverter o sentido do curso simplesmente atuando em uma alavanca (inverte o sentido de todas as marchas).</p>
+</div>
+<div class="fragment">
+<p><span class="fg" style="--col: #e64173"><strong>Super redutor:</strong></span></p>
+<p>Localizado na frente da caixa de marchas, utiliza pares de engrenagens com grandes reduções, permitindo velocidades baixíssimas. Específico para algumas culturas (ex: café).</p>
+</div>
+</section>
+<section id="caixa-de-câmbio-10" class="slide level2">
+<h2>Caixa de câmbio</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Grupos de marchas:</strong></span></p>
+
+<img data-src="imagens/alavancas2.jpg" class="quarto-figure quarto-figure-center r-stretch"></section></section>
+<section>
+<section id="caixa-de-câmbio---hidrostático" class="title-slide slide level1 center">
+<h1>Caixa de câmbio - hidrostático</h1>
+<hr>
+</section>
+<section id="caixa-de-câmbio---hidrostático-1" class="slide level2">
+<h2>Caixa de câmbio - hidrostático</h2>
+<hr>
+<p>Utiliza uma bomba e um motor para controlar a velocidade e a direção do trator por meio do fluxo de óleo. Opções mais suaves de troca de velocidade.</p>
+<div class="fragment">
+<p>Converte energia mecânica em energia hidráulica (pressão de óleo) e novamente em energia mecânica.</p>
+</div>
+</section>
+<section id="caixa-de-câmbio---hidrostático-2" class="slide level2">
+<h2>Caixa de câmbio - hidrostático</h2>
+<hr>
+<center>
+<iframe width="850" height="478" src="https://www.youtube.com/embed/T5vpqI7SmIc" title="Vídeo do YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+</iframe>
+</center>
+</section>
+<section id="caixa-de-câmbio---hidrostático-3" class="slide level2">
+<h2>Caixa de câmbio - hidrostático</h2>
+<hr>
+<p>Quando a alavanca distribuidora não é acionada, o óleo chega ao distribuidor e retorna ao tanque através do filtro magnético.</p>
+<div class="fragment">
+<p>Quando a alavanca é puxada, o óleo chega ao distribuidor e sai dele em alta pressão, indo em direção a uma das entradas do motor hidrostático reversível, fazendo com que ele gire em uma direção.</p>
+</div>
+<div class="fragment">
+<p>O óleo não pressurizado sai do motor, chega novamente ao distribuidor e, através do filtro magnético, chega ao tanque.</p>
+</div>
+</section></section>
+<section>
+<section id="caixa-de-câmbio---cvt" class="title-slide slide level1 center">
+<h1>Caixa de câmbio - CVT</h1>
+<hr>
+</section>
+<section id="caixa-de-câmbio---cvt-1" class="slide level2">
+<h2>Caixa de câmbio - CVT</h2>
+<hr>
+<p><strong>Transmissão continuamente variável</strong></p>
+<div class="fragment">
+<p>Permite variabilidade “infinita” entre as relações de transmissão dentro de uma faixa específica.</p>
+</div>
+<div class="fragment">
+<p>A transmissão CVT varia continuamente a relação de transmissão (com sensores, polias e correias ou acionamento hidrostático).</p>
+</div>
+</section>
+<section id="caixa-de-câmbio---cvt-2" class="slide level2">
+<h2>Caixa de câmbio - CVT</h2>
+<hr>
+<p>É construída por duas polias, uma conectada ao virabrequim e outra ao restante do sistema. Também usa um conjunto de engrenagens planetário.</p>
+<div class="fragment">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="imagens/cvt3.jpg" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</section>
+<section id="caixa-de-câmbio---cvt-3" class="slide level2">
+<h2>Caixa de câmbio - CVT</h2>
+<hr>
+
+<img data-src="imagens/cvt2.jpg" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="caixa-de-câmbio---cvt-4" class="slide level2">
+<h2>Caixa de câmbio - CVT</h2>
+<hr>
+
+<img data-src="imagens/cvt4.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="caixa-de-câmbio-11" class="slide level2">
+<h2>Caixa de câmbio</h2>
+<hr>
+<p>Consumo de combustível powershift vs.&nbsp;CVT</p>
+
+<img data-src="imagens/consumo.png" class="quarto-figure quarto-figure-center r-stretch"></section></section>
+<section>
+<section id="eixo-traseiro" class="title-slide slide level1 center">
+<h1>Eixo traseiro</h1>
+<hr>
+</section>
+<section id="eixo-traseiro-1" class="slide level2">
+<h2>Eixo traseiro</h2>
+<hr>
+
+<img data-src="imagens/eixo_traseiro.jpg" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="eixo-traseiro-2" class="slide level2">
+<h2>Eixo traseiro</h2>
+<hr>
+<p>É responsável por conectar as rodas traseiras, transmitindo a potência do motor para as rodas.</p>
+<div class="fragment">
+<p>Elementos:</p>
+<ul>
+<li class="fragment">Carcaça: estrutura que abriga os componentes internos do eixo traseiro e fornece suporte e proteção.</li>
+<li class="fragment">Diferencial: permite movimento independente entre as rodas traseiras;</li>
+<li class="fragment">Semieixos: transmitem a potência do motor para as rodas traseiras, estando conectados ao diferencial;</li>
+<li class="fragment">Redução final: ajusta a velocidade de rotação das rodas, reduzindo-a e ampliando o torque;</li>
+<li class="fragment">Freios: às vezes integrados ao eixo traseiro, permitem a parada ou desaceleração.</li>
+</ul>
+</div>
+</section></section>
+<section>
+<section id="diferencial" class="title-slide slide level1 center">
+<h1>Diferencial</h1>
+<hr>
+</section>
+<section id="diferencial-1" class="slide level2">
+<h2>Diferencial</h2>
+<hr>
+
+<img data-src="imagens/diferencial5.jpeg" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="diferencial-2" class="slide level2">
+<h2>Diferencial</h2>
+<hr>
+
+<img data-src="imagens/trator_curva.png" class="quarto-figure quarto-figure-center r-stretch"><div class="fragment">
+<p>Qual a diferença de giro entre os pneus?</p>
+</div>
+</section>
+<section id="diferencial-3" class="slide level2">
+<h2>Diferencial</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Função:</strong></span></p>
+<ul>
+<li class="fragment">Permitir diferentes velocidades de rotação para cada uma das rodas;
+<ul>
+<li class="fragment">Facilitando as manobras;</li>
+</ul></li>
+<li class="fragment">Alterar o ângulo de rotação em 90º do motor para as rodas;</li>
+<li class="fragment">Aumentar o torque nas rodas motrizes do trator;
+<ul>
+<li class="fragment">Relação de 4 ou 5 para 1.</li>
+</ul></li>
+</ul>
+</section>
+<section id="diferencial-4" class="slide level2">
+<h2>Diferencial</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Elementos:</strong></span></p>
+<ul>
+<li class="fragment">Pinhão: engrenagem ligada ao eixo secundário da caixa de câmbio e engrenada à coroa.
+<ul>
+<li class="fragment">Recebe o movimento vindo da caixa de câmbio e o transfere para a coroa, alterando o sentido do movimento em 90°;</li>
+</ul></li>
+<li class="fragment">Coroa: engrenagem de maior tamanho no diferencial. Ligada à caixa de satélites.
+<ul>
+<li class="fragment">Recebe o movimento do pinhão, altera o movimento e proporciona aumento do torque para as rodas motrizes;</li>
+</ul></li>
+</ul>
+</section>
+<section id="diferencial-5" class="slide level2">
+<h2>Diferencial</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Elementos:</strong></span></p>
+<ul>
+<li class="fragment">Satélites: de 2 a 4, localizados dentro de uma caixa e com seus eixos presos a ela;</li>
+<li class="fragment">Planetárias: 2, responsáveis por transmitir o movimento às rodas motrizes direita e esquerda. São conectadas aos satélites.
+<ul>
+<li class="fragment">Eixos de rotação perpendiculares aos dos satélites.</li>
+</ul></li>
+</ul>
+</section>
+<section id="diferencial-6" class="slide level2">
+<h2>Diferencial</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Funcionamento:</strong></span></p>
+
+<img data-src="imagens/diferencial1.jpg" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="diferencial-7" class="slide level2">
+<h2>Diferencial</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Funcionamento:</strong></span></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><video data-src="imagens/diferencial.mp4" class="quarto-figure quarto-figure-center" width="850" controls=""><a href="imagens/diferencial.mp4">Video</a></video></p>
+</figure>
+</div>
+</section>
+<section id="diferencial-8" class="slide level2">
+<h2>Diferencial</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>aoqueio:</strong></span></p>
+<p>Em algumas situações, é desejável que o diferencial não permita que as rodas tenham compensação de movimento.</p>
+<div class="fragment">
+<p>Ex: aração, quando o trator trafega com as rodas de um lado sobre o solo arado e as do outro lado sobre o solo firme.</p>
+<ul>
+<li class="fragment">Maior patinação no lado arado;</li>
+<li class="fragment">Prejudica a eficiência de tração;</li>
+</ul>
+</div>
+<div class="fragment">
+<p>O bloqueio do diferencial tem a função de travar o giro independente entre os rodados.</p>
+</div>
+</section>
+<section id="diferencial-9" class="slide level2">
+<h2>Diferencial</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Bloqueio:</strong></span></p>
+<div class="fragment">
+<p>O bloqueio deve ser utilizado apenas em deslocamento em linha reta.</p>
+</div>
+<div class="fragment">
+<p>Tipos de bloqueio:</p>
+<ul>
+<li class="fragment">Bloqueio mecânico: mais simples, utiliza mecanismos físicos para conectar as duas rodas;
+<ul>
+<li class="fragment">Engrenagens ou discos de fricção;</li>
+<li class="fragment">Robusto e confiável;</li>
+<li class="fragment">Menos suave.</li>
+</ul></li>
+</ul>
+</div>
+</section>
+<section id="diferencial-10" class="slide level2">
+<h2>Diferencial</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Bloqueio:</strong></span></p>
+<p>Tipos de bloqueio:</p>
+<ul>
+<li class="fragment">Bloqueio hidráulico: utiliza fluido hidráulico para transferir potência entre as rodas;
+<ul>
+<li class="fragment">Embreagens hidráulicas que conectam as duas rodas;</li>
+<li class="fragment">Mais suave;</li>
+</ul></li>
+<li class="fragment">Bloqueio eletrônico: controle via interruptor com acionadores elétricos;</li>
+<li class="fragment">Bloqueio automático: diferencial autoblocante. Distribui de forma automática a potência entre as rodas a depender da aderência;
+<ul>
+<li class="fragment">Envia mais potência para a roda com maior aderência (dispensa bloqueio manual).</li>
+</ul></li>
+</ul>
+</section>
+<section id="diferencial-11" class="slide level2">
+<h2>Diferencial</h2>
+<hr>
+
+<img data-src="imagens/bloqueio_diferencial.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="diferencial-12" class="slide level2">
+<h2>Diferencial</h2>
+<hr>
+<div class="sketchfab-embed-wrapper">
+<iframe title="Differential Gears Animation" frameborder="0" allowfullscreen="" mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking="" execution-while-out-of-viewport="" execution-while-not-rendered="" web-share="" width="900" height="600" src="https://sketchfab.com/models/0f3ee18a0c5441688846f20f2eb0f2e0/embed"> </iframe>
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+<a href="https://sketchfab.com/3d-models/differential-gears-animation-0f3ee18a0c5441688846f20f2eb0f2e0" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Differential Gears Animation </a> by <a href="https://sketchfab.com/Padpilot" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Padpilot </a> on <a href="https://sketchfab.com" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+</p>
+</div>
+</section></section>
+<section>
+<section id="redução-final" class="title-slide slide level1 center">
+<h1>Redução final</h1>
+<hr>
+</section>
+<section id="redução-final-1" class="slide level2">
+<h2>Redução final</h2>
+<hr>
+
+<img data-src="imagens/reducao_final.jpeg" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="redução-final-2" class="slide level2">
+<h2>Redução final</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Função:</strong></span></p>
+<div class="fragment">
+<p>Sistema de engrenagens na saída dos semieixos, próximo às rodas.</p>
+</div>
+<ul>
+<li class="fragment">Finalidade de reduzir (ainda mais) o movimento que vem do diferencial;</li>
+<li class="fragment">Ampliação do torque;</li>
+<li class="fragment">Redução da velocidade.</li>
+</ul>
+</section>
+<section id="redução-final-3" class="slide level2">
+<h2>Redução final</h2>
+<hr>
+<p><span class="fg" style="--col: #e64173"><strong>Função:</strong></span></p>
+<p>Redução de 5:1, ou seja, aumento do torque em 5 vezes.</p>
+<div class="fragment">
+<p>Redução final somada ao diferencial leva a uma “redução” de 20 a 30:1.</p>
+</div>
+<div class="fragment">
+<p>A redução final pode ser composta por um sistema de engrenagens do tipo planetário.</p>
+</div>
+</section>
+<section id="redução-final-4" class="slide level2">
+<h2>Redução final</h2>
+<hr>
+
+<img data-src="imagens/planetaria2.jpg" class="quarto-figure quarto-figure-center r-stretch"></section></section>
+<section>
+<section id="relações-fundamentais" class="title-slide slide level1 center">
+<h1>Relações fundamentais</h1>
+<hr>
+</section>
+<section id="relações-fundamentais-1" class="slide level2">
+<h2>Relações fundamentais</h2>
+<hr>
+<p><span class="math display">\[\tau_m * n_m * E_t= \tau_r*n_r \approx constante \]</span></p>
+<p>O <span class="math inline">\(\tau_m\)</span> é o torque do motor; O <span class="math inline">\(n_m\)</span> é a rotação do motor; <span class="math inline">\(E_t\)</span> é a eficiência de transmissão; <span class="math inline">\(\tau_t\)</span> é torque do rodado; <span class="math inline">\(n_r\)</span> é a rotação do rodado;</p>
+<div class="fragment">
+<p>torque por rotação é a potência do motor.</p>
+</div>
+<div class="fragment">
+<p><strong>Eficiência de transmissão</strong></p>
+<p><span class="math display">\[E_t = \frac{P_r}{P_m}\]</span></p>
+<p><span class="math inline">\(P_r\)</span> potência final (rodado); <span class="math inline">\(P_m\)</span> potência de entrada (motor);</p>
+</div>
+</section>
+<section id="relações-fundamentais-2" class="slide level2">
+<h2>Relações fundamentais</h2>
+<hr>
+<p><span class="math display">\[P_b=F*V=E_r*P_r\]</span></p>
+<p><span class="math inline">\(P_b\)</span> é a potência na barra de tração; <span class="math inline">\(F\)</span> é a força; <span class="math inline">\(V\)</span> é a velocidade; <span class="math inline">\(E_r\)</span> é a eficiência do rodado; <span class="math inline">\(P_r\)</span> é a poténcia do rodado;</p>
+<div class="fragment">
+<p><span class="math display">\[E_r=\frac{P_b}{P_r}\]</span></p>
+<p><span class="math inline">\(E_r\)</span> é a eficiência de tração; <span class="math inline">\(P_b\)</span> é a potência na barra; <span class="math inline">\(P_r\)</span> é a potência no radado;</p>
+</div>
+<div class="fragment">
+<p><span class="math display">\[P_b = P_m * E_t * E_r\]</span></p>
+</div>
+</section>
+<section id="relações-fundamentais-3" class="slide level2">
+<h2>Relações fundamentais</h2>
+<hr>
+<p><strong>Rendimento tratório</strong></p>
+<p><span class="math display">\[\eta= \frac{P_b}{P_m}\]</span></p>
+<div class="fragment">
+<p>Quanto da potência do motor foi para a barra, após “negociação” com o solo.</p>
+</div>
+</section></section>
+<section>
+<section id="exemplos" class="title-slide slide level1 center">
+<h1>Exemplos</h1>
+<hr>
+</section>
+<section id="exemplos-1" class="slide level2">
+<h2>Exemplos</h2>
+<hr>
+<div class="columns">
+<div class="column">
+<p>Dados:</p>
+<div style="font-size:22px">
+<ul>
+<li>Rotação do motor: 1950 rpm;</li>
+<li>torque do motor: 200 Nm;</li>
+<li>Relação de transmissão da 4ª marcha: 2,1:1;</li>
+<li>Relação de transmissão do diferencial: 6:1;</li>
+<li>Relação na redução final: 3,95:1;</li>
+<li>Diâmetro dos pneus traseiros: 1100 mm;</li>
+<li>Eficiência de transmissão: 97%;
+<ul>
+<li>Cada conjunto: caixa, diferencial, redução final.</li>
+</ul></li>
+<li>Rendimento tratório: 70%.</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="fragment">
+<p>Pergunta:</p>
+<ul>
+<li>Qual a velocidade?</li>
+<li>Qual o torque do rodado?</li>
+<li>Qual a potência no rodado?</li>
+<li>Qual a potência na barra de tração?</li>
+</ul>
+</div>
+</div></div>
+</section>
+<section id="exemplos-2" class="slide level2">
+<h2>Exemplos</h2>
+<hr>
+<p>Velocidade:</p>
+<p><span class="math display">\[i= 2,1*6*3.95= 49,77\]</span></p>
+<div class="fragment">
+<p><span class="math display">\[velocidade = \frac{1950}{49,77}=39,18~rpm~(0,653rps)\]</span></p>
+</div>
+<div class="fragment">
+<p><span class="math display">\[Perímetro_{roda}= 1,1~m*\pi= 3,456~m\]</span></p>
+</div>
+<div class="fragment">
+<p><span class="math display">\[V=0,653~rps*3,456~m= 2,26m/s\]</span></p>
+</div>
+</section>
+<section id="exemplos-3" class="slide level2">
+<h2>Exemplos</h2>
+<hr>
+<p>Torque do rodado:</p>
+<div class="fragment">
+<p>Eficiência de transmissão para cada conjunsto (E<sub>t</sub><sup>3</sup>)</p>
+<p><span class="math display">\[E_t= 0,97^3=0,913\]</span></p>
+</div>
+<div class="fragment">
+<p>Eficiência de transmissão para cada conjunsto (E<sub>t</sub><sup>3</sup>)</p>
+<p><span class="math display">\[\tau_r= \frac{200~Nm*39,18~rpm*0,97^3}{39,18}=9087,7~Nm\]</span></p>
+</div>
+</section>
+<section id="exemplos-4" class="slide level2">
+<h2>Exemplos</h2>
+<hr>
+<p>Potência do rodado:</p>
+<div class="fragment">
+<p><span class="math display">\[P_r= \frac{2*\pi * 39,18~rpm * 9084,7~Nm}{60}= 37273,8~W~ou~37,27kW\]</span></p>
+</div>
+</section>
+<section id="exemplos-5" class="slide level2">
+<h2>Exemplos</h2>
+<hr>
+<p>Potência na barra de tração:</p>
+<div class="fragment">
+<p><span class="math display">\[n_m= \frac{1950}{60}=32,5~rps\]</span></p>
+</div>
+<div class="fragment">
+<p><span class="math display">\[P_m= 2*\pi*32,5~rps*200~Nm= 40,48~kW\]</span></p>
+</div>
+<div class="fragment">
+<p><span class="math display">\[P_b= 0,70*40,48~kW=28,59~kW\]</span></p>
+</div>
+</section></section>
+<section>
+<section id="próxima-aula" class="title-slide slide level1 center">
+<h1>Próxima aula…</h1>
+
+</section>
+<section id="próxima-aula-1" class="slide level2">
+<h2>Próxima aula…</h2>
+<p>Rodados, pneus, bitola e lastro!</p>
+</section></section>
+<section id="fim" class="title-slide slide level1 center">
+<h1>Fim!</h1>
+
+
+</section>
+    </div>
+  <div class="quarto-auto-generated-content" style="display: none;">
+<p><img src="logo.png" class="slide-logo"></p>
+<div class="footer footer-default">
+
+</div>
+</div></div>
+
+  <script>window.backupDefine = window.define; window.define = undefined;</script>
+  <script src="../site_libs/revealjs/dist/reveal.js"></script>
+  <!-- reveal.js plugins -->
+  <script src="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="../site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
+  <script src="../site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="../site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="../site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="../site_libs/revealjs/plugin/math/math.js"></script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+'controlsAuto': true,
+'previewLinksAuto': false,
+'pdfSeparateFragments': false,
+'autoAnimateEasing': "ease",
+'autoAnimateDuration': 1,
+'autoAnimateUnmatched': true,
+'jumpToSlide': true,
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
+'smaller': false,
+ 
+        // Display controls in the bottom right corner
+        controls: false,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: false,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'edges',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: 'c/t',
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: true,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: false,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'linear',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: false,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'none',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'none',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 1050,
+
+        height: 700,
+
+        // Factor of the display size that should remain empty around the content
+        margin: 0.1,
+
+        math: {
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // reveal.js plugins
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, QuartoSupport,
+
+          RevealMath,
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    <script id="quarto-html-after-body" type="application/javascript">
+      window.document.addEventListener("DOMContentLoaded", function (event) {
+        const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+        tabsets.forEach(function(tabset) {
+          const tabby = new Tabby('#' + tabset.id);
+        });
+        const isCodeAnnotation = (el) => {
+          for (const clz of el.classList) {
+            if (clz.startsWith('code-annotation-')) {                     
+              return true;
+            }
+          }
+          return false;
+        }
+        const onCopySuccess = function(e) {
+          // button target
+          const button = e.trigger;
+          // don't keep focus
+          button.blur();
+          // flash "checked"
+          button.classList.add('code-copy-button-checked');
+          var currentTitle = button.getAttribute("title");
+          button.setAttribute("title", "Copiada");
+          let tooltip;
+          if (window.bootstrap) {
+            button.setAttribute("data-bs-toggle", "tooltip");
+            button.setAttribute("data-bs-placement", "left");
+            button.setAttribute("data-bs-title", "Copiada");
+            tooltip = new bootstrap.Tooltip(button, 
+              { trigger: "manual", 
+                customClass: "code-copy-button-tooltip",
+                offset: [0, -8]});
+            tooltip.show();    
+          }
+          setTimeout(function() {
+            if (tooltip) {
+              tooltip.hide();
+              button.removeAttribute("data-bs-title");
+              button.removeAttribute("data-bs-toggle");
+              button.removeAttribute("data-bs-placement");
+            }
+            button.setAttribute("title", currentTitle);
+            button.classList.remove('code-copy-button-checked');
+          }, 1000);
+          // clear code selection
+          e.clearSelection();
+        }
+        const getTextToCopy = function(trigger) {
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+        }
+        const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+          text: getTextToCopy
+        });
+        clipboard.on('success', onCopySuccess);
+        if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+          const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+            text: getTextToCopy,
+            container: window.document.getElementById('quarto-embedded-source-code-modal')
+          });
+          clipboardModal.on('success', onCopySuccess);
+        }
+          var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+          var mailtoRegex = new RegExp(/^mailto:/);
+            var filterRegex = new RegExp('/' + window.location.host + '/');
+          var isInternal = (href) => {
+              return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+          }
+          // Inspect non-navigation links and adorn them if external
+         var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+          for (var i=0; i<links.length; i++) {
+            const link = links[i];
+            if (!isInternal(link.href)) {
+              // undo the damage that might have been done by quarto-nav.js in the case of
+              // links that we want to consider external
+              if (link.dataset.originalHref !== undefined) {
+                link.href = link.dataset.originalHref;
+              }
+            }
+          }
+        function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+          const config = {
+            allowHTML: true,
+            maxWidth: 500,
+            delay: 100,
+            arrow: false,
+            appendTo: function(el) {
+                return el.closest('section.slide') || el.parentElement;
+            },
+            interactive: true,
+            interactiveBorder: 10,
+            theme: 'light-border',
+            placement: 'bottom-start',
+          };
+          if (contentFn) {
+            config.content = contentFn;
+          }
+          if (onTriggerFn) {
+            config.onTrigger = onTriggerFn;
+          }
+          if (onUntriggerFn) {
+            config.onUntrigger = onUntriggerFn;
+          }
+            config['offset'] = [0,0];
+            config['maxWidth'] = 700;
+          window.tippy(el, config); 
+        }
+        const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+        for (var i=0; i<noterefs.length; i++) {
+          const ref = noterefs[i];
+          tippyHover(ref, function() {
+            // use id or data attribute instead here
+            let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+            try { href = new URL(href).hash; } catch {}
+            const id = href.replace(/^#\/?/, "");
+            const note = window.document.getElementById(id);
+            if (note) {
+              return note.innerHTML;
+            } else {
+              return "";
+            }
+          });
+        }
+        const findCites = (el) => {
+          const parentEl = el.parentElement;
+          if (parentEl) {
+            const cites = parentEl.dataset.cites;
+            if (cites) {
+              return {
+                el,
+                cites: cites.split(' ')
+              };
+            } else {
+              return findCites(el.parentElement)
+            }
+          } else {
+            return undefined;
+          }
+        };
+        var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+        for (var i=0; i<bibliorefs.length; i++) {
+          const ref = bibliorefs[i];
+          const citeInfo = findCites(ref);
+          if (citeInfo) {
+            tippyHover(citeInfo.el, function() {
+              var popup = window.document.createElement('div');
+              citeInfo.cites.forEach(function(cite) {
+                var citeDiv = window.document.createElement('div');
+                citeDiv.classList.add('hanging-indent');
+                citeDiv.classList.add('csl-entry');
+                var biblioDiv = window.document.getElementById('ref-' + cite);
+                if (biblioDiv) {
+                  citeDiv.innerHTML = biblioDiv.innerHTML;
+                }
+                popup.appendChild(citeDiv);
+              });
+              return popup.innerHTML;
+            });
+          }
+        }
+      });
+      </script>
+    
+
+</body></html>

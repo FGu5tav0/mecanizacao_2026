@@ -9,10 +9,17 @@ format:
 ---
 
 ```{=html}
+
 <div class="aulas-layout">
 
-  <!-- Cards em linha horizontal -->
+  <!-- =====================================================
+       AULAS
+       ===================================================== -->
+
   <div class="aulas-sidebar">
+
+    <h2 class="secao-titulo">Aulas</h2>
+
     <div class="aulas-grid">
 
       <a class="card em-breve" href="#">
@@ -21,63 +28,245 @@ format:
         <div class="card-desc"></div>
       </a>
 
-      <a class="card" onclick="carregarAula('aula_2/aula_2.html', this)" href="#">
+      <a class="card"
+         onclick="carregarAula('aula_2/aula_2.html', this)"
+         href="#">
         <div class="card-num">Aula 2</div>
         <div class="card-title">Motores de combustão interna</div>
         <div class="card-desc"></div>
       </a>
 
-       <a class="card" onclick="carregarAula('aula_3/aula_3.html', this)" href="#">
+      <a class="card"
+         onclick="carregarAula('aula_3/aula_3.html', this)"
+         href="#">
         <div class="card-num">Aula 3</div>
         <div class="card-title">Sistemas complementares ao motor</div>
         <div class="card-desc"></div>
       </a>
 
-       <a class="card" onclick="carregarAula('aula_4/aula_4.html', this)" href="#">
+      <a class="card"
+         onclick="carregarAula('aula_4/aula_4.html', this)"
+         href="#">
         <div class="card-num">Aula 4</div>
         <div class="card-title">Tratores e seus constituintes (P1)</div>
         <div class="card-desc"></div>
       </a>
+
+      <a class="card"
+         onclick="carregarAula('aula_5/aula_5.html', this)"
+         href="#">
+        <div class="card-num">Aula 4</div>
+        <div class="card-title">Tratores e seus constituintes (P2)</div>
+        <div class="card-desc"></div>
+      </a>
+
       <a class="card em-breve" href="#">
-        <div class="card-num">Aula 5</div>
+        <div class="card-num">Aula 6</div>
         <div class="card-title">Em breve</div>
-        <div class="card-desc">Conteúdo será disponibilizado em breve.</div>
+        <div class="card-desc">
+          Conteúdo será disponibilizado em breve.
+        </div>
       </a>
 
     </div>
-  </div>
 
-  <!-- Viewer com o iframe abaixo dos cards -->
-  <div class="aulas-viewer" id="aulas-viewer">
-    <div class="viewer-placeholder" id="viewer-placeholder">
-      <div class="placeholder-icon">📖</div>
-      <p>Selecione uma aula acima para visualizá-la aqui.</p>
+
+    <!-- =====================================================
+         MATERIAIS
+         ===================================================== -->
+
+    <!-- <h2 class="secao-titulo materiais-titulo">
+      Materiais complementares
+    </h2>
+
+    <div class="materiais-grid"> -->
+
+      <!-- PDF -->
+      <!-- <a class="material-card"
+         onclick="carregarMaterial('materiais/ASABE_tratores.pdf', this)"
+         href="#">
+
+        <div class="material-icon">📄</div>
+
+        <div class="material-info">
+          <div class="material-title">
+            Norma ASABE
+          </div> -->
+
+          <!-- <div class="material-desc">
+            Documento em PDF
+          </div>
+        </div> -->
+
+        <!-- <div class="material-tipo">
+          PDF
+        </div>
+
+      </a> -->
+
+
+      <!-- TEXTO -->
+      <!-- <a class="material-card"
+         onclick="carregarMaterial('materiais/material_complementar.txt', this)"
+         href="#">
+
+        <div class="material-icon">📝</div>
+
+        <div class="material-info">
+          <div class="material-title">
+            Material complementar
+          </div>
+
+          <div class="material-desc">
+            Arquivo de texto
+          </div>
+        </div>
+
+        <div class="material-tipo">
+          TXT
+        </div>
+
+      </a> -->
+
+
+      <!-- HTML -->
+      <!-- <a class="material-card"
+         onclick="carregarMaterial('materiais/material_extra.html', this)"
+         href="#">
+
+        <div class="material-icon">🌐</div>
+
+        <div class="material-info">
+          <div class="material-title">
+            Material extra
+          </div>
+
+          <div class="material-desc">
+            Página complementar
+          </div>
+        </div>
+
+        <div class="material-tipo">
+          HTML
+        </div> -->
+
+      </a>
+
+
+      <!-- ARQUIVO PARA DOWNLOAD -->
+      <!-- <a class="material-card"
+         href="materiais/apostila.docx"
+         target="_blank"> -->
+<!-- 
+        <div class="material-icon">📘</div>
+
+        <div class="material-info">
+          <div class="material-title">
+            Apostila
+          </div>
+
+          <div class="material-desc">
+            Documento para download
+          </div>
+        </div>
+
+        <div class="material-tipo">
+          DOCX
+        </div>
+
+      </a>
+
     </div>
+
+  </div> -->
+
+
+  <!-- =====================================================
+       VIEWER
+       ===================================================== -->
+
+  <div class="aulas-viewer" id="aulas-viewer">
+
+    <div class="viewer-placeholder" id="viewer-placeholder">
+
+      <div class="placeholder-icon">📖</div>
+
+      <p>
+        Selecione uma aula ou um material para visualizá-lo aqui.
+      </p>
+
+    </div>
+
     <iframe
       id="aula-frame"
       src=""
       style="display:none; width:100%; height:100%; border:none;"
       allowfullscreen>
     </iframe>
+
   </div>
 
 </div>
 
-<script>
-function carregarAula(url, cardClicado) {
-  document.querySelectorAll('.card').forEach(function(c) {
-    c.classList.remove('ativo');
-  });
 
-  if (cardClicado) cardClicado.classList.add('ativo');
+<script>
+
+function limparAtivos() {
+
+  document.querySelectorAll('.card, .material-card')
+    .forEach(function(c) {
+      c.classList.remove('ativo');
+    });
+
+}
+
+
+function carregarAula(url, cardClicado) {
+
+  limparAtivos();
+
+  if (cardClicado)
+    cardClicado.classList.add('ativo');
 
   document.getElementById('viewer-placeholder').style.display = 'none';
+
   var frame = document.getElementById('aula-frame');
+
   frame.style.display = 'block';
+
   frame.src = url;
 
-  // Rola suavemente até o viewer
-  document.getElementById('aulas-viewer').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  document.getElementById('aulas-viewer')
+    .scrollIntoView({
+      behavior: 'smooth',
+      block: 'start'
+    });
+
 }
+
+
+function carregarMaterial(url, materialClicado) {
+
+  limparAtivos();
+
+  if (materialClicado)
+    materialClicado.classList.add('ativo');
+
+  document.getElementById('viewer-placeholder').style.display = 'none';
+
+  var frame = document.getElementById('aula-frame');
+
+  frame.style.display = 'block';
+
+  frame.src = url;
+
+  document.getElementById('aulas-viewer')
+    .scrollIntoView({
+      behavior: 'smooth',
+      block: 'start'
+    });
+
+}
+
 </script>
 ```

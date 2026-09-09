@@ -6,6 +6,7 @@ project:
     - aula_2/
     - aula_3/
     - aula_4/
+    - aula_5/
 
 website:
   title: "mecanizacao"
