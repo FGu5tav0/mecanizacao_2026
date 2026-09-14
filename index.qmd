@@ -102,25 +102,15 @@ format:
 
       <!-- ARQUIVO PARA DOWNLOAD -->
       <a class="material-card"
-         onclick="carregarMaterial('exer/ex1.docx', this)"
-         href="#">
+         href="exer/ex1.docx"
+         download>
 
-        <div class="material-icon">📘</div>
-
+        <div class="material-icon">📝</div>
         <div class="material-info">
-          <div class="material-title">
-            Lista de exercícios 01
-          </div>
-
-          <div class="material-desc">
-            Documento para download
-          </div>
+          <div class="material-title">Lista de exercícios 01</div>
+          <div class="material-desc">Documento em docx</div>
         </div>
-
-        <div class="material-tipo">
-          DOCX
-        </div>
-
+        <div class="material-tipo">DOCX</div>
       </a>
 
     </div>
