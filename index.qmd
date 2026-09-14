@@ -77,94 +77,39 @@ format:
          MATERIAIS
          ===================================================== -->
 
-    <!-- <h2 class="secao-titulo materiais-titulo">
+    <h2 class="secao-titulo materiais-titulo">
       Materiais complementares
     </h2>
 
-    <div class="materiais-grid"> -->
+    <div class="materiais-grid">
 
       <!-- PDF -->
-      <!-- <a class="material-card"
-         onclick="carregarMaterial('materiais/ASABE_tratores.pdf', this)"
-         href="#">
-
-        <div class="material-icon">📄</div>
-
-        <div class="material-info">
-          <div class="material-title">
-            Norma ASABE
-          </div> -->
-
-          <!-- <div class="material-desc">
-            Documento em PDF
-          </div>
-        </div> -->
-
-        <!-- <div class="material-tipo">
-          PDF
-        </div>
-
-      </a> -->
-
-
-      <!-- TEXTO -->
-      <!-- <a class="material-card"
-         onclick="carregarMaterial('materiais/material_complementar.txt', this)"
-         href="#">
+      <!-- PDF -->
+      <a class="material-card"
+         href="exer/formulas_mat.pdf"
+         download>
 
         <div class="material-icon">📝</div>
-
         <div class="material-info">
-          <div class="material-title">
-            Material complementar
-          </div>
-
-          <div class="material-desc">
-            Arquivo de texto
-          </div>
+          <div class="material-title">Fórmulas</div>
+          <div class="material-desc">Documento em PDF</div>
         </div>
-
-        <div class="material-tipo">
-          TXT
-        </div>
-
-      </a> -->
-
-
-      <!-- HTML -->
-      <!-- <a class="material-card"
-         onclick="carregarMaterial('materiais/material_extra.html', this)"
-         href="#">
-
-        <div class="material-icon">🌐</div>
-
-        <div class="material-info">
-          <div class="material-title">
-            Material extra
-          </div>
-
-          <div class="material-desc">
-            Página complementar
-          </div>
-        </div>
-
-        <div class="material-tipo">
-          HTML
-        </div> -->
-
+        <div class="material-tipo">PDF</div>
       </a>
+
+      <!-- TEXTO -->
 
 
       <!-- ARQUIVO PARA DOWNLOAD -->
-      <!-- <a class="material-card"
-         href="materiais/apostila.docx"
-         target="_blank"> -->
-<!-- 
+      <a class="material-card"
+         onclick="carregarMaterial('exer/ex1.docx', this)"
+         href="#">
+
         <div class="material-icon">📘</div>
 
         <div class="material-info">
           <div class="material-title">
-            Apostila
+            Lista de exercícios 01
           </div>
 
           <div class="material-desc">
@@ -180,7 +125,7 @@ format:
 
     </div>
 
-  </div> -->
+  </div>
 
 
   <!-- =====================================================
