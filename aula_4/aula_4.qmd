@@ -737,7 +737,7 @@ Também conhecidos como tratores **standards**
 
 **Tratores 4x2 TDA**
 
-Apresentam 3 rodas de tração, mas a tração no eixo dianteiro é opcional. A tração também é chamada de tração dianteira auxiliar ou assistida (TDA).
+Apresentam 2 rodas de tração, mas a tração no eixo dianteiro é opcional. A tração também é chamada de tração dianteira auxiliar ou assistida (TDA).
 
 ::: {.incremental}
 
