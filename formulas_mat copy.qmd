@@ -1,0 +1,196 @@
+---
+title: "Catálogo de Expressões"
+# subtitle: "Potência em Movimento Giratório e Transmissão de Potência em Mecanização Agrícola"
+lang: pt
+format:
+  typst:
+    papersize: a4
+    margin:
+      x: 2.2cm
+      y: 2cm
+    fontsize: 9pt
+    section-numbering: "1.1"
+    mainfont: "Liberation Sans"
+---
+
+## Motor
+### Cilindrada do motor
+
+$$
+V = \frac{\pi \cdot D^2}{4} \cdot h \cdot n
+$$
+
+- ***V*** = cilindrada (cm³)
+
+- ***D*** = diâmetro do pistão (cm)
+
+- ***h*** = curso do pistão do PMI ao PMS (cm)
+
+- ***n*** = número de cilindros
+
+
+### Razão de compressão
+
+$$
+r = \frac{V_{\max}}{V_{\min}}
+$$
+
+- ***r*** = razão de compressão
+
+- ***V<sub>máx</sub>*** = volume máximo do cilindro
+
+- ***V<sub>mín</sub>*** = volume mínimo do cilindro
+
+
+### Eficiência térmica do ciclo Otto
+
+$$
+\eta_{t,Otto} =
+1 - \frac{1}{r^{k-1}}
+$$
+
+- ***η<sub>t,Otto</sub>*** = eficiência térmica
+
+- ***r*** = razão de compressão
+
+- ***k*** = razão dos calores específicos
+
+
+## Potência de rotação
+$$
+P = \frac{\tau \cdot 2 \pi \cdot n}{60}
+$$
+
+- $P$ = potência (W)
+- $\tau$ = torque (N·m)
+- $n$ = rotação (rpm)
+
+
+
+## Engrenagens: Rotação, Torque e Número de Dentes
+
+$$
+i = \frac{n_1}{n_2} = \frac{d_2}{d_1} = \frac{Z_2}{Z_1} = \frac{\tau_2}{\tau_1}
+$$
+
+- $i$ = relação de transmissão
+- $n_1$, $n_2$ = rotação da engrenagem motora e movida (rpm)
+- $d_1$, $d_2$ = diâmetro primitivo das engrenagens (m)
+- $Z_1$, $Z_2$ = número de dentes das engrenagens
+- $\tau_1$, $\tau_2$ = torque das engrenagens (N m)
+
+### Torque transmitido entre engrenagens
+
+Desprezando perdas (sistema ideal), a potência se conserva entre as engrenagens, de modo que:
+
+$$
+\tau_1 \cdot n_1 = \tau_2 \cdot n_2
+$$
+
+- $\tau_1$, $\tau_2$ = torque na engrenagem motora e movida (N m)
+- $n_1$, $n_2$ = rotação da engrenagem motora e movida (rpm)
+
+## Cadeia de Transmissão de Potência do Trator
+
+O fluxo de potência no trator segue o caminho: **Motor → Transmissão → Rodado → Barra de Tração**, com perdas em cada etapa, representadas por eficiências ($\eta$).
+
+$$
+P_{motor} \xrightarrow{\ \eta_{transmissão}\ } P_{rodado} \xrightarrow{\ \eta_{rodado}\ } P_{barra}
+$$
+
+## Velocidade de deslocamento
+
+$$
+i_t = i_{marcha} * i_{diferencial} * i_{redu. final}
+$$
+
+
+$$
+n_{rodado} = \frac{n_{motor}}{i_t}
+$$
+
+
+$$
+v =
+\pi \cdot D \cdot n_{rodado}
+$$
+
+- $n_{rodado}$ = rotação do rodado (rpm ou rps se dividido por 60)
+- $v$ = velocidade de deslocamento (m/s)
+- $D$ = diâmetro do rodado (m)
+- $n_{motor}$ = rotação do motor (rpm)
+- $i_t$ = relação de transmissão total (marcha, diferencial, redução final)
+
+### Relação entre torque e rotação do motor e do rodado
+
+$$
+\tau_{motor} \cdot n_{motor} \cdot \eta_t = \tau_{rodado} \cdot n_{rodado}
+$$
+
+- $\tau_{motor}$ = torque do motor (N·m)
+- $n_{motor}$ = rotação do motor (rpm)
+- $\eta_t$ = eficiência da transmissão
+- $\tau_{rodado}$ = torque no rodado (N·m)
+- $n_{rodado}$ = rotação do rodado (rpm)
+
+### Eficiência de transmissão
+
+$$
+\eta_{t} = \frac{P_{rodado}}{P_{motor}}
+$$
+
+- $\eta_{t}$ = eficiência de transmissão (potência final / potência de entrada)
+- $P_{rodado}$ = potência disponível no rodado (W)
+- $P_{motor}$ = potência do motor (W)
+
+## Potência e Eficiência na Barra de Tração
+
+### Potência da barra de tração
+
+$$
+P_{barra} = F \cdot v = \eta_{rodado} \cdot P_{rodado}
+$$
+
+- $P_{barra}$ = potência disponível na barra de tração (W)
+- $F$ = força de tração (N)
+- $v$ = velocidade de deslocamento (m/s)
+- $\eta_{rodado}$ = eficiência do rodado (perdas por patinagem/rolamento)
+- $P_{rodado}$ = potência disponível no rodado (W)
+
+### Eficiência do rodado (Importante)
+
+$$
+\eta_{rodado} = \frac{P_{barra}}{P_{rodado}}
+$$
+
+- $\eta_{rodado}$ = eficiência do rodado
+- $P_{barra}$ = potência na barra de tração (W)
+- $P_{rodado}$ = potência disponível no rodado (W)
+
+### Potência da barra em função da potência do motor
+
+Combinando as eficiências de transmissão e de rodado, a potência na barra de tração também pode ser obtida diretamente a partir da potência do motor:
+
+$$
+P_{barra} = P_{motor} \cdot \eta_{t} \cdot \eta_{rodado}
+$$
+
+- $P_{motor}$ = potência do motor (W)
+- $\eta_{t}$ = eficiência de transmissão
+- $\eta_{rodado}$ = eficiência do rodado
+
+### Rendimento tratório (global)
+
+$$
+\eta_{trator} = \frac{P_{barra}}{P_{motor}}
+$$
+
+- $\eta_{trator}$ = rendimento tratório global
+- $P_{barra}$ = potência na barra de tração (W)
+- $P_{motor}$ = potência do motor (W)
+
+ **Relação de fechamento:** como $P_{barra} = P_{motor} \cdot \eta_{transmissão} \cdot \eta_{rodado}$, segue que o rendimento tratório global é o produto das eficiências parciais:
+
+ $$
+ \eta_{trator} = \eta_{transmissão} \cdot \eta_{rodado}
+ $$

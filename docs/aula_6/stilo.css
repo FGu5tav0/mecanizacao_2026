@@ -1,0 +1,75 @@
+.reveal {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.zoom-container {
+  width: 100%;
+  height: 60vh;
+
+  overflow: hidden;
+
+  display: flex;
+
+  /* Controles padrão */
+  --zoom-inicial: 1;
+  --zoom-final: 1.7;
+
+  /* Ponto do zoom dentro da imagem */
+  --zoom-x: 50%;
+  --zoom-y: 80%;
+
+  /* Posição da imagem no slide */
+  --pos-x: center;
+  --pos-y: center;
+
+  /* Tempo da animação */
+  --duracao-zoom: 1.2s;
+
+  justify-content: var(--pos-x);
+  align-items: var(--pos-y);
+}
+
+.imagem-zoom {
+  max-width: 100%;
+  max-height: 100%;
+
+  width: auto;
+  height: auto;
+
+  transition: transform var(--duracao-zoom) ease-in-out;
+
+  transform: scale(var(--zoom-inicial));
+
+  transform-origin: var(--zoom-x) var(--zoom-y);
+}
+
+.zoom-container:has(.trigger-zoom.visible) .imagem-zoom {
+  transform: scale(var(--zoom-final));
+}
+
+
+.tabela-tracao {
+  width: 100%;
+  margin: auto;
+  font-size: 0.8em;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+.tabela-tracao th,
+.tabela-tracao td {
+  text-align: center;
+  padding: 0.3em 1.2em;
+}
+
+.tabela-tracao thead {
+  border-top: 2px solid;
+  border-bottom: 2px solid;
+}
+
+.tabela-tracao tbody tr:last-child {
+  border-bottom: 2px solid;
+}
