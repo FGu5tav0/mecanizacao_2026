@@ -70,6 +70,14 @@ format:
         <div class="card-desc"></div>
       </a>
 
+      <a class="card"
+         onclick="carregarAula('aula_7/aula_7.html', this)"
+         href="#">
+        <div class="card-num">Aula 7</div>
+        <div class="card-title">Máquinas para o preparo do solo</div>
+        <div class="card-desc"></div>
+      </a>
+
 
       <a class="card em-breve" href="#">
         <div class="card-num">Aula 7</div>
