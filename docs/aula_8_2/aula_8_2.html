@@ -1,0 +1,1464 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/tabby.min.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/quarto-contrib/timeline-0.1.0/timeline.js"></script>
+<link href="../site_libs/quarto-contrib/timeline-0.1.0/timeline.css" rel="stylesheet"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.10.19">
+
+  <meta name="author" content="Gustavo Frosi">
+  <title>mecanizacao – Mecanização agrícola:</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/reveal.css">
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+      vertical-align: middle;
+    }
+  </style>
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-ec59874b3a8398889ca2432df423b2c0.css">
+  <link rel="stylesheet" href="stilo.css">
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-SCQSRGY4FE"></script>
+
+  <script type="text/javascript">
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-SCQSRGY4FE', { 'anonymize_ip': true});
+  </script>
+  <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <style type="text/css">
+    .reveal div.sourceCode {
+      margin: 0;
+      overflow: auto;
+    }
+    .reveal div.hanging-indent {
+      margin-left: 1em;
+      text-indent: -1em;
+    }
+    .reveal .slide:not(.center) {
+      height: 100%;
+    }
+    .reveal .slide.scrollable {
+      overflow-y: auto;
+    }
+    .reveal .footnotes {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide .absolute {
+      position: absolute;
+      display: block;
+    }
+    .reveal .footnotes ol {
+      counter-reset: ol;
+      list-style-type: none; 
+      margin-left: 0;
+    }
+    .reveal .footnotes ol li:before {
+      counter-increment: ol;
+      content: counter(ol) ". "; 
+    }
+    .reveal .footnotes ol li > p:first-child {
+      display: inline-block;
+    }
+    .reveal .slide ul,
+    .reveal .slide ol {
+      margin-bottom: 0.5em;
+    }
+    .reveal .slide ul li,
+    .reveal .slide ol li {
+      margin-top: 0.4em;
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide ul[role="tablist"] li {
+      margin-bottom: 0;
+    }
+    .reveal .slide ul li > *:first-child,
+    .reveal .slide ol li > *:first-child {
+      margin-block-start: 0;
+    }
+    .reveal .slide ul li > *:last-child,
+    .reveal .slide ol li > *:last-child {
+      margin-block-end: 0;
+    }
+    .reveal .slide .columns:nth-child(3) {
+      margin-block-start: 0.8em;
+    }
+    .reveal blockquote {
+      box-shadow: none;
+    }
+    .reveal .tippy-content>* {
+      margin-top: 0.2em;
+      margin-bottom: 0.7em;
+    }
+    .reveal .tippy-content>*:last-child {
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide > img.stretch.quarto-figure-center,
+    .reveal .slide > img.r-stretch.quarto-figure-center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-left,
+    .reveal .slide > img.r-stretch.quarto-figure-left  {
+      display: block;
+      margin-left: 0;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-right,
+    .reveal .slide > img.r-stretch.quarto-figure-right  {
+      display: block;
+      margin-left: auto;
+      margin-right: 0; 
+    }
+  </style>
+  <link href="../site_libs/countdown-0.6.0/countdown.css" rel="stylesheet">
+
+  <script src="../site_libs/countdown-0.6.0/countdown.js"></script>
+
+  <script>
+  document.addEventListener('contextmenu', event => event.preventDefault());
+  document.addEventListener('copy', event => event.preventDefault());
+  document.addEventListener('cut', event => event.preventDefault());
+  </script>
+</head>
+<body class="quarto-light">
+<script src="mathjax-config.js"></script>
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide" data-background-image="fundo.jpg" data-background-opacity="0.9" data-background-position="right 3% top 58%" data-background-size="40%" class="quarto-title-block center">
+  <h1 class="title">Mecanização agrícola:</h1>
+  <p class="subtitle">Cálculos de densidade de semeadura e regulagens</p>
+
+<div class="quarto-title-authors">
+<div class="quarto-title-author">
+<div class="quarto-title-author-name">
+Gustavo Frosi
+</div>
+<div class="quarto-title-author-email">
+<a href="mailto:gustavofrosi@hotmail.com">gustavofrosi@hotmail.com</a>
+</div>
+        <p class="quarto-title-affiliation">
+            Instituto Federal do Paraná <br> Curso Superior em Engenharia Agronômica
+          </p>
+    </div>
+</div>
+
+  <p class="date">30 de outubro de 2026</p>
+</section>
+<section id="exercícios" class="slide level2">
+<h2>Exercícios</h2>
+<hr>
+<div class="cell">
+<div class="cell-output-display">
+<countdown-timer class="countdown" id="timer_3f17b5a8" minutes="5" seconds="0" update-every="1" tabindex="0" style="top:0;right:0;--countdown-margin:0%;--countdown-padding:5px;"></countdown-timer>
+</div>
+</div>
+<p>1 - Cultivo de trigo: quero uma população de <strong>3500000 plantas ha<sup>-1</sup></strong>, com espaçamento entre linhas de <strong>17 cm</strong>, PMS de <strong>44 g</strong> e germinação de <strong>93%</strong>. Qual a quantidade de sementes (kg) que devo largar por metro? Qual a quantidade de sementes (kg) por hectare?</p>
+<div class="fragment">
+<p>Resultado:</p>
+<div class="columns" style="font-size:22px">
+<div class="column">
+<div class="fragment">
+<p><span class="math display">\[
+Q_{metro}= (\frac{100}{0,17})*100 = 58823.53~m~(lineares)
+\]</span></p>
+</div>
+<div class="fragment">
+<p><span class="math display">\[
+Pop = \frac{ 3500000}{0.93}= 3763441~plantas~ha^{-1}
+\]</span></p>
+</div>
+</div><div class="column">
+<div class="fragment">
+<p><span class="math display">\[
+NS = \frac{3763441}{58823.53} = 63.9785~plantas~m^{-1}
+\]</span></p>
+</div>
+<div class="fragment">
+<p><span class="math display">\[
+NS_{peso}= \frac{63.9785~plantas~m^{-1} * 44~g}{1000} = 2.82~g~m^{-1}
+\]</span></p>
+</div>
+<div class="fragment">
+<p><span class="math display">\[
+Peso_{total}= \frac{3763441 * 44~g}{1000} = \frac{ 165591.4}{1000} = 165.59~kg~ha^{-1}
+\]</span></p>
+</div>
+</div></div>
+</div>
+</section>
+<section id="exercícios-1" class="slide level2">
+<h2>Exercícios</h2>
+<hr>
+<div class="cell">
+<div class="cell-output-display">
+<countdown-timer class="countdown" id="timer_0f178a72" minutes="5" seconds="0" update-every="1" tabindex="0" style="top:0;right:0;--countdown-margin:0%;--countdown-padding:5px;"></countdown-timer>
+</div>
+</div>
+<p>2 - Cultivo de milho: quero uma população de <strong>80000 plantas ha<sup>-1</sup></strong>, com espaçamento entre linhas de <strong>45 cm</strong> e germinação de <strong>95%</strong>. Qual a quantidade de sementes que devo largar por metro? Qual a quantidade de sementes por hectare?</p>
+<div class="fragment">
+<p>Resultado:</p>
+<div class="columns" style="font-size:22px">
+<div class="column">
+<div class="fragment">
+<p><span class="math display">\[
+Q_{metro}= (\frac{100}{0.45})*100 = 22222.22~m~(lineares)
+\]</span></p>
+</div>
+<div class="fragment">
+<p><span class="math display">\[
+Pop = \frac{80000}{0.95}= 84210.53~plantas~ha^{-1}
+\]</span></p>
+</div>
+</div><div class="column">
+<div class="fragment">
+<p><span class="math display">\[
+NS = \frac{84210.53}{22222.22} = 3.789~plantas~m^{-1}
+\]</span></p>
+</div>
+</div></div>
+</div>
+</section>
+<section id="exercícios-2" class="slide level2">
+<h2>Exercícios</h2>
+<hr>
+<div class="cell">
+<div class="cell-output-display">
+<countdown-timer class="countdown" id="timer_525a876d" minutes="5" seconds="0" update-every="1" tabindex="0" style="top:0;right:0;--countdown-margin:0%;--countdown-padding:5px;"></countdown-timer>
+</div>
+</div>
+<p>3 - Cultivo de soja: quero uma população de <strong>300000 plantas ha<sup>-1</sup></strong>, com espaçamento entre linhas de <strong>45 cm</strong>, germinação de <strong>98%</strong> e pureza de <strong>99%</strong>. Qual a quantidade de sementes que devo largar por metro? Qual a quantidade de sementes por hectare?</p>
+<div class="fragment">
+<p>Resultado:</p>
+<div class="columns" style="font-size:22px">
+<div class="column">
+<div class="fragment">
+<p><span class="math display">\[
+Q_{metro}= (\frac{100}{0.45})*100 = 22222.22~m~(lineares)
+\]</span></p>
+</div>
+<div class="fragment">
+<p><span class="math display">\[
+Pop_{G} = \frac{300000}{0.98}= 306122.4~plantas~ha^{-1}
+\]</span></p>
+</div>
+<div class="fragment">
+<p><span class="math display">\[
+Pop_{P} = \frac{306122.4}{0.99}= 309214.5~plantas~ha^{-1}
+\]</span></p>
+</div>
+</div><div class="column">
+<div class="fragment">
+<p><span class="math display">\[
+NS = \frac{309214.5}{22222.22} = 13.914~plantas~m^{-1}
+\]</span></p>
+</div>
+</div></div>
+</div>
+</section>
+<section id="exercícios-3" class="slide level2">
+<h2>Exercícios</h2>
+<hr>
+<div class="cell">
+<div class="cell-output-display">
+<countdown-timer class="countdown" id="timer_f414be50" minutes="5" seconds="0" update-every="1" tabindex="0" style="top:0;right:0;--countdown-margin:0%;--countdown-padding:5px;"></countdown-timer>
+</div>
+</div>
+<p>4 - Cultivo de soja:</p>
+<div style="font-size:22px">
+<p>Temos um conjunto (trator-semeadora) com engrenagem motora de 14 dentes e engrenagem movida de 19 dentes. A deposição de sementes é de 15 sementes m<sup>-1</sup>, com disco de 92 furos. A semente utilizada possui vigor de 88%.</p>
+<div class="fragment">
+<p>A recomendação é que tenhamos 13,5 plantas viáveis a cada metro, com espaçamento de 45 cm, usando um disco de 62 furos.</p>
+</div>
+</div>
+<div class="fragment" style="font-size:22px">
+<p>Resultado:</p>
+<div class="fragment">
+<p><span class="math display">\[
+S_{metro}= (\frac{13.5}{0.88}) = 15.34~sementes~m^{-1}
+\]</span></p>
+</div>
+<div class="fragment">
+<p>Discos:</p>
+<p><span class="math display">\[
+\frac{92~furos}{62~furos} = \frac{15~sementes}{x} \quad\Rightarrow\quad x = \frac{62 \cdot 15.34}{92} = 10.1087~sementes~m^{-1}
+\]</span></p>
+</div>
+</div>
+</section>
+<section id="exercícios-4" class="slide level2">
+<h2>Exercícios</h2>
+<hr>
+<div class="cell">
+<div class="cell-output-display">
+<countdown-timer class="countdown" id="timer_ce1a9f0e" minutes="5" seconds="0" update-every="1" tabindex="0" style="top:0;right:0;--countdown-margin:0%;--countdown-padding:5px;"></countdown-timer>
+</div>
+</div>
+<p>4 - Cultivo de soja:</p>
+<div style="font-size:22px">
+<p>Temos um conjunto (trator-semeadora) com engrenagem motora de 14 dentes e engrenagem movida de 19 dentes. A deposição de sementes é de 15 sementes m<sup>-1</sup>, com disco de 92 furos. A semente utilizada possui vigor de 88%.</p>
+<p>A recomendação é que tenhamos 13,5 plantas viáveis a cada metro, com espaçamento de 45 cm, usando um disco de 62 furos.</p>
+</div>
+<div class="fragment" style="font-size:22px">
+<p>Resultado:</p>
+<div class="fragment">
+<p>Relação de engrenagens:</p>
+<p><span class="math inline">\(14/19 = 0,7368\)</span></p>
+<p><span class="math display">\[
+\frac{0.7368}{x} = \frac{10.1087~sementes}{15.34~sementes} \quad\Rightarrow\quad x = \frac{0.7368 \cdot 15.34}{10.1087} = 1.118
+\]</span></p>
+</div>
+<div class="fragment">
+<p><span class="math display">\[
+Pop_{alvo} = 13.5 * 22222.22 = 300000~plantas~ha^{-1}
+\]</span></p>
+</div>
+</div>
+</section>
+<section id="relações-de-engrenagens" class="slide level2">
+<h2>Relações de engrenagens</h2>
+
+<img data-src="aula_8_2_files/figure-revealjs/unnamed-chunk-6-1.png" class="quarto-figure quarto-figure-center r-stretch" style="width:100.0%"></section>
+<section id="exercícios-5" class="slide level2">
+<h2>Exercícios</h2>
+<hr>
+<div class="cell">
+<div class="cell-output-display">
+<countdown-timer class="countdown" id="timer_5d1e9ab8" minutes="5" seconds="0" update-every="1" tabindex="0" style="top:0;right:0;--countdown-margin:0%;--countdown-padding:5px;"></countdown-timer>
+</div>
+</div>
+<p>4 - Cultivo de soja:</p>
+<div class="columns" style="font-size:22px">
+<div class="column" style="width:70%;">
+<p>Agora, o conjunto já está regulado para distribuir 15,34 sementes m<sup>-1</sup>, considerando todas as configurações de disco, espaçamento e vigor. No entanto, queremos saber se a operação está sendo bem conduzida. Para isso, 5 amostras foram coletadas durante a operação para verificar se a quantidade de sementes depositada corresponde à regulada.</p>
+</div><div class="column" style="width:30%;">
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th style="text-align: center;">Distância</th>
+<th style="text-align: center;">Sementes</th>
+<th style="text-align: center;">Distância entre sementes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">100 cm</td>
+<td style="text-align: center;">13</td>
+<td style="text-align: center;">7,69 cm</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">100 cm</td>
+<td style="text-align: center;">14,2</td>
+<td style="text-align: center;">7,04 cm</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">100 cm</td>
+<td style="text-align: center;">15,2</td>
+<td style="text-align: center;">6,58 cm</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">100 cm</td>
+<td style="text-align: center;">15</td>
+<td style="text-align: center;">6,67 cm</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">100 cm</td>
+<td style="text-align: center;">15,3</td>
+<td style="text-align: center;">6,53 cm</td>
+</tr>
+</tbody>
+</table>
+</div></div>
+<div class="columns" style="font-size:22px">
+<div class="column">
+<div class="fragment">
+<p>Sementes por metro:</p>
+<p><span class="math display">\[
+\bar{x} = \frac{13 + 14{,}2 + 15{,}2 + 15 + 15{,}3}{5}
+= 14{,}54
+\]</span></p>
+<p><span class="math display">\[
+s = \sqrt{\frac{\sum_{i=1}^{n}(x_i-\bar{x})^2}{n-1}}
+= 0{,}96
+\]</span></p>
+<p><span class="math display">\[
+CV = \frac{s}{\bar{x}} \times 100
+= \frac{0{,}9633}{14{,}54} \times 100
+= 6{,}63\%
+\]</span></p>
+</div>
+</div><div class="column">
+<div class="fragment" style="font-size:22px">
+<p>E a distribuição dessas sementes nos 100 cm?</p>
+</div>
+</div></div>
+</section>
+<section id="exercícios-6" class="slide level2">
+<h2>Exercícios</h2>
+<hr>
+<div class="cell">
+<div class="cell-output-display">
+<countdown-timer class="countdown" id="timer_04ec7995" minutes="5" seconds="0" update-every="1" tabindex="0" style="top:0;right:0;--countdown-margin:0%;--countdown-padding:5px;"></countdown-timer>
+</div>
+</div>
+<p>4 - Cultivo de soja:</p>
+<div class="columns" style="font-size:22px">
+<div class="column" style="width:70%;">
+<p>Consideramos que a quantidade de sementes depositada a cada metro está dentro do aceitável em nosso exemplo. No entanto, agora queremos observar se a distribuição entre as sementes está boa. Para isso, mais 15 medidas de distância entre sementes foram coletadas. O ideal seria observar uma distância de 6,52 cm entre cada semente, mas observamos as seguintes medidas:</p>
+</div><div class="column" style="width:30%;">
+<ul>
+<li>Amostra 1: 6,37; 6,25; 6,55; 6,50; 6,59.</li>
+<li>Amostra 2: 6,40; 6,41; 6,43; 6,40; 6,43.</li>
+<li>Amostra 3: 6,52; 6,50; 6,50; 6,51; 6,54.</li>
+</ul>
+</div></div>
+<div class="fragment">
+<p>Qual é a média, o desvio-padrão, o CV da amostra ou de cada amostra? Além da precisão e da acurácia da operação.</p>
+</div>
+</section>
+<section>
+<section id="teste" class="title-slide slide level1 center">
+<h1>Teste</h1>
+<hr>
+</section>
+<section id="teste-1" class="slide level2">
+<h2>Teste 1</h2>
+<hr>
+<div class="cell">
+<div class="cell-output-display">
+<countdown-timer class="countdown" id="timer_dd9a4f7d" minutes="12" seconds="0" update-every="1" tabindex="0" style="top:0;right:0;--countdown-margin:0%;--countdown-padding:5px;"></countdown-timer>
+</div>
+</div>
+<div class="fragment" style="font-size:22px">
+<p>5 - Em busca de tempo para continuar a leitura do livro <span class="fg" style="--col: #e64173"><strong><em>A vida secreta das árvores</em></strong></span>, um agrônomo quer regular uma semeadora para a cultura da soja e determinar quanto tempo levará para fazer a operação de semeadura. O agrônomo/pequeno produtor possui 15 hectares, dos quais 12,5 serão cultivados com soja.</p>
+<div class="fragment">
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>A semeadora do agrônomo tem largura de trabalho de 4,5 m, e ele sempre faz a semeadura a uma velocidade de 5,5 km h<sup>-1</sup>. No ano passado, ele fez algumas anotações sobre o tempo gasto na operação:</li>
+</ul>
+<div class="fragment">
+<ul>
+<li>Tempo efetivo: ~303 minutos;</li>
+<li>Manobras: ~70 minutos;</li>
+<li>Abastecimento: ~60 minutos.</li>
+</ul>
+</div>
+</div><div class="column" style="width:50%;">
+<div class="fragment">
+<ul>
+<li>Neste ano, a ideia é ter 250 mil plantas por hectare. Para isso, ele conta com uma semeadora de 10 linhas, que tem boa distribuição, mas, devido à idade do implemento, recomenda-se adicionar 10% de sementes como margem de segurança. A semente disponível na cooperativa possui PMS de 200 g e germinação de 97%, mas apresenta 2% de impurezas devido a problemas na embalagem.</li>
+</ul>
+</div>
+</div></div>
+</div>
+<div class="fragment">
+<p><span class="fg" style="--col: #e64173"><strong>Quantas sementes por metro o agrônomo deve observar para ter o estande de plantas desejado? Além disso, qual é a quantidade de sementes necessária para toda a área?</strong></span></p>
+<p><span class="fg" style="--col: #e64173"><strong>Também, quais são as capacidades de campo teórica e efetiva, a eficiência de campo e a capacidade de manipulação? Em quanto tempo o agrônomo poderá voltar a ler seu livro?</strong></span></p>
+</div>
+</div>
+</section>
+<section id="teste-2" class="slide level2">
+<h2>Teste 2</h2>
+<hr>
+<div class="cell">
+<div class="cell-output-display">
+<countdown-timer class="countdown" id="timer_2267f2c1" minutes="12" seconds="0" update-every="1" tabindex="0" style="top:0;right:0;--countdown-margin:0%;--countdown-padding:5px;"></countdown-timer>
+</div>
+</div>
+<div class="fragment" style="font-size:22px">
+<p>6 - Um agricultor deseja cultivar trigo em uma área de 42 ha. Sabe-se que a densidade de semeadura recomendada é de 125 kg ha<sup>-1</sup> e de adubo 400 kg ha<sup>-1</sup>. Para realizar o trabalho, o agricultor possui um conjunto semeadora/adubadora com as seguintes características: 13 linhas, perímetro da roda motriz que transmite os movimentos 2,43 m, distância entre linhas de 0,17 m. Considere que a semente apresenta 95% de germinação 98% de sobrevivência e 90% de pureza. Pergunta-se:</p>
+<ul>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Quais serão as quantidades (kg) de adubo e de sementes que deverão cair, por linha, se girarmos a roda motriz da semeadora 15 vezes? (Considere 5% de patinagem).</strong></span></p></li>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Se o agricultor coletar o adubo e as sementes de todas as linhas, quais serão as quantidades totais de adubo e de sementes que deverão cair? (Considerando os mesmos 15 giros da roda).</strong></span></p></li>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Quantos kg de sementes e de adubo este agricultor necessitará comprar para adubar e semear toda a sua propriedade?</strong></span></p></li>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>A eficiência da operação é de 85 %, com isso qual valor podemos estimar para a capacidade de campo efetiva que ele pode ter?</strong></span></p></li>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Considerando que a capacidade de manipulação dessa operação é de 234,8 kg h<sup>-1</sup> de sementes, qual a velocidade de cultivo?</strong></span></p></li>
+</ul>
+</div>
+</section>
+<section id="teste-3" class="slide level2">
+<h2>Teste 3</h2>
+<hr>
+<div class="cell">
+<div class="cell-output-display">
+<countdown-timer class="countdown" id="timer_e3e1a9de" minutes="12" seconds="0" update-every="1" tabindex="0" style="top:0;right:0;--countdown-margin:0%;--countdown-padding:5px;"></countdown-timer>
+</div>
+</div>
+<div class="fragment" style="font-size:22px">
+<p>7 - Considere a seguinte situação: Cultivo de milho, com população final de 67.000 plantas ha<sup>-1</sup>; espaçamento 0,8 m; germinação 99%; sobrevivência 95%.</p>
+<p>Considere também, que, na regulagem da máquina percorreu-se 50m (portanto nessa regulagem a semeadora não está suspensa, ou seja, está sendo regulada no solo onde será realizada a semeadura). Nessa distância foram coletadas em média 213 sementes em cada linha da semeadora.</p>
+<ul>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Qual é o número desejado de sementes por metro linear?</strong></span></p></li>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Qual é o número coletado de sementes por metro linear?</strong></span></p></li>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Considere que a relação existente na coleta das sementes era 0,82. Qual a relação necessária para que seja atingido o número desejado de sementes? Quais as engrenagens poderiam ser utilizadas para que se atinja essa relação?</strong></span></p></li>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Qual a acurácia da operação?</strong></span></p></li>
+</ul>
+</div>
+</section>
+<section id="teste-4" class="slide level2">
+<h2>Teste 4</h2>
+<hr>
+<div class="cell">
+<div class="cell-output-display">
+<countdown-timer class="countdown" id="timer_547759a6" minutes="12" seconds="0" update-every="1" tabindex="0" style="top:0;right:0;--countdown-margin:0%;--countdown-padding:5px;"></countdown-timer>
+</div>
+</div>
+<div class="fragment" style="font-size:22px">
+<p>8 - Considere a imagem abaixo e os dados:</p>
+<div class="columns">
+<div class="column">
+<ul>
+<li>Roda de acionamento com 0,48 metros de diâmetro;</li>
+<li>Disco de distribuição com 92 furos.</li>
+</ul>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="engre.png" class="quarto-figure quarto-figure-center" width="650"></p>
+</figure>
+</div>
+</div></div>
+<p><span class="fg" style="--col: #e64173"><strong>Qual é relação necessária para a distribuição de 10 sementes por metro linear? Qual o número de dentes das engrenagens A e B?</strong></span></p>
+</div>
+<aside class="notes">
+<p>perímetro: diâmetro * pi</p>
+<p>Dicas 1: A primeira pergunta que deve ser respondida é: Qual o perímetro da roda? A segunda é: A cada volta da roda, quantas sementes devem cair? A terceira é: A cada volta da roda, x (resposta da pergunta anterior) sementes devem cair, e para isso, quantas voltas o disco deve dar?</p>
+<p>Dica 2: Anotem todas as relações de redução ou aumento, que ocorrem no esquema para facilitar o raciocínio</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="teste-5" class="slide level2">
+<h2>Teste 5</h2>
+<hr>
+<div class="cell">
+<div class="cell-output-display">
+<countdown-timer class="countdown" id="timer_cfdfcb0c" minutes="10" seconds="0" update-every="1" tabindex="0" style="top:0;right:0;--countdown-margin:0%;--countdown-padding:5px;"></countdown-timer>
+</div>
+</div>
+<div class="fragment" style="font-size:22px">
+<p>9 - Um produtor vai semear soja em uma área de 30 ha, com espaçamento entre linhas de 0,5 m. A população final desejada é de 280 mil plantas ha<sup>-1</sup>. A semente apresenta germinação de 90%, sobrevivência (emergência a campo) de 92%, pureza de 98% e PMS de 180 g.</p>
+<ul>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Quantas sementes por metro linear devem ser depositadas?</strong></span></p></li>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Qual é a dose de semeadura em kg ha<sup>-1</sup>?</strong></span></p></li>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Qual é a quantidade total de sementes (kg) necessária para os 30 ha?</strong></span></p></li>
+</ul>
+</div>
+<aside class="notes">
+<p>Gabarito: ~16,9 sementes/m; ~62,1 kg/ha; ~1.863 kg (~1,86 t).</p>
+<p>Dica: sementes/ha = população / (G * S). Metros lineares por ha = 10000 / espaçamento. Dose (kg/ha) = (sementes/ha * PMS/1000) / (pureza * 1000).</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="teste-6" class="slide level2">
+<h2>Teste 6</h2>
+<hr>
+<div class="cell">
+<div class="cell-output-display">
+<countdown-timer class="countdown" id="timer_0cd4f63a" minutes="10" seconds="0" update-every="1" tabindex="0" style="top:0;right:0;--countdown-margin:0%;--countdown-padding:5px;"></countdown-timer>
+</div>
+</div>
+<div class="fragment" style="font-size:22px">
+<p>10 - Uma propriedade possui 80 ha para semeadura de milho. A semeadora tem 6 linhas espaçadas em 0,9 m e trabalha a 6 km h<sup>-1</sup>, com eficiência de campo de 75%. O consumo médio do trator durante a operação é de 6 L h<sup>-1</sup>.</p>
+<ul>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Quais são as capacidades de campo teórica e efetiva (ha h<sup>-1</sup>)?</strong></span></p></li>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Quantas horas serão necessárias para semear toda a área? Se a jornada é de 8 h por dia, quantos dias de trabalho?</strong></span></p></li>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Qual será o consumo total de combustível na operação?</strong></span></p></li>
+</ul>
+</div>
+<aside class="notes">
+<p>Gabarito: CCT = 3,24 ha/h; CCE = 2,43 ha/h; ~32,9 h (~4,1 dias); ~197 L.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="teste-7" class="slide level2">
+<h2>Teste 7</h2>
+<hr>
+<div class="cell">
+<div class="cell-output-display">
+<countdown-timer class="countdown" id="timer_725dde40" minutes="12" seconds="0" update-every="1" tabindex="0" style="top:0;right:0;--countdown-margin:0%;--countdown-padding:5px;"></countdown-timer>
+</div>
+</div>
+<div class="fragment" style="font-size:22px">
+<p>11 - A roda motriz de uma semeadora possui 0,60 m de diâmetro. Para determinar a patinagem, o operador marcou a roda e a fez girar 20 voltas com a máquina em operação no solo, medindo uma distância percorrida de 34,5 m. O sistema de transmissão é regulado para que o disco dosador deposite 24 sementes por volta da roda motriz.</p>
+<ul>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Qual é o perímetro da roda e a distância teórica percorrida em 20 voltas?</strong></span></p></li>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Qual é a patinagem (%)?</strong></span></p></li>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Qual é o número de sementes por metro linear teórico (sem patinagem) e o real (com patinagem)?</strong></span></p></li>
+</ul>
+</div>
+<aside class="notes">
+<p>Gabarito: perímetro = 1,885 m; teórica = 37,7 m; patinagem ~8,5%; teórico ~12,7 sementes/m; real ~13,9 sementes/m.</p>
+<p>Dica: patinagem (%) = (distância teórica - distância real) / distância teórica * 100.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="teste-8" class="slide level2">
+<h2>Teste 8</h2>
+<hr>
+<div class="cell">
+<div class="cell-output-display">
+<countdown-timer class="countdown" id="timer_5808e93c" minutes="12" seconds="0" update-every="1" tabindex="0" style="top:0;right:0;--countdown-margin:0%;--countdown-padding:5px;"></countdown-timer>
+</div>
+</div>
+<div class="fragment" style="font-size:22px">
+<p>12 - Na regulagem de uma semeadora de soja (espaçamento de 0,45 m), deseja-se uma população final de 300 mil plantas ha<sup>-1</sup>, com germinação de 85% e sobrevivência de 90%. A máquina percorreu 30 m e foram coletadas as sementes de 4 linhas, obtendo-se 520, 540, 515 e 525 sementes, respectivamente.</p>
+<ul>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Qual é o número desejado de sementes por metro linear?</strong></span></p></li>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Qual é o número médio coletado de sementes por metro linear?</strong></span></p></li>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Qual é a acurácia da operação (%)? Precisa de novo ajuste?</strong></span></p></li>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Qual é o coeficiente de variação (%) entre as linhas?</strong></span></p></li>
+</ul>
+</div>
+<aside class="notes">
+<p>Gabarito: desejado ~17,65 sementes/m; coletado = 525/30 = 17,5 sementes/m; acurácia ~99,2% (erro de ~-0,85%); desvio-padrão amostral ~10,8 sementes; CV ~2,1%.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="teste-9" class="slide level2">
+<h2>Teste 9</h2>
+<hr>
+<div class="cell">
+<div class="cell-output-display">
+<countdown-timer class="countdown" id="timer_d9e0c77f" minutes="10" seconds="0" update-every="1" tabindex="0" style="top:0;right:0;--countdown-margin:0%;--countdown-padding:5px;"></countdown-timer>
+</div>
+</div>
+<div class="fragment" style="font-size:22px">
+<p>13 - Em uma área de 50 ha de milho, com espaçamento de 0,8 m, será aplicado no sulco de semeadura o formulado 08-28-16 (N-P<sub>2</sub>O<sub>5</sub>-K<sub>2</sub>O) na dose de 350 kg ha<sup>-1</sup>.</p>
+<ul>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Quantos gramas de adubo devem cair por metro linear?</strong></span></p></li>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Quantos kg de adubo devem ser coletados por linha em um percurso de 100 m?</strong></span></p></li>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Quais são as doses de N, P<sub>2</sub>O<sub>5</sub> e K<sub>2</sub>O (kg ha<sup>-1</sup>)?</strong></span></p></li>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Quantos sacos de 50 kg serão necessários para toda a área?</strong></span></p></li>
+</ul>
+</div>
+<aside class="notes">
+<p>Gabarito: 28 g/m; 2,8 kg por linha em 100 m; N = 28, P<sub>2</sub>O<sub>5</sub> = 98, K<sub>2</sub>O = 56 kg/ha; 17.500 kg = 350 sacos.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="teste-10" class="slide level2">
+<h2>Teste 10</h2>
+<hr>
+<div class="cell">
+<div class="cell-output-display">
+<countdown-timer class="countdown" id="timer_2a550db7" minutes="12" seconds="0" update-every="1" tabindex="0" style="top:0;right:0;--countdown-margin:0%;--countdown-padding:5px;"></countdown-timer>
+</div>
+</div>
+<div class="fragment" style="font-size:22px">
+<p>14 - Um agricultor vai semear trigo em 40 ha com uma semeadora de largura de trabalho de 3,0 m, a 6 km h<sup>-1</sup>. Pelas anotações da safra anterior, além do tempo efetivo de semeadura, a operação teve 3 h de manobras, 2 h de abastecimento e 1 h de paradas diversas (regulagens e pequenos reparos).</p>
+<ul>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Qual é a capacidade de campo teórica?</strong></span></p></li>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Qual é o tempo efetivo necessário para semear os 40 ha?</strong></span></p></li>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Qual é o tempo total da operação, a capacidade de campo efetiva e a eficiência de campo?</strong></span></p></li>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Se a eficiência fosse reduzida em 10 pontos percentuais por falta de planejamento, quanto tempo a mais seria gasto?</strong></span></p></li>
+</ul>
+</div>
+<aside class="notes">
+<p>Gabarito: CCT = 1,8 ha/h; tempo efetivo ~22,2 h; tempo total ~28,2 h; CCE ~1,42 ha/h; eficiência ~78,7%.</p>
+<p>Para a última pergunta: nova eficiência ~68,7%, CCE ~1,24 ha/h, tempo total ~32,3 h (~4,1 h a mais).</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="teste-11" class="slide level2">
+<h2>Teste 11</h2>
+<hr>
+<div class="cell">
+<div class="cell-output-display">
+<countdown-timer class="countdown" id="timer_56320f53" minutes="12" seconds="0" update-every="1" tabindex="0" style="top:0;right:0;--countdown-margin:0%;--countdown-padding:5px;"></countdown-timer>
+</div>
+</div>
+<div class="fragment" style="font-size:22px">
+<p>15 - Um produtor semeia feijão com dose de 60 kg ha<sup>-1</sup> e espaçamento de 0,5 m. A semente tem PMS de 250 g, pureza de 98%, germinação de 90% e sobrevivência de 95%.</p>
+<ul>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Quantas sementes por hectare e por metro linear estão sendo depositadas?</strong></span></p></li>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Qual será a população final de plantas (plantas ha<sup>-1</sup> e plantas m<sup>-1</sup>)?</strong></span></p></li>
+<li class="fragment"><p><span class="fg" style="--col: #e64173"><strong>Se o espaçamento for reduzido para 0,45 m e o produtor quiser manter o mesmo número de sementes por metro, qual será a nova dose (kg ha<sup>-1</sup>)?</strong></span></p></li>
+</ul>
+</div>
+<aside class="notes">
+<p>Gabarito: 235.200 sementes/ha (11,76 sementes/m); ~201.100 plantas/ha (~10,05 plantas/m); nova dose ~66,7 kg/ha.</p>
+<p>Dica: o PMS é a massa de 1000 sementes, e a pureza reduz a quantidade de sementes viáveis no peso.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+<!-- 
+## Teste 12
+<hr>
+
+
+::: {.cell}
+::: {.cell-output-display}
+
+```{=html}
+<countdown-timer class="countdown" id="timer_95994301" minutes="15" seconds="0" update-every="1" tabindex="0" style="top:0;right:0;--countdown-margin:0%;--countdown-padding:5px;"></countdown-timer>
+```
+
+:::
+:::
+
+
+::: { .fragment style="font-size:22px"}
+
+16 - A roda motriz de uma semeadora de milho tem perímetro de 1,80 m. O disco dosador possui 36 furos e a transmissão tem dois pares de engrenagens em série (A → B e C → D). Deseja-se distribuir 5 sementes por metro linear. As engrenagens disponíveis possuem 12, 16, 18, 24, 32, 36 e 48 dentes.
+
+::: {.incremental}
+
+- [__Quantas sementes devem cair a cada volta da roda?__]{.fg style="--col: #e64173"}
+
+- [__Quantas voltas o disco deve dar a cada volta da roda? Qual é a relação de transmissão necessária?__]{.fg style="--col: #e64173"}
+
+- [__Quais engrenagens A, B, C e D podem ser utilizadas?__]{.fg style="--col: #e64173"}
+
+- [__Se a patinagem for de 5%, qual será o número real de sementes por metro?__]{.fg style="--col: #e64173"}
+
+:::
+
+:::
+
+::: {.notes}
+
+Gabarito: 9 sementes por volta; 9/36 = 0,25 volta do disco por volta da roda (relação 1:4); exemplo: A = 12 e B = 24, C = 16 e D = 32 (0,5 * 0,5 = 0,25). Outra combinação possível: A = 16 e B = 32, C = 18 e D = 36 (também 0,5 * 0,5); com patinagem de 5%: 9 / (1,80 * 0,95) = ~5,26 sementes/m.
+
+Dica: relação total = produto das relações de cada par (dentes da motora / dentes da movida).
+
+:::
+
+
+## Teste 13
+<hr>
+
+
+::: {.cell}
+::: {.cell-output-display}
+
+```{=html}
+<countdown-timer class="countdown" id="timer_db002a0b" minutes="12" seconds="0" update-every="1" tabindex="0" style="top:0;right:0;--countdown-margin:0%;--countdown-padding:5px;"></countdown-timer>
+```
+
+:::
+:::
+
+
+::: { .fragment style="font-size:22px"}
+
+17 - Um produtor vai semear 25 ha de soja com dose de 60 kg ha^-1^. As sementes serão tratadas com: fungicida (200 mL por 100 kg de sementes), inoculante (100 mL por 50 kg) e polímero (100 mL por 100 kg). Preços: fungicida R$ 120,00 L^-1^; inoculante R$ 40,00 L^-1^; polímero R$ 30,00 L^-1^; sementes R$ 280,00 por saco de 40 kg.
+
+::: {.incremental}
+
+- [__Quantos kg de sementes serão necessários e quantos sacos inteiros ele deve comprar?__]{.fg style="--col: #e64173"}
+
+- [__Quais são os volumes (L) de cada produto de tratamento e o volume total de calda?__]{.fg style="--col: #e64173"}
+
+- [__Qual é o custo total (R$) e o custo por hectare de sementes mais tratamento?__]{.fg style="--col: #e64173"}
+
+:::
+
+:::
+
+::: {.notes}
+
+Gabarito: 1.500 kg = 37,5 sacos, ou seja, 38 sacos; fungicida 3 L, inoculante 3 L, polímero 1,5 L (total 7,5 L); sementes R$ 10.640,00 + tratamento R$ 525,00 = R$ 11.165,00; ~R$ 446,60 por hectare.
+
+Obs.: o custo foi calculado com os 38 sacos comprados, mas o tratamento foi calculado para 1.500 kg.
+
+:::
+
+
+## Teste 14
+<hr>
+
+
+::: {.cell}
+::: {.cell-output-display}
+
+```{=html}
+<countdown-timer class="countdown" id="timer_ec821c1a" minutes="12" seconds="0" update-every="1" tabindex="0" style="top:0;right:0;--countdown-margin:0%;--countdown-padding:5px;"></countdown-timer>
+```
+
+:::
+:::
+
+
+::: { .fragment style="font-size:22px"}
+
+18 - Em uma semeadora de milho regulada para 3,2 sementes por metro linear (espaçamento entre linhas de 0,8 m), avaliou-se a distribuição longitudinal medindo 100 espaçamentos entre sementes consecutivas. Considere como normais os espaçamentos entre 0,5 e 1,5 vez o espaçamento de referência, como duplos os menores que 0,5 vez e como falhos os maiores que 1,5 vez. Foram encontrados: 8 duplos, 84 normais e 8 falhos.
+
+::: {.incremental}
+
+- [__Qual é o espaçamento de referência entre sementes (m)? Quais são os limites (m) para classificar os espaçamentos em duplos e falhos?__]{.fg style="--col: #e64173"}
+
+- [__Quais são as porcentagens de espaçamentos normais, duplos e falhos?__]{.fg style="--col: #e64173"}
+
+- [__Qual é a população de sementes por hectare programada para essa regulagem?__]{.fg style="--col: #e64173"}
+
+- [__O que pode estar causando o excesso de espaçamentos duplos e falhos e como corrigir?__]{.fg style="--col: #e64173"}
+
+:::
+
+:::
+
+::: {.notes}
+
+Gabarito: referência = 1/3,2 = 0,3125 m; duplos < 0,156 m; falhos > 0,469 m; 84% normais, 8% duplos, 8% falhos; 3,2 / 0,8 * 10000 = 40.000 sementes/ha.
+
+Discussão: velocidade excessiva, disco inadequado para o tamanho da semente, desgaste do dosador, vibração, profundidade irregular, entre outros.
+
+:::
+
+
+
+## Teste 15
+<hr>
+
+
+::: {.cell}
+::: {.cell-output-display}
+
+```{=html}
+<countdown-timer class="countdown" id="timer_14ff6496" minutes="12" seconds="0" update-every="1" tabindex="0" style="top:0;right:0;--countdown-margin:0%;--countdown-padding:5px;"></countdown-timer>
+```
+
+:::
+:::
+
+
+::: { .fragment style="font-size:22px"}
+
+19 - Cultivo de soja com um conjunto trator-semeadora cuja roda motriz tem perímetro de 2,26 m. A transmissão é composta por dois pares de engrenagens em série: o primeiro par tem engrenagem motora de 14 dentes e movida de 19 dentes; o segundo par é fixo, com relação de 1:2 (o disco gira metade do que gira o eixo intermediário). O disco dosador possui 92 furos e a semente utilizada tem vigor de 88%. A recomendação é de 13,5 plantas viáveis por metro, com espaçamento de 45 cm.
+
+::: {.incremental}
+
+- [__Qual é a relação de transmissão total do conjunto?__]{.fg style="--col: #e64173"}
+
+- [__Quantas sementes por metro estão sendo depositadas?__]{.fg style="--col: #e64173"}
+
+- [__Quantas plantas viáveis por metro e por hectare se espera obter? Isso atende à recomendação?__]{.fg style="--col: #e64173"}
+
+- [__Quantas sementes por metro deveriam ser depositadas para atingir as 13,5 plantas viáveis por metro?__]{.fg style="--col: #e64173"}
+
+:::
+
+:::
+
+::: {.notes}
+
+Gabarito: relação total = 14/19 * 1/2 = 0,368; sementes/m = 92 * 0,368 / 2,26 = ~15,0; plantas viáveis = 15 * 0,88 = 13,2 por metro, ou ~293.300 plantas/ha (10000 / 0,45 = 22.222 m de linha por ha); a recomendação (13,5/m = 300.000 plantas/ha) não é atendida (~2,2% abaixo); necessárias 13,5 / 0,88 = ~15,34 sementes/m.
+
+Dica: plantas viáveis = sementes depositadas * vigor.
+
+:::
+
+
+## Teste 16
+<hr>
+
+
+::: {.cell}
+::: {.cell-output-display}
+
+```{=html}
+<countdown-timer class="countdown" id="timer_5bceea7c" minutes="15" seconds="0" update-every="1" tabindex="0" style="top:0;right:0;--countdown-margin:0%;--countdown-padding:5px;"></countdown-timer>
+```
+
+:::
+:::
+
+
+::: { .fragment style="font-size:22px"}
+
+20 - Continuando a situação anterior (roda motriz com perímetro de 2,26 m, segundo par de engrenagens fixo com relação de 1:2, vigor de 88%, espaçamento de 45 cm e recomendação de 13,5 plantas viáveis por metro), o agrônomo decidiu trocar o disco de 92 furos por um disco de 62 furos, mais adequado ao tamanho da semente. Para isso, será preciso trocar o primeiro par de engrenagens (motora A e movida B). Estão disponíveis engrenagens de 14, 15, 16, 17, 18, 19, 20, 21 e 22 dentes.
+
+::: {.incremental}
+
+- [__Qual é a relação de transmissão total necessária com o disco de 62 furos?__]{.fg style="--col: #e64173"}
+
+- [__Qual deve ser a relação do primeiro par (A/B)?__]{.fg style="--col: #e64173"}
+
+- [__Quais engrenagens A e B, dentre as disponíveis, resultam na melhor aproximação?__]{.fg style="--col: #e64173"}
+
+- [__Com as engrenagens escolhidas, quantas sementes por metro e quantas plantas viáveis por metro serão obtidas? Qual é a acurácia em relação à recomendação?__]{.fg style="--col: #e64173"}
+
+:::
+
+:::
+
+::: {.notes}
+
+Gabarito: sementes/m necessárias = 13,5 / 0,88 = 15,34; relação total = 15,34 * 2,26 / 62 = ~0,559; relação do primeiro par = 0,559 / 0,5 = ~1,118 (aumento de velocidade, ou seja, A tem mais dentes que B); melhor combinação: A = 19 e B = 17 (19/17 = 1,1176); com ela: relação total = 0,5588; sementes/m = 62 * 0,5588 / 2,26 = ~15,33; plantas viáveis = ~13,49/m; acurácia ~99,9%.
+
+Para comparar: A = 20 e B = 18 (1,111) resulta em ~15,24 sementes/m e ~13,41 plantas/m (acurácia ~99,3%).
+
+Dica: relação total = (A/B) * relação do par fixo; sementes/m = furos * relação total / perímetro da roda.
+
+::: -->
+</section></section>
+<section id="fim" class="title-slide slide level1 center">
+<h1>Fim!</h1>
+<hr>
+
+
+</section>
+    </div>
+  <div class="quarto-auto-generated-content" style="display: none;">
+<p><img src="logo.png" class="slide-logo"></p>
+<div class="footer footer-default">
+
+</div>
+</div></div>
+
+  <script>window.backupDefine = window.define; window.define = undefined;</script>
+  <script src="../site_libs/revealjs/dist/reveal.js"></script>
+  <!-- reveal.js plugins -->
+  <script src="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="../site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
+  <script src="../site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="../site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="../site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="../site_libs/revealjs/plugin/math/math.js"></script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+'controlsAuto': true,
+'previewLinksAuto': false,
+'pdfSeparateFragments': false,
+'autoAnimateEasing': "ease",
+'autoAnimateDuration': 1,
+'autoAnimateUnmatched': true,
+'jumpToSlide': true,
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
+'smaller': false,
+ 
+        // Display controls in the bottom right corner
+        controls: false,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: false,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'edges',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: 'c/t',
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: true,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: false,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'linear',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: false,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'none',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'none',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 1050,
+
+        height: 700,
+
+        // Factor of the display size that should remain empty around the content
+        margin: 0.1,
+
+        math: {
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // reveal.js plugins
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, QuartoSupport,
+
+          RevealMath,
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    
+
+    <script>
+
+      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
+
+      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
+
+      // slide changes (different for each slide format).
+
+      (function () {
+
+        // dispatch for htmlwidgets
+
+        function fireSlideEnter() {
+
+          const event = window.document.createEvent("Event");
+
+          event.initEvent("slideenter", true, true);
+
+          window.document.dispatchEvent(event);
+
+        }
+
+    
+
+        function fireSlideChanged(previousSlide, currentSlide) {
+
+          fireSlideEnter();
+
+    
+
+          // dispatch for shiny
+
+          if (window.jQuery) {
+
+            if (previousSlide) {
+
+              window.jQuery(previousSlide).trigger("hidden");
+
+            }
+
+            if (currentSlide) {
+
+              window.jQuery(currentSlide).trigger("shown");
+
+            }
+
+          }
+
+        }
+
+    
+
+        // hookup for slidy
+
+        if (window.w3c_slidy) {
+
+          window.w3c_slidy.add_observer(function (slide_num) {
+
+            // slide_num starts at position 1
+
+            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
+
+          });
+
+        }
+
+    
+
+      })();
+
+    </script>
+
+    
+
+    <script id="quarto-html-after-body" type="application/javascript">
+      window.document.addEventListener("DOMContentLoaded", function (event) {
+        const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+        tabsets.forEach(function(tabset) {
+          const tabby = new Tabby('#' + tabset.id);
+        });
+        const isCodeAnnotation = (el) => {
+          for (const clz of el.classList) {
+            if (clz.startsWith('code-annotation-')) {                     
+              return true;
+            }
+          }
+          return false;
+        }
+        const onCopySuccess = function(e) {
+          // button target
+          const button = e.trigger;
+          // don't keep focus
+          button.blur();
+          // flash "checked"
+          button.classList.add('code-copy-button-checked');
+          var currentTitle = button.getAttribute("title");
+          button.setAttribute("title", "Copiada");
+          let tooltip;
+          if (window.bootstrap) {
+            button.setAttribute("data-bs-toggle", "tooltip");
+            button.setAttribute("data-bs-placement", "left");
+            button.setAttribute("data-bs-title", "Copiada");
+            tooltip = new bootstrap.Tooltip(button, 
+              { trigger: "manual", 
+                customClass: "code-copy-button-tooltip",
+                offset: [0, -8]});
+            tooltip.show();    
+          }
+          setTimeout(function() {
+            if (tooltip) {
+              tooltip.hide();
+              button.removeAttribute("data-bs-title");
+              button.removeAttribute("data-bs-toggle");
+              button.removeAttribute("data-bs-placement");
+            }
+            button.setAttribute("title", currentTitle);
+            button.classList.remove('code-copy-button-checked');
+          }, 1000);
+          // clear code selection
+          e.clearSelection();
+        }
+        const getTextToCopy = function(trigger) {
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+        }
+        const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+          text: getTextToCopy
+        });
+        clipboard.on('success', onCopySuccess);
+        if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+          const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+            text: getTextToCopy,
+            container: window.document.getElementById('quarto-embedded-source-code-modal')
+          });
+          clipboardModal.on('success', onCopySuccess);
+        }
+          var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+          var mailtoRegex = new RegExp(/^mailto:/);
+            var filterRegex = new RegExp('/' + window.location.host + '/');
+          var isInternal = (href) => {
+              return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+          }
+          // Inspect non-navigation links and adorn them if external
+         var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+          for (var i=0; i<links.length; i++) {
+            const link = links[i];
+            if (!isInternal(link.href)) {
+              // undo the damage that might have been done by quarto-nav.js in the case of
+              // links that we want to consider external
+              if (link.dataset.originalHref !== undefined) {
+                link.href = link.dataset.originalHref;
+              }
+            }
+          }
+        function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+          const config = {
+            allowHTML: true,
+            maxWidth: 500,
+            delay: 100,
+            arrow: false,
+            appendTo: function(el) {
+                return el.closest('section.slide') || el.parentElement;
+            },
+            interactive: true,
+            interactiveBorder: 10,
+            theme: 'light-border',
+            placement: 'bottom-start',
+          };
+          if (contentFn) {
+            config.content = contentFn;
+          }
+          if (onTriggerFn) {
+            config.onTrigger = onTriggerFn;
+          }
+          if (onUntriggerFn) {
+            config.onUntrigger = onUntriggerFn;
+          }
+            config['offset'] = [0,0];
+            config['maxWidth'] = 700;
+          window.tippy(el, config); 
+        }
+        const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+        for (var i=0; i<noterefs.length; i++) {
+          const ref = noterefs[i];
+          tippyHover(ref, function() {
+            // use id or data attribute instead here
+            let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+            try { href = new URL(href).hash; } catch {}
+            const id = href.replace(/^#\/?/, "");
+            const note = window.document.getElementById(id);
+            if (note) {
+              return note.innerHTML;
+            } else {
+              return "";
+            }
+          });
+        }
+        const findCites = (el) => {
+          const parentEl = el.parentElement;
+          if (parentEl) {
+            const cites = parentEl.dataset.cites;
+            if (cites) {
+              return {
+                el,
+                cites: cites.split(' ')
+              };
+            } else {
+              return findCites(el.parentElement)
+            }
+          } else {
+            return undefined;
+          }
+        };
+        var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+        for (var i=0; i<bibliorefs.length; i++) {
+          const ref = bibliorefs[i];
+          const citeInfo = findCites(ref);
+          if (citeInfo) {
+            tippyHover(citeInfo.el, function() {
+              var popup = window.document.createElement('div');
+              citeInfo.cites.forEach(function(cite) {
+                var citeDiv = window.document.createElement('div');
+                citeDiv.classList.add('hanging-indent');
+                citeDiv.classList.add('csl-entry');
+                var biblioDiv = window.document.getElementById('ref-' + cite);
+                if (biblioDiv) {
+                  citeDiv.innerHTML = biblioDiv.innerHTML;
+                }
+                popup.appendChild(citeDiv);
+              });
+              return popup.innerHTML;
+            });
+          }
+        }
+      });
+      </script>
+    
+
+</body></html>

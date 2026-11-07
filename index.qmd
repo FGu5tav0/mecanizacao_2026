@@ -78,6 +78,14 @@ format:
         <div class="card-desc"></div>
       </a>
 
+      <a class="card"
+         onclick="carregarAula('aula_8_2/aula_8_2.html', this)"
+         href="#">
+        <div class="card-num">Aula 8_2</div>
+        <div class="card-title">Exercícios semeadura</div>
+        <div class="card-desc"></div>
+      </a>
+
 
       <a class="card em-breve" href="#">
         <div class="card-num">Aula 7</div>

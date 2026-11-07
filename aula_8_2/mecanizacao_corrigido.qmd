@@ -1,0 +1,577 @@
+---
+title: "Mecanização agrícola:"
+subtitle: Cálculos de densidade de semeadura e regulagens
+format: clean-revealjs
+institute: Instituto Federal do Paraná <br> Curso Superior em Engenharia Agronômica
+author:
+  - name: Gustavo Frosi
+    # orcid: 0000-0000-0000-0000
+    email: gustavofrosi@hotmail.com
+    # affiliations: UFRGS
+filters:
+  - timeline
+  - shinylive
+  # - move-abs-elems
+title-slide-attributes:
+  data-background-image: fundo.jpg
+  data-background-size: 40%
+  data-background-opacity: "0.9"
+  data-background-position: right 3% top 58%
+logo: logo.png
+image: true
+date: "10-30-2026"
+date-format: long
+lang: pt-BR
+css: stilo.css
+include-in-header: 
+  - text: |
+      <script>
+      document.addEventListener('contextmenu', event => event.preventDefault());
+      document.addEventListener('copy', event => event.preventDefault());
+      document.addEventListener('cut', event => event.preventDefault());
+      </script>
+---
+
+## Exercícios
+<hr>
+
+```{r}
+library(countdown)
+
+countdown(
+  minutes = 5,
+  seconds = 0,
+  right = 0,
+  top = 0,
+  padding = "5px",
+  margin = "0%",
+)
+```
+
+1 - Cultivo de trigo: quero uma população de **3500000 plantas ha^-1^**, com espaçamento entre linhas de **17 cm**, PMS de **44 g** e germinação de **93%**.
+Qual a quantidade de sementes (kg) que devo largar por metro? Qual a quantidade de sementes (kg) por hectare?
+
+
+
+
+::: {.fragment}
+
+Resultado:
+
+::: {.columns style="font-size:22px"}
+
+::: {.column}
+
+::: {.fragment}
+
+
+$$
+Q_{metro}= (\frac{100}{0,17})*100 = 58823.53~m~(lineares)
+$$
+
+:::
+
+::: {.fragment}
+
+$$
+Pop = \frac{ 3500000}{0.93}= 3763441~plantas~ha^{-1}
+$$
+
+:::
+
+:::
+
+::: {.column}
+
+
+::: {.fragment}
+
+$$
+NS = \frac{3763441}{58823.53} = 63.9785~plantas~m^{-1}
+$$
+
+:::
+
+
+::: {.fragment}
+
+$$
+NS_{peso}= \frac{63.9785~plantas~m^{-1} * 44~g}{1000} = 2.82~g~m^{-1}
+$$
+
+:::
+
+
+::: {.fragment}
+
+$$
+Peso_{total}= \frac{3763441 * 44~g}{1000} = \frac{ 165591.4}{1000} = 165.59~kg~ha^{-1}
+$$
+
+:::
+
+
+:::
+
+:::
+
+:::
+
+
+## Exercícios
+<hr>
+
+```{r}
+library(countdown)
+
+countdown(
+  minutes = 5,
+  seconds = 0,
+  right = 0,
+  top = 0,
+  padding = "5px",
+  margin = "0%",
+)
+```
+
+2 - Cultivo de milho: quero uma população de **80000 plantas ha^-1^**, com espaçamento entre linhas de **45 cm** e germinação de **95%**.
+Qual a quantidade de sementes que devo largar por metro? Qual a quantidade de sementes por hectare?
+
+
+
+
+::: {.fragment}
+
+Resultado:
+
+::: {.columns style="font-size:22px"}
+
+::: {.column}
+
+::: {.fragment}
+
+
+$$
+Q_{metro}= (\frac{100}{0.45})*100 = 22222.22~m~(lineares)
+$$
+
+:::
+
+::: {.fragment}
+
+$$
+Pop = \frac{80000}{0.95}= 84210.53~plantas~ha^{-1}
+$$
+
+:::
+
+:::
+
+::: {.column}
+
+
+::: {.fragment}
+
+$$
+NS = \frac{84210.53}{22222.22} = 3.789~plantas~m^{-1}
+$$
+
+:::
+
+:::
+
+:::
+
+:::
+
+
+
+## Exercícios
+<hr>
+
+```{r}
+library(countdown)
+
+countdown(
+  minutes = 5,
+  seconds = 0,
+  right = 0,
+  top = 0,
+  padding = "5px",
+  margin = "0%",
+)
+```
+
+3 - Cultivo de soja: quero uma população de **300000 plantas ha^-1^**, com espaçamento entre linhas de **45 cm**, germinação de **98%** e pureza de **99%**.
+Qual a quantidade de sementes que devo largar por metro? Qual a quantidade de sementes por hectare?
+
+
+
+
+::: {.fragment}
+
+Resultado:
+
+::: {.columns style="font-size:22px"}
+
+::: {.column}
+
+::: {.fragment}
+
+
+$$
+Q_{metro}= (\frac{100}{0.45})*100 = 22222.22~m~(lineares)
+$$
+
+:::
+
+::: {.fragment}
+
+$$
+Pop_{G} = \frac{300000}{0.98}= 306122.4~plantas~ha^{-1}
+$$
+
+:::
+
+
+::: {.fragment}
+
+$$
+Pop_{P} = \frac{306122.4}{0.99}= 309214.5~plantas~ha^{-1}
+$$
+:::
+
+
+:::
+
+::: {.column}
+
+
+::: {.fragment}
+
+$$
+NS = \frac{309214.5}{22222.22} = 13.914~plantas~m^{-1}
+$$
+
+:::
+
+:::
+
+:::
+
+:::
+
+
+## Exercícios
+<hr>
+
+```{r}
+library(countdown)
+
+countdown(
+  minutes = 5,
+  seconds = 0,
+  right = 0,
+  top = 0,
+  padding = "5px",
+  margin = "0%",
+)
+```
+
+4 - Cultivo de soja: 
+
+::: {style="font-size:22px"}
+Temos um conjunto (trator-semeadora) com engrenagem motora de 14 dentes e engrenagem movida de 19 dentes. A deposição de sementes é de 15 sementes m^-1^, com disco de 92 furos. A semente utilizada possui vigor de 88%.
+
+::: {.fragment}
+
+A recomendação é que tenhamos 13,5 plantas viáveis a cada metro, com espaçamento de 45 cm, usando um disco de 62 furos.
+
+:::
+
+:::
+
+::: {.fragment style="font-size:22px"}
+
+Resultado:
+
+
+::: {.fragment}
+
+
+$$
+S_{metro}= (\frac{13.5}{0.88}) = 15.34~sementes~m^{-1}
+$$
+
+:::
+
+::: {.fragment}
+
+Discos:
+
+$$
+\frac{92~furos}{62~furos} = \frac{15~sementes}{x} \quad\Rightarrow\quad x = \frac{62 \cdot 15.34}{92} = 10.1087~sementes~m^{-1}
+$$
+
+:::
+
+:::
+
+
+
+## Exercícios
+<hr>
+
+```{r}
+library(countdown)
+
+countdown(
+  minutes = 5,
+  seconds = 0,
+  right = 0,
+  top = 0,
+  padding = "5px",
+  margin = "0%",
+)
+```
+
+4 - Cultivo de soja: 
+
+::: {style="font-size:22px"}
+Temos um conjunto (trator-semeadora) com engrenagem motora de 14 dentes e engrenagem movida de 19 dentes. A deposição de sementes é de 15 sementes m^-1^, com disco de 92 furos. A semente utilizada possui vigor de 88%.
+
+A recomendação é que tenhamos 13,5 plantas viáveis a cada metro, com espaçamento de 45 cm, usando um disco de 62 furos.
+
+:::
+
+::: {.fragment style="font-size:22px"}
+
+Resultado:
+
+::: {.fragment}
+
+Relação de engrenagens:
+
+$14/19 = 0,7368$
+
+$$
+\frac{0.7368}{x} = \frac{10.1087~sementes}{15.34~sementes} \quad\Rightarrow\quad x = \frac{0.7368 \cdot 15.34}{10.1087} = 1.118
+$$
+:::
+
+::: {.fragment}
+
+$$
+Pop = 13.5 * 22222.22 = 340888.85~plantas~ha^{-1}
+$$
+
+:::
+
+:::
+
+## Relações de engrenagens
+
+```{r}
+#| echo: false
+#| fig-width: 11
+#| fig-height: 8
+#| out-width: 100%
+#| fig-align: center
+
+library(ggplot2)
+library(dplyr)
+
+dentes <- 6:25
+
+dados <- expand.grid(motora = dentes, movida = dentes) |>
+  mutate(
+    relacao = movida / motora
+    # inteira = relacao == round(relacao) & relacao != 1
+  )
+
+ggplot(dados, aes(factor(movida), factor(motora), fill = log2(relacao))) +
+  geom_tile(color = "white", linewidth = 0.5) +
+  # contorno nos pares com relação inteira
+  # geom_tile(
+  #   data = filter(dados, inteira),
+  #   fill = NA,
+  #   color = "grey10",
+  #   linewidth = 0.9
+  # ) +
+  geom_text(
+    aes(label = sprintf("%.2f", relacao)),
+    size = 2.8,
+    color = "grey15"
+  ) +
+  scale_fill_gradient2(
+    low = "#2c7bb6",
+    mid = "white",
+    high = "#d7191c",
+    midpoint = 0,
+    limits = c(-2.1, 2.1),
+    breaks = c(-2, -1, 0, 1, 2),
+    labels = c("0,25×", "0,5×", "1×", "2×", "4×"),
+    name = "Relação\n(motora÷movida  )"
+  ) +
+  scale_x_discrete(position = "top") +
+  scale_y_discrete(limits = rev) +
+  coord_fixed() +
+  labs(
+    # title = "Relação de engrenagens de 6 a 25 dentes",
+    # subtitle = "Contorno preto: relações inteiras (2:1, 3:1, 4:1)",
+    y = "Dentes da engrenagem movida",
+    x = "Dentes da engrenagem motora"
+  ) +
+  theme_minimal(base_size = 16) +
+  theme(
+    panel.grid = element_blank(),
+    plot.title = element_text(face = "bold", size = 22),
+    plot.subtitle = element_text(color = "grey40"),
+    axis.title = element_text(color = "grey30"),
+    legend.position = "right",
+    plot.margin = margin(10, 10, 10, 10)
+  )
+```
+
+
+
+## Exercícios
+<hr>
+
+```{r}
+library(countdown)
+
+countdown(
+  minutes = 5,
+  seconds = 0,
+  right = 0,
+  top = 0,
+  padding = "5px",
+  margin = "0%",
+)
+```
+
+
+
+
+4 - Cultivo de soja: 
+
+
+::: {.columns style="font-size:22px"}
+
+::: {.column width="70%"}
+
+Agora, o conjunto já está regulado para distribuir 15,34 sementes m^-1^, considerando todas as configurações de disco, espaçamento e vigor. No entanto, queremos saber se a operação está sendo bem conduzida. Para isso, 5 amostras foram coletadas durante a operação para verificar se a quantidade de sementes depositada corresponde à regulada.
+
+:::
+
+::: {.column  width="30%"}
+
+| Distância | Sementes | Distância entre sementes 
+|:----------:|:----------:|:----------:|
+| 100 cm         | 13     |      7,69 cm      |
+| 100 cm         | 14,2   |      7,04 cm  |
+| 100 cm         | 15,2   |      6,58 cm    |
+| 100 cm         | 15     |     6,67 cm     |
+| 100 cm         | 15,3   |      6,53 cm    |
+
+
+:::
+
+:::
+
+
+::: {.columns style="font-size:22px"}
+
+::: {.column}
+
+::: {.fragment }
+
+Sementes por metro:
+
+$$
+\bar{x} = \frac{13 + 14{,}2 + 15{,}2 + 15 + 15{,}3}{5}
+= 14{,}54
+$$
+
+$$
+s = \sqrt{\frac{\sum_{i=1}^{n}(x_i-\bar{x})^2}{n-1}}
+= 0{,}96
+$$
+
+$$
+CV = \frac{s}{\bar{x}} \times 100
+= \frac{0{,}9633}{14{,}54} \times 100
+= 6{,}63\%
+$$
+
+
+
+:::
+
+
+:::
+
+::: {.column}
+
+
+::: {.fragment style="font-size:22px"}
+
+E a distribuição dessas sementes nos 100 cm?
+
+
+
+:::
+
+:::
+
+:::
+
+
+
+## Exercícios
+<hr>
+
+```{r}
+library(countdown)
+
+countdown(
+  minutes = 5,
+  seconds = 0,
+  right = 0,
+  top = 0,
+  padding = "5px",
+  margin = "0%",
+)
+```
+
+
+
+
+4 - Cultivo de soja: 
+
+
+::: {.columns style="font-size:22px"}
+
+::: {.column width="70%"}
+
+Consideramos que a quantidade de sementes depositada a cada metro está dentro do aceitável em nosso exemplo. No entanto, agora queremos observar se a distribuição entre as sementes está boa. Para isso, mais 15 medidas de distância entre sementes foram coletadas. O ideal seria observar uma distância de 6,52 cm entre cada semente, mas observamos as seguintes medidas:
+
+:::
+
+::: {.column  width="30%"}
+
+- Amostra 1: 6,37; 6,25; 6,55; 6,50; 6,59.
+- Amostra 2: 6,40; 6,41; 6,43; 6,40; 6,43.
+- Amostra 3: 6,52; 6,50; 6,50; 6,51; 6,54.
+
+:::
+
+:::
+
+
+::: {.fragment}
+
+Qual é a média, o desvio-padrão e o CV da amostra ou de cada amostra?
+
+:::

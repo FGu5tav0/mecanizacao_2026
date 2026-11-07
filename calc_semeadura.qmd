@@ -1,0 +1,85 @@
+---
+title: "Cálculo de densidade de semeadura e de regulagem de semeadora"
+# subtitle: "Potência em Movimento Giratório e Transmissão de Potência em Mecanização Agrícola"
+lang: pt
+format:
+  typst:
+    papersize: a4
+    margin:
+      x: 2.2cm
+      y: 2cm
+    fontsize: 9pt
+    section-numbering: "1.5"
+    mainfont: "Liberation Sans"
+    columns: 1
+---
+
+# Densidade de semeadura para sementes miúdas
+
+Para as sementes miúdas, utiliza-se o sistema de distribuição volumetrica. Isso significa que não temos controle unitário das sementes, mas sim vo volume ou da massa de sementes. Essa abordagem é destinada a sementes de culturas de inverno como trigo, cevada, centeio, triticale entre outras, além de demais sementes de tamanho pequeno.
+
+## Determinação do comprimento total de sulcos por hectare
+
+### Determinação de hectare
+
+Para determinar a distância total em sulcos devemos levar em conta a informação que 1 hectare são 10000 m^2^ ou uma área quadrada de 100 m x 100 m.
+
+$$
+hectare~(ha) = 100~m~*~ 100~m= 10000~m^2
+$$
+
+## Número de linhas em 1 hectare
+
+Com a área de 1 hectare podemos determinar quantas linhas (sulcos) são possíveis dentro de um espaçamento determinado.
+
+Para isso basta dividir um dos lados da área de 1 hectare (100 m) pelo espaçamento entre linhas determinado.
+
+$$
+n_{linha}= \frac{100~m}{E}
+$$
+
+
+
+- ***n~linha~*** = número de linhas em 1 hectare
+
+- ***E*** = Espaçamento entre linhas (m).
+
+- ***100 m*** = Primeira dimenssão do hectare (largura, m)
+
+## Comprimento de sulco
+
+Agora que temos o número total de linhas possíveis (sulcos), podemos multiplicar cada uma dessas linhas pela outro lado do hectare (100 m).
+
+$$
+C_{sulcos}= n_{linhas} * 100~m
+$$
+
+
+
+- ***C~sulcos~*** = É o comprimento total de sulcos (metros lineares totais, m).
+
+- ***100 m*** = Segunda dimenssão do hectare (comprimento da linha, m).
+
+## Quantidade de sementes por metro de sulco
+
+### Sementes a cada metro de sulco
+
+Para isso devemos apenas dividir a quantidade de sementes que queremos colocar no solo a cada hectare (kg) pela quantidade de sulcos (C~sulcos).
+
+$$
+S = \frac{Q}{C_{sulcos}}
+$$
+
+- ***S*** = Quantidade de sementes por metro de sulco ou metro linear (kg m^-1^).
+
+- ***Q*** = Quantidade de sementes por hectares (kg).
+
+- ***C~sulcos~*** = É o comprimento total de sulcos (metros lineares totais, m).
+
+
+
+
+
+
+
+

@@ -10,6 +10,12 @@ project:
     - aula_5/
     - aula_6/
     - aula_7/
+    - aula_8/
+    - aula_8_2/
+    - aula_9/
+    - aula_10/
+    - aula_11/
+    - aula_12/
 
 website:
   title: "mecanizacao"
