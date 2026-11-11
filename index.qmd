@@ -112,24 +112,25 @@ format:
          ===================================================== -->
 
     <h2 class="secao-titulo materiais-titulo">
-      Materiais complementares
+      Ecercícios e atividades
     </h2>
 
     <div class="materiais-grid">
 
       <!-- PDF -->
       <!-- PDF -->
-      <a class="material-card"
-         href="exer/formulas_mat.pdf"
+
+      <!-- <a class="material-card"
+         href="selecao_custo.pdf"
          download>
 
         <div class="material-icon">📝</div>
         <div class="material-info">
-          <div class="material-title">Fórmulas</div>
+          <div class="material-title">Seleção e custo operacional de máquinas agrícolas</div>
           <div class="material-desc">Documento em PDF</div>
         </div>
         <div class="material-tipo">PDF</div>
-      </a>
+      </a> -->
 
       <!-- TEXTO -->
 
@@ -146,13 +147,15 @@ format:
         </div>
         <div class="material-tipo">DOCX</div>
       </a>
+
+      
       <a class="material-card"
          href="aula_8_2/gabarito.pdf"
          download>
 
         <div class="material-icon">🫘</div>
         <div class="material-info">
-          <div class="material-title">Gabarito lista de questões semeadura e desempenho operacional</div>
+          <div class="material-title">Gabarito lista de questões semeadura e desempenho operacional (Aula 8.2)</div>
           <div class="material-desc">Documento em pdf</div>
         </div>
         <div class="material-tipo">PDF</div>
@@ -162,6 +165,59 @@ format:
 
   </div>
 
+
+    <h2 class="secao-titulo materiais-titulo">
+      Materiais complementares
+    </h2>
+
+    <div class="materiais-grid">
+
+      <!-- PDF -->
+      <!-- PDF -->
+      <a class="material-card"
+         href="exer/formulas_mat.pdf"
+         download>
+
+        <div class="material-icon">📝</div>
+        <div class="material-info">
+          <div class="material-title">Fórmulas potência, torque, rotação e engrenagens</div>
+          <div class="material-desc">Documento em PDF</div>
+        </div>
+        <div class="material-tipo">PDF</div>
+      </a>
+
+      <a class="material-card"
+         href="selecao_custo.pdf"
+         download>
+
+        <div class="material-icon">📝</div>
+        <div class="material-info">
+          <div class="material-title">Seleção e custo operacional de máquinas agrícolas (EMBRAPA)</div>
+          <div class="material-desc">Documento em PDF</div>
+        </div>
+        <div class="material-tipo">PDF</div>
+      </a>
+
+      <!-- TEXTO -->
+
+
+      <!-- ARQUIVO PARA DOWNLOAD -->
+      <!-- <a class="material-card"
+         href="exer/ex1.docx"
+         download>
+
+        <div class="material-icon">📝</div>
+        <div class="material-info">
+          <div class="material-title">Lista de exercícios 01</div>
+          <div class="material-desc">Documento em docx</div>
+        </div>
+        <div class="material-tipo">DOCX</div>
+      </a> -->
+
+    </div>
+
+  </div>
+  <br>
 
   <!-- =====================================================
        VIEWER
@@ -187,6 +243,10 @@ format:
     </iframe>
 
   </div>
+
+    <p class="secao-titulo materiais-titulo">
+     Aperte "F" para ter a aula em tela cheia
+    </p>
 
 </div>
 

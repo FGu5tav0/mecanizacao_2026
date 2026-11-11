@@ -1,0 +1,107 @@
+
+
+#let article(
+  title: none,
+  subtitle: none,
+  authors: none,
+  date: none,
+  abstract: none,
+  abstract-title: none,
+  cols: 1,
+  margin: (x: 1.25in, y: 1.25in),
+  paper: "us-letter",
+  lang: "en",
+  region: "US",
+  font: "linux libertine",
+  fontsize: 11pt,
+  title-size: 1.5em,
+  subtitle-size: 1.25em,
+  heading-family: "linux libertine",
+  heading-weight: "bold",
+  heading-style: "normal",
+  heading-color: black,
+  heading-line-height: 0.65em,
+  sectionnumbering: none,
+  toc: false,
+  toc_title: none,
+  toc_depth: none,
+  toc_indent: 1.5em,
+  doc,
+) = {
+  set page(
+    paper: paper,
+    margin: margin,
+    numbering: "1",
+  )
+  set par(justify: true)
+  set text(lang: lang,
+           region: region,
+           font: font,
+           size: fontsize)
+  set heading(numbering: sectionnumbering)
+  if title != none {
+    block(width: 100%, inset: (y: 1.2em))[
+      #set par(leading: 0.5em, justify: false)
+      #text(font: "Inter", weight: "bold", size: 26pt, fill: rgb("#0F766E"))[#title]
+      #if subtitle != none {
+        parbreak()
+        v(0.3em)
+        text(font: "Inter", size: 13pt, fill: luma(110))[#subtitle]
+      }
+    ]
+  }
+
+  if authors != none {
+    let count = authors.len()
+    let ncols = calc.min(count, 3)
+    grid(
+      columns: (auto,) * ncols, column-gutter: 2em,
+      row-gutter: 1.5em,
+      ..authors.map(author =>
+          align(left)[
+            #author.name \
+            #author.affiliation \
+            #author.email
+          ]
+      )
+    )
+  }
+
+  if date != none {
+    align(left)[#block(inset: 1em)[
+      #date
+    ]]
+  }
+
+  if abstract != none {
+    block(inset: 2em)[
+    #text(weight: "semibold")[#abstract-title] #h(1em) #abstract
+    ]
+  }
+
+  if toc {
+    let title = if toc_title == none {
+      auto
+    } else {
+      toc_title
+    }
+    block(above: 0em, below: 2em)[
+    #outline(
+      title: toc_title,
+      depth: toc_depth,
+      indent: toc_indent
+    );
+    ]
+  }
+
+  if cols == 1 {
+    doc
+  } else {
+    columns(cols, doc)
+  }
+}
+
+#set table(
+  inset: 6pt,
+  stroke: none
+)

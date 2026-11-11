@@ -1,0 +1,46 @@
+---
+title: "Como cálcular sementes, adubo e pulverizações?"
+# subtitle: "Questões sobre semeadura e desempenho operacional"
+author: "Gustavo Frosi"
+date: today
+date-format: "DD [de] MMMM [de] YYYY"
+lang: pt
+# abstract: |
+#   Aqui está descrito o passo a passo para realizar cada uma das questões desenvolvidas em sala.
+format:
+  typst:
+    papersize: a4
+    margin:
+      x: 2.5cm
+      top: 3cm
+      bottom: 2.5cm
+    mainfont: "Inter"
+    fontsize: 10.5pt
+    toc: true
+    toc-title: "Sumário"
+    toc-depth: 2
+    section-numbering: "1.1"
+    heading-family: "Inter"
+    heading-color: "#0F766E"
+    include-in-header: estilo.typ
+    template-partials:
+      - typst-template.typ
+---
+
+# Questão 1
+
+```{=typst}
+#v(0.4em)
+#destaque("Atenção", rgb("#D97706"))[Se for utilizada a capacidade de campo teórica, é sempre importante lembrar que ela não considera os tempos "perdidos", além do tempo gasto apenas na semeadura. Portanto, não é a mais adequada nesse caso, já que temos a capacidade de campo efetiva.]
+```
+
+Agora, usamos o PMS para encontrar o peso das sementes em 1 hectare:
+
+$$
+Peso_{1ha}= \frac{(289291*200)}{1000}= \frac{57858.2}{1000} = 57,858~kg
+$$
+
+
+
+
+{{< pagebreak >}}
